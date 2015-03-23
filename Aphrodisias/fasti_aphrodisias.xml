@@ -31,30 +31,55 @@
                   <floruit notBefore="1451" notAfter="1452">
                      1451–1452 C.E.
                   </floruit>
-                  <occupation>κόμης</occupation>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>governor</occupation>
+                  <occupation></occupation>
                   <listBibl>
                      <bibl></bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p1492</idno>
                </person>-->
                <person xml:id="fas001">
-                  <persName xml:lang="en">Q. Fabius Clodius Agrippianus Celsinus</persName> 
+                  <persName xml:lang="en">Q. Fabius Clodius Agrippianus Celsinus</persName>
                   <floruit notBefore="0249" notAfter="0250">
                      Late 249 – early 250
                   </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
                   <occupation>governor</occupation>
                   <occupation>clarissimus consularis</occupation>
                   <occupation>egregius</occupation>
                   <listBibl>
                      <bibl>SEG 46.1195</bibl>
                      <bibl>I.Iasos, 18</bibl>
-                     <relation/>
                   </listBibl>
                   <idno type="PLRE">PLRE I, Clodius Cels(inus)</idno>
                 </person>
+               <person xml:id="fas002">
+                  <persName xml:lang="grc">Μᾶρκος Αὐρήλιος Διογένης</persName> 
+                  <persName xml:lang="en">Marcus Aurelius Diogenes</persName>
+                  <floruit notBefore="0255" notAfter="0255">
+                     255
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>governor</occupation>
+                  <occupation>clarissimus</occupation>
+                  <occupation>πρεσβευτὴς Σεβαστῶν ἀντιστράτηγος</occupation>
+                  <occupation>ἡγέμων</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla005.html</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla006.html</bibl>
+                     <bibl>SEG 41.940</bibl>
+                  </listBibl>
+               </person>
             </listPerson>
          </particDesc>
       </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2015-03-23" who="#av">added revisionDesc</change>
+         </listChange>
+      </revisionDesc>
    </teiHeader>
    <text>
       <body>
