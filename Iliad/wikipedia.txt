@@ -1,0 +1,138 @@
+<person xml:id="Agamemnon">
+<idno type="wikipedia">http://en.wikipedia.org/wiki/Agamemnon</idno>
+<persName xml:lang="en">Agamemnon</persName>
+<persName xml:lang="grc">Ἀγαμέμνων</persName>
+<occupation>King</occupation>
+<residence ref="http://pleiades.stoa.org/places/570491">Mycenae</residence>
+<bibl>
+<relation name="snap:BrotherOf" active="#Agamemnon"
+ passive="http://en.wikipedia.org/wiki/Menelaus_(king)"><desc>elder brother of King Menelaus</desc></relation>
+</bibl>
+</person>
+
+<person xml:id="Ajax"><idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_(mythology)</idno>
+<persName xml:lang="en">Ajax</persName>
+<persName xml:lang="en">Aias</persName>
+<persName xml:lang="en">Telamonian Ajax</persName>
+<persName xml:lang="en">Greater Ajax</persName>
+<persName xml:lang="grc">Αίας</persName>
+<bibl><relation name="snap:SonOf" active="#Ajax"
+ passive="http://en.wikipedia.org/wiki/Telamon"><desc>son of Telamon</desc></relation></bibl>
+</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_the_Lesser</idno>
+<persName xml:lang="en">Ajax the Lesser</persName>
+<bibl><relation name="snap:SonOf" active="#Ajax_the_Lesser"
+ passive="http://en.wikipedia.org/wiki/Oileus"><desc>son of Oileus</desc></relation></bibl>
+</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Calchas</idno><persName xml:lang="en">Calchas</persName>
+ (<persName xml:lang="grc">Κάλχας</persName>), a powerful Greek <a href="http://en.wikipedia.org/wiki/Prophet" title="Prophet">prophet</a> and <a href="http://en.wikipedia.org/wiki/Omen" title="Omen">omen</a> reader, who guided the Greeks through the war with his predictions.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Diomedes</idno><persName xml:lang="en">Diomedes</persName>
+ (also called "Tydides")(<persName xml:lang="grc">Διομήδης</persName>) - the youngest of the Achaean commanders, famous for wounding two gods, <a href="http://en.wikipedia.org/wiki/Aphrodite" title="Aphrodite">Aphrodite</a> and <a href="http://en.wikipedia.org/wiki/Ares" title="Ares">Ares</a>.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Helen_of_Troy</idno><persName xml:lang="en">Helen</persName>
+ (<persName xml:lang="grc">Ελένη</persName>) the wife of Menelaus, the King of Sparta. Paris visits Menelaus in Sparta. With the assistance of Aphrodite, Paris and Helen fall in love and elope back to Troy, but in Sparta her elopement is considered an abduction.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Idomeneus</idno><persName xml:lang="en">Idomeneus</persName>
+, (<persName xml:lang="grc">Ιδομενέας</persName>) King of <a href="http://en.wikipedia.org/wiki/Crete" title="Crete">Crete</a> and Achaean commander. Leads a charge against the Trojans in Book 13.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Menelaus_(king)</idno><persName xml:lang="en">Menelaus</persName>
+ (<persName xml:lang="grc">Μενέλαος</persName>), King of Sparta and the abandoned husband of Helen. He is the younger brother of <a href="http://en.wikipedia.org/wiki/Agamemnon" title="Agamemnon">Agamemnon</a>.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Nestor_(mythology)</idno><persName xml:lang="en">Nestor</persName>
+ (<persName xml:lang="grc">Νέστωρ</persName>), of Gerênia and the son of Neleus. He was said to be the only one of his brothers to survive an assault from <a href="http://en.wikipedia.org/wiki/Heracles" title="Heracles">Heracles</a>. Oldest member of the entire Greek army at Troy.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Odysseus</idno><persName xml:lang="en">Odysseus</persName>
+ (<persName xml:lang="grc">Ὀδυσσεύς</persName>), another warrior-king, famed for his cunning, who is the main character of another (roughly equally ancient) epic, the <i><a href="http://en.wikipedia.org/wiki/Odyssey" title="Odyssey">Odyssey</a></i>.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Patroclus</idno><persName xml:lang="en">Patroclus</persName>
+ (<persName xml:lang="grc">Πάτροκλος</persName>), beloved companion to Achilles.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Phoenix_(son_of_Amyntor)</idno><persName xml:lang="en">Phoenix</persName>
+, an old Achaean warrior greatly trusted by Achilles, acts as mediator between Achilles and Agamemnon.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Teucer</idno><persName xml:lang="en">Teucer</persName>
+, Achaean archer, half-brother of Ajax.<sup id="cite_ref-bookrags_1-0" class="reference"><a href="#cite_note-bookrags-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-sparknotes_iliad_2-0" class="reference"><a href="#cite_note-sparknotes_iliad-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-sparknotes_odyssey_3-0" class="reference"><a href="#cite_note-sparknotes_odyssey-3"><span>[</span>3<span>]</span></a></sup></person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Aeneas</idno><persName xml:lang="en">Aeneas</persName>
+ (<persName xml:lang="grc">Αἰνείας</persName>), cousin of Hector, iscipal lieutenant, son of <a href="http://en.wikipedia.org/wiki/Aphrodite" title="Aphrodite">Aphrodite</a>, the only major Trojan figure to survive the war. Held by later tradition to be the forefather of the founders of Rome. See the <i><a href="http://en.wikipedia.org/wiki/Aeneid" title="Aeneid">Aeneid</a></i>.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Agenor</idno><persName xml:lang="en">Agenor</persName>
+, a Trojan warrior who attempts to fight Achilles in Book 21.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Antenor_(mythology)</idno><persName xml:lang="en">Antenor</persName>
+, a Trojan nobleman who argues that Helen should be returned to Menelaus in order to end the war.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Glaucus_(soldier)</idno><persName xml:lang="en">Glaucus</persName>
+, co-leader of the <a href="http://en.wikipedia.org/wiki/Lycia" title="Lycia">Lycian</a> forces allied to the Trojan cause with <a href="http://en.wikipedia.org/wiki/Sarpedon" title="Sarpedon">Sarpedon</a>.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Hector</idno><persName xml:lang="en">Hector</persName>
+ (<persName xml:lang="grc">Ἕκτωρ</persName>), firstborn son of King Priam, husband of <a href="http://en.wikipedia.org/wiki/Andromache" title="Andromache">Andromache</a>, father of <a href="http://en.wikipedia.org/wiki/Astyanax" title="Astyanax">Astyanax</a>, leader of the Trojan and allied armies and <a href="http://en.wikipedia.org/wiki/Heir_apparent" title="Heir apparent">heir apparent</a> to the throne of Troy.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Paris_(mythology)</idno><persName xml:lang="en">Paris</persName>
+ (<persName xml:lang="grc">Πάρις</persName>), Trojan prince and Hector's brother, also called Alexander; his abduction of <a href="http://en.wikipedia.org/wiki/Helen_of_Troy" title="Helen of Troy">Helen</a> is the <i><a href="http://en.wikipedia.org/wiki/Casus_belli" title="Casus belli">casus belli</a></i>. He was supposed to be killed as a baby because his sister <a href="http://en.wikipedia.org/wiki/Cassandra" title="Cassandra">Cassandra</a> foresaw that he would cause the destruction of Troy. Raised by a shepherd.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Polydamas_(Iliad)</idno><persName xml:lang="en">Polydamas</persName>
+, a young Trojan commander.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Priam</idno><persName xml:lang="en">Priam</persName>
+ (<persName xml:lang="grc">Πρίαμος</persName>), king of the Trojans, son and successor of <a href="http://en.wikipedia.org/wiki/Laomedon" title="Laomedon">Laomedon</a>, husband of Queen <a href="http://en.wikipedia.org/wiki/Hecuba" title="Hecuba">Hecuba</a>, father of Hector and Paris, too old to take part in the fighting; many of his fifty sons are counted among the Trojan commanders.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Sarpedon</idno><persName xml:lang="en">Sarpedon</persName>
+, co-leader of the <a href="http://en.wikipedia.org/wiki/Lycia" title="Lycia">Lycian</a> forces allied to the Trojan cause with <a href="http://en.wikipedia.org/wiki/Glaucus_(soldier)" title="Glaucus (soldier)">Glaucus</a>. Son of Zeus.<sup id="cite_ref-bookrags_1-1" class="reference"><a href="#cite_note-bookrags-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-sparknotes_iliad_2-1" class="reference"><a href="#cite_note-sparknotes_iliad-2"><span>[</span>2<span>]</span></a></sup></person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Laertes</idno><persName xml:lang="en">Laertes</persName>
+, father of Odysseus.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Penelope</idno><persName xml:lang="en">Penelope</persName>
+, wife of Odysseus, mother of Telemachus, she is clever and loyal to Odysseus, she is contrasted with Clytemnestra.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Telemachus</idno><persName xml:lang="en">Telemachus</persName>
+, son of Odysseus and Penelope, matures during his travels to Sparta and Pylos, fights Penelope's suitors with Odysseus.<sup id="cite_ref-sparknotes_odyssey_3-1" class="reference"><a href="#cite_note-sparknotes_odyssey-3"><span>[</span>3<span>]</span></a></sup></person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Amphinomus</idno><persName xml:lang="en">Amphinomus</persName>
+</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Antinous_son_of_Eupeithes</idno><persName xml:lang="en">Antinous</persName>
+</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Eurymachus</idno><persName xml:lang="en">Eurymachus</persName>
+<sup id="cite_ref-sparknotes_odyssey_3-2" class="reference"><a href="#cite_note-sparknotes_odyssey-3"><span>[</span>3<span>]</span></a></sup></person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Briseis</idno><persName xml:lang="en">Briseis</persName>
+, mistress and love interest of Achilles, a woman captured in the sack of Lyrnessos, a small town in the territory of Troy, and awarded to Achilles as a prize; Agamemnon takes her from Achilles in Book 1 and Achilles withdraws from battle as a result.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Chryseis</idno><persName xml:lang="en">Chryseis</persName>
+, Chryses’ daughter, taken as a war prize by Agamemnon.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Helen_of_Troy</idno><persName xml:lang="en">Helen</persName>
+ (<persName xml:lang="grc">Ἑλένη</persName>), daughter of Zeus, former Queen of <a href="http://en.wikipedia.org/wiki/Sparta" title="Sparta">Sparta</a> and wife of <a href="http://en.wikipedia.org/wiki/Menelaus_(king)" title="Menelaus (king)" class="mw-redirect">Menelaus</a>, now espoused to <a href="http://en.wikipedia.org/wiki/Paris_(mythology)" title="Paris (mythology)">Paris</a>.<sup id="cite_ref-bookrags_1-2" class="reference"><a href="#cite_note-bookrags-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-sparknotes_iliad_2-2" class="reference"><a href="#cite_note-sparknotes_iliad-2"><span>[</span>2<span>]</span></a></sup></person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Aphrodite</idno><persName xml:lang="en">Aphrodite</persName>
+, goddess of love, beauty, and sexual pleasure. Daughter of Zeus, wife of Hephaestus, and lover of Ares.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Apollo_(mythology)</idno><persName xml:lang="en">Apollo</persName>
+</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Ares</idno><persName xml:lang="en">Ares</persName>
+, god of war. Lover of Aphrodite. Driven from the field of battle by Diomedes (aided by Athena).</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Athena</idno><persName xml:lang="en">Athena</persName>
+, goddess of wisdom.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Hera</idno><persName xml:lang="en">Hera</persName>
+, queen of the gods.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Hermes</idno><persName xml:lang="en">Hermes</persName>
+, messenger of the gods, leads Priam into Achilles' camp in book 24.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Iris_(mythology)</idno><persName xml:lang="en">Iris</persName>
+, messenger of Zeus and Hera.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Poseidon</idno><persName xml:lang="en">Poseidon</persName>
+, brother of Zeus, Greek god of the sea and earthquake, curses Odysseus.</person>
+
+<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Zeus</idno><persName xml:lang="en">Zeus</persName>
+, king of the Gods, brother of Poseidon and father of Athena, Aphrodite and Helen.<sup id="cite_ref-bookrags_1-3" class="reference"><a href="#cite_note-bookrags-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-sparknotes_iliad_2-3" class="reference"><a href="#cite_note-sparknotes_iliad-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-sparknotes_odyssey_3-3" class="reference"><a href="#cite_note-sparknotes_odyssey-3"><span>[</span>3<span>]</span></a></sup></person>
