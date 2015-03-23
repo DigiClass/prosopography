@@ -12,10 +12,10 @@
             <ab/>
          </publicationStmt>
          <sourceDesc>
-            <p>Derived from:
-               <bibl>
+            <p>Derived from: <bibl>
                   <author>Charlotte M. Roueché</author>
-                  <title level="m">Aphrodisias in Late Antiquity: The Late Roman and Byzantine Inscriptions, revised second edition</title>
+                  <title level="m">Aphrodisias in Late Antiquity: The Late Roman and Byzantine
+                     Inscriptions, revised second edition</title>
                   <date>2004</date>
                   <ref>http://insaph.kcl.ac.uk/ala2004/</ref>
                </bibl>
@@ -42,9 +42,7 @@
                </person>-->
                <person xml:id="fas001">
                   <persName xml:lang="en">Q. Fabius Clodius Agrippianus Celsinus</persName>
-                  <floruit notBefore="0249" notAfter="0250">
-                     Late 249 – early 250
-                  </floruit>
+                  <floruit notBefore="0249" notAfter="0250"> Late 249 – early 250 </floruit>
                   <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
                   <occupation>governor</occupation>
                   <occupation>clarissimus consularis</occupation>
@@ -54,13 +52,11 @@
                      <bibl>I.Iasos, 18</bibl>
                   </listBibl>
                   <idno type="PLRE">PLRE I, Clodius Cels(inus)</idno>
-                </person>
+               </person>
                <person xml:id="fas002">
-                  <persName xml:lang="grc">Μᾶρκος Αὐρήλιος Διογένης</persName> 
+                  <persName xml:lang="grc">Μᾶρκος Αὐρήλιος Διογένης</persName>
                   <persName xml:lang="en">Marcus Aurelius Diogenes</persName>
-                  <floruit notBefore="0255" notAfter="0255">
-                     255
-                  </floruit>
+                  <floruit notBefore="0255" notAfter="0255"> 255 </floruit>
                   <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
                   <occupation>governor</occupation>
                   <occupation>clarissimus</occupation>
@@ -71,6 +67,44 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla006.html</bibl>
                      <bibl>SEG 41.940</bibl>
                   </listBibl>
+               </person>
+               <person xml:id="fas003">
+                  <persName xml:lang="en">Anonymus</persName>
+                  <floruit notBefore="0260" notAfter="0283"> Before 260 or after 283 </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>ὑπατικὸς ἡγέμων</occupation>
+                  <occupation>πρεσβευτὴς καὶ ἀντιστράτηγος τῶν Σεβαστῶν</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/refer/segabbr.html</bibl>
+                     <bibl>IGR IV.814</bibl>
+                  </listBibl>
+               </person>
+
+               <person xml:id="fas004">
+                  <persName xml:lang="en">Aurelius Maximus</persName>
+                  <floruit notBefore="0260" notAfter="0282"> After 260 and before 282 </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>single emperor</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</bibl>
+                     <bibl>SEG 41.1101</bibl>
+                  </listBibl>
+               </person>
+               <person xml:id="fas005">
+                  <persName xml:lang="grc">Ἀασκληπιοδότος</persName> 
+                  <persName xml:lang="en">Asclepiodotus</persName>
+                  <floruit notBefore="0282" notAfter="0283">
+                    282–283 C.E.
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>praeses</occupation>
+                  <occupation>ὑπατικὸς ἡγεμόνας</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</bibl>
+                     <bibl>SEG 41.1101</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="pir">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
                </person>
             </listPerson>
          </particDesc>
