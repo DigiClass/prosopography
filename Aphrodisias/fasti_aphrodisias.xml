@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Fasti of Aphrodisias</title>
+            <author xml:id="cmr">Charlotte M. Roueché</author>
+            <author xml:id="gb">Gabriel Bodard</author>
+            <author xml:id="av">Athanasia Varveri</author>
+         </titleStmt>
+         <publicationStmt>
+            <ab/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Derived from:
+               <bibl>
+                  <author>Charlotte M. Roueché</author>
+                  <title level="m">Aphrodisias in Late Antiquity: The Late Roman and Byzantine Inscriptions, revised second edition</title>
+                  <date>2004</date>
+                  <ref>http://insaph.kcl.ac.uk/ala2004/</ref>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <!--<person xml:id="fas000">
+                  <persName xml:lang="grc">Κόστας</persName> 
+                  <persName xml:lang="en">Kostas</persName>
+                  <floruit notBefore="1451" notAfter="1452">
+                     1451–1452 C.E.
+                  </floruit>
+                  <occupation>κόμης</occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                     <relation/>
+                  </listBibl>
+               </person>-->
+               <person xml:id="fas001">
+                  <persName xml:lang="en">Q. Fabius Clodius Agrippianus Celsinus</persName> 
+                  <floruit notBefore="0249" notAfter="0250">
+                     Late 249 – early 250
+                  </floruit>
+                  <occupation>governor</occupation>
+                  <occupation>clarissimus consularis</occupation>
+                  <occupation>egregius</occupation>
+                  <listBibl>
+                     <bibl>SEG 46.1195</bibl>
+                     <bibl>I.Iasos, 18</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="PLRE">PLRE I, Clodius Cels(inus)</idno>
+                </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab/>
+      </body>
+   </text>
+</TEI>
