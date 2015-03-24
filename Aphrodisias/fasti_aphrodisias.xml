@@ -120,8 +120,8 @@
                      <bibl>Roueché (1981), 111</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
-                  <idno type="IGR">http://insaph.kcl.ac.uk/ala2004/refer/segabbr.html</idno>
+                  <idno type="PLRE">PLRE I, Constans I</idno>
+                  <idno type="IGR">IGR IV.731</idno>
                </person>
                <person xml:id="fas007"> 
                   <persName xml:lang="en">Priscus</persName>
@@ -147,7 +147,7 @@
                      <bibl>Roueché (1981), 111</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE">PLRE I, Priscus 1</idno>
                </person>
                <person xml:id="fas009"> 
                   <persName xml:lang="en">Tiberius Fulvius Asticus</persName>
@@ -166,7 +166,7 @@
                      <bibl>E. Varinlioglu and D. H. French, 'Four Milestones from Ceramus', REA 93 (1991), 123-37, 3.1</bibl>
                      <bibl>SEG 41.941</bibl>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE">PLRE I, Asticus</idno>
                </person>
                <person xml:id="fas010">
                   <persName xml:lang="en">? Anicius Asper</persName>
@@ -178,7 +178,7 @@
                   <listBibl>
                      <bibl>I.Laodikeia am Lykos 40</bibl>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE"> PLRE I, Asper</idno>
                </person>
                <person xml:id="fas011"> 
                   <persName xml:lang="en">Flavius Optimus</persName>
@@ -191,7 +191,7 @@
                      <bibl>JHS 17 (1897), 424 no.22</bibl>
                      <bibl>Roueché (1981), 111</bibl>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE"> PLRE I, Optimus 2</idno>
                </person>
                <person xml:id="fas012"> 
                   <persName xml:lang="en">Valerius Rinacius</persName>
@@ -217,7 +217,7 @@
                      <bibl> ILS 635</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE">PLRE I, Marcellus 9</idno>
                </person>
                <person xml:id="fas014"> 
                   <persName xml:lang="en">Firminianus</persName>
@@ -245,7 +245,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.5</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="prle">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE">PLRE I, Monaxius</idno>
                </person> 
                <person xml:id="fas016">
                   <persName xml:lang="grc">Ἑλλάδιος</persName> 
@@ -262,7 +262,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-II.html#II.35</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE"> PLRE I</idno>
                </person>
                <person xml:id="fas017">
                   <persName xml:lang="grc">Ἀντώνιος Τατιανὸς</persName>
@@ -278,7 +278,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla021.html</bibl>
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.13</bibl>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE">PLRE I, Tatianus 2</idno>
                </person>
                <person xml:id="fas018">
                   <persName xml:lang="grc">Φλαύιος Κωνσταντίνος</persName> 
@@ -292,7 +292,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla022.html</bibl>
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.16</bibl>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE"> PLRE I, Constantius 6</idno>
                </person>
                <person xml:id="fas019">
                   <persName xml:lang="grc">Ἀντωνίου Πρίσκου</persName> 
@@ -310,7 +310,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.30</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE">PLRE I, Priscus 6</idno>
                </person>
                <person xml:id="fas020">
                   <persName xml:lang="grc">Οἰκουμένιος</persName> 
@@ -368,7 +368,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.5</bibl>                     
                      <relation/>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE">PLRE I, Fl. Leontius Beronicianus</idno>
                </person>
                <person xml:id="fas024"> 
                   <persName xml:lang="en">Flavius Baralach</persName>
@@ -382,7 +382,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.2</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="plre">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="PLRE">PLRE II, Baralach</idno>
                </person>
                <person xml:id="fas025">
                   <persName xml:lang="grc">Τατιανὸς</persName> 
@@ -583,7 +583,7 @@
                <person xml:id="fas038"> 
                   <persName xml:id="grc">Ἀρσαβὶρ</persName>
                   <persName xml:lang="en">Arsaber</persName>
-                  <floruit notBefore="0800" notAfter="0890">
+                  <floruit notBefore="0800" notAfter="0899">
                      Ninth century
                   </floruit>
                   <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
@@ -727,7 +727,7 @@
                <person xml:id="fas049">
                   <persName xml:lang="grc">Ὀρθαγόρας</persName> 
                   <persName xml:lang="en">Orthagoras</persName>
-                  <floruit notBefore="0500" notAfter="0590">
+                  <floruit notBefore="0500" notAfter="0599">
                      Sixth century
                   </floruit>
                   <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
@@ -741,7 +741,7 @@
                <person xml:id="fas050">
                   <persName xml:lang="grc">Θεοπρόπιος</persName> 
                   <persName xml:lang="en">Theopropius</persName>
-                  <floruit notBefore="0400" notAfter="0690">
+                  <floruit notBefore="0400" notAfter="0699">
                      Fifth-Seventh century
                   </floruit>
                   <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
@@ -808,6 +808,87 @@
                      <relation/>
                   </listBibl>
                </person>
+               <person xml:id="fas055">
+                  <persName xml:lang="en">Michael</persName>
+                  <floruit notBefore="0700" notAfter="0799">
+                     Eighth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl> Nesbitt 1</bibl>
+                     <bibl>PBE I, Michael 98</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas056"> 
+                  <persName xml:lang="en">?Ephraim</persName>
+                  <floruit notBefore="0700" notAfter="0799">
+                     Eighth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <occupation>hymnographer</occupation>
+                  <listBibl>
+                     <bibl>Emereau, EO 22 (1923), 421</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas057">
+                  <persName xml:lang="en">Sergius</persName>
+                  <floruit notBefore="0800" notAfter="0899">
+                     Ninth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <occupation></occupation>
+                  <listBibl>
+                     <bibl>Zacos-Veglery 1351</bibl>
+                     <bibl>Nesbitt p.159</bibl>
+                     <bibl>PBE I, Eustathios 32</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas058"> 
+                  <persName xml:lang="en">Nicephorus</persName>
+                  <floruit notBefore="0800" notAfter="0850">
+                     Ninth century, first half
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="pbe">http://www.kcl.ac.uk/cch/pbe/Nikephoros_70.html</idno>
+               </person> 
+               <person xml:id="fas0059">
+                  <persName xml:lang="grc">Κόστας</persName> 
+                  <persName xml:lang="en">Joseph</persName>
+                  <floruit notBefore="0900" notAfter="0999">
+                     Tenth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Nesbitt 2</bibl>
+                     <bibl>Laurent 515</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas060">
+                  <persName xml:lang="en">Michael</persName>
+                  <floruit notBefore="0900" notAfter="0999">
+                     Tenth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Nesbitt 3</bibl>
+                     <bibl>Laurent 516, 517</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>  
                
             </listPerson>
          </particDesc>
