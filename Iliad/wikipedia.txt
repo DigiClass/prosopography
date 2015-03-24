@@ -1,30 +1,4 @@
-<person xml:id="Agamemnon">
-<idno type="wikipedia">http://en.wikipedia.org/wiki/Agamemnon</idno>
-<persName xml:lang="en">Agamemnon</persName>
-<persName xml:lang="grc">Ἀγαμέμνων</persName>
-<occupation>King</occupation>
-<residence ref="http://pleiades.stoa.org/places/570491">Mycenae</residence>
-<bibl>
-<relation name="snap:BrotherOf" active="#Agamemnon"
- passive="http://en.wikipedia.org/wiki/Menelaus_(king)"><desc>elder brother of King Menelaus</desc></relation>
-</bibl>
-</person>
 
-<person xml:id="Ajax"><idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_(mythology)</idno>
-<persName xml:lang="en">Ajax</persName>
-<persName xml:lang="en">Aias</persName>
-<persName xml:lang="en">Telamonian Ajax</persName>
-<persName xml:lang="en">Greater Ajax</persName>
-<persName xml:lang="grc">Αίας</persName>
-<bibl><relation name="snap:SonOf" active="#Ajax"
- passive="http://en.wikipedia.org/wiki/Telamon"><desc>son of Telamon</desc></relation></bibl>
-</person>
-
-<person><idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_the_Lesser</idno>
-<persName xml:lang="en">Ajax the Lesser</persName>
-<bibl><relation name="snap:SonOf" active="#Ajax_the_Lesser"
- passive="http://en.wikipedia.org/wiki/Oileus"><desc>son of Oileus</desc></relation></bibl>
-</person>
 
 <person><idno type="wikipedia">http://en.wikipedia.org/wiki/Calchas</idno><persName xml:lang="en">Calchas</persName>
  (<persName xml:lang="grc">Κάλχας</persName>), a powerful Greek <a href="http://en.wikipedia.org/wiki/Prophet" title="Prophet">prophet</a> and <a href="http://en.wikipedia.org/wiki/Omen" title="Omen">omen</a> reader, who guided the Greeks through the war with his predictions.</person>

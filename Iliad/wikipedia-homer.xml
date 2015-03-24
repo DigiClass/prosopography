@@ -43,7 +43,7 @@
                   <residence ref="http://pleiades.stoa.org/places/570491">Mycenae</residence>
                   <bibl>
                      <relation name="snap:BrotherOf" active="#Agamemnon"
-                        passive="http://en.wikipedia.org/wiki/Menelaus_(king)">
+                        passive="#Menelaus">
                         <desc>elder brother of King Menelaus</desc>
                      </relation>
                   </bibl>
@@ -60,7 +60,7 @@
                         <desc>son of Telamon</desc>
                      </relation></bibl>
                </person>
-               <person>
+               <person xml:id="Ajax_the_Lesser">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_the_Lesser</idno>
                   <persName xml:lang="en">Ajax the Lesser</persName>
                   <bibl><relation name="snap:SonOf" active="#Ajax_the_Lesser"
@@ -68,7 +68,278 @@
                         <desc>son of Oileus</desc>
                      </relation></bibl>
                </person>
-               
+
+               <person xml:id="Calchas">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Calchas</idno>
+                  <persName xml:lang="en">Calchas</persName>
+                  <persName xml:lang="grc">Κάλχας</persName>
+                  <occupation>priest</occupation>
+               </person>
+
+               <person xml:id="Diomedes">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Diomedes</idno>
+                  <persName xml:lang="en">Diomedes</persName>
+                  <persName xml:lang="grc">Διομήδης</persName>
+               </person>
+
+               <person xml:id="Helen">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Helen_of_Troy</idno>
+                  <persName xml:lang="en">Helen</persName>
+                  <persName xml:lang="grc">Ελένη</persName>
+                  <bibl><relation name="snap:WifeOf" active="#Helen"
+                     passive="#Menelaus">
+                     <desc>wife of Menelaus</desc>
+                  </relation></bibl>
+               </person>
+
+               <person xml:id="Idomeneus">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Idomeneus</idno>
+                  <persName xml:lang="en">Idomeneus</persName>
+                  <persName xml:lang="grc">Ιδομενέας</persName>
+                  <occupation>King</occupation>
+                  <affiliation ref="http://pleiades.stoa.org/places/589748">Crete</affiliation>
+                  </person>
+
+               <person xml:id="Menelaus">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Menelaus_(king)</idno>
+                  <persName xml:lang="en">Menelaus</persName>
+                  <persName xml:lang="grc">Μενέλαος</persName>
+                  <occupation>King</occupation>
+                  <affiliation>Sparta</affiliation>
+                  <bibl>
+                     <relation name="snap:HusbandOf" active="#Menelaus" 
+                        passive="#Helen"><desc>the abandoned husband of Helen</desc></relation>
+                     <relation name="snap:BrotherOf" active="#Menelaus" 
+                        passive="#Agamemnon"><desc>younger brother of Agamemnon</desc></relation>
+                  </bibl>
+               </person>
+
+               <person xml:id="Nestor">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Nestor_(mythology)</idno>
+                  <persName xml:lang="en">Nestor</persName>
+                  <persName xml:lang="grc">Νέστωρ</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/570261">Gerênia</affiliation> 
+                  <bibl><relation name="snap:SonOf" active="#Nestor"><desc>the son of Neleus</desc></relation></bibl>
+               </person>
+
+               <person xml:id="Odysseus">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Odysseus</idno>
+                  <persName xml:lang="en">Odysseus</persName>
+                  <persName xml:lang="grc">Ὀδυσσεύς</persName>
+                  <occupation>King</occupation>
+                  <affiliation ref="http://pleiades.stoa.org/places/530906">Ithaca</affiliation>
+               </person>
+
+               <person xml:id="Patroclus">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Patroclus</idno>
+                  <persName xml:lang="en">Patroclus</persName>
+                  <persName xml:lang="grc">Πάτροκλος</persName>
+                </person>
+
+               <person xml:id="Phoenix">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Phoenix_(son_of_Amyntor)</idno>
+                  <persName xml:lang="en">Phoenix</persName>
+                </person>
+
+               <person xml:id="Teucer">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Teucer</idno>
+                  <persName
+                     xml:lang="en">Teucer</persName>
+                  <bibl><relation name="snap:BrotherOf_snap:HalfFamilyRelationship" active="#Teucer" passive="#Ajax">
+                     <desc>half-brother of Ajax</desc></relation></bibl>
+               </person>
+
+               <person xml:id="Aeneas">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Aeneas</idno>
+                  <persName   xml:lang="en">Aeneas</persName>
+                  <persName xml:lang="grc">Αἰνείας</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+                  <bibl>
+                     <relation name="snap:CousinOf" active="#Aeneas" passive="#Hector">
+                        <desc>cousin of Hector</desc></relation>
+                     <relation name="snap:SonOf" active="#Aeneas" passive="#Aphrodite">
+                        <desc>son of Aphrodite</desc></relation>
+                  </bibl>
+               </person>
+
+               <person xml:id="Agenor">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Agenor</idno>
+                  <persName   xml:lang="en">Agenor</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+                  </person>
+
+               <person xml:id="Antenor">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Antenor_(mythology)</idno>
+                  <persName xml:lang="en">Antenor</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+               </person>
+
+               <person xml:id="Glaucus">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Glaucus_(soldier)</idno>
+                  <persName xml:lang="en">Glaucus</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/638965">Lycia</affiliation>
+               </person>
+
+               <person xml:id="Hector">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Hector</idno>
+                  <persName xml:lang="en">Hector</persName>
+                  <persName xml:lang="grc">Ἕκτωρ</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+                  firstborn son of King Priam
+                  husband of <a href="http://en.wikipedia.org/wiki/Andromache" title="Andromache"
+                     >Andromache</a>
+                  father of <a href="http://en.wikipedia.org/wiki/Astyanax"
+                     title="Astyanax">Astyanax</a>
+               </person>
+
+               <person xml:id="Paris">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Paris_(mythology)</idno>
+                  <persName xml:lang="en">Paris</persName>
+                  <persName xml:lang="en">Alexander</persName>
+                  <persName xml:lang="grc">Πάρις</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+                  Hector's brother
+                  his abduction of <a href="http://en.wikipedia.org/wiki/Helen_of_Troy" title="Helen of Troy"
+                     >Helen</a>
+                  his sister <a href="http://en.wikipedia.org/wiki/Cassandra"
+                     title="Cassandra">Cassandra</a>
+               </person>
+
+               <person xml:id="Polydamas">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Polydamas_(Iliad)</idno>
+                  <persName xml:lang="en">Polydamas</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+               </person>
+
+               <person xml:id="Priam">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Priam</idno>
+                  <persName xml:lang="en">Priam</persName>
+                  <persName xml:lang="grc">Πρίαμος</persName>
+                  <occupation>king</occupation>
+                  <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+                  son and successor of <a href="http://en.wikipedia.org/wiki/Laomedon" title="Laomedon">Laomedon</a>
+                  husband of Queen <a href="http://en.wikipedia.org/wiki/Hecuba" title="Hecuba"
+                     >Hecuba</a>
+                  father of Hector and Paris
+               </person>
+
+               <person xml:id="Sarpedon">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Sarpedon</idno>
+                  <persName xml:lang="en">Sarpedon</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/638965">Lycia</affiliation>
+                  Son of Zeus
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Laertes</idno>
+                  <persName
+                     xml:lang="en">Laertes</persName>
+                  father of Odysseus
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Penelope</idno>
+                  <persName xml:lang="en">Penelope</persName>
+                  wife of Odysseus
+                  mother of Telemachus
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Telemachus</idno>
+                  <persName xml:lang="en">Telemachus</persName>
+                  son of Odysseus and Penelope
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Amphinomus</idno>
+                  <persName xml:lang="en">Amphinomus</persName>
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Antinous_son_of_Eupeithes</idno>
+                  <persName xml:lang="en">Antinous</persName>
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Eurymachus</idno>
+                  <persName xml:lang="en">Eurymachus</persName>
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Briseis</idno>
+                  <persName xml:lang="en">Briseis</persName>
+                  <affiliation>Lyrnessos</affiliation>
+                  mistress and love interest of Achilles
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Chryseis</idno>
+                  <persName
+                     xml:lang="en">Chryseis</persName>
+                  Chryses’ daughter
+                  taken as a war prize by Agamemnon
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Aphrodite</idno>
+                  <persName xml:lang="en">Aphrodite</persName>
+                  <occupation>goddess of love, beauty, and sexual pleasure</occupation>
+                  Daughter of Zeus
+                  wife of Hephaestus
+                  lover of Ares
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Apollo_(mythology)</idno>
+                  <persName xml:lang="en">Apollo</persName>
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Ares</idno>
+                  <persNamexml:lang="en">Ares</persName>
+                     god of war
+                     Lover of Aphrodite
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Athena</idno>
+                  <persName xml:lang="en">Athena</persName>
+                  goddess of wisdom
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Hera</idno>
+                  <persName xml:lang="en">Hera</persName>
+                  queen of the gods
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Hermes</idno>
+                  <persName   xml:lang="en">Hermes</persName>
+                  messenger of the gods
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Iris_(mythology)</idno>
+                  <persName xml:lang="en">Iris</persName>
+                  messenger of Zeus and Hera
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Poseidon</idno>
+                  <persName xml:lang="en">Poseidon</persName>
+                  brother of Zeus
+                  god of the sea and earthquake
+               </person>
+
+               <person xml:id="">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Zeus</idno>
+                  <persName xml:lang="en">Zeus</persName>
+                  king of the Gods
+                  brother of Poseidon
+                  father of Athena, Aphrodite and Helen
+               </person>
+
             </listPerson>
          </particDesc>
       </profileDesc>
