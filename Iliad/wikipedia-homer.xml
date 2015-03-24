@@ -3,7 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Wikipedia articles on characters in Homer</title>
@@ -13,30 +13,69 @@
          </publicationStmt>
          <sourceDesc>
             <p><ref>http://en.wikipedia.org/wiki/List_of_Homeric_characters</ref>,
-               <ref>http://en.wikipedia.org/wiki/Category:Characters_in_the_Iliad</ref>
-               and <ref>http://en.wikipedia.org/wiki/Category:Characters_in_the_Odyssey</ref></p>
+                  <ref>http://en.wikipedia.org/wiki/Category:Characters_in_the_Iliad</ref> and
+                  <ref>http://en.wikipedia.org/wiki/Category:Characters_in_the_Odyssey</ref></p>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <particDesc>
-           <listPerson>
-              <person xml:id="Achilles">
-                 <idno type="wikipedia">http://en.wikipedia.org/wiki/Achilles</idno>
-                 <persName xml:lang="en">Achilles</persName>
-                 <persName xml:lang="grc">Ἀχιλλεύς</persName>
-                 <bibl>
-                    <relation name="snap:sonOf" active="#Achilles" passive="http://en.wikipedia.org/wiki/Peleus"><desc>son of Peleus</desc></relation>
-                    <relation name="snap:sonOf" active="#Achilles" passive="http://en.wikipedia.org/wiki/Thetis"><desc>son of Thetis</desc></relation>
-                 </bibl>
-              </person>
-              
-           </listPerson>
-        </particDesc>
-     </profileDesc>
-  </teiHeader>
-  <text>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="Achilles">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Achilles</idno>
+                  <persName xml:lang="en">Achilles</persName>
+                  <persName xml:lang="grc">Ἀχιλλεύς</persName>
+                  <bibl>
+                     <relation name="snap:sonOf" active="#Achilles"
+                        passive="http://en.wikipedia.org/wiki/Peleus">
+                        <desc>son of Peleus</desc>
+                     </relation>
+                     <relation name="snap:sonOf" active="#Achilles"
+                        passive="http://en.wikipedia.org/wiki/Thetis">
+                        <desc>son of Thetis</desc>
+                     </relation>
+                  </bibl>
+               </person>
+               <person xml:id="Agamemnon">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Agamemnon</idno>
+                  <persName xml:lang="en">Agamemnon</persName>
+                  <persName xml:lang="grc">Ἀγαμέμνων</persName>
+                  <occupation>King</occupation>
+                  <residence ref="http://pleiades.stoa.org/places/570491">Mycenae</residence>
+                  <bibl>
+                     <relation name="snap:BrotherOf" active="#Agamemnon"
+                        passive="http://en.wikipedia.org/wiki/Menelaus_(king)">
+                        <desc>elder brother of King Menelaus</desc>
+                     </relation>
+                  </bibl>
+               </person>
+               <person xml:id="Ajax">
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_(mythology)</idno>
+                  <persName xml:lang="en">Ajax</persName>
+                  <persName xml:lang="en">Aias</persName>
+                  <persName xml:lang="en">Telamonian Ajax</persName>
+                  <persName xml:lang="en">Greater Ajax</persName>
+                  <persName xml:lang="grc">Αίας</persName>
+                  <bibl><relation name="snap:SonOf" active="#Ajax"
+                        passive="http://en.wikipedia.org/wiki/Telamon">
+                        <desc>son of Telamon</desc>
+                     </relation></bibl>
+               </person>
+               <person>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_the_Lesser</idno>
+                  <persName xml:lang="en">Ajax the Lesser</persName>
+                  <bibl><relation name="snap:SonOf" active="#Ajax_the_Lesser"
+                        passive="http://en.wikipedia.org/wiki/Oileus">
+                        <desc>son of Oileus</desc>
+                     </relation></bibl>
+               </person>
+               
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>
