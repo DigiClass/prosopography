@@ -1154,6 +1154,47 @@
                      <relation/>
                   </listBibl>
                </person>
+               <person xml:id="fas081">
+                  <persName xml:lang="grc">Ἀντώνιος Κλαύδιος Νεικόμαχος</persName> 
+                  <persName xml:lang="en">Antonius Claudius Nicomachus</persName>
+                  <floruit notBefore="0253" notAfter="0260">
+                      253-260
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>first archon</occupation>
+                  <occupation>axiologotatos</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla004.html</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla005.html</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>  
+               <person xml:id="fas082">
+                  <persName xml:lang="grc">Μᾶρκος Ἀντώνιος Οὐενίδιος Ἀπελλᾶς</persName> 
+                  <persName xml:lang="en">Marcus Antonius Venidius Apellas</persName>
+                  <floruit notBefore="0253" notAfter="0260">
+                     253-260
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>fisrt archon</occupation>
+                  <occupation>axiologotatos</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla006.html</bibl>
+                     <relation name="snap:FatherOf" active="#fas082" passive="#fas083" cert="low"><desc>father of Hermogenes</desc></relation>
+                  </listBibl>
+               </person>
+               <person xml:id="fas083"> 
+                  <persName xml:lang="en">?Hermogenes</persName>
+                  <floruit notBefore="0253" notAfter="0268">
+                     253-268
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>first archon</occupation>
+                  <listBibl>
+                     <bibl> BMC Caria 138</bibl>
+                     <relation name="snap:SonOf" active="#fas083" passive="#fas082" cert="low"><desc>son of Apellas</desc></relation>
+                  </listBibl>
+               </person>
                
             </listPerson>
          </particDesc>
