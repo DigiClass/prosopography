@@ -902,8 +902,255 @@
                   <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
                   <occupation>bishop</occupation>
                   <listBibl>
-                     <bibl>Patr.Reg. 804</bibl>
-                     <bibl>Rhalles-Potles v.19</bibl>
+                     <bibl>Patr.Reg. 804 from Rhalles-Potles v.19</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas062">
+                  <persName xml:lang="grc">Λέων</persName> 
+                  <persName xml:lang="en">?Leo</persName>
+                  <floruit notBefore="0990" notAfter="1010">
+                     Late tenth/early eleventh century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>Deacon</occupation>
+                  <occupation>Διάκονος</occupation>
+                  <listBibl>
+                     <bibl>N. Panagiotakis, Λέων ὁ Διάκονος (Athens, 1965), 16-41</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas063">
+                  <persName xml:lang="en">Eustratius</persName>
+                  <floruit notBefore="1001" notAfter="1100">
+                     Eleventh century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Laurent 519</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas064"> 
+                  <persName xml:lang="en">Anonymus</persName>
+                  <floruit notBefore="1025" notAfter="1043">
+                     Between 1025 and 1043
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>metropolitan</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 852-855 from G. Ficker, Erlasse des Patriarchen von Konstantinopel AlexiosStudites (Kiel, 1911), Docs.1 and 2</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas065"> 
+                  <persName xml:lang="en">John</persName>
+                  <floruit notBefore="1030" notAfter="1030">
+                     1030, May
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 839 from Ficker, op.cit., Doc.3</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas066"> 
+                  <persName xml:lang="en">Constantine</persName>
+                  <floruit notBefore="1032" notAfter="1032">
+                     1032, April
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 840 from Ficker, op.cit., Doc.4</bibl>
+                     <relation/>
+                  </listBibl>
+               </person> 
+               <person xml:id="fas067"> 
+                  <persName xml:lang="en">Ignatius</persName>
+                  <floruit notBefore="1039" notAfter="1039">
+                     1039, September
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 846 from Ficker, op.cit., Doc.5</bibl>
+                     <bibl></bibl>
+                     <relation/>
+                  </listBibl>
+               </person> 
+               <person xml:id="fas068"> 
+                  <persName xml:lang="en">John</persName>
+                  <floruit notBefore="1001" notAfter="1050">
+                     Mid-eleventh century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Nesbitt 6, cf.</bibl>
+                     <bibl>Laurent 518</bibl>
+                     <bibl>John attested in 1030 (so Nesbitt</bibl>
+                     <relation/>
+                  </listBibl>
+               </person> 
+               <person xml:id="fas069"> 
+                  <persName xml:lang="en">Demetrius</persName>
+                  <floruit notBefore="1054" notAfter="1054">
+                     1054, June
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl> Patr.Reg. 869 from Mansi xix. 8l2d</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas070">
+                  <persName xml:lang="en">Joseph</persName>
+                  <floruit notBefore="1072" notAfter="1092">
+                     1072-1092
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>N. Oikonomides, REB 18 (1960), 57</bibl>
+                     <bibl>J. Gouillard, Byzantion 29-30 (1959-60), 34</bibl>
+                     <bibl>Patr.Reg. 926, 927</bibl>
+                     <bibl>Patr.Reg. 963, from Rhalles-Potles v.58-9</bibl>
+                     <relation/>
+                  </listBibl>
+               </person> 
+               <person xml:id="fas071"> 
+                  <persName xml:lang="en">Leo</persName>
+                  <floruit notBefore="1166" notAfter="1172">
+                     1166-72
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 1075, from Rhalles-Potles v.32</bibl>
+                     <bibl>Patr.Reg. 1077</bibl>
+                     <bibl>W. H. Buckler, BZ 28 (1928), 98-101</bibl>
+                     <bibl>IRAIK 13 (1908),19</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-VII.html#VII.26</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas072"> 
+                  <persName xml:lang="en">Anonymus</persName>
+                  <floruit notBefore="1186" notAfter="1186">
+                     1186, 10 September
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Kais.Reg. 1572</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas073">
+                  <persName xml:lang="en">Anonymus</persName>
+                  <floruit notBefore="1274" notAfter="1274">
+                     1274, 11 March
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Kais.Reg. 2006</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas074"> 
+                  <persName xml:lang="en">Leo</persName>
+                  <floruit notBefore="1278" notAfter="1278">
+                     1278
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 1441</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas075"> 
+                  <persName xml:lang="en">Neophytus</persName>
+                  <floruit notBefore="1356" notAfter="1368">
+                     1356, July-1368, September
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <occupation>metropolitan</occupation>
+                  <occupation>locum tenens</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 2392, 2434, 2542</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas076"> 
+                  <persName xml:lang="en">Anonymus</persName>
+                  <floruit notBefore="1369" notAfter="1369">
+                     1369
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <occupation>metropolitan</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 2563, from MM i. 258, 511</bibl>
+                     <bibl>Patr.Reg. 2565, from MM i.259, 511</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas077">
+                  <persName xml:lang="en">Anonymus</persName>
+                  <floruit notBefore="1387" notAfter="1394">
+                     1387-1394
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 2827, from MM II. 398, 106-8</bibl>
+                     <bibl>Patr.Reg. 2829, from MM II. 399, 108-Il</bibl>
+                     <bibl>Patr.Reg. 2939 from MM II. 451, 197-99</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-VII.html#VII.29</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas078"> 
+                  <persName xml:lang="en">Anonymus</persName>
+                  <floruit notBefore="1401" notAfter="1401">
+                     1401
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 3191 from MM ii. 629, 469-472</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas079"> 
+                  <persName xml:lang="en">Esaias</persName>
+                  <floruit notBefore="1438" notAfter="1439">
+                     1438-39
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Mansi xxxi. 475</bibl>
+                     <bibl>V. Laurent ed., Mémoires de Sylvestre Syropoulos (Paris, 1971), iii.23, x.13, cf. xi.2</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
+               <person xml:id="fas080"> 
+                  <persName xml:lang="en">Theodore</persName>
+                  <floruit notBefore="1450" notAfter="1450">
+                     1450
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Mansi xxxiii. 105</bibl>
                      <relation/>
                   </listBibl>
                </person>
