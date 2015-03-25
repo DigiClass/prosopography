@@ -578,12 +578,11 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.37</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p1492</idno>
                </person>
                <person xml:id="fas038"> 
                   <persName xml:id="grc">Ἀρσαβὶρ</persName>
                   <persName xml:lang="en">Arsaber</persName>
-                  <floruit notBefore="0800" notAfter="0899">
+                  <floruit notBefore="0801" notAfter="0900">
                      Ninth century
                   </floruit>
                   <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
@@ -593,6 +592,7 @@
                      <bibl>PBE I, Arsaber 4</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p1492</idno>
                </person>  
                <person xml:id="fas039"> 
                   <persName xml:lang="en">Ammonius</persName>
@@ -764,6 +764,7 @@
                      <bibl>PBE I, Theodoros 30</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p7384</idno>
                </person> 
                <person xml:id="fas052"> 
                   <persName xml:lang="en">Sissinius</persName>
@@ -776,6 +777,7 @@
                      <bibl>PBE I, Sisinnios 9</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p6914</idno>
                </person> 
                <person xml:id="fas053"> 
                   <persName xml:lang="en">Eustathius</persName>
@@ -790,6 +792,7 @@
                      <bibl>PBE I, Eustathios 32</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p2572</idno>
                </person>
                <person xml:id="fas054"> 
                   <persName xml:lang="en">Theophylact</persName>
@@ -807,6 +810,7 @@
                      <bibl>PBE I, Theophylaktos 20</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p8087</idno>
                </person>
                <person xml:id="fas055">
                   <persName xml:lang="en">Michael</persName>
@@ -820,6 +824,7 @@
                      <bibl>PBE I, Michael 98</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p5564</idno>
                </person>
                <person xml:id="fas056"> 
                   <persName xml:lang="en">?Ephraim</persName>
@@ -848,6 +853,7 @@
                      <bibl>PBE I, Eustathios 32</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p2572</idno>
                </person>
                <person xml:id="fas058"> 
                   <persName xml:lang="en">Nicephorus</persName>
@@ -857,13 +863,12 @@
                   <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
                   <occupation>bishop</occupation>
                   <listBibl>
-                     <bibl></bibl>
+                     <bibl>PBE I, Nikephoros 70</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="pbe">http://www.kcl.ac.uk/cch/pbe/Nikephoros_70.html</idno>
+                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p5739</idno>
                </person> 
-               <person xml:id="fas0059">
-                  <persName xml:lang="grc">Κόστας</persName> 
+               <person xml:id="fas0059"> 
                   <persName xml:lang="en">Joseph</persName>
                   <floruit notBefore="0900" notAfter="0999">
                      Tenth century
@@ -889,6 +894,19 @@
                      <relation/>
                   </listBibl>
                </person>  
+               <person xml:id="fas061"> 
+                  <persName xml:lang="en">John</persName>
+                  <floruit notBefore="0997" notAfter="0997">
+                     997, 21 February
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>bishop</occupation>
+                  <listBibl>
+                     <bibl>Patr.Reg. 804</bibl>
+                     <bibl>Rhalles-Potles v.19</bibl>
+                     <relation/>
+                  </listBibl>
+               </person>
                
             </listPerson>
          </particDesc>
@@ -896,6 +914,7 @@
       <revisionDesc>
          <listChange>
             <change when="2015-03-23" who="#av">added revisionDesc</change>
+            <change when="2015-03-24" who="#av">added revisionDesc</change>
          </listChange>
       </revisionDesc>
    </teiHeader>
