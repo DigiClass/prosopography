@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The Fasti of Aphrodisias</title>
+            <title>The Fasti and prosopography of Aphrodisias</title>
             <author xml:id="cmr">Charlotte M. Roueché</author>
             <author xml:id="gb">Gabriel Bodard</author>
             <author xml:id="av">Athanasia Varveri</author>
@@ -25,21 +25,6 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <!--<person xml:id="fas000">
-                  <persName xml:lang="grc">Κόστας</persName> 
-                  <persName xml:lang="en">Kostas</persName>
-                  <floruit notBefore="1451" notAfter="1452">
-                     1451–1452 C.E.
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>governor</occupation>
-                  <occupation></occupation>
-                  <listBibl>
-                     <bibl></bibl>
-                     <relation/>
-                  </listBibl>
-                  <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p1492</idno>
-               </person>-->
                <person xml:id="fas001">
                   <persName xml:lang="en">Q. Fabius Clodius Agrippianus Celsinus</persName>
                   <floruit notBefore="0249" notAfter="0250"> Late 249 – early 250 </floruit>
@@ -1323,6 +1308,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/atheneos.html</idno>
                </person>
                <person xml:id="fas093"> 
                   <persName xml:lang="en">Aristocrates</persName>
@@ -1381,7 +1367,61 @@
                      <relation/>
                   </listBibl>
                </person>
-               
+               <!--<person xml:id="pers000">
+                  <persName xml:lang="grc"></persName> 
+                  <persName xml:lang="en"></persName>
+                  <floruit notBefore="1451" notAfter="1452">
+                     
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation></occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno></idno>
+               </person>-->
+               <person xml:id="pers001">
+                  <persName xml:lang="grc">Ἀβέλκιος</persName> 
+                  <persName xml:lang="en">Abelcius</persName>
+                  <floruit notBefore="0567" notAfter="0633">
+                     Late sixth/early seventh century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <relation name="snap:BrotherOf" active="#pers001" passive="#pers"><desc>Brother of George</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/abelcius.html</idno>
+               </person>
+               <person xml:id="pers002">
+                  <persName xml:lang="grc">Ἀθανάσιος</persName> 
+                  <persName xml:lang="en">Athanasius</persName>
+                  <floruit notBefore="0301">
+                     Fourth - sixth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>epitaph</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla163.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/athanasius1.html</idno>
+               </person>
+               <person xml:id="pers003">
+                  <persName xml:lang="grc">Ἀθανάσιος</persName> 
+                  <persName xml:lang="en">Atha[nasius?</persName>
+                  <floruit notBefore="0401">
+                     Fifth-sixth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>epitaph</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla171.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/athanasius2.html</idno>
+               </person>
             </listPerson>
          </particDesc>
       </profileDesc>
