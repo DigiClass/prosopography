@@ -233,7 +233,7 @@
                   </listBibl>
                </person> 
                <person xml:id="fas015">
-                  <persName xml:lang="grc">Φλάβιος Κυιντίλιος Ἔρως Μονάξιος</persName>
+                  <persName xml:lang="grc">Φλαύιος Κυιντίλιος Ἔρως Μονάξιος</persName>
                   <persName xml:lang="en">Flavius Quintus Eros Monaxius</persName>
                   <floruit notBefore="0359" notAfter="0359">
                        C. 359
@@ -281,7 +281,7 @@
                   <idno type="PLRE">PLRE I, Tatianus 2</idno>
                </person>
                <person xml:id="fas018">
-                  <persName xml:lang="grc">Φλάβιος Κωνσταντίνος</persName> 
+                  <persName xml:lang="grc">Φλαύιος Κωνσταντίνος</persName> 
                   <persName xml:lang="en">Flavius Constantius</persName>
                   <floruit notBefore="0360" notAfter="0370">
                      ? 360s
@@ -327,7 +327,7 @@
                   </listBibl>
                </person>
                <person xml:id="fas021">
-                  <persName xml:lang="grc">Φλάβιος Πελάγιος</persName> 
+                  <persName xml:lang="grc">Φλαύιος Πελάγιος</persName> 
                   <persName xml:lang="en">Flavius Pelagius</persName>
                   <floruit>
                      Uncertain date , in the late fourth century
@@ -1195,192 +1195,6 @@
                      <relation name="snap:SonOf" active="#fas083" passive="#fas082" cert="low"><desc>son of Apellas</desc></relation>
                   </listBibl>
                </person>
-               <person xml:id="fas084">
-                  <persName xml:lang="grc">Τιβέριος Κλαύδιος Μαρκιανὸς</persName> 
-                  <persName xml:lang="en">Tiverius Claudius Marcianus</persName>
-                  <floruit notBefore="0283">
-                     After 283
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>first archon</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla007.html</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
-               <person xml:id="fas085">
-                  <persName xml:lang="grc">Πάπιος</persName> 
-                  <persName xml:lang="en">Papias</persName>
-                  <floruit notBefore="0290" notAfter="0310">
-                     ?Late third/early fourth century
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>Curiales</occupation>
-                  <occupation>πολιτευόμενοι</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
-               <person xml:id="fas086">
-                  <persName xml:lang="grc">Μένανδρος</persName> 
-                  <persName xml:lang="en">Menander</persName>
-                  <floruit notBefore="0301" notAfter="0400">
-                     ?Fourth century
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>Curiales</occupation>
-                  <occupation>πολιτευόμενοι</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla030.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
-               <person xml:id="fas087">
-                  <persName xml:lang="grc">Θεόπομπος</persName> 
-                  <persName xml:lang="en">Theopompus</persName>
-                  <floruit notBefore="0501" notAfter="0600">
-                     ?Sixth century
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>Curiales</occupation>
-                  <occupation>πολιτευόμενοι</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla089.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
-               <person xml:id="fas088"> 
-                  <persName xml:lang="en">Asclepiodotus</persName>
-                  <floruit notBefore="0490" notAfter="0500">
-                     Late fifth century
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>first men of the council</occupation>
-                  <occupation>patricius</occupation>
-                  <listBibl>
-                     <bibl>Zacharias 16, cited V.12</bibl>
-                     <relation/>
-                  </listBibl>
-               </person> 
-               <person xml:id="fas089">
-                  <persName xml:lang="grc">Ἰωάννης</persName> 
-                  <persName xml:lang="en">Joannes</persName>
-                  <floruit notBefore="0490" notAfter="0510">
-                     ?Late fifth/early sixth century
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>first men of the council</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla073.html</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
-               <person xml:id="fas090">
-                  <persName xml:lang="grc"> Φλάβιος Ἀμπέλιος</persName> 
-                  <persName xml:lang="en">Flavius Ampelius</persName>
-                  <floruit notBefore="0450" notAfter="0500">
-                     Mid to late fifth century
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>father of the city</occupation>
-                  <occupation>scholasticus</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla038.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla042.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla043.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla044.html</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
-               <person xml:id="fas091">
-                  <persName xml:lang="grc">Ο-</persName> 
-                  <persName xml:lang="en">?O-</persName>
-                  <floruit notBefore="0491" notAfter="0518">
-                     491-518
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>father of the city</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla061.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
-                     <relation/>
-                  </listBibl>
-               </person> 
-               <person xml:id="fas092">
-                  <persName xml:lang="grc">Φλάβιος Ἀθήνεος</persName> 
-                  <persName xml:lang="en">Flavius Athenaeus</persName>
-                  <floruit notBefore="0491" notAfter="0536">
-                     491-536
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>father of the city</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla062.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
-               <person xml:id="fas093"> 
-                  <persName xml:lang="en">Aristocrates</persName>
-                  <floruit notBefore="0529">
-                     In or shortly after 529
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>father of the city</occupation>
-                  <listBibl>
-                     <bibl>Justinian, Nov. 160, cited VI.3</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
-               <person xml:id="fas094">
-                  <persName xml:lang="grc">Φλάβιος Φώτιος</persName> 
-                  <persName xml:lang="en">Flavius Photius</persName>
-                  <floruit notBefore="0490">
-                     Late fifth or sixth century
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>father of the city</occupation>
-                  <occupation>scholasticus</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla068.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla069.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla238.html</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
-               <person xml:id="fas095">
-                  <persName xml:lang="grc">Ῥοδοπαῖoς</persName> 
-                  <persName xml:lang="en">Rhodopaeus</persName>
-                  <floruit notBefore="0490">
-                     Late fifth or sixth century
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>fathers of the city</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla085.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
-               <person xml:id="fas096">
-                  <persName xml:lang="grc"> Θεόπομπος</persName> 
-                  <persName xml:lang="en">?Theopompus</persName>
-                  <floruit notBefore="0490">
-                     Late fifth or sixth century
-                  </floruit>
-                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
-                  <occupation>father of the city</occupation>
-                  <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla089.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
-                     <relation/>
-                  </listBibl>
-               </person>
                
             </listPerson>
          </particDesc>
@@ -1388,7 +1202,6 @@
       <revisionDesc>
          <listChange>
             <change when="2015-03-23" who="#av">added revisionDesc</change>
-            <change when="2015-03-24" who="#av">added revisionDesc</change>
             <change when="2015-03-24" who="#av">added revisionDesc</change>
          </listChange>
       </revisionDesc>
