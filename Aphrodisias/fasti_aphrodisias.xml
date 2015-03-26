@@ -1571,7 +1571,7 @@
                   <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
                   <listBibl>
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html#</bibl>
-                     <relation name="snap:HusbandOf" active="#pers012" passive="#pers"><desc>husband of Theodoreta</desc></relation>
+                     <relation name="snap:HusbandOf" active="#pers012" passive="#pers065"><desc>husband of Theodoreta</desc></relation>
                      <relation name="snap:FatherOf" active="#pers012" passive="#pers"><desc>father of Philosophia</desc></relation>
                      <relation name="snap:FatherInLaw" active="#pers012" passive="#pers"><desc>father-in-law of John Philadelphus</desc></relation>
                   </listBibl>
@@ -2198,8 +2198,8 @@
                   <listBibl>
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla169.html#</bibl>
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla243.html#</bibl>
-                     <relation name="snap:BrotherOf" active="#pers056" passive="#pers"><desc>brother of Theodore</desc></relation>
-                     <relation name="snap:SonOf" active="#pers056" passive="#pers"><desc>son of Theopemptus</desc></relation>
+                     <relation name="snap:BrotherOf" active="#pers056" passive="#pers068"><desc>brother of Theodore</desc></relation>
+                     <relation name="snap:SonOf" active="#pers056" passive="#pers072"><desc>son of Theopemptus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/zoetus1.html</idno>
                </person>
@@ -2262,18 +2262,171 @@
                <person xml:id="pers061">
                   <persName xml:lang="grc">Ἡροδιανός</persName> 
                   <persName xml:lang="en">Herodianus</persName>
-                  <floruit notBefore="1451" notAfter="1452">
-                     
+                  <floruit notBefore="0467" notAfter="0533">
+                     Late fifth century
                   </floruit>
                   <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
-                  <occupation></occupation>
                   <listBibl>
-                     <bibl></bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla066.html#</bibl>
                      <relation name="snap:FatherOf" active="#pers061" passive="#pers"><desc>father of Philip</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Herodian.html</idno>
                </person>
-               
+               <person xml:id="pers062">
+                  <persName xml:lang="grc">Θεα-</persName> 
+                  <persName xml:lang="en">Thea-</persName>
+                  <floruit notBefore="0301" notAfter="0600">
+                     Fourth-sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla154.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/thea-.html</idno>
+               </person>
+               <person xml:id="pers063">
+                  <persName xml:lang="grc">Θεοδόκιος</persName> 
+                  <persName xml:lang="en">Theodocius</persName>
+                  <floruit notBefore="0501">
+                     Sixth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla174.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theodocius1.html</idno>
+               </person>
+               <person xml:id="pers064">
+                  <persName xml:lang="grc">Θεόδορος</persName> 
+                  <persName xml:lang="en">Theodorus</persName>
+                  <floruit notBefore="0567" notAfter="0633">
+                     Late sixth/early seventh century  
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>reader</occupation>
+                  <occupation>ἀναγνόστης</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theodorus1.html</idno>
+               </person>
+               <person xml:id="pers065">
+                  <persName xml:lang="grc">Θεοδωρήτη</persName> 
+                  <persName xml:lang="en">Theodoreta</persName>
+                  <floruit notBefore="0551" notAfter="0551">
+                     AD 551
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html#</bibl>
+                     <relation name="snap:WifeOf" active="#pers065" passive="#pers012"><desc>wife of Aristolaus</desc></relation>
+                     <relation name="snap:MotherOf" active="#pers065" passive="#pers"><desc>mother of Philosophia</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theodoreta1.html</idno>
+               </person>
+               <person xml:id="pers066">
+                  <persName xml:lang="grc">Θεοδώρητος</persName> 
+                  <persName xml:lang="en">Theodoretus</persName>
+                  <floruit notBefore="0401" notAfter="0600">
+                     Fifth/sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>donor in Temple-Church</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla092.html#</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla093.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theodoretus1.html</idno>
+               </person>
+               <person xml:id="pers067">
+                  <persName xml:lang="grc">Θεόδωρος</persName> 
+                  <persName xml:lang="en">Theodorus</persName>
+                  <floruit notBefore="0401">
+                     Fifth-sixth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla114.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theodore2.html</idno>
+               </person>
+               <person xml:id="pers068">
+                  <persName xml:lang="grc">Θεόδωρος</persName> 
+                  <persName xml:lang="en">Theodorus</persName>
+                  <floruit notBefore="0301">
+                     Fourth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>keromatites</occupation>
+                  <occupation>κηροματίτης</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla169.html#</bibl>
+                     <relation name="snap:BrotherOf" active="#pers068" passive="#pesr056"><desc>brother of Zoetus</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theodorus4.html</idno>
+               </person>
+               <person xml:id="pers069">
+                  <persName xml:lang="grc">Θεόδωρος</persName> 
+                  <persName xml:lang="en">Theodorus</persName>
+                  <floruit notBefore="0301" notAfter="0600">
+                     Fourth-sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla192.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theodorus5.html</idno>
+               </person>
+               <person xml:id="pers070">
+                  <persName xml:lang="grc">Θεόδωρος Κώδων</persName> 
+                  <persName xml:lang="en">Theodorus Kodon</persName>
+                  <floruit>
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>chief reader</occupation>
+                  <occupation>superintendent</occupation>
+                  <occupation>πρωταναγνώστης</occupation>
+                  <occupation>ἐφεστῶτος</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla115.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theodore3.html</idno>
+               </person>
+               <person xml:id="pers071">
+                  <persName xml:lang="grc">Θεόκτιστος</persName> 
+                  <persName xml:lang="en">Theoctistus</persName>
+                  <floruit notBefore="0401">
+                     Fifth-sixth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla202.html#</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla204.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theoctistus1.html</idno>
+               </person>
+               <person xml:id="pers072">
+                  <persName xml:lang="grc">Θεοπέμπτος</persName> 
+                  <persName xml:lang="en">Theopemptus</persName>
+                  <floruit notBefore="0301">
+                     Fourth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla243.html#</bibl>
+                     <relation name="snap:FatherOf" active="#pers072" passive="#pers056"><desc>father of Zoetus</desc></relation>
+                     <relation name="snap:FatherOf" active="#pers072" passive="#pers068"><desc>father of Theodore</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theopemptus1.html</idno>
+               </person>
             </listPerson>
          </particDesc>
       </profileDesc>
