@@ -52,6 +52,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla006.html</bibl>
                      <bibl>SEG 41.940</bibl>
                   </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/AurDiogenes.html</idno>
                </person>
                <person xml:id="fas003">
                   <persName xml:lang="en">Anonymus</persName>
@@ -91,6 +92,7 @@
                   </listBibl>
                   <idno type="pir">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
                </person>
+               
                <person xml:id="fas006"> 
                   <persName xml:lang="en">Livius Castrius Constans</persName>
                   <floruit notBefore="0282">
@@ -248,6 +250,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="PLRE"> PLRE I</idno>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Helladius.html</idno>
                </person>
                <person xml:id="fas017">
                   <persName xml:lang="grc">Ἀντώνιος Τατιανὸς</persName>
@@ -339,6 +342,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.35</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/alexander1.html</idno>
                </person>
                <person xml:id="fas023">
                   <persName xml:lang="grc">Βερονικιανὸς</persName> 
@@ -354,6 +358,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="PLRE">PLRE I, Fl. Leontius Beronicianus</idno>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Beronicianus.html</idno>
                </person>
                <person xml:id="fas024"> 
                   <persName xml:lang="en">Flavius Baralach</persName>
@@ -399,6 +404,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.24</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Dulcitius.html</idno>
                </person>
                <person xml:id="fas027">
                   <persName xml:lang="grc">?Ἰωάννης</persName> 
@@ -537,6 +543,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.38</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Vitianus.html</idno>
                </person>
                <person xml:id="fas036"> 
                   <persName xml:lang="en">Eutheius</persName>
@@ -1167,6 +1174,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla006.html</bibl>
                      <relation name="snap:FatherOf" active="#fas082" passive="#fas083" cert="low"><desc>father of Hermogenes</desc></relation>
                   </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/VenidiusApellas.html</idno>
                </person>
                <person xml:id="fas083"> 
                   <persName xml:lang="en">?Hermogenes</persName>
@@ -1280,6 +1288,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla044.html</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ampelius.html</idno>
                </person>
                <person xml:id="fas091">
                   <persName xml:lang="grc">Ο-</persName> 
@@ -1367,6 +1376,23 @@
                      <relation/>
                   </listBibl>
                </person>
+               <person xml:id="fas097">
+                  <persName xml:lang="grc">Ἀσκληπίοδοτος, Τίτος Ὄππιος</persName> 
+                  <persName xml:lang="en">Asclepiodotus, Titus Oppius Aelianus</persName>
+                  <floruit notBefore="0282" notAfter="0283">
+                     282–283 C.E.
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/599564">Caria</residence>
+                  <occupation>governor</occupation>
+                  <occupation>ὑπατικὸς ἡγεμόνας</occupation>
+                  <listBibl>
+                     <bibl>PIR (2) O 0115</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla007.html</bibl>
+                     <bibl>Christol, Carrières, 219-21</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/OppAsclepiodotus.html</idno>
+               </person>
                <!--<person xml:id="pers000">
                   <persName xml:lang="grc"></persName> 
                   <persName xml:lang="en"></persName>
@@ -1390,7 +1416,7 @@
                   <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
                   <listBibl>
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
-                     <relation name="snap:BrotherOf" active="#pers001" passive="#pers"><desc>Brother of George</desc></relation>
+                     <relation name="snap:BrotherOf" active="#pers001" passive="#pers025"><desc>Brother of George</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/abelcius.html</idno>
                </person>
@@ -1421,6 +1447,501 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/athanasius2.html</idno>
+               </person>
+               <person xml:id="pers004">
+                  <persName xml:lang="grc">Αἰλιανός</persName> 
+                  <persName xml:lang="en">Aelianus</persName>
+                  <floruit notBefore="0201" notAfter="0400">
+                     Late imperial
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla193.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/aelianus1.html</idno>
+               </person>
+               <person xml:id="pers005">
+                  <persName xml:lang="grc">Ἀλβῖνος</persName> 
+                  <persName xml:lang="en">Albinus</persName>
+                  <floruit notBefore="0501" notAfter="0600">
+                     Sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>clarissimus</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla082.html#</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla083.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Albinus.html</idno>
+               </person> 
+               <person xml:id="pers006">
+                  <persName xml:lang="grc">Ἀλέξανδρος</persName> 
+                  <persName xml:lang="en">Alexander</persName>
+                  <floruit notBefore="0301">
+                     Fourth-sixth century, or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>barber</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla191.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/alexander2.html</idno>
+               </person>
+               <person xml:id="pers007">
+                  <persName xml:lang="grc">Ἀναστάσιος</persName> 
+                  <persName xml:lang="en">Anastasius</persName>
+                  <floruit notBefore="0401" notAfter="0600">
+                     Fifth/sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>donor in the Temple-Church</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla094.html#</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla095.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Anastasius.html</idno>
+               </person>
+               <person xml:id="pers008">
+                  <persName xml:lang="grc">Ἀνατόλις</persName> 
+                  <persName xml:lang="en">Anatolis</persName>
+                  <floruit notBefore="0401">
+                     Fifth/sixth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>donor in the Temple-Church</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla098.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Anatolis.html</idno>
+               </person>
+               <person xml:id="pers009">
+                  <persName xml:lang="grc">Ἀνδρόκλης</persName> 
+                  <persName xml:lang="en">Androcles</persName>
+                  <floruit notBefore="0301" notAfter="0400">
+                     Fourth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>donor in the Theatre</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla034.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Androcles.html</idno>
+               </person>
+               <person xml:id="pers010">
+                  <persName xml:lang="grc">Ἀνδρόνικος, Φλάβιος</persName> 
+                  <persName xml:lang="en">Andronicus, Flavius</persName>
+                  <floruit notBefore="0337" notAfter="0350">
+                     c. AD 337-350
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>perfectissimus</occupation>
+                  <occupation> sculptor</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla013.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/FlAndronicus.html</idno>
+               </person>
+               <person xml:id="pers011">
+                  <persName xml:lang="grc">Ἀνθέμιος</persName> 
+                  <persName xml:lang="en">Anthemius</persName>
+                  <floruit notBefore="0405" notAfter="0414">
+                     AD 405/414
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla036.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Anthemius.html</idno>
+               </person>
+               <person xml:id="pers012">
+                  <persName xml:lang="grc">Αριστόλαος</persName> 
+                  <persName xml:lang="en">Aristolaus</persName>
+                  <floruit notBefore="0551" notAfter="0551">
+                     AD 551
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html#</bibl>
+                     <relation name="snap:HusbandOf" active="#pers012" passive="#pers"><desc>husband of Theodoreta</desc></relation>
+                     <relation name="snap:FatherOf" active="#pers012" passive="#pers"><desc>father of Philosophia</desc></relation>
+                     <relation name="snap:FatherInLaw" active="#pers012" passive="#pers"><desc>father-in-law of John Philadelphus</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/aristolaus1.html</idno>
+               </person>
+               <person xml:id="pers013">
+                  <persName xml:lang="grc">Ἄρκιμος/Ἄλκιμος</persName> 
+                  <persName xml:lang="en">Arcimus/Alcimus</persName>
+                  <floruit notBefore="0401" notAfter="0600">
+                     Fifth-sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla162.html#</bibl>
+                     <relation name="snap:SonOf" active="#pers013" passive="#pers030"><desc>son of Damocharis</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/arcimus1.html</idno>
+               </person>
+               <person xml:id="pers014">
+                  <persName xml:lang="grc">Ἀσκληπιόδοτος</persName> 
+                  <persName xml:lang="en">Asclepiodotus</persName>
+                  <floruit notBefore="0467" notAfter="0500">
+                     Late fifth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>philosopher</occupation>
+                  <occupation>benefactor</occupation>
+                  <listBibl>
+                     <bibl>PLRE II, Asclepiodotus 2</bibl>
+                     <bibl>Dictionnaire des philosophes antiques (Paris, 1989-) A 454</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla053.html#</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla054.html#</bibl>
+                     <relation name="snap:FatherOf" active="#pers014" passive="pers''"><desc>father of Damiane</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/AsclepiodotusAph.html</idno>
+               </person>
+               <person xml:id="pers015">
+                  <persName xml:lang="grc">Ἀσκληπιόδοτος</persName> 
+                  <persName xml:lang="en">Asclepiodotus</persName>
+                  <floruit notBefore="0301">
+                     Fourth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla175.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/asclepiodotus1.html</idno>
+               </person>
+               <person xml:id="pers016">
+                  <persName xml:lang="grc">Ἀστέριος</persName> 
+                  <persName xml:lang="en">Asterius</persName>
+                  <floruit notBefore="0401">
+                     Fifth-sixth century or later 
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>pandouros</occupation>
+                  <occupation>πανδούρος</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla113.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/asterius1.html</idno>
+               </person>
+               <person xml:id="pers017">
+                  <persName xml:lang="grc">Ἀστέριος</persName> 
+                  <persName xml:lang="en">Asterius</persName>
+                  <floruit notBefore="0201" notAfter="0400">
+                     Third-fourth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>cursor of the phylae</occupation>
+                  <occupation>κούρσορος</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla150.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/asterius2.html</idno>
+               </person>
+               <person xml:id="pers018">
+                  <persName xml:lang="grc">Αὐχένιος, Μάρκος Αὐρ. Λεόντηος</persName> 
+                  <persName xml:lang="en">Auchenius, Marcus Aurelius Leontius</persName>
+                  <floruit notBefore="0267" notAfter="0333">
+                     Late third/early fourth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>teacher</occupation>
+                  <occupation>διδάσκαλος</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/auchenius1.html</idno>
+               </person>
+               <person xml:id="pers019">
+                  <persName xml:lang="grc">Ἀχαειός</persName> 
+                  <persName xml:lang="en">Achaeius</persName>
+                  <floruit notBefore="0567" notAfter="0633">
+                     Late sixth/early seventh century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html#</bibl>
+                     <relation name="snap:FatherOf" active="#pers019" passive="#pers"><desc>father of Theocharistus</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/achaeius.html</idno>
+               </person>
+               <person xml:id="pers020">
+                  <persName xml:lang="grc">Ἀχεός</persName> 
+                  <persName xml:lang="en">Acheus</persName>
+                  <floruit notBefore="0101" notAfter="0400">
+                     Second/fourth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation></occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla147.html#</bibl>
+                     <relation name="snap:FatherOf" active="#pers020" passive="#pers"><desc>father of Euarestus</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Acheus.html</idno>
+               </person>
+               <person xml:id="pers021">
+                  <persName xml:lang="grc">Βαλεριανός</persName> 
+                  <persName xml:lang="en">Valerianus</persName>
+                  <floruit notBefore="0430" notAfter="0467">
+                     Mid-fifth century/Late fifth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>princeps officii</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla041.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Valerianus.html</idno>
+               </person>
+               <person xml:id="pers022">
+                  <persName xml:lang="grc">Βίκτωρ</persName> 
+                  <persName xml:lang="en">Victor</persName>
+                  <floruit notBefore="0401" notAfter="0600">
+                     Fifth/sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>a prefect</occupation>
+                  <occupation>λαμπρότατος</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla072.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Victor.html</idno>
+               </person>
+               <person xml:id="pers023">
+                  <persName xml:lang="grc">Βικτωρεῖνος</persName> 
+                  <persName xml:lang="en">Victorinus</persName>
+                  <floruit notBefore="0267" notAfter="0333">
+                     Late third/early fourth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>praefectus vehiculorum</occupation>
+                  <occupation>πρωτηκτόρων ἔπαρχος</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla152.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/victorinus1.html</idno>
+               </person>
+               <person xml:id="pers024">
+                  <persName xml:lang="grc">Γαιόργηος</persName> 
+                  <persName xml:lang="grc">Γεοργήιος</persName>
+                  <persName xml:lang="en">George</persName>
+                  <floruit notBefore="0401">
+                     Fifth-sixth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george3.html</idno>
+               </person>
+               <person xml:id="pers025">
+                  <persName xml:lang="grc">Γεόργις</persName> 
+                  <persName xml:lang="en">George</persName>
+                  <floruit notBefore="0567" notAfter="0633">
+                     Late sixth/early seventh century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation></occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html#</bibl>
+                     <relation name="snap:BrotherOf" active="#pers025" passive="#pers001"><desc>brother of Abelcius</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george1.html</idno>
+               </person>
+               <person xml:id="pers026">
+                  <persName xml:lang="grc">Γεώργηος</persName> 
+                  <persName xml:lang="grc">Γηόργης</persName>
+                  <persName xml:lang="en">George</persName>
+                  <floruit notBefore="0401">
+                     Fifth-sixth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla131.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george2.html</idno>
+               </person>
+               <person xml:id="pers027">
+                  <persName xml:lang="grc">Γεώργιος</persName> 
+                  <persName xml:lang="en">George</persName>
+                  <floruit notBefore="0401">
+                     Fifth-sixth century or later
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla241.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george6.html</idno>
+               </person> 
+               <person xml:id="pers028">
+                  <persName xml:lang="grc">Γεώργιος</persName> 
+                  <persName xml:lang="en">George</persName>
+                  <floruit notBefore="0401">
+                     Fifth-sixth century or later  
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla247.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george5.html</idno>
+               </person>
+               <person xml:id="pers029">
+                  <persName xml:lang="grc">Δαμοχάρης Φλαουίος</persName> 
+                  <persName xml:lang="en">Damochares, Flavius</persName>
+                  <floruit notBefore="0301" notAfter="0500">
+                     Fourth-fifth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>cursor</occupation>
+                  <occupation>κούρσορος</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla116.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/damocharis2.html</idno>
+               </person>
+               <person xml:id="pers030">
+                  <persName xml:lang="grc">Δαμόχαρις</persName> 
+                  <persName xml:lang="en">Damocharis</persName>
+                  <floruit notBefore="0401" notAfter="0600">
+                     Fifth-sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation></occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla162.html#</bibl>
+                     <relation name="snap:FatherOf" active="#pers030" passive="#pers013"><desc>father of Arcimus</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/damocharis1.html</idno>
+               </person>
+               <person xml:id="pers031">
+                  <persName xml:lang="grc">Διονυσία, Αὐρηλία</persName> 
+                  <persName xml:lang="en">Dionysia, Aurelia</persName>
+                  <floruit notBefore="0101" notAfter="0400">
+                     Second/fourth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla148.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/dionysia1.html</idno>
+               </person>
+               <person xml:id="pers032">
+                  <persName xml:lang="grc">Διονύσιος</persName> 
+                  <persName xml:lang="en">Dionysius</persName>
+                  <floruit notBefore="0401" notAfter="0500">
+                     Fifth century 
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>doctor</occupation>
+                  <occupation>ἰατρός</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla067.html#</bibl>
+                     <relation name="snap:SonOf" active="#pers032" passive="#pers"><desc>son of Photeinus</desc></relation>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Dionysius.html</idno>
+               </person>
+               <person xml:id="pers033">
+                  <persName xml:lang="grc">Ἑορτάσιος</persName> 
+                  <persName xml:lang="en">Heortasius</persName>
+                  <floruit notBefore="0201" notAfter="0400">
+                     ?Late imperial
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla195.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/heortasius1.html</idno>
+               </person> 
+               <person xml:id="pers034">
+                  <persName xml:lang="grc">Ἐπίκτητος</persName> 
+                  <persName xml:lang="en">Epictetus</persName>
+                  <floruit >
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>capsarius</occupation>
+                  <occupation>κανψάριος</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla190.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Epictetus.html</idno>
+               </person>
+               <person xml:id="pers035">
+                  <persName xml:lang="grc">Ἐπιφάνις</persName> 
+                  <persName xml:lang="en">Epiphanios</persName>
+                  <floruit notBefore="0401" notAfter="0600">
+                     Probably fifth/sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>bull-rearer</occupation>
+                  <occupation>ταυρωτρόφος</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla190.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/epiphanios1.html</idno>
+               </person> 
+               <person xml:id="pers036">
+                  <persName xml:lang="grc">Ἑπταμήνιος</persName> 
+                  <persName xml:lang="en">Heptamenius</persName>
+                  <floruit notBefore="0201" notAfter="0400">
+                    ?Late imperial
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla207.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/heptamenius1.html</idno>
+               </person>
+               <person xml:id="pers037">
+                  <persName xml:lang="grc">Ἑρμίας</persName> 
+                  <persName xml:lang="en">Hermias</persName>
+                  <floruit notBefore="0467" notAfter="0533">
+                     Late fifth/sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <occupation>benefactor</occupation>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla074.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/hermias1.html</idno>
+               </person>
+               <person xml:id="pers038">
+                  <persName xml:lang="grc">Ἑρμίας</persName> 
+                  <persName xml:lang="en">Hermias</persName>
+                  <floruit notBefore="0301" notAfter="0600">
+                     Fourth to sixth century
+                  </floruit>
+                  <residence ref="http://pleiades.stoa.org/places/638753">Aphrodisias</residence>
+                  <listBibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla223.html#</bibl>
+                     <relation/>
+                  </listBibl>
+                  <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/hermias3.html</idno>
                </person>
             </listPerson>
          </particDesc>
