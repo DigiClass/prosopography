@@ -23,12 +23,10 @@
                   <persName xml:lang="grc">Ἀχιλλεύς</persName>
                   <listBibl>
                      <bibl></bibl>
-                     <relation name="snap:sonOf" active="#Achilles"
-                        passive="http://en.wikipedia.org/wiki/Peleus">
+                     <relation active="#Achilles" ref="snap:sonOf" passive="http://en.wikipedia.org/wiki/Peleus">
                         <desc>son of Peleus</desc>
                      </relation>
-                     <relation name="snap:sonOf" active="#Achilles"
-                        passive="http://en.wikipedia.org/wiki/Thetis">
+                     <relation active="#Achilles" ref="snap:sonOf" passive="http://en.wikipedia.org/wiki/Thetis">
                         <desc>son of Thetis</desc>
                      </relation>
                   </listBibl>
@@ -41,8 +39,7 @@
                   <occupation>King</occupation>
                   <residence ref="http://pleiades.stoa.org/places/570491">Mycenae</residence>
                      <listBibl><bibl></bibl>
-                     <relation name="snap:BrotherOf" active="#Agamemnon"
-                        passive="#Menelaus">
+                     <relation active="#Agamemnon" ref="snap:BrotherOf" passive="#Menelaus">
                         <desc>elder brother of King Menelaus</desc>
                      </relation>
                   </listBibl>
@@ -56,8 +53,7 @@
                   <persName xml:lang="en">Greater Ajax</persName>
                   <persName xml:lang="grc">Αίας</persName>
                   <listBibl><bibl></bibl>
-                     <relation name="snap:SonOf" active="#Ajax"
-                        passive="http://en.wikipedia.org/wiki/Telamon">
+                     <relation active="#Ajax" ref="snap:SonOf" passive="http://en.wikipedia.org/wiki/Telamon">
                         <desc>son of Telamon</desc>
                      </relation></listBibl>
                </person>
@@ -66,8 +62,7 @@
                   <persName xml:lang="en">Ajax the Lesser</persName>
                   <listBibl>
                      <bibl></bibl>
-                     <relation name="snap:SonOf" active="#Ajax_the_Lesser"
-                        passive="http://en.wikipedia.org/wiki/Oileus">
+                     <relation active="#Ajax_the_Lesser" ref="snap:SonOf" passive="http://en.wikipedia.org/wiki/Oileus">
                         <desc>son of Oileus</desc></relation>
                   </listBibl>
                </person>
@@ -91,8 +86,7 @@
                   <persName xml:lang="grc">Ελένη</persName>
                   <listBibl>
                      <bibl></bibl>
-                     <relation name="snap:WifeOf" active="#Helen"
-                     passive="#Menelaus"><desc>wife of Menelaus</desc></relation>
+                     <relation active="#Helen" ref="snap:WifeOf" passive="#Menelaus"><desc>wife of Menelaus</desc></relation>
                   </listBibl>
                </person>
 
@@ -112,10 +106,10 @@
                   <affiliation>Sparta</affiliation>
                   <listBibl>
                      <bibl></bibl>
-                        <relation name="snap:HusbandOf" active="#Menelaus" 
-                        passive="#Helen"><desc>the abandoned husband of Helen</desc></relation>
-                     <relation name="snap:BrotherOf" active="#Menelaus" 
-                        passive="#Agamemnon"><desc>younger brother of Agamemnon</desc></relation>
+                        <relation active="#Menelaus" ref="snap:HusbandOf" passive="#Helen">
+                           <desc>the abandoned husband of Helen</desc></relation>
+                     <relation active="#Menelaus" ref="snap:BrotherOf"  passive="#Agamemnon">
+                        <desc>younger brother of Agamemnon</desc></relation>
                   </listBibl>
                 </person>
 
@@ -126,7 +120,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/570261">Gerênia</affiliation> 
                   <listBibl>
                      <bibl></bibl>
-                     <relation name="snap:SonOf" active="#Nestor"><desc>the son of Neleus</desc></relation></listBibl>
+                     <relation active="#Nestor" ref="snap:SonOf"><desc>the son of Neleus</desc></relation></listBibl>
                </person>
 
                <person xml:id="Odysseus">
@@ -154,7 +148,7 @@
                      xml:lang="en">Teucer</persName>
                   <listBibl>
                      <bibl></bibl>
-                     <relation name="snap:BrotherOf_snap:HalfFamilyRelationship" active="#Teucer" passive="#Ajax">
+                     <relation active="#Teucer" ref="snap:BrotherOf_snap:HalfFamilyRelationship" passive="#Ajax">
                      <desc>half-brother of Ajax</desc></relation></listBibl>
                </person>
 
@@ -165,9 +159,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                   <listBibl>
                      <bibl></bibl>
-                    <relation name="snap:CousinOf" active="#Aeneas" passive="#Hector">
+                    <relation active="#Aeneas" ref="snap:CousinOf" passive="#Hector">
                         <desc>cousin of Hector</desc></relation>
-                     <relation name="snap:SonOf" active="#Aeneas" passive="#Aphrodite">
+                     <relation active="#Aeneas" ref="snap:SonOf" passive="#Aphrodite">
                         <desc>son of Aphrodite</desc></relation>
                   </listBibl>
                </person>
@@ -197,9 +191,11 @@
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                   <listBibl>
                      <bibl></bibl>
-                     <relation passive="http://en.wikipedia.org/wiki/Andromache"><desc>husband of Andromache</desc></relation>
-                     <relation><desc>firstborn son of King Priam</desc></relation>
-                     <relation passive="http://en.wikipedia.org/wiki/Astyanax"><desc>father of Astyanax</desc></relation>
+                     <relation active="#Hector" ref="snap:HusbandOf" passive="http://en.wikipedia.org/wiki/Andromache"><desc>husband of Andromache</desc></relation>
+                     <relation active="#Hector" ref="snap:SonOf" passive="#Priam"><desc>firstborn son of King Priam</desc></relation>
+                     <relation active="#Hector" ref="snap:SonOf" passive="http://en.wikipedia.org/wiki/Hecuba"><desc>son of Hecuba</desc></relation>
+                     <relation active="#Hector" ref="snap:FatherOf" passive="http://en.wikipedia.org/wiki/Astyanax"><desc>father of Astyanax</desc></relation>
+                  <relation active="#Hector" ref="snap:BrotherOf" passive="#Paris"><desc>his sister Cassandra</desc></relation>
                   </listBibl>
                </person>
 
@@ -211,9 +207,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                   <listBibl>
                      <bibl></bibl>
-                     <relation><desc>Hector's brother</desc></relation>
-                     <relation><desc>his abduction of Helen</desc></relation>
-                     <relation passive="http://en.wikipedia.org/wiki/Cassandra"><desc>his sister Cassandra</desc></relation>
+                     <relation active="#Paris" ref="snap:BrotherOf" passive="#Hector"><desc>Hector's brother</desc></relation>
+                     <relation active="#Paris" ref="snap:IntimateRelationship" passive="#Helen"><desc>his abduction of Helen</desc></relation>
+                     <relation active="#Paris" ref="snap:BrotherOf" passive="http://en.wikipedia.org/wiki/Cassandra"><desc>his sister Cassandra</desc></relation>
                   </listBibl>
                </person>
 
@@ -231,10 +227,10 @@
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                   <listBibl>
                      <bibl></bibl>
-                     <relation passive="http://en.wikipedia.org/wiki/Laomedon"><desc>son and successor of Laomedon</desc></relation>
-                     <relation passive="http://en.wikipedia.org/wiki/Hecuba"><desc>husband of Queen Hecuba</desc></relation>
-                     <relation><desc>father of Hector</desc></relation>
-                     <relation><desc>father of Paris</desc></relation>
+                     <relation active="#Priam" ref="snap:SonOf" passive="http://en.wikipedia.org/wiki/Laomedon"><desc>son and successor of Laomedon</desc></relation>
+                     <relation active="#Priam" ref="snap:HusbandOf" passive="http://en.wikipedia.org/wiki/Hecuba"><desc>husband of Queen Hecuba</desc></relation>
+                     <relation active="#Priam" ref="snap:FatherOf" passive="#Hector"><desc>father of Hector</desc></relation>
+                     <relation active="#Priam" ref="snap:FatherOf" passive="#Paris"><desc>father of Paris</desc></relation>
                   </listBibl>
                </person>
 
@@ -244,7 +240,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638965">Lycia</affiliation>
                   <listBibl>
                      <bibl></bibl>
-                     <relation><desc>Son of Zeus</desc></relation>
+                     <relation active="#Sarpedon" ref="snap:SonOf" passive="#Zeus"><desc>Son of Zeus</desc></relation>
                   </listBibl>
                </person>
 
@@ -254,7 +250,7 @@
                      xml:lang="en">Laertes</persName>
                   <listBibl>
                      <bibl></bibl>
-                     <relation><desc>father of Odysseus</desc></relation>
+                     <relation active="#Laertes" ref="snap:FatherOf" passive="#Odysseus"><desc>father of Odysseus</desc></relation>
                   </listBibl>
                </person>
 
@@ -263,8 +259,8 @@
                   <persName xml:lang="en">Penelope</persName>
                   <listBibl>
                      <bibl></bibl>
-                     <relation><desc>wife of Odysseus</desc></relation>
-                     <relation><desc>mother of Telemachus</desc></relation>
+                     <relation active="#Penelope" ref="snap:WifeOf" passive="#Odysseus"><desc>wife of Odysseus</desc></relation>
+                     <relation active="#Penelope" ref="snap:MotherOf" passive="#Telemachus"><desc>mother of Telemachus</desc></relation>
                   </listBibl>
                </person>
 
@@ -273,8 +269,8 @@
                   <persName xml:lang="en">Telemachus</persName>
                   <listBibl>
                      <bibl></bibl>
-                     <relation><desc>son of Odysseus</desc></relation>
-                     <relation><desc>son of Penelope</desc></relation>
+                     <relation active="#Telemachus" ref="snap:SonOf" passive="#Odysseus"><desc>son of Odysseus</desc></relation>
+                     <relation active="#Telemachus" ref="snap:SonOf" passive="#Penelope"><desc>son of Penelope</desc></relation>
                   </listBibl>
                   
                </person>
@@ -297,10 +293,10 @@
                <person xml:id="Briseis">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Briseis</idno>
                   <persName xml:lang="en">Briseis</persName>
-                  <affiliation>Lyrnessos</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/550703">Lyrnessos</affiliation>
                   <listBibl>
                      <bibl></bibl>
-                     <relation><desc>mistress and love interest of Achilles</desc></relation>
+                     <relation active="#Briseis" ref="snap:IntimateRelationship" passive="#Achilles"><desc>mistress and love interest of Achilles</desc></relation>
                   </listBibl>
                   
                </person>
@@ -310,14 +306,12 @@
                   <persName xml:lang="en">Chryseis</persName>
                   <listBibl>
                      <bibl></bibl>
-                     <relation><desc>Chryses’ daughter</desc></relation>
-                     <relation><desc>taken as a war prize by Agamemnon</desc></relation>
+                     <relation ref="snap:DaughterOf"><desc>Chryses’ daughter</desc></relation>
+                     <relation active="#Chryseis" ref="snap:IntimateRelationship" passive="#Agamemnon"><desc>taken as a war prize by Agamemnon</desc></relation>
                   </listBibl>
-                  
-                  
                </person>
 
-               <person xml:id="Aphrodite">
+               <person xml:id="Aphrodite" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Aphrodite</idno>
                   <persName xml:lang="en">Aphrodite</persName>
                   <occupation>goddess of love, beauty, and sexual pleasure</occupation>
@@ -329,12 +323,12 @@
                   </listBibl>
                </person>
 
-               <person xml:id="Apollo">
+               <person xml:id="Apollo" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Apollo_(mythology)</idno>
                   <persName xml:lang="en">Apollo</persName>
                </person>
 
-               <person xml:id="Ares">
+               <person xml:id="Ares" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Ares</idno>
                   <persName xml:lang="en">Ares</persName>
                      <occupation>god of war</occupation>
@@ -344,50 +338,50 @@
                      </listBibl>
                </person>
 
-               <person xml:id="Athena">
+               <person xml:id="Athena" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Athena</idno>
                   <persName xml:lang="en">Athena</persName>
-                  goddess of wisdom
+                  <occupation>goddess of wisdom</occupation>
                </person>
 
-               <person xml:id="Hera">
+               <person xml:id="Hera" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Hera</idno>
                   <persName xml:lang="en">Hera</persName>
-                  queen of the gods
+                  <occupation>queen of the gods</occupation>
                </person>
 
-               <person xml:id="Hermes">
+               <person xml:id="Hermes" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Hermes</idno>
                   <persName   xml:lang="en">Hermes</persName>
-                  messenger of the gods
+                  <occupation>messenger of the gods</occupation>
                </person>
 
-               <person xml:id="Iris">
+               <person xml:id="Iris" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Iris_(mythology)</idno>
                   <persName xml:lang="en">Iris</persName>
-                  messenger of Zeus and Hera
+                  <occupation>messenger of Zeus and Hera</occupation>
                </person>
 
-               <person xml:id="Poseidon">
+               <person xml:id="Poseidon" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Poseidon</idno>
                   <persName xml:lang="en">Poseidon</persName>
-                  god of the sea and earthquake
+                  <occupation>god of the sea and earthquake</occupation>
                   <listBibl>
                      <bibl></bibl>
-                     <relation><desc>brother of Zeus</desc></relation>
+                     <relation active="#Poseidon" ref="snap:BrotherOf" passive="#Zeus"><desc>brother of Zeus</desc></relation>
                   </listBibl>
                </person>
 
-               <person xml:id="Zeus">
+               <person xml:id="Zeus" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Zeus</idno>
                   <persName xml:lang="en">Zeus</persName>
-                  king of the Gods
+                  <occupation>king of the Gods</occupation>
                   <listBibl>
                      <bibl></bibl>
-                     <relation><desc>brother of Poseidon</desc></relation>
-                     <relation><desc>father of Athena</desc></relation>
-                     <relation><desc>father of Aphrodite</desc></relation>
-                     <relation><desc>father of Helen</desc></relation>
+                     <relation active="#Zeus" ref="snap:BrotherOf" passive="#Poseidon"><desc>brother of Poseidon</desc></relation>
+                     <relation active="#Zeus" ref="snap:FatherOf" passive="#Athena"><desc>father of Athena</desc></relation>
+                     <relation active="#Zeus" ref="snap:FatherOf" passive="#Aphrodite"><desc>father of Aphrodite</desc></relation>
+                     <relation active="#Zeus" ref="snap:FatherOf" passive="#Helen"><desc>father of Helen</desc></relation>
                   </listBibl>
                </person>
 
