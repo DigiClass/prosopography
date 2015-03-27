@@ -6,7 +6,9 @@
             <title>Wikipedia articles on characters in Homer</title>
          </titleStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <authority>http://orcid.org/0000-0002-8566-6666</authority>
+            <publisher>http://snapdrgn.net/</publisher>
+            <idno>http://example.com/prosopography/wp-iliad/</idno>
          </publicationStmt>
          <sourceDesc>
             <p><ref>http://en.wikipedia.org/wiki/List_of_Homeric_characters</ref>,
@@ -19,7 +21,7 @@
             <listPerson>
                <person xml:id="Achilles">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Achilles</idno>
-                  <persName xml:lang="en">Achilles</persName>
+                  <persName type="citable" xml:lang="en">Achilles</persName>
                   <persName xml:lang="grc">Ἀχιλλεύς</persName>
                   <listBibl>
                      <bibl></bibl>
@@ -34,7 +36,7 @@
                
                <person xml:id="Agamemnon">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Agamemnon</idno>
-                  <persName xml:lang="en">Agamemnon</persName>
+                  <persName type="citable" xml:lang="en">Agamemnon</persName>
                   <persName xml:lang="grc">Ἀγαμέμνων</persName>
                   <occupation>King</occupation>
                   <residence ref="http://pleiades.stoa.org/places/570491">Mycenae</residence>
@@ -47,7 +49,7 @@
                </person>
                <person xml:id="Ajax">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_(mythology)</idno>
-                  <persName xml:lang="en">Ajax</persName>
+                  <persName type="citable" xml:lang="en">Ajax</persName>
                   <persName xml:lang="en">Aias</persName>
                   <persName xml:lang="en">Telamonian Ajax</persName>
                   <persName xml:lang="en">Greater Ajax</persName>
@@ -59,7 +61,9 @@
                </person>
                <person xml:id="Ajax_the_Lesser">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_the_Lesser</idno>
-                  <persName xml:lang="en">Ajax the Lesser</persName>
+                  <persName type="citable" xml:lang="en">Ajax the Lesser</persName>
+                  <persName xml:lang="en">Ajax</persName>
+                  <persName xml:lang="grc">Αίας</persName>
                   <listBibl>
                      <bibl></bibl>
                      <relation active="#Ajax_the_Lesser" ref="snap:SonOf" passive="http://en.wikipedia.org/wiki/Oileus">
@@ -69,20 +73,20 @@
 
                <person xml:id="Calchas">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Calchas</idno>
-                  <persName xml:lang="en">Calchas</persName>
+                  <persName type="citable" xml:lang="en">Calchas</persName>
                   <persName xml:lang="grc">Κάλχας</persName>
                   <occupation>priest</occupation>
                </person>
 
                <person xml:id="Diomedes">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Diomedes</idno>
-                  <persName xml:lang="en">Diomedes</persName>
+                  <persName type="citable" xml:lang="en">Diomedes</persName>
                   <persName xml:lang="grc">Διομήδης</persName>
                </person>
 
                <person xml:id="Helen">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Helen_of_Troy</idno>
-                  <persName xml:lang="en">Helen</persName>
+                  <persName type="citable" xml:lang="en">Helen</persName>
                   <persName xml:lang="grc">Ελένη</persName>
                   <listBibl>
                      <bibl></bibl>
@@ -92,7 +96,7 @@
 
                <person xml:id="Idomeneus">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Idomeneus</idno>
-                  <persName xml:lang="en">Idomeneus</persName>
+                  <persName type="citable" xml:lang="en">Idomeneus</persName>
                   <persName xml:lang="grc">Ιδομενέας</persName>
                   <occupation>King</occupation>
                   <affiliation ref="http://pleiades.stoa.org/places/589748">Crete</affiliation>
@@ -100,7 +104,7 @@
 
                <person xml:id="Menelaus">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Menelaus_(king)</idno>
-                  <persName xml:lang="en">Menelaus</persName>
+                  <persName type="citable" xml:lang="en">Menelaus</persName>
                   <persName xml:lang="grc">Μενέλαος</persName>
                   <occupation>King</occupation>
                   <affiliation>Sparta</affiliation>
@@ -115,7 +119,7 @@
 
                <person xml:id="Nestor">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Nestor_(mythology)</idno>
-                  <persName xml:lang="en">Nestor</persName>
+                  <persName type="citable" xml:lang="en">Nestor</persName>
                   <persName xml:lang="grc">Νέστωρ</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/570261">Gerênia</affiliation> 
                   <listBibl>
@@ -125,7 +129,7 @@
 
                <person xml:id="Odysseus">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Odysseus</idno>
-                  <persName xml:lang="en">Odysseus</persName>
+                  <persName type="citable" xml:lang="en">Odysseus</persName>
                   <persName xml:lang="grc">Ὀδυσσεύς</persName>
                   <occupation>King</occupation>
                   <affiliation ref="http://pleiades.stoa.org/places/530906">Ithaca</affiliation>
@@ -133,18 +137,18 @@
 
                <person xml:id="Patroclus">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Patroclus</idno>
-                  <persName xml:lang="en">Patroclus</persName>
+                  <persName type="citable" xml:lang="en">Patroclus</persName>
                   <persName xml:lang="grc">Πάτροκλος</persName>
                 </person>
 
                <person xml:id="Phoenix">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Phoenix_(son_of_Amyntor)</idno>
-                  <persName xml:lang="en">Phoenix</persName>
+                  <persName type="citable" xml:lang="en">Phoenix</persName>
                 </person>
 
                <person xml:id="Teucer">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Teucer</idno>
-                  <persName
+                  <persName type="citable"
                      xml:lang="en">Teucer</persName>
                   <listBibl>
                      <bibl></bibl>
@@ -154,7 +158,7 @@
 
                <person xml:id="Aeneas">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Aeneas</idno>
-                  <persName   xml:lang="en">Aeneas</persName>
+                  <persName type="citable"   xml:lang="en">Aeneas</persName>
                   <persName xml:lang="grc">Αἰνείας</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                   <listBibl>
@@ -168,25 +172,25 @@
 
                <person xml:id="Agenor">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Agenor</idno>
-                  <persName   xml:lang="en">Agenor</persName>
+                  <persName type="citable"   xml:lang="en">Agenor</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                   </person>
 
                <person xml:id="Antenor">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Antenor_(mythology)</idno>
-                  <persName xml:lang="en">Antenor</persName>
+                  <persName type="citable" xml:lang="en">Antenor</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                </person>
 
                <person xml:id="Glaucus">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Glaucus_(soldier)</idno>
-                  <persName xml:lang="en">Glaucus</persName>
+                  <persName type="citable" xml:lang="en">Glaucus</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/638965">Lycia</affiliation>
                </person>
 
                <person xml:id="Hector">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Hector</idno>
-                  <persName xml:lang="en">Hector</persName>
+                  <persName type="citable" xml:lang="en">Hector</persName>
                   <persName xml:lang="grc">Ἕκτωρ</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                   <listBibl>
@@ -201,7 +205,7 @@
 
                <person xml:id="Paris">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Paris_(mythology)</idno>
-                  <persName xml:lang="en">Paris</persName>
+                  <persName type="citable" xml:lang="en">Paris</persName>
                   <persName xml:lang="en">Alexander</persName>
                   <persName xml:lang="grc">Πάρις</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
@@ -215,13 +219,13 @@
 
                <person xml:id="Polydamas">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Polydamas_(Iliad)</idno>
-                  <persName xml:lang="en">Polydamas</persName>
+                  <persName type="citable" xml:lang="en">Polydamas</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                </person>
 
                <person xml:id="Priam">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Priam</idno>
-                  <persName xml:lang="en">Priam</persName>
+                  <persName type="citable" xml:lang="en">Priam</persName>
                   <persName xml:lang="grc">Πρίαμος</persName>
                   <occupation>king</occupation>
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
@@ -236,7 +240,7 @@
 
                <person xml:id="Sarpedon">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Sarpedon</idno>
-                  <persName xml:lang="en">Sarpedon</persName>
+                  <persName type="citable" xml:lang="en">Sarpedon</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/638965">Lycia</affiliation>
                   <listBibl>
                      <bibl></bibl>
@@ -246,7 +250,7 @@
 
                <person xml:id="Laertes">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Laertes</idno>
-                  <persName
+                  <persName type="citable"
                      xml:lang="en">Laertes</persName>
                   <listBibl>
                      <bibl></bibl>
@@ -256,7 +260,7 @@
 
                <person xml:id="Penelope">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Penelope</idno>
-                  <persName xml:lang="en">Penelope</persName>
+                  <persName type="citable" xml:lang="en">Penelope</persName>
                   <listBibl>
                      <bibl></bibl>
                      <relation active="#Penelope" ref="snap:WifeOf" passive="#Odysseus"><desc>wife of Odysseus</desc></relation>
@@ -266,7 +270,7 @@
 
                <person xml:id="Telemachus">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Telemachus</idno>
-                  <persName xml:lang="en">Telemachus</persName>
+                  <persName type="citable" xml:lang="en">Telemachus</persName>
                   <listBibl>
                      <bibl></bibl>
                      <relation active="#Telemachus" ref="snap:SonOf" passive="#Odysseus"><desc>son of Odysseus</desc></relation>
@@ -277,22 +281,22 @@
 
                <person xml:id="Amphinomus">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Amphinomus</idno>
-                  <persName xml:lang="en">Amphinomus</persName>
+                  <persName type="citable" xml:lang="en">Amphinomus</persName>
                </person>
 
                <person xml:id="Antinous">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Antinous_son_of_Eupeithes</idno>
-                  <persName xml:lang="en">Antinous</persName>
+                  <persName type="citable" xml:lang="en">Antinous</persName>
                </person>
 
                <person xml:id="Eurymachus">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Eurymachus</idno>
-                  <persName xml:lang="en">Eurymachus</persName>
+                  <persName type="citable" xml:lang="en">Eurymachus</persName>
                </person>
 
                <person xml:id="Briseis">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Briseis</idno>
-                  <persName xml:lang="en">Briseis</persName>
+                  <persName type="citable" xml:lang="en">Briseis</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/550703">Lyrnessos</affiliation>
                   <listBibl>
                      <bibl></bibl>
@@ -303,7 +307,7 @@
 
                <person xml:id="Chryseis">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Chryseis</idno>
-                  <persName xml:lang="en">Chryseis</persName>
+                  <persName type="citable" xml:lang="en">Chryseis</persName>
                   <listBibl>
                      <bibl></bibl>
                      <relation ref="snap:DaughterOf"><desc>Chryses’ daughter</desc></relation>
@@ -313,7 +317,7 @@
 
                <person xml:id="Aphrodite" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Aphrodite</idno>
-                  <persName xml:lang="en">Aphrodite</persName>
+                  <persName type="citable" xml:lang="en">Aphrodite</persName>
                   <occupation>goddess of love, beauty, and sexual pleasure</occupation>
                   <listBibl>
                      <bibl></bibl>
@@ -325,12 +329,12 @@
 
                <person xml:id="Apollo" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Apollo_(mythology)</idno>
-                  <persName xml:lang="en">Apollo</persName>
+                  <persName type="citable" xml:lang="en">Apollo</persName>
                </person>
 
                <person xml:id="Ares" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Ares</idno>
-                  <persName xml:lang="en">Ares</persName>
+                  <persName type="citable" xml:lang="en">Ares</persName>
                      <occupation>god of war</occupation>
                      <listBibl>
                         <bibl></bibl>
@@ -340,31 +344,31 @@
 
                <person xml:id="Athena" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Athena</idno>
-                  <persName xml:lang="en">Athena</persName>
+                  <persName type="citable" xml:lang="en">Athena</persName>
                   <occupation>goddess of wisdom</occupation>
                </person>
 
                <person xml:id="Hera" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Hera</idno>
-                  <persName xml:lang="en">Hera</persName>
+                  <persName type="citable" xml:lang="en">Hera</persName>
                   <occupation>queen of the gods</occupation>
                </person>
 
                <person xml:id="Hermes" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Hermes</idno>
-                  <persName   xml:lang="en">Hermes</persName>
+                  <persName type="citable"   xml:lang="en">Hermes</persName>
                   <occupation>messenger of the gods</occupation>
                </person>
 
                <person xml:id="Iris" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Iris_(mythology)</idno>
-                  <persName xml:lang="en">Iris</persName>
+                  <persName type="citable" xml:lang="en">Iris</persName>
                   <occupation>messenger of Zeus and Hera</occupation>
                </person>
 
                <person xml:id="Poseidon" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Poseidon</idno>
-                  <persName xml:lang="en">Poseidon</persName>
+                  <persName type="citable" xml:lang="en">Poseidon</persName>
                   <occupation>god of the sea and earthquake</occupation>
                   <listBibl>
                      <bibl></bibl>
@@ -374,7 +378,7 @@
 
                <person xml:id="Zeus" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Zeus</idno>
-                  <persName xml:lang="en">Zeus</persName>
+                  <persName type="citable" xml:lang="en">Zeus</persName>
                   <occupation>king of the Gods</occupation>
                   <listBibl>
                      <bibl></bibl>

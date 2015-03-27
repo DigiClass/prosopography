@@ -1,0 +1,249 @@
+@prefix cito: <http://purl.org/spar/cito/> .
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix lawd: <http://lawd.info/ontology/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix snap: <http://onto.snapdrgn.net/snap#> .
+
+<http://en.wikipedia.org/wiki/Achilles>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Achilles" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Achilles"@en , "Ἀχιλλεύς"@grc .
+
+<http://en.wikipedia.org/wiki/Agamemnon>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Agamemnon" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Agamemnon"@en , "Ἀγαμέμνων"@grc .
+
+<http://en.wikipedia.org/wiki/Ajax_(mythology)>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Ajax" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Ajax"@en , "Aias"@en , "Telamonian Ajax"@en , "Greater Ajax"@en , "Αίας"@grc .
+
+<http://en.wikipedia.org/wiki/Ajax_the_Lesser>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Ajax the Lesser" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Ajax the Lesser"@en , "Ajax"@en , "Αίας"@grc .
+
+<http://en.wikipedia.org/wiki/Calchas>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Calchas" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Calchas"@en , "Κάλχας"@grc .
+
+<http://en.wikipedia.org/wiki/Diomedes>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Diomedes" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Diomedes"@en , "Διομήδης"@grc .
+
+<http://en.wikipedia.org/wiki/Helen_of_Troy>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Helen" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Helen"@en , "Ελένη"@grc .
+
+<http://en.wikipedia.org/wiki/Idomeneus>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Idomeneus" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Idomeneus"@en , "Ιδομενέας"@grc .
+
+<http://en.wikipedia.org/wiki/Menelaus_(king)>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Menelaus" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Menelaus"@en , "Μενέλαος"@grc .
+
+<http://en.wikipedia.org/wiki/Nestor_(mythology)>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Nestor" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Nestor"@en , "Νέστωρ"@grc .
+
+<http://en.wikipedia.org/wiki/Odysseus>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Odysseus" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Odysseus"@en , "Ὀδυσσεύς"@grc .
+
+<http://en.wikipedia.org/wiki/Patroclus>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Patroclus" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Patroclus"@en , "Πάτροκλος"@grc .
+
+<http://en.wikipedia.org/wiki/Phoenix_(son_of_Amyntor)>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Phoenix" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Phoenix"@en .
+
+<http://en.wikipedia.org/wiki/Teucer>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Teucer" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Teucer"@en .
+
+<http://en.wikipedia.org/wiki/Aeneas>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Aeneas" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Aeneas"@en , "Αἰνείας"@grc .
+
+<http://en.wikipedia.org/wiki/Agenor>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Agenor" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Agenor"@en .
+
+<http://en.wikipedia.org/wiki/Antenor_(mythology)>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Antenor" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Antenor"@en .
+
+<http://en.wikipedia.org/wiki/Glaucus_(soldier)>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Glaucus" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Glaucus"@en .
+
+<http://en.wikipedia.org/wiki/Hector>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Hector" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Hector"@en , "Ἕκτωρ"@grc .
+
+<http://en.wikipedia.org/wiki/Paris_(mythology)>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Paris" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Paris"@en , "Alexander"@en , "Πάρις"@grc .
+
+<http://en.wikipedia.org/wiki/Polydamas_(Iliad)>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Polydamas" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Polydamas"@en .
+
+<http://en.wikipedia.org/wiki/Priam>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Priam" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Priam"@en , "Πρίαμος"@grc .
+
+<http://en.wikipedia.org/wiki/Sarpedon>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Sarpedon" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Sarpedon"@en .
+
+<http://en.wikipedia.org/wiki/Laertes>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Laertes" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Laertes"@en .
+
+<http://en.wikipedia.org/wiki/Penelope>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Penelope" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Penelope"@en .
+
+<http://en.wikipedia.org/wiki/Telemachus>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Telemachus" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Telemachus"@en .
+
+<http://en.wikipedia.org/wiki/Amphinomus>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Amphinomus" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Amphinomus"@en .
+
+<http://en.wikipedia.org/wiki/Antinous_son_of_Eupeithes>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Antinous" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Antinous"@en .
+
+<http://en.wikipedia.org/wiki/Eurymachus>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Eurymachus" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Eurymachus"@en .
+
+<http://en.wikipedia.org/wiki/Briseis>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Briseis" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Briseis"@en .
+
+<http://en.wikipedia.org/wiki/Chryseis>   rdf:type   lawd:Person ;
+          dct:bibliographicCitation   "Chryseis" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Chryseis"@en .
+
+<http://en.wikipedia.org/wiki/Aphrodite>   rdf:type   lawd:Deity ;
+          dct:bibliographicCitation   "Aphrodite" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Aphrodite"@en .
+
+<http://en.wikipedia.org/wiki/Apollo_(mythology)>   rdf:type   lawd:Deity ;
+          dct:bibliographicCitation   "Apollo" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Apollo"@en .
+
+<http://en.wikipedia.org/wiki/Ares>   rdf:type   lawd:Deity ;
+          dct:bibliographicCitation   "Ares" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Ares"@en .
+
+<http://en.wikipedia.org/wiki/Athena>   rdf:type   lawd:Deity ;
+          dct:bibliographicCitation   "Athena" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Athena"@en .
+
+<http://en.wikipedia.org/wiki/Hera>   rdf:type   lawd:Deity ;
+          dct:bibliographicCitation   "Hera" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Hera"@en .
+
+<http://en.wikipedia.org/wiki/Hermes>   rdf:type   lawd:Deity ;
+          dct:bibliographicCitation   "Hermes" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Hermes"@en .
+
+<http://en.wikipedia.org/wiki/Iris_(mythology)>   rdf:type   lawd:Deity ;
+          dct:bibliographicCitation   "Iris" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Iris"@en .
+
+<http://en.wikipedia.org/wiki/Poseidon>   rdf:type   lawd:Deity ;
+          dct:bibliographicCitation   "Poseidon" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Poseidon"@en .
+
+<http://en.wikipedia.org/wiki/Zeus>   rdf:type   lawd:Deity ;
+          dct:bibliographicCitation   "Zeus" ;
+          dct:publisher   http://snapdrgn.net/ ;
+          dct:isPartOf   http://example.com/prosopography/wp-iliad/ ;
+          foaf:name   "Zeus"@en .
+
