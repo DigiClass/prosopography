@@ -36,7 +36,7 @@
                      <bibl>SEG 46.1195</bibl>
                      <bibl>I.Iasos, 18</bibl>
                   </listBibl>
-                  <idno type="PLRE">PLRE I, Clodius Cels(inus)</idno>
+                  <idno type="plre">PLRE I, Clodius Cels(inus)</idno>
                </person>
                <person xml:id="fas002">
                   <persName xml:lang="grc">Μᾶρκος Αὐρήλιος Διογένης</persName>
@@ -72,13 +72,14 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>single emperor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</bibl>
                      <bibl>SEG 41.1101</bibl>
                   </listBibl>
                </person>
                <person xml:id="fas005">
-                  <persName xml:lang="grc">Ἀασκληπιοδότος</persName> 
+                  <persName xml:lang="grc">Ἀσκληπιοδότος</persName> 
+                  <persName xml:lang="grc">Τίτος Ὄππιος Ἀσκληπίοδοτος</persName> 
                   <persName xml:lang="en">Asclepiodotus</persName>
+                  <persName xml:lang="en">T. Oppius Aelianus Asclepiodotus</persName>
                   <floruit notBefore="0282" notAfter="0283">
                     282–283 C.E.
                   </floruit>
@@ -86,11 +87,12 @@
                   <occupation>praeses</occupation>
                   <occupation>ὑπατικὸς ἡγεμόνας</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla007.html</bibl>
                      <bibl>SEG 41.1101</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="pir">http://insaph.kcl.ac.uk/ala2004/refer/dopabbr.html</idno>
+                  <idno type="lgpn">V.B Ἀσκληπιοδότος 3</idno>
+                  <idno type="pir">PIR (2) O 0115</idno>
                </person>
                
                <person xml:id="fas006"> 
@@ -105,10 +107,10 @@
                   <listBibl>
                      <bibl> MAMA 6, 94</bibl>
                      <bibl>Roueché (1981), 111</bibl>
+                     <bibl>IGR IV.731</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE I, Constans I</idno>
-                  <idno type="IGR">IGR IV.731</idno>
+                  <idno type="plre">PLRE I, Constans I</idno>
                </person>
                <person xml:id="fas007"> 
                   <persName xml:lang="en">Priscus</persName>
@@ -135,7 +137,7 @@
                      <bibl>Roueché (1981), 111</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE I, Priscus 1</idno>
+                  <idno type="plre">PLRE I, Priscus 1</idno>
                </person>
                <person xml:id="fas009"> 
                   <persName xml:lang="en">Tiberius Fulvius Asticus</persName>
@@ -154,7 +156,7 @@
                      <bibl>E. Varinlioglu and D. H. French, 'Four Milestones from Ceramus', REA 93 (1991), 123-37, 3.1</bibl>
                      <bibl>SEG 41.941</bibl>
                   </listBibl>
-                  <idno type="PLRE">PLRE I, Asticus</idno>
+                  <idno type="plre">PLRE I, Asticus</idno>
                </person>
                <person xml:id="fas010">
                   <persName xml:lang="en">? Anicius Asper</persName>
@@ -166,7 +168,7 @@
                   <listBibl>
                      <bibl>I.Laodikeia am Lykos 40</bibl>
                   </listBibl>
-                  <idno type="PLRE"> PLRE I, Asper</idno>
+                  <idno type="plre"> PLRE I, Asper</idno>
                </person>
                <person xml:id="fas011"> 
                   <persName xml:lang="en">Flavius Optimus</persName>
@@ -179,7 +181,7 @@
                      <bibl>JHS 17 (1897), 424 no.22</bibl>
                      <bibl>Roueché (1981), 111</bibl>
                   </listBibl>
-                  <idno type="PLRE"> PLRE I, Optimus 2</idno>
+                  <idno type="plre"> PLRE I, Optimus 2</idno>
                </person>
                <person xml:id="fas012"> 
                   <persName xml:lang="en">Valerius Rinacius</persName>
@@ -205,7 +207,7 @@
                      <bibl> ILS 635</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE I, Marcellus 9</idno>
+                  <idno type="plre">PLRE I, Marcellus 9</idno>
                </person>
                <person xml:id="fas014"> 
                   <persName xml:lang="en">Firminianus</persName>
@@ -233,7 +235,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.5</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE I, Monaxius</idno>
+                  <idno type="plre">PLRE I, Monaxius</idno>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Monaxius.html</idno>
                </person> 
                <person xml:id="fas016">
@@ -251,7 +253,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-II.html#II.35</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE"> PLRE I</idno>
+                  <idno type="plre"> PLRE I</idno>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Helladius.html</idno>
                </person>
                <person xml:id="fas017">
@@ -268,7 +270,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla021.html</bibl>
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.13</bibl>
                   </listBibl>
-                  <idno type="PLRE">PLRE I, Tatianus 2</idno>
+                  <idno type="plre">PLRE I, Tatianus 2</idno>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/TatianusAnt.html</idno>
                </person>
                <person xml:id="fas018">
@@ -283,7 +285,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla022.html</bibl>
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.16</bibl>
                   </listBibl>
-                  <idno type="PLRE"> PLRE I, Constantius 6</idno>
+                  <idno type="plre"> PLRE I, Constantius 6</idno>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/FlConstantius.html</idno>
                </person>
                <person xml:id="fas019">
@@ -302,7 +304,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.30</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE I, Priscus 6</idno>
+                  <idno type="plre">PLRE I, Priscus 6</idno>
                </person>
                <person xml:id="fas020">
                   <persName xml:lang="grc">Οἰκουμένιος</persName> 
@@ -332,7 +334,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE"> PLRE I, Ioannes 4,</idno>
+                  <idno type="plre"> PLRE I, Ioannes 4,</idno>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/pelagius.html</idno>
                </person>
                <person xml:id="fas022">
@@ -349,6 +351,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/alexander1.html</idno>
+                  <idno type="lgpn">V.B. Ἀλεξάνδροιος 26</idno>
                </person>
                <person xml:id="fas023">
                   <persName xml:lang="grc">Βερονικιανὸς</persName> 
@@ -363,7 +366,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.5</bibl>                     
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE I, Fl. Leontius Beronicianus</idno>
+                  <idno type="plre">PLRE I, Fl. Leontius Beronicianus</idno>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Beronicianus.html</idno>
                </person>
                <person xml:id="fas024"> 
@@ -378,7 +381,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.2</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE II, Baralach</idno>
+                  <idno type="plre">PLRE II, Baralach</idno>
                </person>
                <person xml:id="fas025">
                   <persName xml:lang="grc">Τατιανὸς</persName> 
@@ -393,7 +396,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.10</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE I, Fl. Leontius Beronicianus</idno>
+                  <idno type="plre">PLRE I, Fl. Leontius Beronicianus</idno>
                </person>
                <person xml:id="fas026">
                   <persName xml:lang="grc"> Δουλκίτιος</persName> 
@@ -459,7 +462,7 @@
                      <bibl>SEG 1959.694</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE II, Ioannes 94</idno>
+                  <idno type="plre">PLRE II, Ioannes 94</idno>
                </person>
                <person xml:id="fas030"> 
                   <persName xml:lang="en">Procopius</persName>
@@ -490,7 +493,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.33</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE III, Ioannes 21 and 22</idno>
+                  <idno type="plre">PLRE III, Ioannes 21 and 22</idno>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Palmatus.html</idno>
                </person>
                <person xml:id="fas032"> 
@@ -505,7 +508,7 @@
                      <bibl>D. Feissel, TM 9 (1985)</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE III, Ioannes 21 and 22</idno>
+                  <idno type="plre">PLRE III, Ioannes 21 and 22</idno>
                </person>
                <person xml:id="fas033"> 
                   <persName xml:lang="en">Nonnus</persName>
@@ -519,7 +522,7 @@
                      <bibl>Milet VI 1, 206</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE">PLRE III, Nonnus 1</idno>
+                  <idno type="plre">PLRE III, Nonnus 1</idno>
                </person>
                <person xml:id="fas034"> 
                   <persName xml:lang="en">?Papius</persName>
@@ -532,7 +535,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-VI.html#VI.3</bibl>
                      <relation/>
                   </listBibl>
-                  <idno type="PLRE"> PLRE III, Papius</idno>
+                  <idno type="plre"> PLRE III, Papius</idno>
                </person> 
                <person xml:id="fas035">
                   <persName xml:lang="grc">Βιτιανὸς</persName> 
@@ -3688,7 +3691,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/EutTatianus.html</idno>
-                  <idno type="PLRE">PLRE I, Tatianus 5</idno>
+                  <idno type="plre">PLRE I, Tatianus 5</idno>
                </person>
                <person xml:id="pers160">
                   <persName xml:lang="grc">Τρύφων</persName> 
@@ -3718,6 +3721,7 @@
                      <relation ref="snap:FatherOf" active="#pers161" passive="#pers129"><desc>father of Nounechius</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/phaboulius.html</idno>
+                  <idno type="lgpn">V.B Φαβούλιος 1</idno>
                </person>
                <person xml:id="pers162">
                   <persName xml:lang="grc">Φήληππως</persName> 
