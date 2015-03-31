@@ -1190,6 +1190,7 @@
                      <relation ref="snap:FatherOf" active="#fas082" passive="#fas083" cert="low"><desc>father of Hermogenes</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/VenidiusApellas.html</idno>
+                  <idno type="lgpn">V.B Ἀπελλᾶς 14</idno>
                </person>
                <person xml:id="fas083"> 
                   <persName xml:lang="en">?Hermogenes</persName>
@@ -1216,6 +1217,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/marcianus.html</idno>
+                  <idno type="ala">V.B Μαρκιανὸς 5</idno>
                </person>
                <person xml:id="fas085">
                   <persName xml:lang="grc">Πάπιος</persName> 
@@ -1246,6 +1248,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="lgpn">V.B Μένανδρος 64</idno>
                </person>
                <person xml:id="fas087">
                   <persName xml:lang="grc">Θεόπομπος</persName> 
@@ -1261,6 +1264,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="lgpn">V.B Θεόπομπος 1</idno>
                </person>
                <person xml:id="fas088"> 
                   <persName xml:lang="en">Asclepiodotus</persName>
@@ -1287,6 +1291,7 @@
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla073.html</bibl>
                      <relation/>
                   </listBibl>
+                  <idno type="lgpn">V.B Ἰωάννης 7</idno>
                </person>
                <person xml:id="fas090">
                   <persName xml:lang="grc"> Φλάβιος Ἀμπέλιος</persName> 
@@ -1305,6 +1310,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ampelius.html</idno>
+                  <idno type="lgpn">V.B Ἀμπέλιος 1</idno>
                </person>
                <person xml:id="fas091">
                   <persName xml:lang="grc">Ο-</persName> 
@@ -1335,6 +1341,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/atheneos.html</idno>
+                  <idno type="lgpn">V.B Ἀθήνεος 3</idno>
                </person>
                <person xml:id="fas093"> 
                   <persName xml:lang="en">Aristocrates</persName>
@@ -1365,6 +1372,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/photius1.html</idno>
+                  <idno type="lgpn">V.B Φώτιος 1</idno>
                </person>
                <person xml:id="fas095">
                   <persName xml:lang="grc">Ῥοδοπαῖoς</persName> 
@@ -1380,9 +1388,10 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Rhodopaeus.html</idno>
+                  <idno type="lgpn">V.B Ῥοδοπαῖoς 1</idno>
                </person>
                <person xml:id="fas096">
-                  <persName xml:lang="grc"> Θεόπομπος</persName> 
+                  <persName xml:lang="grc">Θεόπομπος</persName> 
                   <persName xml:lang="en">?Theopompus</persName>
                   <floruit notBefore="0490">
                      Late fifth or sixth century
@@ -1395,6 +1404,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theopompus.html</idno>
+                  <idno type="lgpn">V.B Θεόπομπος 1</idno>
                </person>
                <person xml:id="fas097">
                   <persName xml:lang="grc">Ἀσκληπίοδοτος, Τίτος Ὄππιος</persName> 
@@ -1412,6 +1422,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/OppAsclepiodotus.html</idno>
+                  <idno type="lgpn">V.B Ἀσκληπίοδοτος 3</idno>
                </person>
                <person xml:id="fas098">
                   <persName xml:lang="grc">Μάννος Πόπλιος Αἴλιος Σεπτίμιος</persName> 
@@ -1473,6 +1484,7 @@
                      <relation ref="snap:BrotherOf" active="#pers001" passive="#pers025"><desc>Brother of George</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/abelcius.html</idno>
+                  <idno type="lgpn">V.B Ἀβέλκιος 1</idno>
                </person>
                <person xml:id="pers002">
                   <persName xml:lang="grc">Ἀθανάσιος</persName> 
@@ -1487,6 +1499,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/athanasius1.html</idno>
+                  <idno type="lgpn">V.B Ἀθανάσιος 2</idno>
                </person>
                <person xml:id="pers003">
                   <persName xml:lang="grc">Ἀθανάσιος</persName> 
@@ -1514,6 +1527,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/aelianus1.html</idno>
+                  <idno type="lgpn">V.B Αἰλιανός 5</idno>
                </person>
                <person xml:id="pers005">
                   <persName xml:lang="grc">Ἀλβῖνος</persName> 
@@ -1529,6 +1543,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Albinus.html</idno>
+                  <idno type="lgpn">V.B Ἀλβῖνος 1</idno>
                </person> 
                <person xml:id="pers006">
                   <persName xml:lang="grc">Ἀλέξανδρος</persName> 
@@ -1543,6 +1558,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/alexander2.html</idno>
+                  <idno type="lgpn">V.B Ἀλέξανδρος 23</idno>
                </person>
                <person xml:id="pers007">
                   <persName xml:lang="grc">Ἀναστάσιος</persName> 
@@ -1558,6 +1574,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Anastasius.html</idno>
+                  <idno type="lgpn">V.B Ἀναστάσιος 1-2</idno>
                </person>
                <person xml:id="pers008">
                   <persName xml:lang="grc">Ἀνατόλις</persName> 
@@ -1572,6 +1589,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Anatolis.html</idno>
+                  <idno type="lgpn">V.B Ἀνατόλιος 1</idno>
                </person>
                <person xml:id="pers009">
                   <persName xml:lang="grc">Ἀνδρόκλης</persName> 
@@ -1586,6 +1604,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Androcles.html</idno>
+                  <idno type="lgpn">V.B Ἀνδρόκλης 1</idno>
                </person>
                <person xml:id="pers010">
                   <persName xml:lang="grc">Ἀνδρόνικος, Φλάβιος</persName> 
@@ -1601,6 +1620,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/FlAndronicus.html</idno>
+                  <idno type="lgpn">V.B Ἀνδρόνικος 9</idno>
                </person>
                <person xml:id="pers011">
                   <persName xml:lang="grc">Ἀνθέμιος</persName> 
@@ -1629,6 +1649,7 @@
                      <relation ref="snap:FatherInLaw" active="#pers012" passive="#pers"><desc>father-in-law of John Philadelphus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/aristolaus1.html</idno>
+                  <idno type="lgpn">V.B Αριστόλαος 3</idno>
                </person>
                <person xml:id="pers013">
                   <persName xml:lang="grc">Ἄρκιμος/Ἄλκιμος</persName> 
@@ -1642,6 +1663,7 @@
                      <relation ref="snap:SonOf" active="#pers013" passive="#pers030"><desc>son of Damocharis</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/arcimus1.html</idno>
+                  <idno type="lgpn">V.B Ἄλκιμος 1</idno>
                </person>
                <person xml:id="pers014">
                   <persName xml:lang="grc">Ἀσκληπιόδοτος</persName> 
@@ -1660,6 +1682,7 @@
                      <relation ref="snap:FatherOf" active="#pers014" passive="pers''"><desc>father of Damiane</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/AsclepiodotusAph.html</idno>
+                  <idno type="lgpn">V.B Ἀσκληπιόδοτος 5</idno>
                </person>
                <person xml:id="pers015">
                   <persName xml:lang="grc">Ἀσκληπιόδοτος</persName> 
@@ -1673,6 +1696,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/asclepiodotus1.html</idno>
+                  <idno type="lgpn">V.B Ἀσκληπιόδοτος 4</idno>
                </person>
                <person xml:id="pers016">
                   <persName xml:lang="grc">Ἀστέριος</persName> 
@@ -1688,6 +1712,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/asterius1.html</idno>
+                  <idno type="lgpn">V.B Ἀστέριος 2</idno>
                </person>
                <person xml:id="pers017">
                   <persName xml:lang="grc">Ἀστέριος</persName> 
@@ -1703,6 +1728,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/asterius2.html</idno>
+                  <idno type="lgpn">V.B Ἀστέριος 1</idno>
                </person>
                <person xml:id="pers018">
                   <persName xml:lang="grc">Αὐχένιος, Μάρκος Αὐρ. Λεόντηος</persName> 
@@ -1718,6 +1744,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/auchenius1.html</idno>
+                  <idno type="lgpn">V.B Αὐχένιος 1</idno>
                </person>
                <person xml:id="pers019">
                   <persName xml:lang="grc">Ἀχαειός</persName> 
@@ -1731,6 +1758,7 @@
                      <relation ref="snap:FatherOf" active="#pers019" passive="#pers078"><desc>father of Theocharistus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/achaeius.html</idno>
+                  <idno type="lgpn">V.B Ἀχαιός 2</idno>
                </person>
                <person xml:id="pers020">
                   <persName xml:lang="grc">Ἀχεός</persName> 
@@ -1745,6 +1773,7 @@
                      <relation ref="snap:FatherOf" active="#pers020" passive="#pers040"><desc>father of Euarestus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Acheus.html</idno>
+                  <idno type="lgpn">V.B Ἀχαιός 1</idno>
                </person>
                <person xml:id="pers021">
                   <persName xml:lang="grc">Βαλεριανός</persName> 
@@ -1803,6 +1832,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george3.html</idno>
+                  <idno type="lgpn">V.B Γεώργιος 4-5</idno>
                </person>
                <person xml:id="pers025">
                   <persName xml:lang="grc">Γεόργις</persName> 
@@ -1817,6 +1847,7 @@
                      <relation ref="snap:BrotherOf" active="#pers025" passive="#pers001"><desc>brother of Abelcius</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george1.html</idno>
+                  <idno type="lgpn">V.B Γεώργις 1</idno>
                </person>
                <person xml:id="pers026">
                   <persName xml:lang="grc">Γεώργηος</persName> 
@@ -1831,6 +1862,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george2.html</idno>
+                  <idno type="lgpn">V.B Γεώργιος 2-3</idno>
                </person>
                <person xml:id="pers027">
                   <persName xml:lang="grc">Γεώργιος</persName> 
@@ -1844,6 +1876,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george6.html</idno>
+                  <idno type="lgpn">V.B Γεώργιος 6</idno>
                </person> 
                <person xml:id="pers028">
                   <persName xml:lang="grc">Γεώργιος</persName> 
@@ -1857,6 +1890,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george5.html</idno>
+                  <idno type="lgpn">V.B Γεώργιος 7</idno>
                </person>
                <person xml:id="pers029">
                   <persName xml:lang="grc">Δαμοχάρης Φλαουίος</persName> 
@@ -1872,6 +1906,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/damocharis2.html</idno>
+                  <idno type="lgpn">V.B Δαμόχαρις 1</idno>
                </person>
                <person xml:id="pers030">
                   <persName xml:lang="grc">Δαμόχαρις</persName> 
@@ -1886,6 +1921,7 @@
                      <relation ref="snap:FatherOf" active="#pers030" passive="#pers013"><desc>father of Arcimus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/damocharis1.html</idno>
+                  <idno type="lgpn">V.B Δαμόχαρις 2</idno>
                </person>
                <person xml:id="pers031">
                   <persName xml:lang="grc">Διονυσία, Αὐρηλία</persName> 
@@ -1899,10 +1935,11 @@
                      <relation ref="snap:DaughterOf" active="#pers031" passive="#pers155"><desc>daughter of Stephanus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/pros5op/dionysia1.html</idno>
+                  <idno type="lgpn">V.B Διονυσία 3</idno>
                </person>
                <person xml:id="pers032">
                   <persName xml:lang="grc">Διονύσιος</persName> 
-                  <persName xml:lang="en"></persName>
+                  <persName xml:lang="en">Dionysius</persName>
                   <floruit notBefore="0401" notAfter="0500">
                      Fifth century 
                   </floruit>
@@ -1914,6 +1951,7 @@
                      <relation ref="snap:SonOf" active="#pers032" passive="#pers172"><desc>son of Photeinus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/.html</idno>
+                  <idno type="lgpn">V.B Διονύσιος 119</idno>
                </person>
                <person xml:id="pers033">
                   <persName xml:lang="grc">Ἑορτάσιος</persName> 
@@ -1927,6 +1965,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/heortasius1.html</idno>
+                  <idno type="lgpn">V.B Ἑορτάσιος 1</idno>
                </person> 
                <person xml:id="pers034">
                   <persName xml:lang="grc">Ἐπίκτητος</persName> 
@@ -1941,6 +1980,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Epictetus.html</idno>
+                  <idno type="lgpn">V.B Ἐπίκτητος 5</idno>
                </person>
                <person xml:id="pers035">
                   <persName xml:lang="grc">Ἐπιφάνις</persName> 
@@ -1952,10 +1992,11 @@
                   <occupation>bull-rearer</occupation>
                   <occupation>ταυρωτρόφος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla190.html</bibl>
+                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla237.html#</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/epiphanios1.html</idno>
+                  <idno type="lgpn">V.B Ἐπιφάνις 1</idno>
                </person> 
                <person xml:id="pers036">
                   <persName xml:lang="grc">Ἑπταμήνιος</persName> 
@@ -1969,6 +2010,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/heptamenius1.html</idno>
+                  <idno type="lgpn">V.B Ἑπταμήνιος 2</idno>
                </person>
                <person xml:id="pers037">
                   <persName xml:lang="grc">Ἑρμίας</persName> 
@@ -1983,6 +2025,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/hermias1.html</idno>
+                  <idno type="lgpn">V.B Ἑρμίας 34</idno>
                </person>
                <person xml:id="pers038">
                   <persName xml:lang="grc">Ἑρμίας</persName> 
@@ -1996,6 +2039,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/hermias3.html</idno>
+                  <idno type="lgpn">V.B Ἑρμίας 33</idno>
                </person>
                <person xml:id="pers039">
                   <persName xml:lang="grc">Ἑρμίας, Φλάβιος Ἐπιφαν-</persName> 
@@ -2009,6 +2053,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/hermias2.html</idno>
+                  <idno type="lgpn">V.B Ἑρμίας 35</idno>
                </person>
                <person xml:id="pers040">
                   <persName xml:lang="grc">Εὐάρεστος</persName> 
@@ -2022,6 +2067,7 @@
                      <relation ref="snap:SonOf" active="#pers040" passive="#pers020"><desc>son of Acheus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Euarestus.html</idno>
+                  <idno type="lgpn">V.B Εὐάρεστος 3</idno>
                </person>
                <person xml:id="pers041">
                   <persName xml:lang="grc">Εὐγένιος</persName> 
@@ -2036,6 +2082,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Eugenius.html</idno>
+                  <idno type="lgpn">V.B Εὐγένιος 3</idno>
                </person>
                <person xml:id="pers042">
                   <persName xml:lang="grc">Εὐγράφιος</persName> 
@@ -2051,6 +2098,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eugraphius1.html</idno>
+                  <idno type="lgpn">V.B Εὐγράφιος 1</idno>
                </person>
                <person xml:id="pers043">
                   <persName xml:lang="grc">Εὐθαλι-</persName> 
@@ -2065,6 +2113,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/euthal-.html</idno>
+                  <idno type="lgpn">V.B Εὐθαλιος 1</idno>
                </person>
                <person xml:id="pers044">
                   <persName xml:lang="grc">Εὐλάλιος</persName> 
@@ -2079,6 +2128,7 @@
                      <relation ref="snap:FatherOf" active="#pers044" passive="#pers079"><desc>father of Jordanes</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eulalius1.html</idno>
+                  <idno type="lgpn">V.B Εὐλάλιος 1</idno>
                </person>
                <person xml:id="pers045">
                   <persName xml:lang="grc">Εὐλάμιος</persName> 
@@ -2092,6 +2142,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eulamius1.html</idno>
+                  <idno type="lgpn">V.B Εὐλάμιος 1</idno>
                </person>
                <person xml:id="pers046">
                   <persName xml:lang="grc">Εὐπείθιος</persName> 
@@ -2107,6 +2158,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Eupeithius.html</idno>
+                  <idno type="lgpn">V.B Εὐπείθιος 5</idno>
                </person>
                <person xml:id="pers047">
                   <persName xml:lang="grc">Εὐσέβιος, Φλάβιος</persName> 
@@ -2122,6 +2174,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eusebius1.html</idno>
+                  <idno type="lgpn">V.B Εὐσέβιος 4</idno>
                </person>
                <person xml:id="pers048">
                   <persName xml:lang="grc">Εὐστόχιος</persName> 
@@ -2137,6 +2190,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Eustochius.html</idno>
+                  <idno type="lgpn">V.B Εὐστόχιος 2</idno>
                </person>
                <person xml:id="pers049">
                   <persName xml:lang="grc">Εὐτύχης, Μάρκος Αὐρόλιος</persName> 
@@ -2152,6 +2206,7 @@
                      <relation ref="snap:SonOf" active="#pers049" passive="#pers137"><desc>son of Peritianus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eutyches1.html</idno>
+                  <idno type="lgpn">V.B Εὐτύχης 3</idno>
                </person>
                <person xml:id="pers050">
                   <persName xml:lang="grc">Εὐτυχία</persName> 
@@ -2165,6 +2220,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eutychia1.html</idno>
+                  <idno type="lgpn">V.B Εὐτυχία 1</idno>
                </person>
                <person xml:id="pers051">
                   <persName xml:lang="grc">Εὐτυχιανός</persName> 
@@ -2179,6 +2235,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eutychianos1.html</idno>
+                  <idno type="lgpn">V.B Εὐτυχιανός 2</idno>
                </person>
                <person xml:id="pers052">
                   <persName xml:lang="grc">Εὐφημία</persName> 
@@ -2192,6 +2249,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/euphemia1.html</idno>
+                  <idno type="lgpn">V.B Εὐφημία 1</idno>
                </person>
                <person xml:id="pers053">
                   <persName xml:lang="grc">Ζερκουνης, Μιχαήλ</persName> 
@@ -2205,6 +2263,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/zerkounes.html</idno>
+                  <idno type="lgpn">V.B Ζερκουνης 1</idno>
                </person>
                <person xml:id="pers054">
                   <persName xml:lang="grc">Ζήνων, Φλάβιος</persName> 
@@ -2225,6 +2284,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/FlZeno.html</idno>
+                  <idno type="lgpn">V.B Ζήνων 123</idno>
                </person>
                <person xml:id="pers055">
                   <persName xml:lang="grc">Ζοτικός</persName> 
@@ -2240,6 +2300,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/zoticus2.html</idno>
+                  <idno type="lgpn">V.B Ζωτικός 11</idno>
                </person>
                <person xml:id="pers056">
                   <persName xml:lang="grc">Ζωητός</persName> 
@@ -2256,6 +2317,7 @@
                      <relation ref="snap:SonOf" active="#pers056" passive="#pers072"><desc>son of Theopemptus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/zoetus1.html</idno>
+                  <idno type="lgpn">V.B Ζωητός 1</idno>
                </person>
                <person xml:id="pers057">
                   <persName xml:lang="grc">Ζωτικός</persName> 
@@ -2269,6 +2331,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/zoticus1.html</idno>
+                  <idno type="lgpn">V.B Ζωτικός 8</idno>
                </person>
                <person xml:id="pers058">
                   <persName xml:lang="grc">Η- Φλάβιος</persName> 
