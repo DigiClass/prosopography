@@ -1175,6 +1175,7 @@
                      <relation ref="snap:SonOf" active="#fas081" passive="#pers125"><desc>son of Nicomachus Antonius</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Nicomachus2.html</idno>
+                  <idno type="lgpn">V.B Νικόμαχος 11</idno>
                </person>  
                <person xml:id="fas082">
                   <persName xml:lang="grc">Μᾶρκος Ἀντώνιος Οὐενίδιος Ἀπελλᾶς</persName> 
@@ -2449,6 +2450,7 @@
                      <relation ref="snap:MotherOf" active="#pers065" passive="#pers"><desc>mother of Philosophia</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theodoreta1.html</idno>
+                  <idno type="lgpn">V.B Θεοδωρήτα 1</idno>
                </person>
                <person xml:id="pers066">
                   <persName xml:lang="grc">Θεοδώρητος</persName> 
@@ -3083,7 +3085,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/macedonius1.html</idno>
-                  <idno type="lgpn">V.B Μακεόνιος 1</idno>
+                  <idno type="lgpn">V.B Μακεδόνιος 1</idno>
                </person>  
                <person xml:id="pers109">
                   <persName xml:lang="grc">Μάμας</persName> 
@@ -3750,6 +3752,7 @@
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/stephanus1.html</idno>
+                  <idno type="lgpn">V.B Στέφανος 6</idno>
                </person>
                <person xml:id="pers154">
                   <persName xml:lang="grc">Στέφανος</persName> 
@@ -3984,6 +3987,7 @@
                      <relation ref="snap:WifeOf" active="#pers169" passive="#pers087"><desc>wife of John Philadelphus</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/philosophia1.html</idno>
+                  <idno type="lgpn">V.B Φιλοσοφία 1</idno>
                </person>
                <person xml:id="pers170">
                   <persName xml:lang="grc">Φλάβιος</persName> 
@@ -4026,6 +4030,7 @@
                      <relation ref="snap:FatherOf" active="#pers172" passive="#pers032"><desc>Father of </desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Photeinus.html</idno>
+                  <idno type="lgpn">V.B Φωτῖνος 1</idno>
                </person>
                <person xml:id="pers173">
                   <persName xml:lang="grc">Χαρίτου</persName> 
@@ -4039,6 +4044,7 @@
                      <relation ref="snap:WifeOf" active="#pers173" passive="#pers124"><desc>wife of Narses</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/charito1.html</idno>
+                  <idno type="lgpn">V.B Χαρίτω 1</idno>
                </person>
                <person xml:id="pers174"> 
                   <persName xml:lang="en">Scholasticius</persName>
@@ -4065,6 +4071,7 @@
             <change when="2015-03-30" who="#av">added 50 people</change>
             <change when="2015-03-30" who="#gb">tweaked bibl uris, affiliation, @ref</change>
             <change when="2015-03-31" who="#av">added lgpn</change>
+            <change when="2015-04-01" who="#av">added lgpn</change>
       </listChange>
      </revisionDesc>
    </teiHeader>
