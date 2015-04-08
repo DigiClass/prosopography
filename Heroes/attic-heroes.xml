@@ -37,14 +37,92 @@
                   <idno type="wikipedia"></idno>
                   <idno type="lgpn"></idno>
                </person>-->
-               
+               <person xml:id="hero001" role="deity">
+                  <persName xml:lang="grc">Ἄγλαυρος</persName>
+                  <persName xml:lang="en">Aglauros</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/580119">Thorikos</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579924">Erchia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/580085">Porthmos</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>priestess</occupation>
+                  <listBibl>
+                     <bibl>Herodotus 8.53</bibl>
+                     <bibl>Philochorus FGrH 328 F 183</bibl>
+                     <bibl>IG II2 3459</bibl>
+                     <relation ref="snap:DaughterOf" active="#hero001" passive=""><desc>daughter of Kekrops</desc></relation>
+                     <relation ref="snap:DaughtrerOf" active="#hero001" passive=""><desc>daughter  of Aglauros</desc></relation>
+                     <relation ref="snap:SisterOf" active="#hero001" passive=""><desc>sister of Herse</desc></relation>
+                     <relation ref="snap:SisterOf" active="#hero001" passive=""><desc>sister of Pandrosos</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero001" passive=""><desc>mother of Alkippe</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero001" passive=""><desc>mother of Keryx</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Aglaulus,_daughter_of_Cecrops</idno>
+               </person>
+               <person xml:id="hero002" role="deity">
+                  <persName xml:lang="grc">Ἄγλαυρος</persName>
+                  <persName xml:lang="en">Aglauros</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Thorikos</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Erchia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Porthmos</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>priestess</occupation>
+                  <listBibl>
+                     <bibl>Herodotus 8.53</bibl>
+                     <bibl>Philochorus FrGH </bibl>
+                     <bibl>IG II2 3459</bibl>
+                     <relation ref="snap:WifeOf" active="#hero002" passive=""><desc>wife of Kekrops</desc></relation>
+                     <relation ref="snap:DaughterOf" active="#hero002" passive=""><desc>daughter  of Erechthonios</desc></relation>
+                     <relation ref="snap:DaughterOf" active="#hero002" passive=""><desc>daughter  of Prokris</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero002" passive=""><desc>mother of Aglauros</desc></relation>
+                    <relation ref="snap:MotherOf" active="#hero002" passive=""><desc>mother of </desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero002" passive=""><desc>mother of </desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Aglaulus</idno>
+               </person>
+               <person xml:id="hero003" role="deity group">
+                  <persName xml:lang="en">anonymous heroes of Agora</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+               </person>
+                  <person xml:id="hero004" role="deity person">
+                     <persName xml:lang="grc">Ἀγρόλας</persName>
+                     <persName xml:lang="en">Agrolas</persName>
+                     <floruit></floruit>
+                     <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                     <affiliation ref="http://pleiades.stoa.org/places/462492">Sicilia</affiliation>
+                     <occupation>hero</occupation>
+                     <occupation>builder</occupation>
+                     <listBibl>
+                        <bibl></bibl>
+                        <bibl></bibl>
+                     </listBibl>
+                     <idno type="wikipedia"></idno>
+                     <idno type="lgpn"></idno>
+                  </person> 
+               <person xml:id="hero005" role="deity person">
+                  <persName xml:lang="grc">Ἄδμητος</persName>
+                  <persName xml:lang="en">Admetos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Phanodemus FGrH 325 F 26</bibl>
+                     <bibl>Hellanicus FGrH 323a F 23</bibl>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Admetus</idno>
+                  <idno type="lgpn"></idno>
+               </person>           
             </listPerson>
          </particDesc>
       </profileDesc>
       <revisionDesc>
          <listChange>
             <change when="2015-04-08" who="#gb">created file</change>
-            <change when="2015-04-08" who="#av"></change>
+            <change when="2015-04-08" who="#av">added heroes</change>
       </listChange>
      </revisionDesc>
    </teiHeader>
