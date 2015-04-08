@@ -2913,7 +2913,7 @@
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/kerek.html</idno>
                   <idno type="lgpn-hr">V.B Κερεκόκκιως 1</idno>
-                  <idno type="lgpn"></idno>
+                  <!-- no URL<idno type="lgpn"></idno>-->
                </person>
                <person xml:id="pers090">
                   <persName xml:lang="grc">Κης</persName> 
@@ -3817,7 +3817,7 @@
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Pythiodorus.html</idno>
                   <idno type="lgpn-hr">V.B Πυθιόδωρος 1</idno>
-                  <idno type="lgpn"></idno>
+                  <!-- no URL<idno type="lgpn"></idno>-->
                </person>
                <person xml:id="pers148">
                   <persName xml:lang="grc">-ρωτικος</persName> 
@@ -4005,7 +4005,7 @@
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/EutTatianus.html</idno>
                   <idno type="plre">PLRE I, Tatianus 5</idno>
                   <idno type="lgpn-hr">V.B Ἐυτόλμιος 1</idno>
-                  <idno type="lgpn"></idno>
+                  <!-- no URL<idno type="lgpn"></idno>-->
                </person>
                <person xml:id="pers160">
                   <persName xml:lang="grc">Τρύφων</persName> 
