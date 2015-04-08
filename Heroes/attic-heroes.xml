@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heroes of Attica</title>
+            <author xml:id="ek">Emily Kearns</author>
+            <author xml:id="gb">Gabriel Bodard</author>
+            <author xml:id="av">Athanasia Varveri</author>
+         </titleStmt>
+         <publicationStmt>
+            <ab/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Derived from: <bibl>
+                  <author>Emily Kearns</author>
+                  <title level="m"></title>
+                  <date></date>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <!--<person xml:id="hero000" role="deity person">
+                  <persName xml:lang="grc"></persName>
+                  <persName xml:lang="en"></persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                     <bibl></bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+                  <idno type="lgpn"></idno>
+               </person>-->
+               
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2015-04-08" who="#gb">created file</change>
+            <change when="2015-04-08" who="#av"></change>
+      </listChange>
+     </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab/>
+      </body>
+   </text>
+</TEI>
