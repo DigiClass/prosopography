@@ -108,14 +108,252 @@
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>          
+                  <listBibl>
+                     <bibl>Phanodemus FGrH 325 F 26</bibl>
+                     <bibl>Hellanicus FGrH 323a F 23</bibl>
+                     <relation ref="snap:FatherOf" active="#hero005" passive="#hero007"></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Admetus</idno>
+               </person>  
+               <person xml:id="hero006" role="deity person">
+                  <persName xml:lang="grc">Ἄλκηστις</persName>
+                  <persName xml:lang="en">Alkestis</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <listBibl>
                      <bibl>Phanodemus FGrH 325 F 26</bibl>
                      <bibl>Hellanicus FGrH 323a F 23</bibl>
+                     <relation ref="snap:MotherOf" active="#hero007" passive="#hero006"><desc>mother of Hippasos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Admetus</idno>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Alcestis</idno>
+               </person>
+               <person xml:id="hero007" role="deity person">
+                  <persName xml:lang="grc">Ἵππασος</persName>
+                  <persName xml:lang="en">Hippasos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>      
+                  <listBibl>
+                     <bibl>Phanodemus FGrH 325 F 26</bibl>
+                     <bibl>Hellanicus FGrH 323a F 23</bibl>
+                     <relation ref="snap:SonOf" active="#hero007" passive="#hero005"><desc>son of Admetos</desc></relation>
+                     <relation ref="snap:SonOf" active="#hero007" passive="#hero006"><desc>son of Alkestis</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero008" role="deity person">
+                  <persName xml:lang="grc">Ἄδραστος</persName>
+                  <persName xml:lang="en">Adrastos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/582869">Kolonos Hippios</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/580059">Parnes</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Philoch FGrH 328 F 112-3</bibl>
+                     <bibl>Euripides, Supplices 3-8</bibl>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Adrastus</idno>
+               </person>
+               <person xml:id="hero009" role="deity person">
+                  <persName xml:lang="grc">Αἰακός</persName>
+                  <persName xml:lang="en">Aiakos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/530783">Agora</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>judge</occupation>
+                  <occupation>κληδοῦχος</occupation>
+                  <listBibl>
+                     <bibl>Ar. Ran 464ff.</bibl>
+                     <bibl>Pl. Apol. 41A</bibl>
+                     <bibl>Gorg. 625E</bibl>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Aeacus</idno>
+               </person>
+               <person xml:id="hero010" role="deity person">
+                  <persName xml:lang="grc">Αἴας</persName>
+                  <persName xml:lang="en">Ajax</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/582863">Melite</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/580100">Salamis</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>fighter</occupation>
+                  <listBibl>
+                     <bibl>Philost. Heroicus 35.9</bibl>
+                     <bibl>Solon 10</bibl>
+                     <bibl>Pherecydes FGrH 3 F 2</bibl>
+                     <relation ref="snap:FatherOf" active="#hero010" passive=""><desc>father of Eurysakes</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_(mythology)</idno>
+               </person>
+               <person xml:id="hero011" role="deity person">
+                  <persName xml:lang="grc">Αἴγευς</persName>
+                  <persName xml:lang="en">Aigeus</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>eponymos</occupation>
+                  <listBibl>
+                     <bibl>Soph TGrF 24</bibl>
+                     <bibl>Sophocles TGrF 19-25</bibl>
+                     <bibl>Euripides frr.1-13 Nauck</bibl>
+                     <relation ref="snap:SonOf" active="#hero011" passive=""><desc>son of Pandion</desc></relation>
+                     <relation ref="snap:BrotherOf" active="#hero011" passive=""><desc>brother of Pallas</desc></relation>
+                     <relation ref="snap:BrotherOf" active="#hero011" passive=""><desc>brother of Nisos</desc></relation>
+                     <relation ref="snap:BrotherOf" active="#hero011" passive=""><desc>brother of Lykos</desc></relation>
+                     <relation ref="snap:HusbandOf" active="#hero011" passive=""><desc>husband of Meta</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Aegeus</idno>
                   <idno type="lgpn"></idno>
-               </person>           
+               </person>
+               <person xml:id="hero012" role="deity person">
+                  <persName xml:lang="grc">Αἴγιλος</persName>
+                  <persName xml:lang="en">Aigilios</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579852">Aigilia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                     <bibl></bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+                  <idno type="lgpn"></idno>
+               </person>
+                  <person xml:id="hero013" role="deity person">
+                     <persName xml:lang="grc">Αἰθαλίδης</persName>
+                     <persName xml:lang="en">Aithalides</persName>
+                     <floruit></floruit>
+                     <affiliation ref="http://pleiades.stoa.org/places/579854">Aithalidai</affiliation>
+                     <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                     <occupation>hero</occupation>
+                     <listBibl>
+                        <bibl></bibl>
+                        <bibl></bibl>
+                     </listBibl>
+                     <idno type="wikipedia"></idno>
+                     <idno type="lgpn"></idno>   
+               </person>
+               <person xml:id="hero014" role="deity person">
+                  <persName xml:lang="grc">Αἴθρα</persName>
+                  <persName xml:lang="en">Aithra</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Hellnicus FGrH 323a F20</bibl>
+                     <bibl>Plut. Thes. 31.3</bibl>
+                     <bibl>Hellanicus F 21</bibl>
+                     <bibl>Istros FGrH 334 F 7</bibl>
+                     <relation ref="snap:MotherOf" active="#hero014" passive=""><desc>mother of Theseus</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Aethra_(Greek_mythology)</idno>
+               </person>
+               <person xml:id="hero015" role="deity person">
+                  <persName xml:lang="grc">ἀρχηέτης</persName>
+                  <persName xml:lang="en">Aixone</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Plat. Lysis 205C</bibl>
+                     <relation ref="snap:FatherOf" active="#hero015" passive=""><desc>father of Alkmene</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+                  <idno type="lgpn"></idno>
+               </person>
+               <person xml:id="hero016" role="deity person">
+                  <persName xml:lang="grc"></persName>
+                  <persName xml:lang="en">Aixone, anonymous heroine</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>priestess</occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                     <bibl></bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+                  <idno type="lgpn"></idno>
+               </person>
+               <person xml:id="hero017" role="deity person">
+                  <persName xml:lang="grc">Αἴνετος</persName>
+                  <persName xml:lang="en">Ainetos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Apollod. 1.9.4.</bibl>
+                     <relation ref="snap:SonOf" active="#hero017" passive=""><desc>son of Deion</desc></relation>
+                     <relation ref="snap:BrotherOf" active="#hero017" passive=""><desc>brother of Phylakos</desc></relation>
+                     <relation ref="snap:BrothetOf" active="#hero017" passive=""><desc>brother of Kephalos</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://de.wikipedia.org/wiki/Ainetos_%28Mythologie%29</idno>
+               </person>
+               <person xml:id="hero018" role="deity group">
+                  <persName xml:lang="en">Akademeia, anonymous heroes</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Heliodorus 1.17</bibl>
+                     <bibl>Arist. Ath. Pol.58.1</bibl>
+                     <bibl>Pausanias (1.29.5.)</bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+                  <idno type="lgpn"></idno>
+               </person>
+               <person xml:id="hero019" role="deity person">
+                  <persName xml:lang="grc">Ἀκάμας</persName>
+                  <persName xml:lang="en">Akamas</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/540850">Kallithea</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/580072">Phaleron</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/580117">Tetrapolis</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>priest</occupation>
+                  <listBibl>
+                     <bibl>Pausanias 1.1.4</bibl>
+                     <bibl>Diod. 4.62</bibl>
+                     <bibl>Apollod. Epit. 1.18</bibl>
+                     <bibl>Hellanicus FGrH 323a F21</bibl>
+                     <bibl>Plut. Thes. 35.5</bibl>
+                     <bibl>Soph. TGrF 555b.15</bibl>
+                     <bibl>Kleidemos FGrH 323 F 20</bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+                  <idno type="lgpn"></idno>
+               </person>
+               <person xml:id="hero020" role="deity person">
+                  <persName xml:lang="grc"></persName>
+                  <persName xml:lang="en"></persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                     <bibl></bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+                  <idno type="lgpn"></idno>
+               </person>
             </listPerson>
          </particDesc>
       </profileDesc>
