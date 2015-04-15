@@ -4,7 +4,6 @@
       <fileDesc>
          <titleStmt>
             <title>Heroes of Attica</title>
-            <author xml:id="ek">Emily Kearns</author>
             <author xml:id="gb">Gabriel Bodard</author>
             <author xml:id="av">Athanasia Varveri</author>
          </titleStmt>
@@ -14,8 +13,8 @@
          <sourceDesc>
             <p>Derived from: <bibl>
                   <author>Emily Kearns</author>
-                  <title level="m"></title>
-                  <date></date>
+                  <title level="m">The Heroes of Attica</title>
+                  <date>1989</date>
                </bibl>
             </p>
          </sourceDesc>
@@ -211,6 +210,7 @@
                      <relation ref="snap:BrotherOf" active="#hero011" passive=""><desc>brother of Nisos</desc></relation>
                      <relation ref="snap:BrotherOf" active="#hero011" passive=""><desc>brother of Lykos</desc></relation>
                      <relation ref="snap:HusbandOf" active="#hero011" passive=""><desc>husband of Meta</desc></relation>
+                     <relation ref="snap:FatherOf" active="#hero011" passive=""><desc>father of Theseus</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Aegeus</idno>
                   <idno type="lgpn"></idno>
@@ -261,7 +261,7 @@
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Aethra_(Greek_mythology)</idno>
                </person>
                <person xml:id="hero015" role="deity person">
-                  <persName xml:lang="grc">ἀρχηέτης</persName>
+                  <persName xml:lang="grc">ἀρχηέτης</persName><!-- ??? -->
                   <persName xml:lang="en">Aixone</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
@@ -451,7 +451,7 @@
                </person>
                <person xml:id="hero027" role="deity person">
                   <persName xml:lang="grc">Ἀλκμήνη</persName>
-                  <persName xml:lang="en">Alkmini</persName>
+                  <persName xml:lang="en">Alkmene</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/580119">Thorikos</affiliation>
@@ -461,7 +461,7 @@
                   <occupation>hero</occupation>
                   <listBibl>
                      <bibl>Plat. Lysis 205C</bibl>
-                     <relation ref="snap:DughterOf" active="#hero027" passive="#hero015"></relation>
+                     <relation ref="snap:DaughterOf" active="#hero027" passive="#hero015"></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Alcmene</idno>
                </person>
@@ -527,7 +527,7 @@
                   <idno type="wikipedia"></idno>
                   <idno type="lgpn"></idno>
                </person>
-               <person xml:id="hero032" role="deity person">
+               <person xml:id="hero032" role="deity group">
                   <persName xml:lang="grc">Ἀμαζόνες</persName>
                   <persName xml:lang="en">Amazons</persName>
                   <floruit></floruit>
@@ -576,7 +576,7 @@
                      <bibl>Pausanias 1.34.4</bibl>
                      <bibl>IG II 4441, 4426,4436,4452,1322,1282.12,1344.10</bibl>
                   </listBibl>
-                  <idno type="wikipedia">http://el.wikipedia.org/wiki/%CE%91%CE%BC%CF%86%CE%B9%CE%AC%CF%81%CE%B1%CE%BF%CF%82</idno>
+                  <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphiaraus</idno>
                </person>
             </listPerson>
          </particDesc>
@@ -586,6 +586,7 @@
             <change when="2015-04-08" who="#gb">created file</change>
             <change when="2015-04-08" who="#av">added heroes</change>
             <change when="2015-04-09" who="#av">added heroes</change>
+            <change when="2015-04-15" who="#gb">corrected a couple of uris and properties</change>
       </listChange>
      </revisionDesc>
    </teiHeader>
