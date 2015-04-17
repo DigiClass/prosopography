@@ -42,11 +42,13 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>legatus legionis</occupation>
+                  <occupation>consul</occupation>
                   <listBibl>
                      <bibl>Tacitus Annales 1.60</bibl>
+                     <bibl>Tacitus Agricola.7.5</bibl>
                      <bibl>Malone III.1, 2</bibl>
                   </listBibl>
-                  <idno type="pir"></idno>
+                  <idno type="pir">PIR2 R 94</idno>
                </person>
                
             </listPerson>
