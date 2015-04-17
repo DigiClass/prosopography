@@ -141,6 +141,116 @@
                   <idno type="pir">PIR2 M 526</idno>
                </person>
                
+               <person xml:id="vv007" role="person">
+                  <persName xml:lang="en">C. Curtius Iustus</persName>
+                  <floruit notBefore="0140" notAfter="0157">AD 140/157</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1052">Italy</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>consul</occupation>
+                  <occupation>inter tribunicios</occupation>
+                  <occupation>quaestor urbanus</occupation>
+                  <occupation>praetor</occupation>
+                  <occupation>VIvir equitum Romanorum</occupation>
+                  <occupation>prefect</occupation>
+                  <occupation>commissioner</occupation>
+                  <occupation>proconsular governor</occupation>
+                  <occupation>propraetorian legatus</occupation>
+                  <listBibl>
+                     <bibl>CIL III 1458</bibl>
+                     <bibl>Malone III.1, 7</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 C 1613</idno>
+               </person>
+               
+               <person xml:id="vv008" role="person">
+                  <persName xml:lang="en">L. Cestius Gallus</persName>
+                  <floruit>AD 161</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1052">Italy</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>tribunus</occupation>
+                  <occupation>quaestor</occupation>
+                  <occupation>curule aedile</occupation>
+                  <occupation>praetor</occupation>
+                  <occupation>governor</occupation>
+                  <occupation>prefect</occupation>
+                  <occupation>consul</occupation>
+                  <occupation>patron </occupation>
+                  <listBibl>
+                     <bibl>CIL 3722</bibl>
+                     <bibl>Malone III.1, 8</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 C 692</idno>
+               </person> 
+               
+               <person xml:id="vv009" role="person">
+                  <persName xml:lang="en">(...)us Q.f. Arn (...)nus</persName>
+                  <floruit>AD 60</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1052">Italy</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>tribunus</occupation>
+                   <occupation>consul</occupation>
+                  <occupation>quaestor</occupation>
+                    <listBibl>
+                     <bibl>CIL 3722</bibl>
+                     <bibl>Malone III.1, 9</bibl>
+                  </listBibl>
+                  <idno type="pir"></idno>
+               </person>
+               
+               <person xml:id="vv010" role="person">
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>tribunus</occupation>
+                  <listBibl>
+                     <bibl>CIL VI 37083</bibl>
+                     <bibl>Malone III.1, Incerti 1</bibl>
+                  </listBibl>
+                </person>
+               
+               <person xml:id="vv011" role="person">
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>tribunus</occupation>
+                  <listBibl>
+                     <bibl>CIL VI 41088</bibl>
+                     <bibl>Malone III.1, Incerti 2</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv012" role="person">
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>tribunus</occupation>
+                  <listBibl>
+                     <bibl>CIL XIV 4059</bibl>
+                     <bibl>Malone III.1, Incerti 3</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv013" role="person">
+                  <persName xml:lang="en">T. Vet[....]</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/79488">Chester</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>tribunus</occupation>
+                  <listBibl>
+                     <bibl>RIB 449</bibl>
+                     <bibl>Malone III.1, Incerti 4</bibl>
+                  </listBibl>
+               </person>
+               
+               
+               
             </listPerson>
          </particDesc>
       </profileDesc>
