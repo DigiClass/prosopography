@@ -249,6 +249,95 @@
                   </listBibl>
                </person>
                
+               <person xml:id="vv014" role="person">
+                  <persName xml:lang="en">M. Accenna Helvius Agrippa</persName>
+                  <floruit>C2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1027">Spain</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus laticlavius</occupation>
+                  <occupation>praetor</occupation>
+                  <occupation>legatus</occupation>
+                  <occupation>quaestor</occupation>
+                  <occupation>curio minor</occupation>
+                  <listBibl>
+                     <bibl>CIL II 1262</bibl>
+                     <bibl>Malone III.2,1</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 H 65</idno>
+               </person>
+               
+               <person xml:id="vv015" role="person">
+                  <persName xml:lang="en">L. Aemilius Naso Fabullinus</persName>
+                  <floruit>C2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1027">Spain</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus laticlavius</occupation>
+                  <listBibl>
+                     <bibl>CIL VI 29683</bibl>
+                    <bibl>CIL VI 29684</bibl>
+                     <bibl>Malone III.2,2</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 A 386</idno>
+               </person>
+               
+               <person xml:id="vv016" role="person">
+                  <persName xml:lang="en">M. Caelius Flavius Proculus</persName>
+                  <floruit>C2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1052">Italy</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus laticlavius</occupation>
+                  <occupation>president</occupation>
+                  <occupation>quaestor</occupation>
+                  <occupation>curator rei publicae</occupation>
+                  <listBibl>
+                     <bibl>CIL XI 3883</bibl>
+                    <bibl>Malone III.2,3</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 C 133</idno>
+               </person>
+               
+               <person xml:id="vv017" role="person">
+                  <persName xml:lang="en">AN. Satrius Sal(vius?)</persName>
+                  <floruit>C2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1052">Italy</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus laticlavius</occupation>
+                  <occupation>praetor</occupation>
+                  <occupation>quaestor</occupation>
+                  <occupation>patronus</occupation>
+                  <listBibl>
+                     <bibl>CIL XI 6165</bibl>
+                     <bibl>Malone III.2,4</bibl>
+                  </listBibl>
+                    <idno type="pir">PIR2 S 146</idno>
+                 </person>
+               
+               <person xml:id="vv018" role="person">
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus laticlavius</occupation>
+                  <occupation>patronus</occupation>
+                  <listBibl>
+                     <bibl>CIL XIV 4059</bibl>
+                     <bibl>Malone III.2,5</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv019" role="person">
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus laticlavius</occupation>
+                  <occupation>legatus</occupation>
+                  <listBibl>
+                     <bibl>CIL VI 37083</bibl>
+                     <bibl>CIL VI 41088</bibl>
+                     <bibl>Malone III.2, Incerti</bibl>
+                  </listBibl>
+               </person>
+               
                
                
             </listPerson>
