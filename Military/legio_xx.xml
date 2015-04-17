@@ -36,19 +36,22 @@
                   <idno type="wikipedia"></idno>
                   <idno type="pir"></idno>
                </person>-->
-               <person xml:id="vv002" role="person">
-                  <persName xml:lang="en">M. Roscius Coelius</persName>
-                  <floruit notBefore="0069" notAfter="0081">AD 69/81</floruit>
+               <person xml:id="vv003" role="person">
+                  <persName xml:lang="en">Cn.Iulius Agricola</persName>
+                  <floruit notBefore="0040" notAfter="0093">AD 40/93</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/981537">Gallia Narbonensis</affiliation>
                   <occupation>soldier</occupation>
+                  <occupation>tribunus laticlavius</occupation>
                   <occupation>legatus legionis</occupation>
+                  <occupation>governor</occupation>
+                  <occupation>praetor</occupation>
                   <occupation>consul</occupation>
                   <listBibl>
-                     <bibl>Tacitus Annales 1.60</bibl>
-                     <bibl>Tacitus Agricola.7.5</bibl>
-                     <bibl>Malone III.1, 2</bibl>
+                     <bibl>Tacitus Agricola 7.5-9.1</bibl>
+                     <bibl>Malone III.1, 3</bibl>
                   </listBibl>
-                  <idno type="pir">PIR2 R 94</idno>
+                  <idno type="pir">PIR2 I 126</idno>
                </person>
                
             </listPerson>
