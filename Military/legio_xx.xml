@@ -36,22 +36,21 @@
                   <idno type="wikipedia"></idno>
                   <idno type="pir"></idno>
                </person>-->
-               <person xml:id="vv003" role="person">
-                  <persName xml:lang="en">Cn.Iulius Agricola</persName>
-                  <floruit notBefore="0040" notAfter="0093">AD 40/93</floruit>
+               <person xml:id="vv004" role="person">
+                  <persName xml:lang="en">T.Pomponius Mamilianus</persName>
+                  <floruit notBefore="0090" notAfter="0107">AD 90/107</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
-                  <affiliation ref="http://pleiades.stoa.org/places/981537">Gallia Narbonensis</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/981537">Spain</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>tribunus laticlavius</occupation>
                   <occupation>legatus legionis</occupation>
                   <occupation>governor</occupation>
-                  <occupation>praetor</occupation>
                   <occupation>consul</occupation>
                   <listBibl>
-                     <bibl>Tacitus Agricola 7.5-9.1</bibl>
+                     <bibl>RIB 445</bibl>
+                     <bibl>Pliny Ep. 9.25</bibl>
                      <bibl>Malone III.1, 3</bibl>
                   </listBibl>
-                  <idno type="pir">PIR2 I 126</idno>
+                  <idno type="pir">PIR2 P 734</idno>
                </person>
                
             </listPerson>
