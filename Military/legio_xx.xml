@@ -36,11 +36,56 @@
                   <idno type="wikipedia"></idno>
                   <idno type="pir"></idno>
                </person>-->
+               <person xml:id="vv001" role="person">
+                  <persName xml:lang="en">C. Manlius Valens</persName>
+                  <floruit notBefore="0052" notAfter="0096">AD 52/96</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>consul</occupation>
+                  <listBibl>
+                     <bibl>Tacitus Annales 12.40</bibl>
+                     <bibl>Malone III.1, 1</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 M 163</idno>
+               </person>
+               <person xml:id="vv002" role="person">
+                  <persName xml:lang="en">M. Roscius Coelius</persName>
+                  <floruit notBefore="0069" notAfter="0081">AD 69/81</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>consul</occupation>
+                  <listBibl>
+                     <bibl>Tacitus Agricola.7.5</bibl>
+                     <bibl>Tacitus Historiae 1.60</bibl>
+                     <bibl>Malone III.1, 2</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 R 94</idno>
+               </person>
+               <person xml:id="vv003" role="person">
+                  <persName xml:lang="en">Cn. Iulius Agricola</persName>
+                  <floruit notBefore="0040" notAfter="0093">AD 40/93</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/981537">Gallia Narbonensis</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus laticlavius</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>governor</occupation>
+                  <occupation>praetor</occupation>
+                  <occupation>consul</occupation>
+                  <listBibl>
+                     <bibl>Tacitus Agricola 7.5-9.1</bibl>
+                     <bibl>Malone III.1, 3</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 I 126</idno>
+               </person>
+               
                <person xml:id="vv004" role="person">
                   <persName xml:lang="en">T.Pomponius Mamilianus</persName>
                   <floruit notBefore="0090" notAfter="0107">AD 90/107</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
-                  <affiliation ref="http://pleiades.stoa.org/places/981537">Spain</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1027">Spain</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>legatus legionis</occupation>
                   <occupation>governor</occupation>
@@ -48,9 +93,52 @@
                   <listBibl>
                      <bibl>RIB 445</bibl>
                      <bibl>Pliny Ep. 9.25</bibl>
-                     <bibl>Malone III.1, 3</bibl>
+                     <bibl>Malone III.1, 4</bibl>
                   </listBibl>
                   <idno type="pir">PIR2 P 734</idno>
+               </person>
+               
+               <person xml:id="vv005" role="person">
+                  <persName xml:lang="en">C. Cassius Agrippa</persName>
+                  <floruit notBefore="0120" notAfter="0130">AD 120/130</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/991389">Bithynia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>praetor</occupation>
+                  <occupation>consul</occupation>
+                  <occupation>proconsul</occupation>
+                  <occupation>propraetorian</occupation>
+                  <occupation>tribunus</occupation>
+                  <occupation>quaestor</occupation>
+                  <listBibl>
+                     <bibl>AE 1950.251</bibl>
+                     <bibl>Malone III.1, 5</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 C 481</idno>
+               </person>
+               
+               <person xml:id="vv006" role="person">
+                  <persName xml:lang="en">M. Aemilius Papus</persName>
+                  <floruit notBefore="0128" notAfter="0147">AD 128/147</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1027">Spain</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <occupation>priest</occupation>
+                  <occupation>tribunus</occupation>
+                  <occupation>quaestor</occupation>
+                  <occupation>praetor</occupation>
+                  <occupation>consul</occupation>
+                  <occupation>commissioner</occupation>
+                  <occupation>prefect</occupation>
+                  <occupation>governor</occupation>
+                  <listBibl>
+                     <bibl>CIL II 1371</bibl>
+                     <bibl>CIL II 1283, Gonzalez 1985</bibl>
+                     <bibl>Malone III.1, 6</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 M 526</idno>
                </person>
                
             </listPerson>
