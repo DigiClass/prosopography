@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heroes of Attica</title>
+            <author xml:id="gb">Gabriel Bodard</author>
+            <author xml:id="vp">Vasiliki Papathanasiou</author>
+         </titleStmt>
+         <publicationStmt>
+            <ab/>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Derived from: <bibl>
+                  <author>Stephen James Malone</author>
+                  <title level="m">Legio XX Valeria Victrix: Prosopography, archaeology and history</title>
+                  <date>2006</date>
+               </bibl>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <!--<person xml:id="vv000" role="person">
+                  <persName xml:lang="grc"></persName>
+                  <persName xml:lang="en"></persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/"></affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>legatus legionis</occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                     <bibl></bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+                  <idno type="pir"></idno>
+               </person>-->
+               
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2015-04-17" who="#gb">created file</change>
+            <change when="2015-04-17" who="#pa">added legati</change>
+      </listChange>
+     </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab/>
+      </body>
+   </text>
+</TEI>

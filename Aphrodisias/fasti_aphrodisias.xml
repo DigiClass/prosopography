@@ -1496,7 +1496,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
-                     <relation ref="snap:BrotherOf" active="#pers001" passive="#pers025"><desc>Brother of George</desc></relation>
+                     <relation active="#pers001" ref="snap:BrotherOf" passive="#pers025"><desc>Brother of George</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/abelcius.html</idno>
                   <idno type="lgpn-hr">V.B Ἀβέλκιος 1</idno>
@@ -1880,7 +1880,7 @@
                   <occupation></occupation>
                   <listBibl>
                      <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
-                     <relation ref="snap:BrotherOf" active="#pers025" passive="#pers001"><desc>brother of Abelcius</desc></relation>
+                     <relation active="#pers025" ref="snap:BrotherOf" passive="#pers001"><desc>brother of Abelcius</desc></relation>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george1.html</idno>
                   <idno type="lgpn-hr">V.B Γεώργις 1</idno>
