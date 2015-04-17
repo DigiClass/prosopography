@@ -36,18 +36,17 @@
                   <idno type="wikipedia"></idno>
                   <idno type="pir"></idno>
                </person>-->
-               <person xml:id="vv001" role="person">
-                  <persName xml:lang="en">C. Manlius Valens</persName>
-                  <floruit notBefore="0052" notAfter="0096">AD 52/96</floruit>
+               <person xml:id="vv002" role="person">
+                  <persName xml:lang="en">M. Roscius Coelius</persName>
+                  <floruit notBefore="0069" notAfter="0081">AD 69/81</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>legatus legionis</occupation>
-                  <occupation>consul</occupation>
                   <listBibl>
-                     <bibl>Tacitus Annales 12.40</bibl>
-                     <bibl>Malone III.1, 1</bibl>
+                     <bibl>Tacitus Annales 1.60</bibl>
+                     <bibl>Malone III.1, 2</bibl>
                   </listBibl>
-                  <idno type="pir">PIR2 M 163</idno>
+                  <idno type="pir"></idno>
                </person>
                
             </listPerson>
