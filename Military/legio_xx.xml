@@ -572,12 +572,126 @@
                   </listBibl>
                </person>
                
+               <person xml:id="vv036" role="person">
+                  <persName xml:lang="en">M. Aurelius Alexander</persName>
+                  <floruit>AD after 211</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/991406">Osrhoene</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>praefectus castrorum</occupation>
+                  <occupation>praefectus legionis</occupation>
+                  <listBibl>
+                     <bibl>RIB 490</bibl>
+                    <bibl>Malone III.4,1</bibl>
+                  </listBibl>
+               </person>
                
-
-
+               <person xml:id="vv037" role="person">
+                  <persName xml:lang="en">M. Pompeius Asper</persName>
+                  <floruit>AD L1-E2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="">Tusculum</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>praefectus castrorum</occupation>
+                  <occupation>praefectus legionis</occupation>
+                  <listBibl>
+                     <bibl>CIL XIV 2523</bibl>
+                     <bibl>Malone III.4, 2</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv038" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <floruit>AD M2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/385840">Parma</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>praefectus castrorum</occupation>
+                  <occupation>praefectus legionis</occupation>
+                  <occupation>patron</occupation>
+                  <listBibl>
+                     <bibl>CIL XI 1059</bibl>
+                     <bibl>Malone III.4, 3</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv039" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <floruit>AD E2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>praefectus castrorum</occupation>
+                  <occupation>praefectus legionis</occupation>
+                  <listBibl>
+                     <bibl>JRS 55(1965), 221 no. 5</bibl>
+                     <bibl>Malone III.4, 4</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv040" role="person">
+                  <persName xml:lang="en">Sex. Flavius Quietus</persName>
+                  <floruit notBefore="0144" notAfter="0149">AD 144/149</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>primus plus</occupation>
+                  <occupation>prefect</occupation>
+                    <listBibl>
+                     <bibl>AE 1960. 28</bibl>
+                     <bibl>Malone III.5, 1</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv041" role="person">
+                  <persName xml:lang="en">P. Palpellius Clodius Quirinalis</persName>
+                  <floruit>AD >56</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/187578">Trieste</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>primus plus</occupation>
+                  <occupation>tribunus</occupation>
+                  <occupation>procurator</occupation>
+                  <occupation>prefect</occupation>
+                  <listBibl>
+                     <bibl>CIL V 533</bibl>
+                     <bibl>Sup. It. 474</bibl>
+                     <bibl>Tacitus Ann. 13.30</bibl>
+                     <bibl>Malone III.5, 2</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 P 72</idno>
+               </person>
+               
+               <person xml:id="vv042" role="person">
+                  <persName xml:lang="en">Serenus</persName>
+                  <floruit notBefore="0125" notAfter="0128">AD 125/128</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>primus plus</occupation>
+                  <listBibl>
+                     <bibl>RIB 1510</bibl>
+                     <bibl>JRS 52(1962), 194 no. 20</bibl>
+                     <bibl>Malone III.5, 3</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv043" role="person">
+                  <persName xml:lang="en">C. Sulgius Caecilianus</persName>
+                  <floruit>AD 231</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/315231">Tuccabor</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>primus plus</occupation>
+                  <occupation>prefect</occupation>
+                  <occupation>praepositus</occupation>
+                  <occupation>nauarchus</occupation>
+                  <occupation>optio peregrinorum</occupation>
+                  <listBibl>
+                     <bibl>CIL VIII 1322</bibl>
+                     <bibl>Malone III.5, 4</bibl>
+                  </listBibl>
+               </person>
                
                
-               
+                      
             </listPerson>
          </particDesc>
       </profileDesc>
