@@ -338,6 +338,244 @@
                   </listBibl>
                </person>
                
+               <person xml:id="vv020" role="person">
+                  <persName xml:lang="en">M. Antonius Modianus</persName>
+                  <floruit>C2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/423025">Rome</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>prefect</occupation>
+                  <listBibl>
+                     <bibl>CIL VI 3504</bibl>
+                     <bibl>Malone III.3, 1</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv021" role="person">
+                  <persName xml:lang="en">M. Aurelius Syrio</persName>
+                  <floruit notBefore="0213" notAfter="0222">AD 213/222</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/501525">Ulpia Nicopolis</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <listBibl>
+                     <bibl>Britannia 20 (1989),331 no. 5</bibl>
+                     <bibl>Malone III.3, 2</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv022" role="person">
+                  <persName xml:lang="en">C. Baebius</persName>
+                  <floruit>AD 31 BC</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/396386">Forum Livi</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>praefectus</occupation>
+                  <occupation>IIIIvir</occupation>
+                  <listBibl>
+                     <bibl>CIL XI 623</bibl>
+                     <bibl>Malone III.3, 3</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv023" role="person">
+                  <persName xml:lang="en">C. Calcinius Tertianus</persName>
+                  <floruit>EM2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/197206">Celeia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>conductor</occupation>
+                  <listBibl>
+                     <bibl>CIL III 5184</bibl>
+                     <bibl>Malone III.3, 4</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv024" role="person">
+                  <persName xml:lang="en">Ti. Claudius Balbillus</persName>
+                  <floruit notBefore="0043" notAfter="0059">AD 43/59</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/599612">Ephesus</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>prefect</occupation>
+                  <occupation>archiereus</occupation>
+                  <occupation>director</occupation>
+                  <occupation>procurator</occupation>
+                  <listBibl>
+                     <bibl>AE 1924, 78</bibl>
+                     <bibl>Malone III.3, 5</bibl>
+                  </listBibl>
+                  <idno type="pir">PIR2 C 813</idno>
+               </person>
+               
+               <person xml:id="vv025" role="person">
+                  <persName xml:lang="en">...Crescens</persName>
+                  <floruit>AD C2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/169124">Vienna</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>IIvir aerari</occupation>
+                  <occupation>patron</occupation>
+                  <occupation>priestess</occupation>
+                  <listBibl>
+                     <bibl>CIL XII 1868</bibl>
+                     <bibl>Malone III.3, 6</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv026" role="person">
+                  <persName xml:lang="en">L. Domitius Severus</persName>
+                  <floruit>AD Before Nero</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/396380">Verona</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>IIvir</occupation>
+                  <occupation>prefect</occupation>
+                  <occupation>flamen</occupation>
+                  <listBibl>
+                     <bibl>AE 1966, 124</bibl>
+                     <bibl>Malone III.3, 7</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv027" role="person">
+                  <persName xml:lang="en">Flavius Longus</persName>
+                  <floruit notBefore="0198" notAfter="0211">AD 198/211</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/658587">Samosata</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <listBibl>
+                     <bibl>RIB 450</bibl>
+                     <bibl>Malone III.3, 8</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv028" role="person">
+                  <persName xml:lang="en">T. Iunius Severus</persName>
+                  <floruit>AD Before 127</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/265880">Dianium</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>prefect</occupation>
+                  <occupation>omnibus honoribus</occupation>
+                  <listBibl>
+                     <bibl>CIL II 3583</bibl>
+                     <bibl>Malone III.3, 9</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv029" role="person">
+                  <persName xml:lang="en">...Marus</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <listBibl>
+                     <bibl>Britannia 32(2001), 392 no.18</bibl>
+                     <bibl>Malone III.3, 10</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv030" role="person">
+                  <persName xml:lang="en">Q. Planius Felix</persName>
+                  <floruit>AD EM2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/433381">Minturnae</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>patron</occupation>
+                  <listBibl>
+                     <bibl>CIL X 7587</bibl>
+                     <bibl>Malone III.3, 11</bibl>
+                  </listBibl>
+               </person>
+               
+               
+               <person xml:id="vv031" role="person">
+                  <persName xml:lang="en">...Rufus</persName>
+                  <floruit notBefore="0105" notAfter="0122">AD 105/122</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/471899">Carales</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>prefect</occupation>
+                  <occupation>procurator</occupation>
+                  <occupation>IIIIvir</occupation>
+                  <occupation>subcurator</occupation>
+                  <occupation>pontifex</occupation>
+                  <listBibl>
+                     <bibl>CIL X 7587</bibl>
+                     <bibl>Malone III.3, 12</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv032" role="person">
+                  <persName xml:lang="en">C. Sempronius Fidus</persName>
+                  <floruit>AD C2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/246279">Calagurris</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>flamen</occupation>
+                     <listBibl>
+                     <bibl>CIL II 4245</bibl>
+                     <bibl>Malone III.3, 13</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv033" role="person">
+                  <persName xml:lang="en">Sex. Vagirius Martianus</persName>
+                  <floruit>AD C2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/169123">Lugdunum</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>quaestor</occupation>
+                  <occupation>aedile</occupation>
+                  <occupation>IIvir</occupation>
+                  <occupation>patron</occupation>
+                  <occupation>prefect</occupation>
+                  <occupation>curator</occupation>
+                  <listBibl>
+                     <bibl>CIL XIII 1900</bibl>
+                     <bibl>Malone III.3, 14</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv034" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <occupation>prefect</occupation>
+                  <listBibl>
+                     <bibl>CIL VI 3663</bibl>
+                     <bibl>Malone III.3, 15</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv035" role="person">
+                  <persName xml:lang="en">Cl(audius) Severus</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>tribunus angusticlavius</occupation>
+                  <listBibl>
+                     <bibl>RIB 937</bibl>
+                     <bibl>Malone III.3, Incertus</bibl>
+                  </listBibl>
+               </person>
+               
+               
+
+
+               
                
                
             </listPerson>
