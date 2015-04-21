@@ -951,7 +951,198 @@
                   </listBibl>
                </person>
                
+               <person xml:id="vv064" role="person">
+                  <persName xml:lang="en"> Cornelius Ca...</persName>
+                  <floruit>AD 3rd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/187309">Bedaium</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>CIL III 5577</bibl>
+                     <bibl>Malone III.6, 21</bibl>
+                  </listBibl>
+               </person>
                
+               <person xml:id="vv065" role="person">
+                  <persName xml:lang="en"> Cornelius Crescens</persName>
+                  <floruit>AD L1</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>Britannia 17 (1986), 429 no. 3</bibl>
+                     <bibl>Malone III.6, 22</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv066" role="person">
+                  <persName xml:lang="en">Q. Cornelius Iustus</persName>
+                  <floruit>before AD 35</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>AE 1928.90</bibl>
+                     <bibl>Malone III.6, 23</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv067" role="person">
+                  <persName xml:lang="en">T. Domitius Vindex</persName>
+                  <floruit> AD 2nd?</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/991337">Germany</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>CIL XIII 8707</bibl>
+                     <bibl>Malone III.6, 24</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv068" role="person">
+                  <persName xml:lang="en">L. Elufrius Praesens</persName>
+                  <floruit> AD 154</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>RIB 452</bibl>
+                     <bibl>Malone III.6, 25</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv069" role="person">
+                  <persName xml:lang="en">M. Favonius Facilis</persName>
+                  <floruit>AD M1</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1052">Italy?</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>RIB 200</bibl>
+                     <bibl>Malone III.6, 26</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv071" role="person">
+                  <persName xml:lang="en">Ferronius Vegetus</persName>
+                  <floruit notBefore="0125" notAfter="0128">AD 125/128</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1027">Spain</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>RIB 468</bibl>
+                     <bibl>RIB 1769</bibl>
+                     <bibl>RIB 1867</bibl>
+                     <bibl>Malone III.6, 27</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv072" role="person">
+                  <persName xml:lang="en">Flavius Betto</persName>
+                  <floruit notBefore="0138" notAfter="0161">AD 138/161</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/991337">Germany</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>RIB 2144</bibl>
+                     <bibl>Malone III.6, 28</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv073" role="person">
+                  <persName xml:lang="en">Flavius Cicatricula</persName>
+                  <floruit>AD L1-E2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>RIB 472</bibl>
+                     <bibl>Malone III.6, 29</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv074" role="person">
+                  <persName xml:lang="en">Flavius Noricus</persName>
+                  <floruit notBefore="0125" notAfter="0128">AD 125/128</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/981538">Noricum</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>RIB 1664</bibl>
+                     <bibl>RIB 1812</bibl>
+                     <bibl>JRS 50 (1960),237 no. 11a</bibl>
+                     <bibl>Malone III.6, 30</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv075" role="person">
+                  <persName xml:lang="en">T. Flavius Pro(culus)</persName>
+                  <floruit>AD L1</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>RIB 498</bibl>
+                     <bibl>Malone III.6, 31</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv076" role="person">
+                  <persName xml:lang="en">T. Flavius Virilis</persName>
+                  <floruit>AD L2</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <occupation>nomus hastatus posterior</occupation>
+                  <listBibl>
+                     <bibl>CIL VIII 2877</bibl>
+                     <bibl>Malone III.6, 32</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv077" role="person">
+                  <persName xml:lang="en">Sal. Frebranus Baculus</persName>
+                  <floruit>before AD 9</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>CIL III 2836</bibl>
+                     <bibl>Malone III.6, 33</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv078" role="person">
+                  <persName xml:lang="en">Hortensius Proculus</persName>
+                  <floruit notBefore="0125" notAfter="0128">AD 125/128</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/981537">Narbonensis</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>RIB 1431</bibl>
+                     <bibl>Malone III.6, 34</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="vv079" role="person">
+                  <persName xml:lang="en">Iulius Aq(uila)</persName>
+                  <floruit>AD L2-E3</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="">Iessos</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <listBibl>
+                     <bibl>RIB 2411.79</bibl>
+                     <bibl>Malone III.6, 35</bibl>
+                  </listBibl>
+               </person>
                
 
 
