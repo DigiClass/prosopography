@@ -440,10 +440,14 @@
                   <occupation>hero</occupation>
                   <listBibl>
                      <bibl>Pausanias 1.21.3-4</bibl>
-                     <bibl>IG I 874,875</bibl>
+                     <bibl>IG I2 874,875</bibl>
                      <bibl>Hellanicus FGrH 323a F 1</bibl>
+                     <bibl>Apollod 3.15.8</bibl>
+                     <bibl>Plat. Ion 121A</bibl>
                      <bibl>Philochorus F 3</bibl>
                      <relation ref="snap:DaughterOf" active="#hero026" passive="#hero001"><desc>daugther of Aglauros</desc></relation>
+                     <relation ref="snap:WifeOf" active="#hero026" passive=""><desc>wife of Eupalamos</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero026" passive="#hero067"><desc>mother of Daidalos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Alcippe_(Greek_mythology)</idno>
                </person>
@@ -459,7 +463,7 @@
                   <occupation>hero</occupation>
                   <listBibl>
                      <bibl>Plat. Lysis 205C</bibl>
-                     <relation ref="snap:DaughterOf" active="#hero027" passive="#hero015"></relation>
+                     <relation ref="snap:DaughterOf" active="#hero027" passive="#hero015"><desc>daughter of ἀρχηγέτης</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Alcmene</idno>
                </person>
@@ -589,7 +593,7 @@
                      <bibl>Apollodoros 3.14.5</bibl>
                      <bibl>Pausanias 1.2.5</bibl>
                      <bibl>Phanodemus FGrH 325 F 12</bibl>
-                     <relation ref="snap:SonOf" active="#hero035" passive=""><desc>son of Deukalion</desc></relation>
+                     <relation ref="snap:SonOf" active="#hero035" passive="#hero072"><desc>son of Deukalion</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Amphictyon</idno>
                </person>
@@ -967,12 +971,419 @@
                   <idno type="wikipedia"></idno>
                </person>
                <person xml:id="hero062" role="deity person">
-                  <persName xml:lang="grc"></persName>
-                  <persName xml:lang="en"></persName>
+                  <persName xml:lang="grc">Βούτης</persName>
+                  <persName xml:lang="en">Boutes</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>priest</occupation>
+                  <listBibl>
+                     <bibl>Pausanias 1.26.5</bibl>
+                     <bibl>IG II2 5166</bibl>
+                     <bibl>Apollod. 1.9.16</bibl>
+                     <bibl>Apollod. 3.14.8</bibl>
+                     <bibl>Diod. 5.50.2</bibl>
+                     <relation ref="snap:BrotherOf" active="#hero062" passive=""><desc>brother of Erechtheus</desc></relation>
+                     <relation ref="snap:HusbandOf" active="#hero062" passive=""><desc>husband of Chthonia</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Butes</idno>
+               </person>
+               <person xml:id="hero063" role="deity person">
+                  <persName xml:lang="grc">Γάλιος</persName>
+                  <persName xml:lang="en">Galios</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>IG II2 1358</bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero064" role="deity person">
+                  <persName xml:lang="grc">Γαργηττός</persName>
+                  <persName xml:lang="en">Gargettos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579935">Gargetos</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Pausanias 6.22.7</bibl>
+                     <relation ref="snap:FatherOf" active="#hero064" passive=""><desc>father of Ion</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero065" role="deity person">
+                  <persName xml:lang="grc">Γλαῦκος</persName>
+                  <persName xml:lang="en">Glaukos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/580117">Tetrapolis</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>IG I3 255</bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero066" role="deity person">
+                  <persName xml:lang="grc">Δάειρα</persName>
+                  <persName xml:lang="grc">Δαῖρα</persName>
+                  <persName xml:lang="en">Daeira</persName>
+                  <persName xml:lang="en">Daira</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579920">Eleusis</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/580021">Marathon</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/580047">Paiania</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>goddess</occupation>
+                  <listBibl>
+                     <bibl>IG I3 250.15-16</bibl>
+                     <bibl>Pherecydes (FGrH) 3 F 45</bibl>
+                     <bibl>Pausanias 1.38.7</bibl>
+                     <relation ref="snap:MotherOf" active="#hero066" passive="#hero087"><desc>mother of Eleusis</desc></relation>
+                     <relation ref="snap:WifeOf" active="#hero066" passive=""><desc>wife of Eumolpos</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero066" passive=""><desc>mother of Immaros</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero067" role="deity person">
+                  <persName xml:lang="grc">Δαίδαλος</persName>
+                  <persName xml:lang="en">Daidalos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579858">Alopeke</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Pausanias 7.4.5</bibl>
+                     <bibl>Plat. Alc. 1.121</bibl>
+                     <bibl>Pherecydes FGrH 3 F 146</bibl>
+                     <bibl>Apollod. 3.15.8</bibl>
+                     <bibl>FGrH 323 F 17</bibl>
+                     <bibl>Plat. Rep. 529D</bibl>
+                     <bibl>Pausanias 1.27.1</bibl>
+                     <bibl>Hellanicos FGrH 323a F 22</bibl>
+                     <bibl>Pausanias 1.20.4</bibl>
+                     <relation ref="snap:SonOf" active="#hero067" passive=""><desc>son of Metion</desc></relation>
+                     <relation ref="snap:Son Of" active="#hero067" passive="#hero026"><desc>son of Alkippe</desc></relation>
+                     <relation ref="snap:UncleOf" active="#hero067" passive=""><desc>uncle of Talos</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Daedalus</idno>
+               </person>
+               <person xml:id="hero068" role="deity person">
+                  <persName xml:lang="grc">Δάτυλλος</persName>
+                  <persName xml:lang="en">Datyllos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>IG I3 383.76</bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero069" role="deity person">
+                  <persName xml:lang="grc">Δειράδης</persName>
+                  <persName xml:lang="en">Deirades</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero070" role="deity person">
+                  <persName xml:lang="grc">Δέκελος</persName>
+                  <persName xml:lang="en">Dekelos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579907">Dekeleia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                  </listBibl>
+                  <idno type="wikipedia">http://el.wikipedia.org/wiki/%CE%94%CE%AD%CE%BA%CE%B5%CE%BB%CE%BF%CF%82</idno>
+               </person>
+               <person xml:id="hero071" role="deity person">
+                  <persName xml:lang="grc">Δεξίων</persName>
+                  <persName xml:lang="en">Dexion</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>IG II2 1252,1253,1259</bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero072" role="deity person">
+                  <persName xml:lang="grc">Δευκαλίων</persName>
+                  <persName xml:lang="en">Deukalion</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Strabo 425</bibl>
+                     <bibl>Pausanias 1.1.8.7</bibl>
+                     <bibl>Apollonius FGrH 365 F 4</bibl>
+                     <bibl>Theopompus FGrH 115 F 63</bibl>
+                     <relation ref="snap:FatherOf" active="#hero072" passive="#hero035"><desc>father of Amphiktyon</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Deucalion</idno>
+               </person>
+               <person xml:id="hero073" role="deity person">
+                  <persName xml:lang="grc">Δηιόπη</persName>
+                  <persName xml:lang="en">Deiope</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579920">Eleusis</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Istros FGrH 334 F 22</bibl>
+                     <relation ref="snap:DaughterOf" active="#hero073" passive=""><desc>daugther of Triptolemos</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero073" passive=""><desc>mother of Eumolpos</desc></relation>
+                     <relation ref="snap:WifeOf" active="#hero073" passive=""><desc>wife of Mousaios</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero074" role="deity person">
+                  <persName xml:lang="grc">Δηιών</persName>
+                  <persName xml:lang="en">Deion</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Apollod. 1.7.3,9.4</bibl>
+                     <bibl>Apollod 1.9.4</bibl>
+                     <bibl>Pherecydes FGrH 3 F 120</bibl>
+                     <relation ref="snap:FatherOf" active="#hero074" passive=""><desc>father of Philonis</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero075" role="deity person">
+                  <persName xml:lang="grc">Δημοφῶν</persName>
+                  <persName xml:lang="en">Demophon</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>IG I3 383.159, 369.69, 87</bibl>
+                     <bibl>Pausanias 1.1.4</bibl>
+                     <bibl>Plutarch Theseus 34.2</bibl>
+                     <bibl>Plutarch Theseus 35</bibl>
+                     <bibl>Apollod. Epit. 6.16</bibl>
+                     <bibl>Pherecydes FGrH 3 F</bibl>
+                     <bibl>Phanodemus FGrH 325 F 11</bibl>
+                     <bibl>Dionysius FGrH 15 F 5</bibl>
+                     <bibl>Pausanias 1.28.9</bibl>
+                     <relation ref="snap:SonOf" active="#hero075" passive=""><desc>son of Theseus</desc></relation>
+                     <relation ref="sna:FatherOf" active="#hero075" passive=""><desc>father of Mounichos</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Demophon_of_Athens</idno>
+               </person>
+               <person xml:id="hero076" role="deity person">
+                  <persName xml:lang="grc">Δημοφῶν</persName>
+                  <persName xml:lang="en">Demophon</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579920">Eleusis</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>H. Hymn Dem. 263-5</bibl>
+                     <bibl>H. Hymn Dem. 233-67</bibl>
+                     <relation ref="snap:SonOf" active="#hero076" passive=""><desc>son of Keleos</desc></relation>
+                     <relation ref="snap:SonOf" active="#hero076" passive=""><desc>son of Metaneira</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Demophon_of_Eleusis</idno>
+               </person>
+               <person xml:id="hero077" role="deity person">
+                  <persName xml:lang="grc">Δίοκλος</persName>
+                  <persName xml:lang="grc">Διοκλῆς</persName>
+                  <persName xml:lang="en">Dioklos</persName>
+                  <persName xml:lang="en">Diokles</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/570468">Megara</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>ruler</occupation>
+                  <listBibl>
+                     <bibl>Theocr. 12.27</bibl>
+                     <bibl>Plutarch Theseus 10</bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero078" role="deity person">
+                  <persName xml:lang="grc">Δίομος</persName>
+                  <persName xml:lang="en">Diomos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579948">Herakleion</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579912">Diomeia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>IG II2 1247</bibl>
+                <relation ref="snap:SonOf" active="#hero078" passive=""><desc>son of Kollytos</desc></relation>     
+                  </listBibl>
+                  <idno type="wikipedia">http://el.wikipedia.org/wiki/%CE%94%CE%AF%CE%BF%CE%BC%CE%BF%CF%82</idno>
+               </person>
+               <person xml:id="hero079" role="deity person">
+                  <persName xml:lang="grc">Δόλιχος</persName>
+                  <persName xml:lang="en">Dolichos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579920">Eleusis</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>IG II2 1672.25</bibl>
+                     <bibl>IG I3 5</bibl>     
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero080" role="deity person">
+                  <persName xml:lang="grc">Δυσαύλης</persName>
+                  <persName xml:lang="en">Dysaules</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/573280">Keleai</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Pausanias 2.12.4</bibl>
+                     <bibl>FGrH 12 F 4</bibl>     
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero081" role="deity person">
+                  <persName xml:lang="grc">Ἐγλεμ-</persName>
+                  <persName xml:lang="en">Eglem-</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579971">Kephale</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>IG II2 2612</bibl>     
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero082" role="deity person">
+                  <persName xml:lang="grc">Ἐγρέτης</persName>
+                  <persName xml:lang="en">Egretes</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>IG II2 2499</bibl>     
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero083" role="deity person">
+                  <persName xml:lang="grc">Ἑκάδημος</persName>
+                  <persName xml:lang="grc">Ἀκάδημος</persName>
+                  <persName xml:lang="en">Hekademos</persName>
+                  <persName xml:lang="en">Akademos</persName>
+                  <floruit notBefore="0525" notAfter="0550">
+                     second quarter of sixth century
+                  </floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Plutarch Theseus 32</bibl> 
+                     <bibl>Diod. 4.58.3</bibl>
+                     <bibl>Pausanias 1.44.10</bibl>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Akademos</idno>
+               </person>
+               <person xml:id="hero084" role="deity person">
+                  <persName xml:lang="grc">Ἑκάλη</persName>
+                  <persName xml:lang="en">Hekale</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579944">Hekale</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Plutarch Theseus 14</bibl>
+                     <bibl>FGrH 328 F 119</bibl>
+                     <bibl>Philochorus FGrH 328 F 109</bibl>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Hecale</idno>
+               </person>
+               <person xml:id="hero085" role="deity person">
+                  <persName xml:lang="grc">Ἑλένη</persName>
+                  <persName xml:lang="en">Helen</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/580119">Thorikos</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Pausanias 1.33.7</bibl>
+                     <bibl>Hellanicus FGrH 323a F 19</bibl>
+                     <bibl>Diod. 4.62.3</bibl>
+                     <bibl>Apollod. Epit. 1.23</bibl>
+                     <bibl>Plutarch Theseus 32</bibl>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Helen_of_Troy</idno>
+               </person>
+               <person xml:id="hero086" role="deity person">
+                  <persName xml:lang="grc">Ἑλευθήρ</persName>
+                  <persName xml:lang="en">Eleuther</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/540756">Eleutherai</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Apollod. 3.10.1</bibl>
+                     <bibl>Pausanias 9.26.1</bibl>
+                  </listBibl>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Eleuther</idno>
+               </person>
+               <person xml:id="hero087" role="deity person">
+                  <persName xml:lang="grc">Ἐλευσίς</persName>
+                  <persName xml:lang="grc">Ἐλεύσιος</persName>
+                  <persName xml:lang="grc">Ἐλευσῖνος</persName>
+                  <persName xml:lang="en">Eleusis</persName>
+                  <persName xml:lang="en">Eleusios</persName>
+                  <persName xml:lang="en">Eleusinos</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579920">Eleusis</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <listBibl>
+                     <bibl>Pasuasnias 1.38.7</bibl>
+                     <bibl>Apollod. 1.5.1</bibl>
+                     <bibl>Philochorus FGrH 328 F 104</bibl>
+                     <relation ref="snap:SonOf" active="#hero087" passive="#hero066"><desc>son of Daeira</desc></relation>
+                     <relation ref="snap:FatherOf" active="#hero087" passive=""><desc>father of Keleos</desc></relation>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero088" role="deity person">
+                  <persName xml:lang="en">Eleusis</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>ἀρχηγέτης</occupation>
+                  <listBibl>
+                     <bibl></bibl>
+                  </listBibl>
+                  <idno type="wikipedia"></idno>
+               </person>
+               <person xml:id="hero089" role="deity person">
+                  
+                  <persName xml:lang="en">Eleusis</persName>
+                  <floruit></floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <occupation>hero</occupation>
+                  <occupation>ἀρχηγέτης</occupation>
                   <listBibl>
                      <bibl></bibl>
                   </listBibl>
