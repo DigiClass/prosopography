@@ -2231,6 +2231,79 @@
                   </listBibl>
                </person>
                
+               <person xml:id="vv165" role="person">
+                  <persName xml:lang="en">Cassius Chaerea and Septimius</persName>
+                  <floruit>AD 14</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <bibl>Malone III.6, Incerti 1</bibl>
+               </person>
+               
+               <person xml:id="vv166" role="person">
+                  <persName xml:lang="en">Pritonius and Lupulus</persName>
+                  <floruit>AD 14</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <bibl>Malone III.6, Incerti 2</bibl>
+               </person>
+               
+               <person xml:id="vv167" role="person">
+                  <persName xml:lang="en">P. Aelius...</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/207527">Sarmizegetusa</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <bibl>Malone III.6, Incerti 3</bibl>
+               </person>
+               
+               <person xml:id="vv168" role="person">
+                  <persName xml:lang="en">L. Bruttius Pudens</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <bibl>RIB 452</bibl>
+                  <bibl>Malone III.6, Incerti 4</bibl>
+               </person>
+               
+               <person xml:id="vv169" role="person">
+                  <persName xml:lang="en">Barrus Compitalicus</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <bibl>RIB II.2428.4b</bibl>
+                  <bibl>Malone III.6, Incerti 5</bibl>
+               </person>
+               
+               <person xml:id="vv170" role="person">
+                  <persName xml:lang="en">O[...</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <bibl>JRS 57 (1967), 206 no.18</bibl>
+                  <bibl>JRS 51 (1961), 194 no. 11d</bibl>
+                  <bibl>Malone III.6, Incerti 6</bibl>
+               </person>
+               
+               <person xml:id="vv171" role="person">
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <bibl>RIB 2501.2</bibl>
+                  <bibl>Malone III.6, Incerti 7</bibl>
+               </person>
+               
+               <person xml:id="vv172" role="person">
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>centurio</occupation>
+                  <bibl>CIL XI 1602</bibl>
+                  <bibl>Malone III.6, Incerti 8</bibl>
+               </person>
+               
+               
+               
                
 
 
