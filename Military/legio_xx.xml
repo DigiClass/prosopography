@@ -2303,6 +2303,228 @@
                </person>
                
                
+               <person xml:id="vv173" role="person">
+                  <persName xml:lang="en">P. Aelius...</persName>
+                  <floruit>AD EM2nd-3rd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/207527">Sarmizegetusa</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>centurio?</occupation>
+                  <bibl>CIL III 1472</bibl>
+                  <bibl>Malone III.7, 1</bibl>
+               </person>
+               
+               <person xml:id="vv174" role="person">
+                  <persName xml:lang="en">Aelius Claudianus</persName>
+                  <floruit>AD EM2nd-3rd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>optio</occupation>
+                  <bibl>RIB 448</bibl>
+                  <bibl>Malone III.7, 2</bibl>
+               </person>
+               
+               <person xml:id="vv175" role="person">
+                  <persName xml:lang="en">Aelius Optatus</persName>
+                  <floruit>AD 3rd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/383717">Novaria</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>magister ballistariorum</occupation>
+                  <bibl>CIL V 6632</bibl>
+                  <bibl>Malone III.7, 3</bibl>
+               </person>
+               
+               <person xml:id="vv176" role="person">
+                  <persName xml:lang="en">L. Aemilius Flaccus</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>frumentarius</occupation>
+                  <bibl>CIL VI 3357</bibl>
+                  <bibl>Malone III.7, 4</bibl>
+               </person>
+               
+               <person xml:id="vv177" role="person">
+                  <persName xml:lang="en">C. Allius</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="">Luca</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>veteranus</occupation>
+                  <bibl>CIL III 2911</bibl>
+                  <bibl>Malone III.7, 5</bibl>
+               </person>
+               
+               <person xml:id="vv178" role="person">
+                  <persName xml:lang="en">Anni(us) Cesti(anus?)</persName>
+                  <floruit>AD L2?</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>RIB 489</bibl>
+                  <bibl>Malone III.7, 6</bibl>
+               </person>
+               
+               <person xml:id="vv179" role="person">
+                  <persName xml:lang="en">Annius Felix</persName>
+                  <floruit>AD L2-3rd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>veteranus</occupation>
+                  <bibl>RIB 517</bibl>
+                  <bibl>Malone III.7, 7</bibl>
+               </person>
+               
+               <person xml:id="vv180" role="person">
+                  <persName xml:lang="en">...Antigonus</persName>
+                  <floruit notBefore="0048" notAfter="0087">AD 48/87</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/531013">Nicopolis</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>emertius</occupation>
+                  <bibl>RIB 160</bibl>
+                  <bibl>Malone III.7, 8</bibl>
+               </person>
+               
+               <person xml:id="vv181" role="person">
+                  <persName xml:lang="en">L. Antonius Quadratus</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/385835">Brixia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>signifer</occupation>
+                  <bibl>CIL V 4365</bibl>
+                  <bibl>Malone III.7, 9</bibl>
+               </person>
+               
+               <person xml:id="vv182" role="person">
+                  <persName xml:lang="en">M. Apronius [Sen]ecius</persName>
+                  <floruit>EM2nd-3rd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/678060">Berytus</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>RIB 519</bibl>
+                  <bibl>Malone III.7, 10</bibl>
+               </person>
+               
+               <person xml:id="vv183" role="person">
+                  <persName xml:lang="en">T. Aurelius Certus</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/158554">Cemenelum</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>frumentarius</occupation>
+                  <bibl>CIL VI 3916</bibl>
+                  <bibl>Malone III.7, 11</bibl>
+               </person>
+               
+               <person xml:id="vv184" role="person">
+                  <persName xml:lang="en">Aurelius Diogenes</persName>
+                  <floruit>AD 3rd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="">Greek east</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>imaginifer</occupation>
+                  <bibl>RIB 521</bibl>
+                  <bibl>Malone III.7, 12</bibl>
+               </person>
+               
+               <person xml:id="vv185" role="person">
+                  <persName xml:lang="en">Aurelius Lucius</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>eques</occupation>
+                  <bibl>RIB 522</bibl>
+                  <bibl>Malone III.7, 13</bibl>
+               </person>
+               
+               <person xml:id="vv186" role="person">
+                  <persName xml:lang="en">Aurelius Vale(n)tinus</persName>
+                  <floruit>AD 3rd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/148739">Arelate</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>signifer</occupation>
+                  <bibl>CIL XII 678</bibl>
+                  <bibl>Malone III.7, 14</bibl>
+               </person>
+               
+               <person xml:id="vv187" role="person">
+                  <persName xml:lang="en">C. Axonius</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>CIL II 22</bibl>
+                  <bibl>Malone III.7, 15</bibl>
+               </person>
+               
+               <person xml:id="vv188" role="person">
+                  <persName xml:lang="en">Caecilius Avitus</persName>
+                  <floruit>AD EM2nd-3rd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/256155">Emerita Augusta</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>optio</occupation>
+                  <bibl>RIB 492</bibl>
+                  <bibl>Malone III.7, 16</bibl>
+               </person>
+               
+               <person xml:id="vv189" role="person">
+                  <persName xml:lang="en">Caecilius Donatus</persName>
+                  <floruit>AD 3rd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/216733">Bessi</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>RIB 523</bibl>
+                  <bibl>Malone III.7, 17</bibl>
+               </person>
+               
+               <person xml:id="vv190" role="person">
+                  <persName xml:lang="en">L. Gaiatus Sextinus</persName>
+                  <floruit>AD 88-EM2nd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/141201">Lugdunum</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>RIB 493</bibl>
+                  <bibl>Malone III.7, 18</bibl>
+               </person>
+               
+               <person xml:id="vv191" role="person">
+                  <persName xml:lang="en">D. Capienius Urbicus</persName>
+                  <floruit>AD 88-EM2nd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/171391">Vienna</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>signifer</occupation>
+                  <bibl>RIB 525</bibl>
+                  <bibl>Malone III.7, 19</bibl>
+               </person>
+               
+               <person xml:id="vv192" role="person">
+                  <persName xml:lang="en">T. Carsius Certinus</persName>
+                  <floruit>AD EM2nd-3rd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/148739">Arelate</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>veteranus</occupation>
+                  <bibl>CIL XII 679</bibl>
+                  <bibl>Malone III.7, 20</bibl>
+               </person>
                
                
 
