@@ -2940,6 +2940,111 @@
                   <bibl>Malone III.7, 60</bibl>
                </person>
                
+               <person xml:id="vv233" role="person">
+                  <persName xml:lang="en">Q. Memonius Exoratus</persName>
+                  <floruit>AD 88-EM2nd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/393421">Bononia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>veteranus</occupation>
+                  <bibl>CIL XI 6734</bibl>
+                  <bibl>Malone III.7, 61</bibl>
+               </person>
+               
+               <person xml:id="vv234" role="person">
+                  <persName xml:lang="en">Messor</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>RIB 2496.3</bibl>
+                  <bibl>Malone III.7, 62</bibl>
+               </person>
+               
+               <person xml:id="vv235" role="person">
+                  <persName xml:lang="en">C. Mestrius</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="">Trumplia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>veteranus</occupation>
+                  <bibl>CIL V 4923</bibl>
+                  <bibl>Malone III.7, 63</bibl>
+               </person>
+               
+               <person xml:id="vv236" role="person">
+                  <persName xml:lang="en">P. Mestrius</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>CIL III 7452</bibl>
+                  <bibl>Malone III.7, 64</bibl>
+               </person>
+               
+                             
+               <person xml:id="vv237" role="person">
+                  <persName xml:lang="en">L. Metilius</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/256215">Fabia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>veteranus</occupation>
+                  <bibl>CIL XIII 8288</bibl>
+                  <bibl>Malone III.7, 65</bibl>
+               </person>
+               
+               <person xml:id="vv238" role="person">
+                  <persName xml:lang="en">Mommius Cattianus</persName>
+                  <floruit>EM2nd-3rd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1052">Italy?</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>veteranus</occupation>
+                  <occupation>cornicularius</occupation>
+                  <occupation>optio</occupation>
+                  <bibl>Suplt-04 T031</bibl>
+                  <bibl>Malone III.7, 66</bibl>
+               </person>
+               
+               <person xml:id="vv239" role="person">
+                  <persName xml:lang="en">L. Mu(...) P(...)</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>RIB 467</bibl>
+                  <bibl>Malone III.7, 67</bibl>
+               </person>
+               
+               <person xml:id="vv240" role="person">
+                  <persName xml:lang="en">Ocellio</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>RIB 2501.3</bibl>
+                  <bibl>Malone III.7, 68</bibl>
+               </person>
+               
+               <person xml:id="vv241" role="person">
+                  <persName xml:lang="en">L. Octavius Martialis</persName>
+                  <floruit notBefore="0043" notAfter="0087">AD 43/87</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/383642">Eporedia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>Britannia 36 (2005), 476 no. 3</bibl>
+                  <bibl>Malone III.7, 69</bibl>
+               </person>
+               
+               <person xml:id="vv242" role="person">
+                  <persName xml:lang="en">L. Plinius</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <bibl>CIL III 7452</bibl>
+                  <bibl>Malone III.7, 70</bibl>
+               </person>
+               
               
                
                
