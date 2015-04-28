@@ -3603,6 +3603,101 @@
                      <bibl>Malone III.7, 125</bibl></listBibl>
                </person>
                
+               <person xml:id="vv298" role="person">
+                  <persName xml:lang="en">Lucius Marcius</persName>
+                  <floruit>AD 21?</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>AE 2001.1177</bibl>
+                     <bibl>Malone III.7, Incerti 1</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv299" role="person">
+                  <floruit>AD 3rd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>Britannia 16 (1985) 317 no. 1</bibl>
+                     <bibl>Malone III.7, Incerti 2</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv300" role="person">
+                  <persName xml:lang="en">Barrus Compitalicus</persName>
+                  <floruit>AD 2nd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB II.2428.4b</bibl>
+                     <bibl>Malone III.7, Incerti 3</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv301" role="person">
+                  <persName xml:lang="en">Flavius Attius</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 13</bibl>
+                     <bibl>Malone III.7, Incerti 4</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv302" role="person">
+                  <persName xml:lang="en">Gaius Acilius M[...</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 18</bibl>
+                     <bibl>Malone III.7, Incerti 5</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv303" role="person">
+                  <persName xml:lang="en">Lucius Sempronius Probianus</persName>
+                  <floruit>AD 3rd century</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 537</bibl>
+                     <bibl>Malone III.7, Incerti 6</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv304" role="person">
+                  <persName xml:lang="en">Voconia Nigrina, G(aius) Val(erius) Victor</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 543</bibl>
+                     <bibl>Malone III.7, Incerti 7</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv305" role="person">
+                  <persName xml:lang="en">Atilianus, Antiatilianus, Pompeius Optatus</persName>
+                  <floruit>AD L1-E2?</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 560</bibl>
+                     <bibl>Malone III.7, Incerti 8</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv306" role="person">
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>veteran?</occupation>
+                  <listBibl><bibl>CIL XIII 8288</bibl>
+                     <bibl>Malone III.7, Incerti 9</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv307" role="person">
+                  <persName xml:lang="en">L. Baebius Veleias</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>veteran</occupation>
+                  <listBibl><bibl>CIL XIII 8286</bibl>
+                     <bibl>Malone III.7, Incerti 10</bibl></listBibl>
+               </person>
+               
                
                
                
