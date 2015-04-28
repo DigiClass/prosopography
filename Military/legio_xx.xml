@@ -44,8 +44,8 @@
                   <occupation>legatus legionis</occupation>
                   <occupation>consul</occupation>
                   <listBibl>
-                     <bibl>Tacitus Annales 12.40</bibl>
-                     <bibl>Malone III.1, 1</bibl>
+                     <listBibl><bibl>Tacitus Annales 12.40</bibl>
+                  <bibl>Malone III.1, 1</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 M 163</idno>
                </person>
@@ -57,9 +57,9 @@
                   <occupation>legatus legionis</occupation>
                   <occupation>consul</occupation>
                   <listBibl>
-                     <bibl>Tacitus Agricola.7.5</bibl>
-                     <bibl>Tacitus Historiae 1.60</bibl>
-                     <bibl>Malone III.1, 2</bibl>
+                     <listBibl><bibl>Tacitus Agricola.7.5</bibl>
+                  <bibl>Tacitus Historiae 1.60</bibl>
+                  <bibl>Malone III.1, 2</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 R 94</idno>
                </person>
@@ -75,8 +75,8 @@
                   <occupation>praetor</occupation>
                   <occupation>consul</occupation>
                   <listBibl>
-                     <bibl>Tacitus Agricola 7.5-9.1</bibl>
-                     <bibl>Malone III.1, 3</bibl>
+                     <listBibl><bibl>Tacitus Agricola 7.5-9.1</bibl>
+                  <bibl>Malone III.1, 3</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 I 126</idno>
                </person>
@@ -91,9 +91,9 @@
                   <occupation>governor</occupation>
                   <occupation>consul</occupation>
                   <listBibl>
-                     <bibl>RIB 445</bibl>
-                     <bibl>Pliny Ep. 9.25</bibl>
-                     <bibl>Malone III.1, 4</bibl>
+                     <listBibl><bibl>RIB 445</bibl>
+                  <bibl>Pliny Ep. 9.25</bibl>
+                  <bibl>Malone III.1, 4</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 P 734</idno>
                </person>
@@ -112,8 +112,8 @@
                   <occupation>tribunus</occupation>
                   <occupation>quaestor</occupation>
                   <listBibl>
-                     <bibl>AE 1950.251</bibl>
-                     <bibl>Malone III.1, 5</bibl>
+                     <listBibl><bibl>AE 1950.251</bibl>
+                  <bibl>Malone III.1, 5</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 C 481</idno>
                </person>
@@ -134,9 +134,9 @@
                   <occupation>prefect</occupation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>CIL II 1371</bibl>
-                     <bibl>CIL II 1283, Gonzalez 1985</bibl>
-                     <bibl>Malone III.1, 6</bibl>
+                     <listBibl><bibl>CIL II 1371</bibl>
+                  <bibl>CIL II 1283, Gonzalez 1985</bibl>
+                  <bibl>Malone III.1, 6</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 M 526</idno>
                </person>
@@ -158,8 +158,8 @@
                   <occupation>proconsular governor</occupation>
                   <occupation>propraetorian legatus</occupation>
                   <listBibl>
-                     <bibl>CIL III 1458</bibl>
-                     <bibl>Malone III.1, 7</bibl>
+                     <listBibl><bibl>CIL III 1458</bibl>
+                  <bibl>Malone III.1, 7</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 C 1613</idno>
                </person>
@@ -180,8 +180,8 @@
                   <occupation>consul</occupation>
                   <occupation>patron </occupation>
                   <listBibl>
-                     <bibl>CIL 3722</bibl>
-                     <bibl>Malone III.1, 8</bibl>
+                     <listBibl><bibl>CIL 3722</bibl>
+                  <bibl>Malone III.1, 8</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 C 692</idno>
                </person> 
@@ -197,8 +197,8 @@
                    <occupation>consul</occupation>
                   <occupation>quaestor</occupation>
                     <listBibl>
-                     <bibl>CIL 3722</bibl>
-                     <bibl>Malone III.1, 9</bibl>
+                     <listBibl><bibl>CIL 3722</bibl>
+                  <bibl>Malone III.1, 9</bibl></listBibl>
                   </listBibl>
                   <idno type="pir"></idno>
                </person>
@@ -209,8 +209,8 @@
                   <occupation>legatus legionis</occupation>
                   <occupation>tribunus</occupation>
                   <listBibl>
-                     <bibl>CIL VI 37083</bibl>
-                     <bibl>Malone III.1, Incerti 1</bibl>
+                     <listBibl><bibl>CIL VI 37083</bibl>
+                  <bibl>Malone III.1, Incerti 1</bibl></listBibl>
                   </listBibl>
                 </person>
                
@@ -220,8 +220,8 @@
                   <occupation>legatus legionis</occupation>
                   <occupation>tribunus</occupation>
                   <listBibl>
-                     <bibl>CIL VI 41088</bibl>
-                     <bibl>Malone III.1, Incerti 2</bibl>
+                     <listBibl><bibl>CIL VI 41088</bibl>
+                  <bibl>Malone III.1, Incerti 2</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -231,8 +231,8 @@
                   <occupation>legatus legionis</occupation>
                   <occupation>tribunus</occupation>
                   <listBibl>
-                     <bibl>CIL XIV 4059</bibl>
-                     <bibl>Malone III.1, Incerti 3</bibl>
+                     <listBibl><bibl>CIL XIV 4059</bibl>
+                  <bibl>Malone III.1, Incerti 3</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -244,8 +244,8 @@
                   <occupation>legatus legionis</occupation>
                   <occupation>tribunus</occupation>
                   <listBibl>
-                     <bibl>RIB 449</bibl>
-                     <bibl>Malone III.1, Incerti 4</bibl>
+                     <listBibl><bibl>RIB 449</bibl>
+                  <bibl>Malone III.1, Incerti 4</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -261,8 +261,8 @@
                   <occupation>quaestor</occupation>
                   <occupation>curio minor</occupation>
                   <listBibl>
-                     <bibl>CIL II 1262</bibl>
-                     <bibl>Malone III.2,1</bibl>
+                     <listBibl><bibl>CIL II 1262</bibl>
+                  <bibl>Malone III.2,1</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 H 65</idno>
                </person>
@@ -275,9 +275,9 @@
                   <occupation>soldier</occupation>
                   <occupation>tribunus laticlavius</occupation>
                   <listBibl>
-                     <bibl>CIL VI 29683</bibl>
-                    <bibl>CIL VI 29684</bibl>
-                     <bibl>Malone III.2,2</bibl>
+                     <listBibl><bibl>CIL VI 29683</bibl>
+                  <bibl>CIL VI 29684</bibl>
+                  <bibl>Malone III.2,2</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 A 386</idno>
                </person>
@@ -293,8 +293,8 @@
                   <occupation>quaestor</occupation>
                   <occupation>curator rei publicae</occupation>
                   <listBibl>
-                     <bibl>CIL XI 3883</bibl>
-                    <bibl>Malone III.2,3</bibl>
+                     <listBibl><bibl>CIL XI 3883</bibl>
+                  <bibl>Malone III.2,3</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 C 133</idno>
                </person>
@@ -310,8 +310,8 @@
                   <occupation>quaestor</occupation>
                   <occupation>patronus</occupation>
                   <listBibl>
-                     <bibl>CIL XI 6165</bibl>
-                     <bibl>Malone III.2,4</bibl>
+                     <listBibl><bibl>CIL XI 6165</bibl>
+                  <bibl>Malone III.2,4</bibl></listBibl>
                   </listBibl>
                     <idno type="pir">PIR2 S 146</idno>
                  </person>
@@ -322,8 +322,8 @@
                   <occupation>tribunus laticlavius</occupation>
                   <occupation>patronus</occupation>
                   <listBibl>
-                     <bibl>CIL XIV 4059</bibl>
-                     <bibl>Malone III.2,5</bibl>
+                     <listBibl><bibl>CIL XIV 4059</bibl>
+                  <bibl>Malone III.2,5</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -332,9 +332,9 @@
                   <occupation>tribunus laticlavius</occupation>
                   <occupation>legatus</occupation>
                   <listBibl>
-                     <bibl>CIL VI 37083</bibl>
-                     <bibl>CIL VI 41088</bibl>
-                     <bibl>Malone III.2, Incerti</bibl>
+                     <listBibl><bibl>CIL VI 37083</bibl>
+                  <bibl>CIL VI 41088</bibl>
+                  <bibl>Malone III.2, Incerti</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -347,8 +347,8 @@
                   <occupation>tribunus angusticlavius</occupation>
                   <occupation>prefect</occupation>
                   <listBibl>
-                     <bibl>CIL VI 3504</bibl>
-                     <bibl>Malone III.3, 1</bibl>
+                     <listBibl><bibl>CIL VI 3504</bibl>
+                  <bibl>Malone III.3, 1</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -360,8 +360,8 @@
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
                   <listBibl>
-                     <bibl>Britannia 20 (1989),331 no. 5</bibl>
-                     <bibl>Malone III.3, 2</bibl>
+                     <listBibl><bibl>Britannia 20 (1989),331 no. 5</bibl>
+                  <bibl>Malone III.3, 2</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -375,8 +375,8 @@
                   <occupation>praefectus</occupation>
                   <occupation>IIIIvir</occupation>
                   <listBibl>
-                     <bibl>CIL XI 623</bibl>
-                     <bibl>Malone III.3, 3</bibl>
+                     <listBibl><bibl>CIL XI 623</bibl>
+                  <bibl>Malone III.3, 3</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -389,8 +389,8 @@
                   <occupation>tribunus angusticlavius</occupation>
                   <occupation>conductor</occupation>
                   <listBibl>
-                     <bibl>CIL III 5184</bibl>
-                     <bibl>Malone III.3, 4</bibl>
+                     <listBibl><bibl>CIL III 5184</bibl>
+                  <bibl>Malone III.3, 4</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -406,8 +406,8 @@
                   <occupation>director</occupation>
                   <occupation>procurator</occupation>
                   <listBibl>
-                     <bibl>AE 1924, 78</bibl>
-                     <bibl>Malone III.3, 5</bibl>
+                     <listBibl><bibl>AE 1924, 78</bibl>
+                  <bibl>Malone III.3, 5</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 C 813</idno>
                </person>
@@ -423,8 +423,8 @@
                   <occupation>patron</occupation>
                   <occupation>priestess</occupation>
                   <listBibl>
-                     <bibl>CIL XII 1868</bibl>
-                     <bibl>Malone III.3, 6</bibl>
+                     <listBibl><bibl>CIL XII 1868</bibl>
+                  <bibl>Malone III.3, 6</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -439,8 +439,8 @@
                   <occupation>prefect</occupation>
                   <occupation>flamen</occupation>
                   <listBibl>
-                     <bibl>AE 1966, 124</bibl>
-                     <bibl>Malone III.3, 7</bibl>
+                     <listBibl><bibl>AE 1966, 124</bibl>
+                  <bibl>Malone III.3, 7</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -452,8 +452,8 @@
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
                   <listBibl>
-                     <bibl>RIB 450</bibl>
-                     <bibl>Malone III.3, 8</bibl>
+                     <listBibl><bibl>RIB 450</bibl>
+                  <bibl>Malone III.3, 8</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -467,8 +467,8 @@
                   <occupation>prefect</occupation>
                   <occupation>omnibus honoribus</occupation>
                   <listBibl>
-                     <bibl>CIL II 3583</bibl>
-                     <bibl>Malone III.3, 9</bibl>
+                     <listBibl><bibl>CIL II 3583</bibl>
+                  <bibl>Malone III.3, 9</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -478,8 +478,8 @@
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
                   <listBibl>
-                     <bibl>Britannia 32(2001), 392 no.18</bibl>
-                     <bibl>Malone III.3, 10</bibl>
+                     <listBibl><bibl>Britannia 32(2001), 392 no.18</bibl>
+                  <bibl>Malone III.3, 10</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -492,8 +492,8 @@
                   <occupation>tribunus angusticlavius</occupation>
                   <occupation>patron</occupation>
                   <listBibl>
-                     <bibl>CIL X 7587</bibl>
-                     <bibl>Malone III.3, 11</bibl>
+                     <listBibl><bibl>CIL X 7587</bibl>
+                  <bibl>Malone III.3, 11</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -511,8 +511,8 @@
                   <occupation>subcurator</occupation>
                   <occupation>pontifex</occupation>
                   <listBibl>
-                     <bibl>CIL X 7587</bibl>
-                     <bibl>Malone III.3, 12</bibl>
+                     <listBibl><bibl>CIL X 7587</bibl>
+                  <bibl>Malone III.3, 12</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -525,8 +525,8 @@
                   <occupation>tribunus angusticlavius</occupation>
                   <occupation>flamen</occupation>
                      <listBibl>
-                     <bibl>CIL II 4245</bibl>
-                     <bibl>Malone III.3, 13</bibl>
+                     <listBibl><bibl>CIL II 4245</bibl>
+                  <bibl>Malone III.3, 13</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -544,8 +544,8 @@
                   <occupation>prefect</occupation>
                   <occupation>curator</occupation>
                   <listBibl>
-                     <bibl>CIL XIII 1900</bibl>
-                     <bibl>Malone III.3, 14</bibl>
+                     <listBibl><bibl>CIL XIII 1900</bibl>
+                  <bibl>Malone III.3, 14</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -556,8 +556,8 @@
                   <occupation>tribunus angusticlavius</occupation>
                   <occupation>prefect</occupation>
                   <listBibl>
-                     <bibl>CIL VI 3663</bibl>
-                     <bibl>Malone III.3, 15</bibl>
+                     <listBibl><bibl>CIL VI 3663</bibl>
+                  <bibl>Malone III.3, 15</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -567,8 +567,8 @@
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
                   <listBibl>
-                     <bibl>RIB 937</bibl>
-                     <bibl>Malone III.3, Incertus</bibl>
+                     <listBibl><bibl>RIB 937</bibl>
+                  <bibl>Malone III.3, Incertus</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -581,8 +581,8 @@
                   <occupation>praefectus castrorum</occupation>
                   <occupation>praefectus legionis</occupation>
                   <listBibl>
-                     <bibl>RIB 490</bibl>
-                    <bibl>Malone III.4,1</bibl>
+                     <listBibl><bibl>RIB 490</bibl>
+                  <bibl>Malone III.4,1</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -595,8 +595,8 @@
                   <occupation>praefectus castrorum</occupation>
                   <occupation>praefectus legionis</occupation>
                   <listBibl>
-                     <bibl>CIL XIV 2523</bibl>
-                     <bibl>Malone III.4, 2</bibl>
+                     <listBibl><bibl>CIL XIV 2523</bibl>
+                  <bibl>Malone III.4, 2</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -610,8 +610,8 @@
                   <occupation>praefectus legionis</occupation>
                   <occupation>patron</occupation>
                   <listBibl>
-                     <bibl>CIL XI 1059</bibl>
-                     <bibl>Malone III.4, 3</bibl>
+                     <listBibl><bibl>CIL XI 1059</bibl>
+                  <bibl>Malone III.4, 3</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -623,8 +623,8 @@
                   <occupation>praefectus castrorum</occupation>
                   <occupation>praefectus legionis</occupation>
                   <listBibl>
-                     <bibl>JRS 55(1965), 221 no. 5</bibl>
-                     <bibl>Malone III.4, 4</bibl>
+                     <listBibl><bibl>JRS 55(1965), 221 no. 5</bibl>
+                  <bibl>Malone III.4, 4</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -636,8 +636,8 @@
                   <occupation>primus plus</occupation>
                   <occupation>prefect</occupation>
                     <listBibl>
-                     <bibl>AE 1960. 28</bibl>
-                     <bibl>Malone III.5, 1</bibl>
+                     <listBibl><bibl>AE 1960. 28</bibl>
+                  <bibl>Malone III.5, 1</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -652,10 +652,10 @@
                   <occupation>procurator</occupation>
                   <occupation>prefect</occupation>
                   <listBibl>
-                     <bibl>CIL V 533</bibl>
-                     <bibl>Sup. It. 474</bibl>
-                     <bibl>Tacitus Ann. 13.30</bibl>
-                     <bibl>Malone III.5, 2</bibl>
+                     <listBibl><bibl>CIL V 533</bibl>
+                  <bibl>Sup. It. 474</bibl>
+                  <bibl>Tacitus Ann. 13.30</bibl>
+                  <bibl>Malone III.5, 2</bibl></listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 P 72</idno>
                </person>
@@ -667,9 +667,9 @@
                   <occupation>soldier</occupation>
                   <occupation>primus plus</occupation>
                   <listBibl>
-                     <bibl>RIB 1510</bibl>
-                     <bibl>JRS 52(1962), 194 no. 20</bibl>
-                     <bibl>Malone III.5, 3</bibl>
+                     <listBibl><bibl>RIB 1510</bibl>
+                  <bibl>JRS 52(1962), 194 no. 20</bibl>
+                  <bibl>Malone III.5, 3</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -685,8 +685,8 @@
                   <occupation>nauarchus</occupation>
                   <occupation>optio peregrinorum</occupation>
                   <listBibl>
-                     <bibl>CIL VIII 1322</bibl>
-                     <bibl>Malone III.5, 4</bibl>
+                     <listBibl><bibl>CIL VIII 1322</bibl>
+                  <bibl>Malone III.5, 4</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -698,9 +698,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 469</bibl>
-                     <bibl>RIB 470</bibl>
-                     <bibl>Malone III.6, 1</bibl>
+                     <listBibl><bibl>RIB 469</bibl>
+                  <bibl>RIB 470</bibl>
+                  <bibl>Malone III.6, 1</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -712,8 +712,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 754</bibl>
-                     <bibl>Malone III.6, 2</bibl>
+                     <listBibl><bibl>RIB 754</bibl>
+                  <bibl>Malone III.6, 2</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -725,8 +725,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>CIL VIII 2786</bibl>
-                     <bibl>Malone III.6, 3</bibl>
+                     <listBibl><bibl>CIL VIII 2786</bibl>
+                  <bibl>Malone III.6, 3</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -738,8 +738,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1327</bibl>
-                     <bibl>Malone III.6, 4</bibl>
+                     <listBibl><bibl>RIB 1327</bibl>
+                  <bibl>Malone III.6, 4</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -752,8 +752,8 @@
                   <occupation>centurio</occupation>
                   <occupation>cornicularius</occupation>
                   <listBibl>
-                     <bibl>CIL XI 3108</bibl>
-                     <bibl>Malone III.6, 5</bibl>
+                     <listBibl><bibl>CIL XI 3108</bibl>
+                  <bibl>Malone III.6, 5</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -765,8 +765,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2449.4</bibl>
-                     <bibl>Malone III.6, 6</bibl>
+                     <listBibl><bibl>RIB 2449.4</bibl>
+                  <bibl>Malone III.6, 6</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -777,11 +777,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2122</bibl>
-                     <bibl>RIB 2123</bibl>
-                     <bibl>RIB 2124</bibl>
-                     <bibl>RIB 2125</bibl>
-                     <bibl>Malone III.6, 7</bibl>
+                     <listBibl><bibl>RIB 2122</bibl>
+                  <bibl>RIB 2123</bibl>
+                  <bibl>RIB 2124</bibl>
+                  <bibl>RIB 2125</bibl>
+                  <bibl>Malone III.6, 7</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -792,8 +792,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2410.6</bibl>
-                     <bibl>Malone III.6, 8</bibl>
+                     <listBibl><bibl>RIB 2410.6</bibl>
+                  <bibl>Malone III.6, 8</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -805,8 +805,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 471</bibl>
-                     <bibl>Malone III.6, 9</bibl>
+                     <listBibl><bibl>RIB 471</bibl>
+                  <bibl>Malone III.6, 9</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -817,8 +817,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1779</bibl>
-                     <bibl>Malone III.6, 10</bibl>
+                     <listBibl><bibl>RIB 1779</bibl>
+                  <bibl>Malone III.6, 10</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -829,8 +829,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 447</bibl>
-                     <bibl>Malone III.6, 11</bibl>
+                     <listBibl><bibl>RIB 447</bibl>
+                  <bibl>Malone III.6, 11</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -841,8 +841,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 491</bibl>
-                     <bibl>Malone III.6, 12</bibl>
+                     <listBibl><bibl>RIB 491</bibl>
+                  <bibl>Malone III.6, 12</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -854,8 +854,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>CIL XII 2601</bibl>
-                     <bibl>Malone III.6, 13</bibl>
+                     <listBibl><bibl>CIL XII 2601</bibl>
+                  <bibl>Malone III.6, 13</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -866,8 +866,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>JRS 58(1968), 208 no. 11</bibl>
-                     <bibl>Malone III.6, 14</bibl>
+                     <listBibl><bibl>JRS 58(1968), 208 no. 11</bibl>
+                  <bibl>Malone III.6, 14</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -880,8 +880,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>Britannia 23 (1992), 146</bibl>
-                     <bibl>Malone III.6, 15</bibl>
+                     <listBibl><bibl>Britannia 23 (1992), 146</bibl>
+                  <bibl>Malone III.6, 15</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -893,8 +893,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2410.1</bibl>
-                     <bibl>Malone III.6, 16</bibl>
+                     <listBibl><bibl>RIB 2410.1</bibl>
+                  <bibl>Malone III.6, 16</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -905,8 +905,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 439</bibl>
-                     <bibl>Malone III.6, 17</bibl>
+                     <listBibl><bibl>RIB 439</bibl>
+                  <bibl>Malone III.6, 17</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -916,11 +916,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2409.4</bibl>
-                     <bibl>RIB 1770 (HW45-45a)</bibl>
-                     <bibl>RIB 1811</bibl>
-                     <bibl>RIB 1855 (HW47-48)</bibl>
-                     <bibl>Malone III.6, 18</bibl>
+                     <listBibl><bibl>RIB 2409.4</bibl>
+                  <bibl>RIB 1770 (HW45-45a)</bibl>
+                  <bibl>RIB 1811</bibl>
+                  <bibl>RIB 1855 (HW47-48)</bibl>
+                  <bibl>Malone III.6, 18</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -932,8 +932,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>AE 1939.157</bibl>
-                     <bibl>Malone III.6, 19</bibl>
+                     <listBibl><bibl>AE 1939.157</bibl>
+                  <bibl>Malone III.6, 19</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -946,8 +946,8 @@
                   <occupation>centurio</occupation>
                   <occupation>secundus princeps posterior</occupation>
                   <listBibl>
-                     <bibl>CIL VI 3584</bibl>
-                     <bibl>Malone III.6, 20</bibl>
+                     <listBibl><bibl>CIL VI 3584</bibl>
+                  <bibl>Malone III.6, 20</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -959,8 +959,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>CIL III 5577</bibl>
-                     <bibl>Malone III.6, 21</bibl>
+                     <listBibl><bibl>CIL III 5577</bibl>
+                  <bibl>Malone III.6, 21</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -971,8 +971,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>Britannia 17 (1986), 429 no. 3</bibl>
-                     <bibl>Malone III.6, 22</bibl>
+                     <listBibl><bibl>Britannia 17 (1986), 429 no. 3</bibl>
+                  <bibl>Malone III.6, 22</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -983,8 +983,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>AE 1928.90</bibl>
-                     <bibl>Malone III.6, 23</bibl>
+                     <listBibl><bibl>AE 1928.90</bibl>
+                  <bibl>Malone III.6, 23</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -996,8 +996,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>CIL XIII 8707</bibl>
-                     <bibl>Malone III.6, 24</bibl>
+                     <listBibl><bibl>CIL XIII 8707</bibl>
+                  <bibl>Malone III.6, 24</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1008,8 +1008,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 452</bibl>
-                     <bibl>Malone III.6, 25</bibl>
+                     <listBibl><bibl>RIB 452</bibl>
+                  <bibl>Malone III.6, 25</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1021,8 +1021,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 200</bibl>
-                     <bibl>Malone III.6, 26</bibl>
+                     <listBibl><bibl>RIB 200</bibl>
+                  <bibl>Malone III.6, 26</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1034,10 +1034,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 468</bibl>
-                     <bibl>RIB 1769</bibl>
-                     <bibl>RIB 1867</bibl>
-                     <bibl>Malone III.6, 27</bibl>
+                     <listBibl><bibl>RIB 468</bibl>
+                  <bibl>RIB 1769</bibl>
+                  <bibl>RIB 1867</bibl>
+                  <bibl>Malone III.6, 27</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1049,8 +1049,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2144</bibl>
-                     <bibl>Malone III.6, 28</bibl>
+                     <listBibl><bibl>RIB 2144</bibl>
+                  <bibl>Malone III.6, 28</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1061,8 +1061,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 472</bibl>
-                     <bibl>Malone III.6, 29</bibl>
+                     <listBibl><bibl>RIB 472</bibl>
+                  <bibl>Malone III.6, 29</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1074,10 +1074,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1664</bibl>
-                     <bibl>RIB 1812</bibl>
-                     <bibl>JRS 50 (1960),237 no. 11a</bibl>
-                     <bibl>Malone III.6, 30</bibl>
+                     <listBibl><bibl>RIB 1664</bibl>
+                  <bibl>RIB 1812</bibl>
+                  <bibl>JRS 50 (1960),237 no. 11a</bibl>
+                  <bibl>Malone III.6, 30</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1088,8 +1088,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 498</bibl>
-                     <bibl>Malone III.6, 31</bibl>
+                     <listBibl><bibl>RIB 498</bibl>
+                  <bibl>Malone III.6, 31</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1101,8 +1101,8 @@
                   <occupation>centurio</occupation>
                   <occupation>nomus hastatus posterior</occupation>
                   <listBibl>
-                     <bibl>CIL VIII 2877</bibl>
-                     <bibl>Malone III.6, 32</bibl>
+                     <listBibl><bibl>CIL VIII 2877</bibl>
+                  <bibl>Malone III.6, 32</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1113,8 +1113,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>CIL III 2836</bibl>
-                     <bibl>Malone III.6, 33</bibl>
+                     <listBibl><bibl>CIL III 2836</bibl>
+                  <bibl>Malone III.6, 33</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1126,8 +1126,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1431</bibl>
-                     <bibl>Malone III.6, 34</bibl>
+                     <listBibl><bibl>RIB 1431</bibl>
+                  <bibl>Malone III.6, 34</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1139,8 +1139,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2411.79</bibl>
-                     <bibl>Malone III.6, 35</bibl>
+                     <listBibl><bibl>RIB 2411.79</bibl>
+                  <bibl>Malone III.6, 35</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1151,8 +1151,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1677</bibl>
-                     <bibl>Malone III.6, 36</bibl>
+                     <listBibl><bibl>RIB 1677</bibl>
+                  <bibl>Malone III.6, 36</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1166,8 +1166,8 @@
                   <occupation>primus pilus</occupation>
                   <occupation>councillor</occupation>
                   <listBibl>
-                     <bibl>CIL II 4463</bibl>
-                     <bibl>Malone III.6, 37</bibl>
+                     <listBibl><bibl>CIL II 4463</bibl>
+                  <bibl>Malone III.6, 37</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1179,8 +1179,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>CIL VIII 2907</bibl>
-                     <bibl>Malone III.6, 38</bibl>
+                     <listBibl><bibl>CIL VIII 2907</bibl>
+                  <bibl>Malone III.6, 38</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1190,8 +1190,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1014</bibl>
-                     <bibl>Malone III.6, 39</bibl>
+                     <listBibl><bibl>RIB 1014</bibl>
+                  <bibl>Malone III.6, 39</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1202,8 +1202,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2501.3</bibl>
-                     <bibl>Malone III.6, 40</bibl>
+                     <listBibl><bibl>RIB 2501.3</bibl>
+                  <bibl>Malone III.6, 40</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1215,8 +1215,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2496.2</bibl>
-                     <bibl>Malone III.6, 41</bibl>
+                     <listBibl><bibl>RIB 2496.2</bibl>
+                  <bibl>Malone III.6, 41</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1228,9 +1228,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2077</bibl>
-                     <bibl>RIB 1330</bibl>
-                     <bibl>Malone III.6, 42</bibl>
+                     <listBibl><bibl>RIB 2077</bibl>
+                  <bibl>RIB 1330</bibl>
+                  <bibl>Malone III.6, 42</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1244,8 +1244,8 @@
                   <occupation>evocatus Augusti</occupation>
                   <occupation>beneficiarius</occupation>
                   <listBibl>
-                     <bibl>CIL XI 5960</bibl>
-                     <bibl>Malone III.6, 43</bibl>
+                     <listBibl><bibl>CIL XI 5960</bibl>
+                  <bibl>Malone III.6, 43</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1257,8 +1257,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 122</bibl>
-                     <bibl>Malone III.6, 44</bibl>
+                     <listBibl><bibl>RIB 122</bibl>
+                  <bibl>Malone III.6, 44</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1269,8 +1269,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2463.58</bibl>
-                     <bibl>Malone III.6, 45</bibl>
+                     <listBibl><bibl>RIB 2463.58</bibl>
+                  <bibl>Malone III.6, 45</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1281,8 +1281,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 544</bibl>
-                     <bibl>Malone III.6, 46</bibl>
+                     <listBibl><bibl>RIB 544</bibl>
+                  <bibl>Malone III.6, 46</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1293,8 +1293,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2409.6</bibl>
-                     <bibl>Malone III.6, 47</bibl>
+                     <listBibl><bibl>RIB 2409.6</bibl>
+                  <bibl>Malone III.6, 47</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1305,8 +1305,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 473</bibl>
-                     <bibl>Malone III.6, 48</bibl>
+                     <listBibl><bibl>RIB 473</bibl>
+                  <bibl>Malone III.6, 48</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1320,11 +1320,11 @@
                   <occupation>primus pilus</occupation>
                   <occupation>praepositus</occupation>
                   <listBibl>
-                     <bibl>RIB 473</bibl>
-                     <bibl>RIB 1725</bibl>
-                     <bibl>RIB 2120</bibl>
-                     <bibl>AE 1985.735</bibl>
-                     <bibl>Malone III.6, 49</bibl>
+                     <listBibl><bibl>RIB 473</bibl>
+                  <bibl>RIB 1725</bibl>
+                  <bibl>RIB 2120</bibl>
+                  <bibl>AE 1985.735</bibl>
+                  <bibl>Malone III.6, 49</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1334,8 +1334,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2449.8</bibl>
-                     <bibl>Malone III.6, 50</bibl>
+                     <listBibl><bibl>RIB 2449.8</bibl>
+                  <bibl>Malone III.6, 50</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1346,8 +1346,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>CIL II 4162</bibl>
-                     <bibl>Malone III.6, 51</bibl>
+                     <listBibl><bibl>CIL II 4162</bibl>
+                  <bibl>Malone III.6, 51</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1358,8 +1358,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 467</bibl>
-                     <bibl>Malone III.6, 52</bibl>
+                     <listBibl><bibl>RIB 467</bibl>
+                  <bibl>Malone III.6, 52</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1370,8 +1370,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 508</bibl>
-                     <bibl>Malone III.6, 53</bibl>
+                     <listBibl><bibl>RIB 508</bibl>
+                  <bibl>Malone III.6, 53</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1382,8 +1382,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1095</bibl>
-                     <bibl>Malone III.6, 54</bibl>
+                     <listBibl><bibl>RIB 1095</bibl>
+                  <bibl>Malone III.6, 54</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1395,9 +1395,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>Rebuffat 1995, 79-124</bibl>
-                     <bibl>CIL VIII 2638</bibl>
-                     <bibl>Malone III.6, 55</bibl>
+                     <listBibl><bibl>Rebuffat 1995, 79-124</bibl>
+                  <bibl>CIL VIII 2638</bibl>
+                  <bibl>Malone III.6, 55</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1408,8 +1408,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 539</bibl>
-                     <bibl>Malone III.6, 56</bibl>
+                     <listBibl><bibl>RIB 539</bibl>
+                  <bibl>Malone III.6, 56</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1420,8 +1420,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>Britannia 8 (1977), 433 no. 32</bibl>
-                     <bibl>Malone III.6, 57</bibl>
+                     <listBibl><bibl>Britannia 8 (1977), 433 no. 32</bibl>
+                  <bibl>Malone III.6, 57</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1432,8 +1432,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>JRS 58 (1968), 208 no. 9</bibl>
-                     <bibl>Malone III.6, 58</bibl>
+                     <listBibl><bibl>JRS 58 (1968), 208 no. 9</bibl>
+                  <bibl>Malone III.6, 58</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1443,9 +1443,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 441</bibl>
-                     <bibl>RIB 1659</bibl>
-                     <bibl>Malone III.6, 59</bibl>
+                     <listBibl><bibl>RIB 441</bibl>
+                  <bibl>RIB 1659</bibl>
+                  <bibl>Malone III.6, 59</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1457,9 +1457,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>CIL III 186</bibl>
-                     <bibl>IGR III 1017</bibl>
-                     <bibl>Malone III.6, 60</bibl>
+                     <listBibl><bibl>CIL III 186</bibl>
+                  <bibl>IGR III 1017</bibl>
+                  <bibl>Malone III.6, 60</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1470,8 +1470,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>JRS 57</bibl>
-                     <bibl>Malone III.6, 61</bibl>
+                     <listBibl><bibl>JRS 57</bibl>
+                  <bibl>Malone III.6, 61</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1482,8 +1482,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2491.199</bibl>
-                     <bibl>Malone III.6, 62</bibl>
+                     <listBibl><bibl>RIB 2491.199</bibl>
+                  <bibl>Malone III.6, 62</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1493,8 +1493,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2077</bibl>
-                     <bibl>Malone III.6, 63</bibl>
+                     <listBibl><bibl>RIB 2077</bibl>
+                  <bibl>Malone III.6, 63</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1505,8 +1505,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 474</bibl>
-                     <bibl>Malone III.6, 64</bibl>
+                     <listBibl><bibl>RIB 474</bibl>
+                  <bibl>Malone III.6, 64</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1525,9 +1525,9 @@
                   <occupation>governor</occupation>
                   <occupation>consul</occupation>
                   <listBibl>
-                     <bibl>CIL X 5064</bibl>
-                     <bibl>CIL XIII 6762</bibl>
-                     <bibl>Malone III.6, 65</bibl>
+                     <listBibl><bibl>CIL X 5064</bibl>
+                  <bibl>CIL XIII 6762</bibl>
+                  <bibl>Malone III.6, 65</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1539,8 +1539,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2410.7</bibl>
-                     <bibl>Malone III.6, 66</bibl>
+                     <listBibl><bibl>RIB 2410.7</bibl>
+                  <bibl>Malone III.6, 66</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1551,8 +1551,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 593</bibl>
-                     <bibl>Malone III.6, 67</bibl>
+                     <listBibl><bibl>RIB 593</bibl>
+                  <bibl>Malone III.6, 67</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1564,8 +1564,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>CIL XIII 8554</bibl>
-                     <bibl>Malone III.6, 68</bibl>
+                     <listBibl><bibl>CIL XIII 8554</bibl>
+                  <bibl>Malone III.6, 68</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1577,8 +1577,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>CIL VIII 3005</bibl>
-                     <bibl>Malone III.6, 69</bibl>
+                     <listBibl><bibl>CIL VIII 3005</bibl>
+                  <bibl>Malone III.6, 69</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1589,8 +1589,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1167</bibl>
-                     <bibl>Malone III.6, 70</bibl>
+                     <listBibl><bibl>RIB 1167</bibl>
+                  <bibl>Malone III.6, 70</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1604,8 +1604,8 @@
                   <occupation>beneficiarius</occupation>
                   <occupation>optio</occupation>
                   <listBibl>
-                     <bibl>CIL III 12411</bibl>
-                     <bibl>Malone III.6, 71</bibl>
+                     <listBibl><bibl>CIL III 12411</bibl>
+                  <bibl>Malone III.6, 71</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1617,8 +1617,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2409.9</bibl>
-                     <bibl>Malone III.6, 72</bibl>
+                     <listBibl><bibl>RIB 2409.9</bibl>
+                  <bibl>Malone III.6, 72</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1631,8 +1631,8 @@
                   <occupation>trecenarius</occupation>
                   <occupation>evocatus Augusti</occupation>
                   <listBibl>
-                     <bibl>CIL VI 33033</bibl>
-                     <bibl>Malone III.6, 73</bibl>
+                     <listBibl><bibl>CIL VI 33033</bibl>
+                  <bibl>Malone III.6, 73</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1644,8 +1644,8 @@
                   <occupation>centurio</occupation>
                   <occupation>evocatus</occupation>
                   <listBibl>
-                     <bibl>RIB 2135</bibl>
-                     <bibl>Malone III.6, 74</bibl>
+                     <listBibl><bibl>RIB 2135</bibl>
+                  <bibl>Malone III.6, 74</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1656,8 +1656,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>Britannia 23 (1992), 146</bibl>
-                     <bibl>Malone III.6, 75</bibl>
+                     <listBibl><bibl>Britannia 23 (1992), 146</bibl>
+                  <bibl>Malone III.6, 75</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1668,8 +1668,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 2409.3</bibl>
-                     <bibl>Malone III.6, 76</bibl>
+                     <listBibl><bibl>RIB 2409.3</bibl>
+                  <bibl>Malone III.6, 76</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1679,8 +1679,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>BCTH 1930-31 (1934) 381.7</bibl>
-                     <bibl>Malone III.6, 77</bibl>
+                     <listBibl><bibl>BCTH 1930-31 (1934) 381.7</bibl>
+                  <bibl>Malone III.6, 77</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1691,9 +1691,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 509</bibl>
-                     <bibl>JRS 56 (1966), 225</bibl>
-                     <bibl>Malone III.6, 78</bibl>
+                     <listBibl><bibl>RIB 509</bibl>
+                  <bibl>JRS 56 (1966), 225</bibl>
+                  <bibl>Malone III.6, 78</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1706,8 +1706,8 @@
                   <occupation>centurio</occupation>
                   <occupation>primus pilus</occupation>
                   <listBibl>
-                     <bibl>RIB 203</bibl>
-                     <bibl>Malone III.6, 79</bibl>
+                     <listBibl><bibl>RIB 203</bibl>
+                  <bibl>Malone III.6, 79</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1718,8 +1718,8 @@
                   <occupation>centurio</occupation>
                   <occupation>princeps prior</occupation>
                   <listBibl>
-                     <bibl>RIB 1391 (HW12)</bibl>
-                     <bibl>Malone III.6, 80</bibl>
+                     <listBibl><bibl>RIB 1391 (HW12)</bibl>
+                  <bibl>Malone III.6, 80</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1729,8 +1729,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1338</bibl>
-                     <bibl>Malone III.6, 81</bibl>
+                     <listBibl><bibl>RIB 1338</bibl>
+                  <bibl>Malone III.6, 81</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1740,8 +1740,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 588</bibl>
-                     <bibl>Malone III.6, 82</bibl>
+                     <listBibl><bibl>RIB 588</bibl>
+                  <bibl>Malone III.6, 82</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1753,8 +1753,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1657</bibl>
-                     <bibl>Malone III.6, 83</bibl>
+                     <listBibl><bibl>RIB 1657</bibl>
+                  <bibl>Malone III.6, 83</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1766,11 +1766,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1679</bibl>
-                     <bibl>RIB 1854</bibl>
-                     <bibl>JRS 50 (1960), 237 no. 11b</bibl>
-                     <bibl>JRS 52 (1962), 194 no. 19b</bibl>
-                     <bibl>Malone III.6, 84</bibl>
+                     <listBibl><bibl>RIB 1679</bibl>
+                  <bibl>RIB 1854</bibl>
+                  <bibl>JRS 50 (1960), 237 no. 11b</bibl>
+                  <bibl>JRS 52 (1962), 194 no. 19b</bibl>
+                  <bibl>Malone III.6, 84</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1780,12 +1780,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1652</bibl>
-                     <bibl>RIB 1860</bibl>
-                     <bibl>RIB 1862</bibl>
-                     <bibl>Britannia 8 (1977), 432 no. 27</bibl>
-                     <bibl>JRS 53 (1963), 161 no. 8b</bibl>
-                     <bibl>Malone III.6, 85</bibl>
+                     <listBibl><bibl>RIB 1652</bibl>
+                  <bibl>RIB 1860</bibl>
+                  <bibl>RIB 1862</bibl>
+                  <bibl>Britannia 8 (1977), 432 no. 27</bibl>
+                  <bibl>JRS 53 (1963), 161 no. 8b</bibl>
+                  <bibl>Malone III.6, 85</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1795,8 +1795,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1763</bibl>
-                     <bibl>Malone III.6, 86</bibl>
+                     <listBibl><bibl>RIB 1763</bibl>
+                  <bibl>Malone III.6, 86</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1806,11 +1806,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1552</bibl>
-                     <bibl>RIB 1668</bibl>
-                     <bibl>Britannia 4 (1973), 329 no. 8</bibl>
-                     <bibl>Britannia 18 (1987), 369 no. 11</bibl>
-                     <bibl>Malone III.6, 87</bibl>
+                     <listBibl><bibl>RIB 1552</bibl>
+                  <bibl>RIB 1668</bibl>
+                  <bibl>Britannia 4 (1973), 329 no. 8</bibl>
+                  <bibl>Britannia 18 (1987), 369 no. 11</bibl>
+                  <bibl>Malone III.6, 87</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1820,10 +1820,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1632</bibl>
-                     <bibl>RIB 1646</bibl>
-                     <bibl>RIB 1674</bibl>
-                     <bibl>Malone III.6, 88</bibl>
+                     <listBibl><bibl>RIB 1632</bibl>
+                  <bibl>RIB 1646</bibl>
+                  <bibl>RIB 1674</bibl>
+                  <bibl>Malone III.6, 88</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1833,8 +1833,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>Britannia 8 (1977), 432 no. 28</bibl>
-                     <bibl>Malone III.6, 89</bibl>
+                     <listBibl><bibl>Britannia 8 (1977), 432 no. 28</bibl>
+                  <bibl>Malone III.6, 89</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1846,10 +1846,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1774</bibl>
-                     <bibl>JRS 57 (1967), 206 no. 19</bibl>
-                     <bibl>RIB 1658</bibl>
-                     <bibl>Malone III.6, 90</bibl>
+                     <listBibl><bibl>RIB 1774</bibl>
+                  <bibl>JRS 57 (1967), 206 no. 19</bibl>
+                  <bibl>RIB 1658</bibl>
+                  <bibl>Malone III.6, 90</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1859,9 +1859,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1851</bibl>
-                     <bibl>JRS 51 (1961), 194 no. 11g</bibl>
-                     <bibl>Malone III.6, 91</bibl>
+                     <listBibl><bibl>RIB 1851</bibl>
+                  <bibl>JRS 51 (1961), 194 no. 11g</bibl>
+                  <bibl>Malone III.6, 91</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1871,8 +1871,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1772</bibl>
-                     <bibl>Malone III.6, 92</bibl>
+                     <listBibl><bibl>RIB 1772</bibl>
+                  <bibl>Malone III.6, 92</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1882,9 +1882,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1508</bibl>
-                     <bibl>RIB 1678</bibl>
-                     <bibl>Malone III.6, 93</bibl>
+                     <listBibl><bibl>RIB 1508</bibl>
+                  <bibl>RIB 1678</bibl>
+                  <bibl>Malone III.6, 93</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1896,13 +1896,13 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1499</bibl>
-                     <bibl>RIB 1506</bibl>
-                     <bibl>RIB 1681</bibl>
-                     <bibl>RIB 1859</bibl>
-                     <bibl>RIB 1861</bibl>
-                     <bibl>Britannia 12 (1981), 380 no. 18</bibl>
-                     <bibl>Malone III.6, 94</bibl>
+                     <listBibl><bibl>RIB 1499</bibl>
+                  <bibl>RIB 1506</bibl>
+                  <bibl>RIB 1681</bibl>
+                  <bibl>RIB 1859</bibl>
+                  <bibl>RIB 1861</bibl>
+                  <bibl>Britannia 12 (1981), 380 no. 18</bibl>
+                  <bibl>Malone III.6, 94</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1912,10 +1912,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1760</bibl>
-                     <bibl>RIB 1771</bibl>
-                     <bibl>JRS 51 (1961), 194 no. 11e</bibl>
-                     <bibl>Malone III.6, 95</bibl>
+                     <listBibl><bibl>RIB 1760</bibl>
+                  <bibl>RIB 1771</bibl>
+                  <bibl>JRS 51 (1961), 194 no. 11e</bibl>
+                  <bibl>Malone III.6, 95</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1926,11 +1926,11 @@
                   <occupation>centurio</occupation>
                   <occupation>princeps prior</occupation>
                   <listBibl>
-                     <bibl>RIB 1571</bibl>
-                     <bibl>RIB 1669</bibl>
-                     <bibl>RIB 1758</bibl>
-                     <bibl>JRS 52 (1962), 194 no. 19c</bibl>
-                     <bibl>Malone III.6, 96</bibl>
+                     <listBibl><bibl>RIB 1571</bibl>
+                  <bibl>RIB 1669</bibl>
+                  <bibl>RIB 1758</bibl>
+                  <bibl>JRS 52 (1962), 194 no. 19c</bibl>
+                  <bibl>Malone III.6, 96</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1942,8 +1942,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>JRS 51 (1961), 194 no. 11c</bibl>
-                     <bibl>Malone III.6, 97</bibl>
+                     <listBibl><bibl>JRS 51 (1961), 194 no. 11c</bibl>
+                  <bibl>Malone III.6, 97</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1953,10 +1953,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1765</bibl>
-                     <bibl>RIB 1846</bibl>
-                     <bibl>JRS 49 (1959), 135 no. 4</bibl>
-                     <bibl>Malone III.6, 98</bibl>
+                     <listBibl><bibl>RIB 1765</bibl>
+                  <bibl>RIB 1846</bibl>
+                  <bibl>JRS 49 (1959), 135 no. 4</bibl>
+                  <bibl>Malone III.6, 98</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1966,12 +1966,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1647</bibl>
-                     <bibl>RIB 1849</bibl>
-                     <bibl>RIB 1857</bibl>
-                     <bibl>JRS 51 (1961), 194 no. 11a</bibl>
-                     <bibl>JRS 54 (1964), 178 no. 5a</bibl>
-                     <bibl>Malone III.6, 99</bibl>
+                     <listBibl><bibl>RIB 1647</bibl>
+                  <bibl>RIB 1849</bibl>
+                  <bibl>RIB 1857</bibl>
+                  <bibl>JRS 51 (1961), 194 no. 11a</bibl>
+                  <bibl>JRS 54 (1964), 178 no. 5a</bibl>
+                  <bibl>Malone III.6, 99</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1981,8 +1981,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1856</bibl>
-                     <bibl>Malone III.6, 100</bibl>
+                     <listBibl><bibl>RIB 1856</bibl>
+                  <bibl>Malone III.6, 100</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -1992,8 +1992,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1676</bibl>
-                     <bibl>Malone III.6, 101</bibl>
+                     <listBibl><bibl>RIB 1676</bibl>
+                  <bibl>Malone III.6, 101</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2003,8 +2003,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>JRS 53 (1963), 161 no. 8c</bibl>
-                     <bibl>Malone III.6, 102</bibl>
+                     <listBibl><bibl>JRS 53 (1963), 161 no. 8c</bibl>
+                  <bibl>Malone III.6, 102</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2014,8 +2014,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>JRS 53 (1963), 161 no. 8c</bibl>
-                     <bibl>Malone III.6, 102</bibl>
+                     <listBibl><bibl>JRS 53 (1963), 161 no. 8c</bibl>
+                  <bibl>Malone III.6, 102</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2028,8 +2028,8 @@
                   <occupation>centurio</occupation>
                   <occupation>primus pilus</occupation>
                   <listBibl>
-                     <bibl>RIB 1845</bibl>
-                     <bibl>Malone III.6, 103</bibl>
+                     <listBibl><bibl>RIB 1845</bibl>
+                  <bibl>Malone III.6, 103</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2039,8 +2039,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1670</bibl>
-                     <bibl>Malone III.6, 104</bibl>
+                     <listBibl><bibl>RIB 1670</bibl>
+                  <bibl>Malone III.6, 104</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2050,9 +2050,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1757</bibl>
-                     <bibl>RIB 1764</bibl>
-                     <bibl>Malone III.6, 105</bibl>
+                     <listBibl><bibl>RIB 1757</bibl>
+                  <bibl>RIB 1764</bibl>
+                  <bibl>Malone III.6, 105</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2062,8 +2062,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1755</bibl>
-                     <bibl>Malone III.6, 106</bibl>
+                     <listBibl><bibl>RIB 1755</bibl>
+                  <bibl>Malone III.6, 106</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2073,8 +2073,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1754</bibl>
-                     <bibl>Malone III.6, 107</bibl>
+                     <listBibl><bibl>RIB 1754</bibl>
+                  <bibl>Malone III.6, 107</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2084,10 +2084,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1675</bibl>
-                     <bibl>RIB 1768</bibl>
-                     <bibl>JRS 54 (1964), 178 no. 5c</bibl>
-                     <bibl>Malone III.6, 108</bibl>
+                     <listBibl><bibl>RIB 1675</bibl>
+                  <bibl>RIB 1768</bibl>
+                  <bibl>JRS 54 (1964), 178 no. 5c</bibl>
+                  <bibl>Malone III.6, 108</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2097,9 +2097,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1682</bibl>
-                     <bibl>RIB 1766</bibl>
-                     <bibl>Malone III.6, 109</bibl>
+                     <listBibl><bibl>RIB 1682</bibl>
+                  <bibl>RIB 1766</bibl>
+                  <bibl>Malone III.6, 109</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2111,8 +2111,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>Britannia 12 (1981), 380 no. 17</bibl>
-                     <bibl>Malone III.6, 110</bibl>
+                     <listBibl><bibl>Britannia 12 (1981), 380 no. 17</bibl>
+                  <bibl>Malone III.6, 110</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2122,8 +2122,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>JRS 54 (1964), 178 no. 5b</bibl>
-                     <bibl>Malone III.6, 111</bibl>
+                     <listBibl><bibl>JRS 54 (1964), 178 no. 5b</bibl>
+                  <bibl>Malone III.6, 111</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2135,11 +2135,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1761</bibl>
-                     <bibl>RIB 1853</bibl>
-                     <bibl>RIB 2083</bibl>
-                     <bibl>JRS 51 (1961), 194 no. 11f</bibl>
-                     <bibl>Malone III.6, 112</bibl>
+                     <listBibl><bibl>RIB 1761</bibl>
+                  <bibl>RIB 1853</bibl>
+                  <bibl>RIB 2083</bibl>
+                  <bibl>JRS 51 (1961), 194 no. 11f</bibl>
+                  <bibl>Malone III.6, 112</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2151,9 +2151,9 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1858</bibl>
-                     <bibl>RIB 2084</bibl>
-                     <bibl>Malone III.6, 113</bibl>
+                     <listBibl><bibl>RIB 1858</bibl>
+                  <bibl>RIB 2084</bibl>
+                  <bibl>Malone III.6, 113</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2165,8 +2165,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1671</bibl>
-                     <bibl>Malone III.6, 114</bibl>
+                     <listBibl><bibl>RIB 1671</bibl>
+                  <bibl>Malone III.6, 114</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2176,8 +2176,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>JRS 52 (1962), 194 no. 19a</bibl>
-                     <bibl>Malone III.6, 115</bibl>
+                     <listBibl><bibl>JRS 52 (1962), 194 no. 19a</bibl>
+                  <bibl>Malone III.6, 115</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2189,10 +2189,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1475</bibl>
-                     <bibl>RIB 1476</bibl>
-                     <bibl>RIB 1570</bibl>
-                     <bibl>Malone III.6, 116</bibl>
+                     <listBibl><bibl>RIB 1475</bibl>
+                  <bibl>RIB 1476</bibl>
+                  <bibl>RIB 1570</bibl>
+                  <bibl>Malone III.6, 116</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2202,10 +2202,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 1473</bibl>
-                     <bibl>RIB 1501</bibl>
-                      <bibl>Britannia 4 (1973), 329 no. 9</bibl>
-                     <bibl>Malone III.6, 117</bibl>
+                     <listBibl><bibl>RIB 1473</bibl>
+                  <bibl>RIB 1501</bibl>
+                  <bibl>Britannia 4 (1973), 329 no. 9</bibl>
+                  <bibl>Malone III.6, 117</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2215,8 +2215,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>RIB 535</bibl>
-                     <bibl>Malone III.6, 118</bibl>
+                     <listBibl><bibl>RIB 535</bibl>
+                  <bibl>Malone III.6, 118</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2226,8 +2226,8 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <bibl>JRS 55 (1965), 220 no. 2</bibl>
-                     <bibl>Malone III.6, 119</bibl>
+                     <listBibl><bibl>JRS 55 (1965), 220 no. 2</bibl>
+                  <bibl>Malone III.6, 119</bibl></listBibl>
                   </listBibl>
                </person>
                
@@ -2237,7 +2237,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
-                  <bibl>Malone III.6, Incerti 1</bibl>
+                  <listBibl><bibl>Malone III.6, Incerti 1</bibl></listBibl>
                </person>
                
                <person xml:id="vv166" role="person">
@@ -2246,7 +2246,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
-                  <bibl>Malone III.6, Incerti 2</bibl>
+                  <listBibl><bibl>Malone III.6, Incerti 2</bibl></listBibl>
                </person>
                
                <person xml:id="vv167" role="person">
@@ -2255,7 +2255,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/207527">Sarmizegetusa</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
-                  <bibl>Malone III.6, Incerti 3</bibl>
+                  <listBibl><bibl>Malone III.6, Incerti 3</bibl></listBibl>
                </person>
                
                <person xml:id="vv168" role="person">
@@ -2263,8 +2263,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
-                  <bibl>RIB 452</bibl>
-                  <bibl>Malone III.6, Incerti 4</bibl>
+                  <listBibl><bibl>RIB 452</bibl>
+                  <bibl>Malone III.6, Incerti 4</bibl></listBibl>
                </person>
                
                <person xml:id="vv169" role="person">
@@ -2272,8 +2272,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
-                  <bibl>RIB II.2428.4b</bibl>
-                  <bibl>Malone III.6, Incerti 5</bibl>
+                  <listBibl><bibl>RIB II.2428.4b</bibl>
+                  <bibl>Malone III.6, Incerti 5</bibl></listBibl>
                </person>
                
                <person xml:id="vv170" role="person">
@@ -2281,25 +2281,25 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
-                  <bibl>JRS 57 (1967), 206 no.18</bibl>
+                  <listBibl><bibl>JRS 57 (1967), 206 no.18</bibl>
                   <bibl>JRS 51 (1961), 194 no. 11d</bibl>
-                  <bibl>Malone III.6, Incerti 6</bibl>
+                  <bibl>Malone III.6, Incerti 6</bibl></listBibl>
                </person>
                
                <person xml:id="vv171" role="person">
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
-                  <bibl>RIB 2501.2</bibl>
-                  <bibl>Malone III.6, Incerti 7</bibl>
+                  <listBibl><bibl>RIB 2501.2</bibl>
+                  <bibl>Malone III.6, Incerti 7</bibl></listBibl>
                </person>
                
                <person xml:id="vv172" role="person">
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
-                  <bibl>CIL XI 1602</bibl>
-                  <bibl>Malone III.6, Incerti 8</bibl>
+                  <listBibl><bibl>CIL XI 1602</bibl>
+                  <bibl>Malone III.6, Incerti 8</bibl></listBibl>
                </person>
                
                
@@ -2311,8 +2311,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>centurio?</occupation>
-                  <bibl>CIL III 1472</bibl>
-                  <bibl>Malone III.7, 1</bibl>
+                  <listBibl><bibl>CIL III 1472</bibl>
+                  <bibl>Malone III.7, 1</bibl></listBibl>
                </person>
                
                <person xml:id="vv174" role="person">
@@ -2322,8 +2322,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>optio</occupation>
-                  <bibl>RIB 448</bibl>
-                  <bibl>Malone III.7, 2</bibl>
+                  <listBibl><bibl>RIB 448</bibl>
+                  <bibl>Malone III.7, 2</bibl></listBibl>
                </person>
                
                <person xml:id="vv175" role="person">
@@ -2336,7 +2336,7 @@
                   <occupation>magister ballistariorum</occupation>
                   <listBibl>
                      <bibl>CIL V 6632</bibl>
-                     <bibl>Malone III.7, 3</bibl>
+                  <bibl>Malone III.7, 3</bibl>
                      <relation active="#vv175" ref="snap:HusbandOf"><desc>Adgenna? uxor</desc></relation>
                   </listBibl>
                </person>
@@ -2347,8 +2347,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>frumentarius</occupation>
-                  <bibl>CIL VI 3357</bibl>
-                  <bibl>Malone III.7, 4</bibl>
+                  <listBibl><bibl>CIL VI 3357</bibl>
+                  <bibl>Malone III.7, 4</bibl></listBibl>
                </person>
                
                <person xml:id="vv177" role="person">
@@ -2358,8 +2358,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>CIL III 2911</bibl>
-                  <bibl>Malone III.7, 5</bibl>
+                  <listBibl><bibl>CIL III 2911</bibl>
+                  <bibl>Malone III.7, 5</bibl></listBibl>
                </person>
                
                <person xml:id="vv178" role="person">
@@ -2368,8 +2368,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 489</bibl>
-                  <bibl>Malone III.7, 6</bibl>
+                  <listBibl><bibl>RIB 489</bibl>
+                  <bibl>Malone III.7, 6</bibl></listBibl>
                </person>
                
                <person xml:id="vv179" role="person">
@@ -2379,8 +2379,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>RIB 517</bibl>
-                  <bibl>Malone III.7, 7</bibl>
+                  <listBibl><bibl>RIB 517</bibl>
+                  <bibl>Malone III.7, 7</bibl></listBibl>
                </person>
                
                <person xml:id="vv180" role="person">
@@ -2391,8 +2391,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>emertius</occupation>
-                  <bibl>RIB 160</bibl>
-                  <bibl>Malone III.7, 8</bibl>
+                  <listBibl><bibl>RIB 160</bibl>
+                  <bibl>Malone III.7, 8</bibl></listBibl>
                </person>
                
                <person xml:id="vv181" role="person">
@@ -2402,8 +2402,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>signifer</occupation>
-                  <bibl>CIL V 4365</bibl>
-                  <bibl>Malone III.7, 9</bibl>
+                  <listBibl><bibl>CIL V 4365</bibl>
+                  <bibl>Malone III.7, 9</bibl></listBibl>
                </person>
                
                <person xml:id="vv182" role="person">
@@ -2413,8 +2413,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/678060">Berytus</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 519</bibl>
-                  <bibl>Malone III.7, 10</bibl>
+                  <listBibl><bibl>RIB 519</bibl>
+                  <bibl>Malone III.7, 10</bibl></listBibl>
                </person>
                
                <person xml:id="vv183" role="person">
@@ -2424,8 +2424,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>frumentarius</occupation>
-                  <bibl>CIL VI 3916</bibl>
-                  <bibl>Malone III.7, 11</bibl>
+                  <listBibl><bibl>CIL VI 3916</bibl>
+                  <bibl>Malone III.7, 11</bibl></listBibl>
                </person>
                
                <person xml:id="vv184" role="person">
@@ -2436,8 +2436,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>imaginifer</occupation>
-                  <bibl>RIB 521</bibl>
-                  <bibl>Malone III.7, 12</bibl>
+                  <listBibl><bibl>RIB 521</bibl>
+                  <bibl>Malone III.7, 12</bibl></listBibl>
                </person>
                
                <person xml:id="vv185" role="person">
@@ -2446,8 +2446,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>eques</occupation>
-                  <bibl>RIB 522</bibl>
-                  <bibl>Malone III.7, 13</bibl>
+                  <listBibl><bibl>RIB 522</bibl>
+                  <bibl>Malone III.7, 13</bibl></listBibl>
                </person>
                
                <person xml:id="vv186" role="person">
@@ -2458,8 +2458,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>signifer</occupation>
-                  <bibl>CIL XII 678</bibl>
-                  <bibl>Malone III.7, 14</bibl>
+                  <listBibl><bibl>CIL XII 678</bibl>
+                  <bibl>Malone III.7, 14</bibl></listBibl>
                </person>
                
                <person xml:id="vv187" role="person">
@@ -2467,8 +2467,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>CIL II 22</bibl>
-                  <bibl>Malone III.7, 15</bibl>
+                  <listBibl><bibl>CIL II 22</bibl>
+                  <bibl>Malone III.7, 15</bibl></listBibl>
                </person>
                
                <person xml:id="vv188" role="person">
@@ -2479,8 +2479,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>optio</occupation>
-                  <bibl>RIB 492</bibl>
-                  <bibl>Malone III.7, 16</bibl>
+                  <listBibl><bibl>RIB 492</bibl>
+                  <bibl>Malone III.7, 16</bibl></listBibl>
                </person>
                
                <person xml:id="vv189" role="person">
@@ -2490,8 +2490,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/216733">Bessi</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 523</bibl>
-                  <bibl>Malone III.7, 17</bibl>
+                  <listBibl><bibl>RIB 523</bibl>
+                  <bibl>Malone III.7, 17</bibl></listBibl>
                </person>
                
                <person xml:id="vv190" role="person">
@@ -2501,8 +2501,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/141201">Lugdunum</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 493</bibl>
-                  <bibl>Malone III.7, 18</bibl>
+                  <listBibl><bibl>RIB 493</bibl>
+                  <bibl>Malone III.7, 18</bibl></listBibl>
                </person>
                
                <person xml:id="vv191" role="person">
@@ -2513,8 +2513,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>signifer</occupation>
-                  <bibl>RIB 525</bibl>
-                  <bibl>Malone III.7, 19</bibl>
+                  <listBibl><bibl>RIB 525</bibl>
+                  <bibl>Malone III.7, 19</bibl></listBibl>
                </person>
                
                <person xml:id="vv192" role="person">
@@ -2525,8 +2525,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>CIL XII 679</bibl>
-                  <bibl>Malone III.7, 20</bibl>
+                  <listBibl><bibl>CIL XII 679</bibl>
+                  <bibl>Malone III.7, 20</bibl></listBibl>
                </person>
                
                <person xml:id="vv193" role="person">
@@ -2534,8 +2534,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 526</bibl>
-                  <bibl>Malone III.7, 21</bibl>
+                  <listBibl><bibl>RIB 526</bibl>
+                  <bibl>Malone III.7, 21</bibl></listBibl>
                </person>
                
                <person xml:id="vv194" role="person">
@@ -2543,8 +2543,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>Britannia 23 (1992), 146 </bibl>
-                  <bibl>Malone III.7, 22</bibl>
+                  <listBibl><bibl>Britannia 23 (1992), 146 </bibl>
+                  <bibl>Malone III.7, 22</bibl></listBibl>
                </person>
                
                <person xml:id="vv195" role="person">
@@ -2554,8 +2554,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/187583">Teurnia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 494</bibl>
-                  <bibl>Malone III.7, 23</bibl>
+                  <listBibl><bibl>RIB 494</bibl>
+                  <bibl>Malone III.7, 23</bibl></listBibl>
                </person>
                
                <person xml:id="vv196" role="person">
@@ -2565,8 +2565,8 @@
                   <affiliation ref=" http://pleiades.stoa.org/places/157836 ">Forum Juli</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 527</bibl>
-                  <bibl>Malone III.7, 24</bibl>
+                  <listBibl><bibl>RIB 527</bibl>
+                  <bibl>Malone III.7, 24</bibl></listBibl>
                </person>
                
                <person xml:id="vv197" role="person">
@@ -2574,8 +2574,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 2491.88</bibl>
-                  <bibl>Malone III.7, 25</bibl>
+                  <listBibl><bibl>RIB 2491.88</bibl>
+                  <bibl>Malone III.7, 25</bibl></listBibl>
                </person>
                
                <person xml:id="vv198" role="person">
@@ -2585,8 +2585,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/109427">Celtic-?Rhineland</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 1005</bibl>
-                  <bibl>Malone III.7, 26</bibl>
+                  <listBibl><bibl>RIB 1005</bibl>
+                  <bibl>Malone III.7, 26</bibl></listBibl>
                </person>
                
                <person xml:id="vv199" role="person">
@@ -2595,8 +2595,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 528</bibl>
-                  <bibl>Malone III.7, 27</bibl>
+                  <listBibl><bibl>RIB 528</bibl>
+                  <bibl>Malone III.7, 27</bibl></listBibl>
                </person>
                
                <person xml:id="vv200" role="person">
@@ -2605,8 +2605,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>CIL XIII 8737</bibl>
-                  <bibl>Malone III.7, 28</bibl>
+                  <listBibl><bibl>CIL XIII 8737</bibl>
+                  <bibl>Malone III.7, 28</bibl></listBibl>
                </person>
                
                <person xml:id="vv201" role="person">
@@ -2615,8 +2615,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/118673">Favia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>Epigraphica 1iii (1991) 259, 4</bibl>
-                  <bibl>Malone III.7, 29</bibl>
+                  <listBibl><bibl>Epigraphica 1iii (1991) 259, 4</bibl>
+                  <bibl>Malone III.7, 29</bibl></listBibl>
                </person>
                
                <person xml:id="vv202" role="person">
@@ -2626,8 +2626,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>pequarius</occupation>
-                  <bibl>CIL XIII 8287</bibl>
-                  <bibl>Malone III.7, 30</bibl>
+                  <listBibl><bibl>CIL XIII 8287</bibl>
+                  <bibl>Malone III.7, 30</bibl></listBibl>
                </person>
                
                <person xml:id="vv203" role="person">
@@ -2635,8 +2635,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>                 
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>Britannia 19 (1988), 492 no. 11</bibl>
-                  <bibl>Malone III.7, 31</bibl>
+                  <listBibl><bibl>Britannia 19 (1988), 492 no. 11</bibl>
+                  <bibl>Malone III.7, 31</bibl></listBibl>
                </person>
                
                <person xml:id="vv204" role="person">
@@ -2647,8 +2647,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>RIB 495</bibl>
-                  <bibl>Malone III.7, 32</bibl>
+                  <listBibl><bibl>RIB 495</bibl>
+                  <bibl>Malone III.7, 32</bibl></listBibl>
                </person>
                
                <person xml:id="vv205" role="person">
@@ -2656,8 +2656,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation> 
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>CIL IX 1608</bibl>
-                  <bibl>Malone III.7, 33</bibl>
+                  <listBibl><bibl>CIL IX 1608</bibl>
+                  <bibl>Malone III.7, 33</bibl></listBibl>
                </person>
                
                <person xml:id="vv206" role="person">
@@ -2666,8 +2666,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>signifer</occupation>
-                  <bibl>RIB 451</bibl>
-                  <bibl>Malone III.7, 34</bibl>
+                  <listBibl><bibl>RIB 451</bibl>
+                  <bibl>Malone III.7, 34</bibl></listBibl>
                </person>
                
                <person xml:id="vv207" role="person">
@@ -2677,8 +2677,8 @@
                   <affiliation ref="http://pleiades.stoa.org/errata/991355">Panonnia?</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 496</bibl>
-                  <bibl>Malone III.7, 35</bibl>
+                  <listBibl><bibl>RIB 496</bibl>
+                  <bibl>Malone III.7, 35</bibl></listBibl>
                </person>
                
                <person xml:id="vv208" role="person">
@@ -2688,8 +2688,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/109427">Rhineland?</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 501</bibl>
-                  <bibl>Malone III.7, 36</bibl>
+                  <listBibl><bibl>RIB 501</bibl>
+                  <bibl>Malone III.7, 36</bibl></listBibl>
                </person>
                
                <person xml:id="vv209" role="person">
@@ -2699,8 +2699,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>CIL III 2030</bibl>
-                  <bibl>Malone III.7, 37</bibl>
+                  <listBibl><bibl>CIL III 2030</bibl>
+                  <bibl>Malone III.7, 37</bibl></listBibl>
                </person>
                
                <person xml:id="vv210" role="person">
@@ -2708,8 +2708,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation> 
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 497</bibl>
-                  <bibl>Malone III.7, 38</bibl>
+                  <listBibl><bibl>RIB 497</bibl>
+                  <bibl>Malone III.7, 38</bibl></listBibl>
                </person>
                
                <person xml:id="vv211" role="person">
@@ -2719,8 +2719,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>vexillarius</occupation>
-                  <bibl>AE 1954, 160</bibl>
-                  <bibl>Malone III.7, 39</bibl>
+                  <listBibl><bibl>AE 1954, 160</bibl>
+                  <bibl>Malone III.7, 39</bibl></listBibl>
                </person>
                
                <person xml:id="vv212" role="person">
@@ -2730,8 +2730,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/991337">Gaul?</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>Britannia 23 (1992), 146</bibl>
-                  <bibl>Malone III.7, 40</bibl>
+                  <listBibl><bibl>Britannia 23 (1992), 146</bibl>
+                  <bibl>Malone III.7, 40</bibl></listBibl>
                </person>
                
                <person xml:id="vv213" role="person">
@@ -2740,8 +2740,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>CIL II 662</bibl>
-                  <bibl>Malone III.7, 41</bibl>
+                  <listBibl><bibl>CIL II 662</bibl>
+                  <bibl>Malone III.7, 41</bibl></listBibl>
                </person>
                
                <person xml:id="vv214" role="person">
@@ -2749,8 +2749,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation> 
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 2427.14</bibl>
-                  <bibl>Malone III.7, 42</bibl>
+                  <listBibl><bibl>RIB 2427.14</bibl>
+                  <bibl>Malone III.7, 42</bibl></listBibl>
                </person>
                
                <person xml:id="vv215" role="person">
@@ -2759,8 +2759,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>CMLeon 83</bibl>
-                  <bibl>Malone III.7, 43</bibl>
+                  <listBibl><bibl>CMLeon 83</bibl>
+                  <bibl>Malone III.7, 43</bibl></listBibl>
                </person>
                
                <person xml:id="vv216" role="person">
@@ -2769,8 +2769,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>beneficiarius tribuni</occupation>
-                  <bibl>RIB 532</bibl>
-                  <bibl>Malone III.7, 44</bibl>
+                  <listBibl><bibl>RIB 532</bibl>
+                  <bibl>Malone III.7, 44</bibl></listBibl>
                </person>
                
                <person xml:id="vv217" role="person">
@@ -2780,8 +2780,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/197206">Celeia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 498</bibl>
-                  <bibl>Malone III.7, 45</bibl>
+                  <listBibl><bibl>RIB 498</bibl>
+                  <bibl>Malone III.7, 45</bibl></listBibl>
                </person>
                
                <person xml:id="vv218" role="person">
@@ -2791,8 +2791,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/197206">Celeia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 447</bibl>
-                  <bibl>Malone III.7, 46</bibl>
+                  <listBibl><bibl>RIB 447</bibl>
+                  <bibl>Malone III.7, 46</bibl></listBibl>
                </person>
                
                <person xml:id="vv219" role="person">
@@ -2801,8 +2801,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>eques</occupation>
-                  <bibl>RIB 499</bibl>
-                  <bibl>Malone III.7, 47</bibl>
+                  <listBibl><bibl>RIB 499</bibl>
+                  <bibl>Malone III.7, 47</bibl></listBibl>
                </person>
                
                <person xml:id="vv220" role="person">
@@ -2810,8 +2810,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 13</bibl>
-                  <bibl>Malone III.7, 48</bibl>
+                  <listBibl><bibl>RIB 13</bibl>
+                  <bibl>Malone III.7, 48</bibl></listBibl>
                </person>
                
                <person xml:id="vv221" role="person">
@@ -2822,8 +2822,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>beneficiarius procuratoris Augusti</occupation>
-                  <bibl>CIL XII 3182</bibl>
-                  <bibl>Malone III.7, 49</bibl>
+                  <listBibl><bibl>CIL XII 3182</bibl>
+                  <bibl>Malone III.7, 49</bibl></listBibl>
                </person>
                
                <person xml:id="vv222" role="person">
@@ -2831,8 +2831,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 2409.20</bibl>
-                  <bibl>Malone III.7, 50</bibl>
+                  <listBibl><bibl>RIB 2409.20</bibl>
+                  <bibl>Malone III.7, 50</bibl></listBibl>
                </person>
                
                <person xml:id="vv223" role="person">
@@ -2841,8 +2841,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>beneficiarius legati</occupation>
-                  <bibl>CIL VIII 2080</bibl>
-                  <bibl>Malone III.7, 51</bibl>
+                  <listBibl><bibl>CIL VIII 2080</bibl>
+                  <bibl>Malone III.7, 51</bibl></listBibl>
                </person>
                
                <person xml:id="vv224" role="person">
@@ -2853,8 +2853,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>fabriciensis</occupation>
-                  <bibl>RIB 156</bibl>
-                  <bibl>Malone III.7, 52</bibl>
+                  <listBibl><bibl>RIB 156</bibl>
+                  <bibl>Malone III.7, 52</bibl></listBibl>
                </person>
                
                <person xml:id="vv225" role="person">
@@ -2862,8 +2862,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 2427.15</bibl>
-                  <bibl>Malone III.7, 53</bibl>
+                  <listBibl><bibl>RIB 2427.15</bibl>
+                  <bibl>Malone III.7, 53</bibl></listBibl>
                </person>
                
                <person xml:id="vv226" role="person">
@@ -2874,8 +2874,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>RIB 534</bibl>
-                  <bibl>Malone III.7, 54</bibl>
+                  <listBibl><bibl>RIB 534</bibl>
+                  <bibl>Malone III.7, 54</bibl></listBibl>
                </person>
                
                <person xml:id="vv227" role="person">
@@ -2886,8 +2886,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>RIB 500</bibl>
-                  <bibl>Malone III.7, 55</bibl>
+                  <listBibl><bibl>RIB 500</bibl>
+                  <bibl>Malone III.7, 55</bibl></listBibl>
                </person>
                
                <person xml:id="vv228" role="person">
@@ -2897,8 +2897,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/256155">Emerita</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 501</bibl>
-                  <bibl>Malone III.7, 56</bibl>
+                  <listBibl><bibl>RIB 501</bibl>
+                  <bibl>Malone III.7, 56</bibl></listBibl>
                </person>
                
                <person xml:id="vv229" role="person">
@@ -2906,8 +2906,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 2409.6</bibl>
-                  <bibl>Malone III.7, 57</bibl>
+                  <listBibl><bibl>RIB 2409.6</bibl>
+                  <bibl>Malone III.7, 57</bibl></listBibl>
                </person>
                
                <person xml:id="vv230" role="person">
@@ -2917,8 +2917,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/285482">N. Africa?</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 2502.14</bibl>
-                  <bibl>Malone III.7, 58</bibl>
+                  <listBibl><bibl>RIB 2502.14</bibl>
+                  <bibl>Malone III.7, 58</bibl></listBibl>
                </person>
                
                <person xml:id="vv231" role="person">
@@ -2929,8 +2929,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>beneficiarius legati pr</occupation>
-                  <bibl>RIB 293</bibl>
-                  <bibl>Malone III.7, 59</bibl>
+                  <listBibl><bibl>RIB 293</bibl>
+                  <bibl>Malone III.7, 59</bibl></listBibl>
                </person>
                
                <person xml:id="vv232" role="person">
@@ -2939,8 +2939,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>AE 1988.396</bibl>
-                  <bibl>Malone III.7, 60</bibl>
+                  <listBibl><bibl>AE 1988.396</bibl>
+                  <bibl>Malone III.7, 60</bibl></listBibl>
                </person>
                
                <person xml:id="vv233" role="person">
@@ -2951,8 +2951,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>CIL XI 6734</bibl>
-                  <bibl>Malone III.7, 61</bibl>
+                  <listBibl><bibl>CIL XI 6734</bibl>
+                  <bibl>Malone III.7, 61</bibl></listBibl>
                </person>
                
                <person xml:id="vv234" role="person">
@@ -2960,8 +2960,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 2496.3</bibl>
-                  <bibl>Malone III.7, 62</bibl>
+                  <listBibl><bibl>RIB 2496.3</bibl>
+                  <bibl>Malone III.7, 62</bibl></listBibl>
                </person>
                
                <person xml:id="vv235" role="person">
@@ -2971,8 +2971,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>CIL V 4923</bibl>
-                  <bibl>Malone III.7, 63</bibl>
+                  <listBibl><bibl>CIL V 4923</bibl>
+                  <bibl>Malone III.7, 63</bibl></listBibl>
                </person>
                
                <person xml:id="vv236" role="person">
@@ -2980,8 +2980,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>CIL III 7452</bibl>
-                  <bibl>Malone III.7, 64</bibl>
+                  <listBibl><bibl>CIL III 7452</bibl>
+                  <bibl>Malone III.7, 64</bibl></listBibl>
                </person>
                
                              
@@ -2992,8 +2992,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>CIL XIII 8288</bibl>
-                  <bibl>Malone III.7, 65</bibl>
+                  <listBibl><bibl>CIL XIII 8288</bibl>
+                  <bibl>Malone III.7, 65</bibl></listBibl>
                </person>
                
                <person xml:id="vv238" role="person">
@@ -3006,8 +3006,8 @@
                   <occupation>veteranus</occupation>
                   <occupation>cornicularius</occupation>
                   <occupation>optio</occupation>
-                  <bibl>Suplt-04 T031</bibl>
-                  <bibl>Malone III.7, 66</bibl>
+                  <listBibl><bibl>Suplt-04 T031</bibl>
+                  <bibl>Malone III.7, 66</bibl></listBibl>
                </person>
                
                <person xml:id="vv239" role="person">
@@ -3015,8 +3015,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 467</bibl>
-                  <bibl>Malone III.7, 67</bibl>
+                  <listBibl><bibl>RIB 467</bibl>
+                  <bibl>Malone III.7, 67</bibl></listBibl>
                </person>
                
                <person xml:id="vv240" role="person">
@@ -3024,8 +3024,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 2501.3</bibl>
-                  <bibl>Malone III.7, 68</bibl>
+                  <listBibl><bibl>RIB 2501.3</bibl>
+                  <bibl>Malone III.7, 68</bibl></listBibl>
                </person>
                
                <person xml:id="vv241" role="person">
@@ -3035,8 +3035,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/383642">Eporedia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>Britannia 36 (2005), 476 no. 3</bibl>
-                  <bibl>Malone III.7, 69</bibl>
+                  <listBibl><bibl>Britannia 36 (2005), 476 no. 3</bibl>
+                  <bibl>Malone III.7, 69</bibl></listBibl>
                </person>
                
                <person xml:id="vv242" role="person">
@@ -3044,8 +3044,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>CIL III 7452</bibl>
-                  <bibl>Malone III.7, 70</bibl>
+                  <listBibl><bibl>CIL III 7452</bibl>
+                  <bibl>Malone III.7, 70</bibl></listBibl>
                </person>
                
                <person xml:id="vv243" role="person">
@@ -3055,8 +3055,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/256155">Emerita</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 502</bibl>
-                  <bibl>Malone III.7, 71</bibl>
+                  <listBibl><bibl>RIB 502</bibl>
+                  <bibl>Malone III.7, 71</bibl></listBibl>
                </person>
                
                <person xml:id="vv244" role="person">
@@ -3064,8 +3064,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 536</bibl>
-                  <bibl>Malone III.7, 72</bibl>
+                  <listBibl><bibl>RIB 536</bibl>
+                  <bibl>Malone III.7, 72</bibl></listBibl>
                </person>
                
                <person xml:id="vv245" role="person">
@@ -3073,8 +3073,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 498</bibl>
-                  <bibl>Malone III.7, 73</bibl>
+                  <listBibl><bibl>RIB 498</bibl>
+                  <bibl>Malone III.7, 73</bibl></listBibl>
                </person>
                
                <person xml:id="vv246" role="person">
@@ -3084,8 +3084,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/385835">Brixia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 503</bibl>
-                  <bibl>Malone III.7, 74</bibl>
+                  <listBibl><bibl>RIB 503</bibl>
+                  <bibl>Malone III.7, 74</bibl></listBibl>
                </person>
                
                <person xml:id="vv247" role="person">
@@ -3093,8 +3093,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 18</bibl>
-                  <bibl>Malone III.7, 75</bibl>
+                  <listBibl><bibl>RIB 18</bibl>
+                  <bibl>Malone III.7, 75</bibl></listBibl>
                </person>
                
                <person xml:id="vv248" role="person">
@@ -3104,8 +3104,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>CIL V 2838</bibl>
-                  <bibl>Malone III.7, 76</bibl>
+                  <listBibl><bibl>CIL V 2838</bibl>
+                  <bibl>Malone III.7, 76</bibl></listBibl>
                </person>
                
                <person xml:id="vv249" role="person">
@@ -3114,10 +3114,10 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>frumentarius</occupation>
-                  <bibl>CIL VI 3357</bibl>
+                  <listBibl><bibl>CIL VI 3357</bibl>
                   <bibl>CIL VI 3358</bibl>
                   <bibl>CIL VI 3359</bibl>
-                  <bibl>Malone III.7, 77</bibl>
+                  <bibl>Malone III.7, 77</bibl></listBibl>
                </person>
                
                <person xml:id="vv250" role="person">
@@ -3125,8 +3125,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 2410.8</bibl>
-                  <bibl>Malone III.7, 78</bibl>
+                  <listBibl><bibl>RIB 2410.8</bibl>
+                  <bibl>Malone III.7, 78</bibl></listBibl>
                </person>
                
                <person xml:id="vv251" role="person">
@@ -3136,8 +3136,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/197206">Celeia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 504</bibl>
-                  <bibl>Malone III.7, 79</bibl>
+                  <listBibl><bibl>RIB 504</bibl>
+                  <bibl>Malone III.7, 79</bibl></listBibl>
                </person>
                
                <person xml:id="vv252" role="person">
@@ -3147,8 +3147,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>beneficiarius</occupation>
-                  <bibl>CIL XII 164</bibl>
-                  <bibl>Malone III.7, 80</bibl>
+                  <listBibl><bibl>CIL XII 164</bibl>
+                  <bibl>Malone III.7, 80</bibl></listBibl>
                </person>
                
                <person xml:id="vv253" role="person">
@@ -3157,9 +3157,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/393473">Patavium</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>CIL XIII 8553</bibl>
+                  <listBibl><bibl>CIL XIII 8553</bibl>
                   <bibl>AE 1928.90</bibl>
-                  <bibl>Malone III.7, 81</bibl>
+                  <bibl>Malone III.7, 81</bibl></listBibl>
                </person>
                
                <person xml:id="vv254" role="person">
@@ -3168,8 +3168,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>beneficiarius legati</occupation>
-                  <bibl>RIB 505</bibl>
-                  <bibl>Malone III.7, 82</bibl>
+                  <listBibl><bibl>RIB 505</bibl>
+                  <bibl>Malone III.7, 82</bibl></listBibl>
                </person>
                
                <person xml:id="vv255" role="person">
@@ -3177,8 +3177,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 539</bibl>
-                  <bibl>Malone III.7, 83</bibl>
+                  <listBibl><bibl>RIB 539</bibl>
+                  <bibl>Malone III.7, 83</bibl></listBibl>
                </person>
                
                <person xml:id="vv256" role="person">
@@ -3186,8 +3186,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 540</bibl>
-                  <bibl>Malone III.7, 84</bibl>
+                  <listBibl><bibl>RIB 540</bibl>
+                  <bibl>Malone III.7, 84</bibl></listBibl>
                </person>
                
                <person xml:id="vv257" role="person">
@@ -3196,8 +3196,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <bibl>Britannia 15 (1984), 333 no.1 and 17 (1986), 454e</bibl>
-                  <bibl>Malone III.7, 85</bibl>
+                  <listBibl><bibl>Britannia 15 (1984), 333 no.1 and 17 (1986), 454e</bibl>
+                  <bibl>Malone III.7, 85</bibl></listBibl>
                </person>
                
                   <person xml:id="vv258" role="person">
@@ -3207,8 +3207,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/187490">Noricum</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>CIL III 11746</bibl>
-                  <bibl>Malone III.7, 86</bibl>
+                  <listBibl><bibl>CIL III 11746</bibl>
+                  <bibl>Malone III.7, 86</bibl></listBibl>
                </person>
                
                <person xml:id="vv259" role="person">
@@ -3218,8 +3218,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/167719">Vienna</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 1826</bibl>
-                  <bibl>Malone III.7, 87</bibl>
+                  <listBibl><bibl>RIB 1826</bibl>
+                  <bibl>Malone III.7, 87</bibl></listBibl>
                </person>
                
                <person xml:id="vv260" role="person">
@@ -3228,8 +3228,8 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>actarius</occupation>
-                  <bibl>RIB 507</bibl>
-                  <bibl>Malone III.7, 88</bibl>
+                  <listBibl><bibl>RIB 507</bibl>
+                  <bibl>Malone III.7, 88</bibl></listBibl>
                </person>
                
                <person xml:id="vv261" role="person">
@@ -3239,8 +3239,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/180461">Noviodunum</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 158</bibl>
-                  <bibl>Malone III.7, 89</bibl>
+                  <listBibl><bibl>RIB 158</bibl>
+                  <bibl>Malone III.7, 89</bibl></listBibl>
                </person>
                
                <person xml:id="vv262" role="person">
@@ -3250,8 +3250,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/266022">Salaria</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 542</bibl>
-                  <bibl>Malone III.7, 90</bibl>
+                  <listBibl><bibl>RIB 542</bibl>
+                  <bibl>Malone III.7, 90</bibl></listBibl>
                </person>
                
                <person xml:id="vv263" role="person">
@@ -3260,8 +3260,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/383815">Vercellae</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>CIL V 939</bibl>
-                  <bibl>Malone III.7, 91</bibl>
+                  <listBibl><bibl>CIL V 939</bibl>
+                  <bibl>Malone III.7, 91</bibl></listBibl>
                </person>
                
                <person xml:id="vv264" role="person">
@@ -3269,8 +3269,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 2410.8</bibl>
-                  <bibl>Malone III.7, 92</bibl>
+                  <listBibl><bibl>RIB 2410.8</bibl>
+                  <bibl>Malone III.7, 92</bibl></listBibl>
                </person>
                
                <person xml:id="vv265" role="person">
@@ -3280,19 +3280,327 @@
                   <affiliation ref="http://pleiades.stoa.org/places/197240">Dalmatia/Moesia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>RIB 998</bibl>
-                  <bibl>Malone III.7, 93</bibl>
+                  <listBibl><bibl>RIB 998</bibl>
+                  <bibl>Malone III.7, 93</bibl></listBibl>
                </person>
                
                <person xml:id="vv266" role="person">
                   <persName xml:lang="en">C. Velitius</persName>
-                  <floruit>AD EM2-3rd</floruit>
+                  <floruit>Before AD 6</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
-                  <affiliation ref="http://pleiades.stoa.org/places/197240">Bononia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/206975">Bononia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <bibl>Suplt-10, T008</bibl>
-                  <bibl>Malone III.7, 94</bibl>
+                  <listBibl><bibl>Suplt-10, T008</bibl>
+                  <bibl>Malone III.7, 94</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv267" role="person">
+                  <persName xml:lang="en">Q. Vetuleius</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="">(Pollia)</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>CIL V 948</bibl>
+                     <bibl>Malone III.7, 95</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv268" role="person">
+                  <persName xml:lang="en">Q. Vibius Secundus</persName>
+                  <floruit>AD 88-EM2nd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/383628">Cremona</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 508</bibl>
+                     <bibl>Malone III.7, 96</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv269" role="person">
+                  <persName xml:lang="en">Victor</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 2409.4</bibl>
+                     <bibl>Malone III.7, 97</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv270" role="person">
+                  <persName xml:lang="en">M. V(...) Sp(...)</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>CIL XIII 10029.48</bibl>
+                     <bibl>Malone III.7, 98</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv271" role="person">
+                  <persName xml:lang="en">M. Ulpius Januarius</persName>
+                  <floruit>AD EM2nd-3rd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/108896">Xanten?</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 506</bibl>
+                     <bibl>Malone III.7, 99</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv272" role="person">
+                  <persName xml:lang="en">Q. V(...) R(...)</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 2411.77</bibl>
+                     <bibl>Malone III.7, 100</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv273" role="person">
+                  <persName xml:lang="en">Aconius or P]aconius</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/265849">Carthago Nova?</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>CIL XIII 8555</bibl>
+                     <bibl>Malone III.7, 101</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv274" role="person">
+                  <persName xml:lang="en">Cresc]ens or Val]ens</persName>
+                  <floruit>AD EM2nd-3rd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/344522">Oea</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 512</bibl>
+                     <bibl>Malone III.7, 102</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv275" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <floruit notBefore="0048" notAfter="0087">AD 48/87</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 122</bibl>
+                     <bibl>Malone III.7, 103</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv276" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>signifer</occupation>
+                  <listBibl><bibl>RIB 510</bibl>
+                     <bibl>Malone III.7, 104</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv277" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <floruit>AD EM2nd-3rd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/197206">Celeia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>signifer</occupation>
+                  <listBibl><bibl>RIB 511</bibl>
+                     <bibl>Malone III.7, 105</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv278" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 513</bibl>
+                     <bibl>Malone III.7, 106</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv279" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 514</bibl>
+                     <bibl>Malone III.7, 107</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv280" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 515</bibl>
+                     <bibl>Malone III.7, 108</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv281" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 516</bibl>
+                     <bibl>Malone III.7, 109</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv282" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>optio ad spem ordinis</occupation>
+                  <listBibl><bibl>RIB 544</bibl>
+                     <bibl>Malone III.7, 110</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv283" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 2127</bibl>
+                     <bibl>Malone III.7, 111</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv284" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>CIL II 719</bibl>
+                     <bibl>Malone III.7, 112</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv285" role="person">
+                  <persName xml:lang="en">Anonymous</persName>
+                  <floruit>Before AD  6</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>veteranus</occupation>
+                  <listBibl><bibl>Inscr. It. X 4.50</bibl>
+                     <bibl>Malone III.7, 113</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv286" role="person">
+                  <persName xml:lang="en">Albanus</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>seplasiarus</occupation>
+                  <listBibl><bibl>Britannia 22 (1991), 299 no. 24</bibl>
+                     <bibl>Malone III.7, 114</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv287" role="person">
+                  <persName xml:lang="en">L. Antestius Sabinus</persName>
+                  <floruit>AD 88-EM2nd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/256128">Corduba</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 518</bibl>
+                     <bibl>Malone III.7, 115</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv288" role="person">
+                  <persName xml:lang="en">C. Attius Rufinus</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 520</bibl>
+                     <bibl>Malone III.7, 116</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv289" role="person">
+                  <persName xml:lang="en">L. Camulius Albanus</persName>
+                  <floruit>AD 88-EM2nd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/383794">Taurini</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 524</bibl>
+                     <bibl>Malone III.7, 117</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv290" role="person">
+                  <persName xml:lang="en">Q. Cornelius Q. f.</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 529</bibl>
+                     <bibl>Malone III.7, 118</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv291" role="person">
+                  <persName xml:lang="en">Q. Cornelius Q. f. Ani.</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 530</bibl>
+                     <bibl>Malone III.7, 119</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv292" role="person">
+                  <persName xml:lang="en">Q. Domitius Optatus</persName>
+                  <floruit>AD 88-EM2nd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/197583">Virunum</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 531</bibl>
+                     <bibl>Malone III.7, 120</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv293" role="person">
+                  <persName xml:lang="en">Q. Iunius November</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 533</bibl>
+                     <bibl>Malone III.7, 121</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv294" role="person">
+                  <persName xml:lang="en">Q. Longinius Laetus</persName>
+                  <floruit>AD 88-EM2nd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="">Lucus</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 535</bibl>
+                     <bibl>Malone III.7, 122</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv295" role="person">
+                  <persName xml:lang="en">Sextus</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <listBibl><bibl>RIB 2437.1</bibl>
+                     <bibl>Malone III.7, 123</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv296" role="person">
+                  <persName xml:lang="en">Sex. Simil[...</persName>
+                  <floruit>AD 88-EM2nd</floruit>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/383603">Brixia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>(eques)</occupation>
+                  <listBibl><bibl>RIB 538</bibl>
+                     <bibl>Malone III.7, 124</bibl></listBibl>
+               </person>
+               
+               <person xml:id="vv297" role="person">
+                  <persName xml:lang="en">M. Valerius Martialis</persName>
+                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <occupation>soldier</occupation>
+                  <occupation>miles</occupation>
+                  <occupation>(eques)</occupation>
+                  <listBibl><bibl>RIB 541</bibl>
+                     <bibl>Malone III.7, 125</bibl></listBibl>
                </person>
                
                
