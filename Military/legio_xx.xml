@@ -2312,7 +2312,10 @@
                   <occupation>miles</occupation>
                   <occupation>centurio?</occupation>
                   <listBibl><bibl>CIL III 1472</bibl>
-                  <bibl>Malone III.7, 1</bibl></listBibl>
+                  <bibl>Malone III.7, 1</bibl>
+                     <relation active="#vv173" ref="snap:SonOf"><desc>P. Aelius Theimes pater, Aelia mater</desc></relation>
+                     <relation active="#vv173" ref="snap:BrotherOf"><desc>P. Aelius Senecio frater?</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv174" role="person">
@@ -2337,7 +2340,10 @@
                   <listBibl>
                      <bibl>CIL V 6632</bibl>
                   <bibl>Malone III.7, 3</bibl>
+                     <relation active="#vv175" ref="snap:BrotherOf"><desc>Rufus, Victor, Vitalis frater</desc></relation>
                      <relation active="#vv175" ref="snap:HusbandOf"><desc>Adgenna? uxor</desc></relation>
+                     <relation active="#vv175" ref="snap:FatherOf"><desc>Optatus filius et succesor</desc></relation>
+                     <relation active="#vv175" ref="snap:FreedmanOf"><desc>Germanus libertus</desc></relation>
                   </listBibl>
                </person>
                
@@ -2359,7 +2365,10 @@
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>CIL III 2911</bibl>
-                  <bibl>Malone III.7, 5</bibl></listBibl>
+                  <bibl>Malone III.7, 5</bibl>
+                     <relation active="#vv177" ref="snap:FatherOf"><desc>C. Alius Priscus, C. Alius Vitalis filius</desc></relation>
+                     <relation active="#vv177" ref="snap:FreedmanOf"><desc>Allia Mete liberta</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv178" role="person">
@@ -2392,7 +2401,9 @@
                   <occupation>miles</occupation>
                   <occupation>emertius</occupation>
                   <listBibl><bibl>RIB 160</bibl>
-                  <bibl>Malone III.7, 8</bibl></listBibl>
+                  <bibl>Malone III.7, 8</bibl>
+                     <relation active="#vv180" ref="snap:HasHeir"><desc>C. Tiberinus heres</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv181" role="person">
@@ -2425,7 +2436,9 @@
                   <occupation>miles</occupation>
                   <occupation>frumentarius</occupation>
                   <listBibl><bibl>CIL VI 3916</bibl>
-                  <bibl>Malone III.7, 11</bibl></listBibl>
+                  <bibl>Malone III.7, 11</bibl>
+                     <relation active="#vv183" ref="snap:HasHeir"><desc>Iulius Severus, Aurelius Sempronius heres</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv184" role="person">
@@ -2459,7 +2472,9 @@
                   <occupation>miles</occupation>
                   <occupation>signifer</occupation>
                   <listBibl><bibl>CIL XII 678</bibl>
-                  <bibl>Malone III.7, 14</bibl></listBibl>
+                  <bibl>Malone III.7, 14</bibl>
+                     <relation active="#vv186" ref="snap:HusbandOf"><desc>Garinia Emerita coniunx</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv187" role="person">
@@ -2468,7 +2483,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>CIL II 22</bibl>
-                  <bibl>Malone III.7, 15</bibl></listBibl>
+                  <bibl>Malone III.7, 15</bibl>
+                     <relation active="#vv187" ref="snap:BrotherOf"><desc>Q. Axonius frater</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv188" role="person">
@@ -2526,7 +2543,9 @@
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>CIL XII 679</bibl>
-                  <bibl>Malone III.7, 20</bibl></listBibl>
+                  <bibl>Malone III.7, 20</bibl>
+                     <relation active="#vv177" ref="snap:FatherOf"><desc>Carsia Tttia filia</desc></relation>  
+                  </listBibl>
                </person>
                
                <person xml:id="vv193" role="person">
@@ -2606,7 +2625,9 @@
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>CIL XIII 8737</bibl>
-                  <bibl>Malone III.7, 28</bibl></listBibl>
+                  <bibl>Malone III.7, 28</bibl>
+                     <relation active="#vv200" ref="snap:HusbandOf"><desc>Prima coniunx</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv201" role="person">
@@ -2616,7 +2637,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>Epigraphica 1iii (1991) 259, 4</bibl>
-                  <bibl>Malone III.7, 29</bibl></listBibl>
+                  <bibl>Malone III.7, 29</bibl>
+                     <relation active="#vv201" ref="snap:FatherOf"><desc>L. Cornelius Primus filius</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv202" role="person">
@@ -2657,7 +2680,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>CIL IX 1608</bibl>
-                  <bibl>Malone III.7, 33</bibl></listBibl>
+                  <bibl>Malone III.7, 33</bibl>
+                     <relation active="#vv205" ref="snap:FreedmanOf"><desc>T. Flavius Faustus libertus</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv206" role="person">
@@ -2700,7 +2725,9 @@
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>CIL III 2030</bibl>
-                  <bibl>Malone III.7, 37</bibl></listBibl>
+                  <bibl>Malone III.7, 37</bibl>
+                     <relation active="#vv209" ref="snap:FreedmanOf"><desc>Privatus libertus, Fuficia Prima, Fuficia Prisca liberta</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv210" role="person">
@@ -2720,7 +2747,9 @@
                   <occupation>miles</occupation>
                   <occupation>vexillarius</occupation>
                   <listBibl><bibl>AE 1954, 160</bibl>
-                  <bibl>Malone III.7, 39</bibl></listBibl>
+                  <bibl>Malone III.7, 39</bibl>
+                     <relation active="#vv211" ref="snap:BrotherOf"><desc>M. Gargilius frater</desc></relation> 
+                  </listBibl>
                </person>
                
                <person xml:id="vv212" role="person">
@@ -2823,7 +2852,9 @@
                   <occupation>miles</occupation>
                   <occupation>beneficiarius procuratoris Augusti</occupation>
                   <listBibl><bibl>CIL XII 3182</bibl>
-                  <bibl>Malone III.7, 49</bibl></listBibl>
+                  <bibl>Malone III.7, 49</bibl>
+                     <relation active="#vv221" ref="snap:SonOf"><desc>Iulia Iuliana mater</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv222" role="person">
@@ -2842,7 +2873,9 @@
                   <occupation>miles</occupation>
                   <occupation>beneficiarius legati</occupation>
                   <listBibl><bibl>CIL VIII 2080</bibl>
-                  <bibl>Malone III.7, 51</bibl></listBibl>
+                  <bibl>Malone III.7, 51</bibl>
+                     <relation active="#vv223" ref="snap:BrotherOf"><desc>Iulia Thegu... soror</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv224" role="person">
