@@ -2810,7 +2810,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>RIB 498</bibl>
-                  <bibl>Malone III.7, 45</bibl></listBibl>
+                  <bibl>Malone III.7, 45</bibl>
+                     <relation active="#vv217" ref="snap:HasHeir"><desc>Rusius Mo... (h.)</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv218" role="person">
@@ -2840,7 +2842,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>RIB 13</bibl>
-                  <bibl>Malone III.7, 48</bibl></listBibl>
+                  <bibl>Malone III.7, 48</bibl>
+                     <relation active="#vv220" ref="snap:HasHeir"><desc>Flavius Attius heres</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv221" role="person">
@@ -2908,7 +2912,9 @@
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>RIB 534</bibl>
-                  <bibl>Malone III.7, 54</bibl></listBibl>
+                  <bibl>Malone III.7, 54</bibl>
+                     <relation active="#vv226" ref="snap:HasHeir"><desc>Aelius Candidus curam agente</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv227" role="person">
@@ -2931,7 +2937,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>RIB 501</bibl>
-                  <bibl>Malone III.7, 56</bibl></listBibl>
+                  <bibl>Malone III.7, 56</bibl>
+                     <relation active="#vv228" ref="snap:HasHeir"><desc>Frontius Aquilo heres</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv229" role="person">
@@ -2973,7 +2981,9 @@
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>AE 1988.396</bibl>
-                  <bibl>Malone III.7, 60</bibl></listBibl>
+                  <bibl>Malone III.7, 60</bibl>
+                     <relation active="#vv232" ref="snap:FreedmanOf"><desc>Faustus libertus</desc></relation>               
+                  </listBibl>
                </person>
                
                <person xml:id="vv233" role="person">
@@ -3005,7 +3015,9 @@
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>CIL V 4923</bibl>
-                  <bibl>Malone III.7, 63</bibl></listBibl>
+                  <bibl>Malone III.7, 63</bibl>
+                     <relation active="#vv235" ref="snap:HusbandOf"><desc>Esdronia Cangina uxor</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv236" role="person">
@@ -3026,7 +3038,9 @@
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>CIL XIII 8288</bibl>
-                  <bibl>Malone III.7, 65</bibl></listBibl>
+                  <bibl>Malone III.7, 65</bibl>
+                     <relation active="#vv237" ref="snap:HasHeir"><desc>Sex. Marcianus heres</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv238" role="person">
@@ -3078,7 +3092,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>CIL III 7452</bibl>
-                  <bibl>Malone III.7, 70</bibl></listBibl>
+                  <bibl>Malone III.7, 70</bibl>
+                     <relation active="#vv242" ref="snap:FreedmanOf"><desc>Secundus libertus</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv243" role="person">
@@ -3118,7 +3134,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>RIB 503</bibl>
-                  <bibl>Malone III.7, 74</bibl></listBibl>
+                  <bibl>Malone III.7, 74</bibl>
+                     <relation active="#vv246" ref="snap:HasHeir"><desc>Groma heres</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv247" role="person">
@@ -3127,7 +3145,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>RIB 18</bibl>
-                  <bibl>Malone III.7, 75</bibl></listBibl>
+                  <bibl>Malone III.7, 75</bibl>
+                     <relation active="#vv247" ref="snap:HasHeir"><desc>C. Acilius M...</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv248" role="person">
@@ -3138,7 +3158,10 @@
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>CIL V 2838</bibl>
-                  <bibl>Malone III.7, 76</bibl></listBibl>
+                  <bibl>Malone III.7, 76</bibl>
+                     <relation active="#vv248" ref="snap:HusbandOf"><desc>Tullia Secunda</desc></relation>
+                     <relation active="#vv248" ref="snap:FatherOf"><desc>S. Saufeius filius</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv249" role="person">
@@ -3150,7 +3173,9 @@
                   <listBibl><bibl>CIL VI 3357</bibl>
                   <bibl>CIL VI 3358</bibl>
                   <bibl>CIL VI 3359</bibl>
-                  <bibl>Malone III.7, 77</bibl></listBibl>
+                  <bibl>Malone III.7, 77</bibl>
+                     <relation active="#vv249" ref="snap:HasHeir"><desc>Pupius Vernianus heres</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv250" role="person">
@@ -3202,7 +3227,10 @@
                   <occupation>miles</occupation>
                   <occupation>beneficiarius legati</occupation>
                   <listBibl><bibl>RIB 505</bibl>
-                  <bibl>Malone III.7, 82</bibl></listBibl>
+                  <bibl>Malone III.7, 82</bibl>
+                     <relation active="#vv254" ref="snap:HusbandOf"><desc>Iulia Similina coniunx</desc></relation>
+                     <relation active="#vv254" ref="snap:HasHeir"><desc>Iulia Similina heres</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv255" role="person">
@@ -3230,7 +3258,9 @@
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>Britannia 15 (1984), 333 no.1 and 17 (1986), 454e</bibl>
-                  <bibl>Malone III.7, 85</bibl></listBibl>
+                  <bibl>Malone III.7, 85</bibl>
+                     <relation active="#vv257" ref="snap:HasHeir"><desc>Iulius</desc></relation>
+                  </listBibl>
                </person>
                
                   <person xml:id="vv258" role="person">
@@ -3262,7 +3292,9 @@
                   <occupation>miles</occupation>
                   <occupation>actarius</occupation>
                   <listBibl><bibl>RIB 507</bibl>
-                  <bibl>Malone III.7, 88</bibl></listBibl>
+                  <bibl>Malone III.7, 88</bibl>
+                     <relation active="#vv260" ref="snap:HusbandOf"><desc>Cocceia Irene coniunx</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv261" role="person">
@@ -3501,7 +3533,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>CIL II 719</bibl>
-                     <bibl>Malone III.7, 112</bibl></listBibl>
+                     <bibl>Malone III.7, 112</bibl>
+                     <relation active="#vv284" ref="snap:HusbandOf"><desc>Sequnda uxor</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv285" role="person">
@@ -3591,7 +3625,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <listBibl><bibl>RIB 533</bibl>
-                     <bibl>Malone III.7, 121</bibl></listBibl>
+                     <bibl>Malone III.7, 121</bibl>
+                     <relation active="#vv293" ref="snap:HasHeir"><desc>Iulius Liberalis</desc></relation>
+                  </listBibl>
                </person>
                
                <person xml:id="vv294" role="person">
