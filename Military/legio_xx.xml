@@ -452,9 +452,10 @@
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 450</bibl>
-                  <bibl>Malone III.3, 8</bibl></listBibl>
+                     <bibl>RIB 450 <idno>http://romaninscriptionsofbritain.org/inscriptions/450</idno></bibl>
+                     <bibl>Malone III.3, 8</bibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4110</idno>
                </person>
                
                <person xml:id="vv028" role="person">
