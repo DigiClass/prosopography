@@ -39,7 +39,6 @@
                <person xml:id="hero001" role="deity">
                   <persName xml:lang="grc">Ἄγλαυρος</persName>
                   <persName xml:lang="en">Aglauros</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/580119">Thorikos</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579924">Erchia</affiliation>
@@ -51,19 +50,22 @@
                      <bibl>Philochorus FGrH 328 F 183</bibl>
                      <bibl>IG II2 3459</bibl>
                      <relation ref="snap:DaughterOf" active="#hero001" passive="#hero147"><desc>daughter of Kekrops</desc></relation>
+                     <relation ref="snap:DaughterOf" active="#hero001" passive="#hero002"><desc>daughter  of Aglauros</desc></relation>
                      <relation ref="snap:DaughterOf" active="#hero001" passive="#hero094"><desc>daughter of Erechtheus</desc></relation>
-                     <relation ref="snap:DaughterOf" active="#hero002" passive="#hero231"><desc>daughter  of Prokris</desc></relation>
-                     <relation ref="snap:DaughtrerOf" active="#hero001" passive="#hero002"><desc>daughter  of Aglauros</desc></relation>
+                     <relation ref="snap:DaughterOf" active="#hero001" passive="#hero231"><desc>daughter  of Prokris</desc></relation>
+                     <relation ref="snap:DaughterOf" active="#hero001"><desc>daughter  of Aktaion</desc></relation>
                      <relation ref="snap:SisterOf" active="#hero001" passive="#hero096"><desc>sister of Herse</desc></relation>
                      <relation ref="snap:SisterOf" active="#hero001" passive="#hero221"><desc>sister of Pandrosos</desc></relation>
                      <relation ref="snap:SisterOf" active="#hero001" passive="#hero274"><desc>sister of Phoinike</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero001" passive="#hero026"><desc>mother of Alkippe</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero001" passive="#hero154"><desc>mother of Keryx</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Aglaulus,_daughter_of_Cecrops</idno>
                </person>
+               
                <person xml:id="hero002" role="deity">
                   <persName xml:lang="grc">Ἄγλαυρος</persName>
                   <persName xml:lang="en">Aglauros</persName>
-                  <floruit></floruit> 
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Thorikos</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Erchia</affiliation>
@@ -77,11 +79,13 @@
                      <relation ref="snap:WifeOf" active="#hero002" passive="#hero147"><desc>wife of Kekrops</desc></relation>
                      <relation ref="snap:DaughterOf" active="#hero002" passive="#hero023"><desc>daughter  of Aktaios</desc></relation>
                      <relation ref="snap:MotherOf" active="#hero002" passive="#hero001"><desc>mother of Aglauros</desc></relation>
-                    <relation ref="snap:MotherOf" active="#hero002" passive="#hero026"><desc>mother of Alkippe</desc></relation>
-                     <relation ref="snap:MotherOf" active="#hero002" passive="#hero154"><desc>mother of Keryx</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero002" passive="#hero096"><desc>mother of Herse</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero002" passive="#hero221"><desc> mother of Pandrosos</desc></relation>
+                     <relation ref="snap:MotherOf" active="#hero002" passive="#hero221"><desc> mother of Erysichthon</desc></relation>  
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Aglaulus</idno>
                </person>
+               
                <person xml:id="hero003" role="deity group">
                   <persName xml:lang="en">anonymous heroes of Agora</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
@@ -1867,7 +1871,6 @@
                   <person xml:id="hero119" role="deity person">
                      <persName xml:lang="grc">Θαύλων</persName>
                      <persName xml:lang="en">Thaulon</persName>
-                     <floruit></floruit>
                      <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                      <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                      <occupation>hero</occupation> 
