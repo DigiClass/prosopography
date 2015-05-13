@@ -3881,7 +3881,7 @@
                     <occupation>miles</occupation>
                     <listBibl><bibl>RIB 560<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/560</idno></bibl>
                         <bibl>Malone III.7, Incerti 8</bibl>
-                    <relation active="#vv305" ref="snap:SlaveOf"><desc>Pompeius Optatus</desc></relation>
+                       <relation active="#vv305" ref="snap:SlaveOf" passive="#vv308"><desc>Pompeius Optatus</desc></relation>
                     </listBibl>
                     <idno type="rib">http://romaninscriptionsofbritain.org/person/3184</idno>
                 </person>
@@ -3894,7 +3894,7 @@
                     <occupation>miles</occupation>
                     <listBibl><bibl>RIB 560<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/560</idno></bibl>
                         <bibl>Malone III.7, Incerti 8</bibl>
-                    <relation active="#vv306" ref="snap:SlaveOf"><desc>Pompeius Optatus</desc></relation>
+                       <relation active="#vv306" ref="snap:SlaveOf" passive="#vv308"><desc>Pompeius Optatus</desc></relation>
                     </listBibl>
                     <idno type="rib">http://romaninscriptionsofbritain.org/person/3166</idno>
                 </person>
@@ -3907,7 +3907,7 @@
                     <occupation>miles</occupation>
                     <listBibl><bibl>RIB 560<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/560</idno></bibl>
                         <bibl>Malone III.7, Incerti 8</bibl>
-                    <relation active="#vv307" ref="snap:SlaveOf"><desc>Pompeius Optatus</desc></relation>
+                       <relation active="#vv307" ref="snap:SlaveOf" passive="#vv308"><desc>Pompeius Optatus</desc></relation>
                     </listBibl>
                     <idno type="rib">http://romaninscriptionsofbritain.org/person/3490</idno>
                 </person>
@@ -3920,7 +3920,7 @@
                     <occupation>miles</occupation>
                     <listBibl><bibl>RIB 560<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/560</idno></bibl>
                         <bibl>Malone III.7, Incerti 8</bibl>
-                    <relation active="#vv308" ref="snap:MasterOf"><desc>Atilianus,Antiatilianus,Protus</desc></relation></listBibl>
+                       <relation active="#vv308" ref="snap:MasterOf" passive="#vv305 #vv306 #vv307"><desc>Atilianus, Antiatilianus, Protus</desc></relation></listBibl>
                     <idno type="rib">http://romaninscriptionsofbritain.org/person/4421</idno>
                 </person>
                 
