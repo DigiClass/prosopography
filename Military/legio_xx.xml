@@ -49,6 +49,7 @@
                   </listBibl>
                   <idno type="pir">PIR2 M 163</idno>
                </person>
+                
                <person xml:id="vv002" role="person">
                   <persName xml:lang="en">M. Roscius Coelius</persName>
                   <floruit notBefore="0069" notAfter="0081">AD 69/81</floruit>
@@ -63,6 +64,7 @@
                   </listBibl>
                   <idno type="pir">PIR2 R 94</idno>
                </person>
+                
                <person xml:id="vv003" role="person">
                   <persName xml:lang="en">Cn. Iulius Agricola</persName>
                   <floruit notBefore="0040" notAfter="0093">AD 40/93</floruit>
@@ -244,9 +246,10 @@
                   <occupation>legatus legionis</occupation>
                   <occupation>tribunus</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 449</bibl>
+                      <listBibl><bibl>RIB 449<idno>http://romaninscriptionsofbritain.org/inscriptions/449</idno></bibl>
                   <bibl>Malone III.1, Incerti 4</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4638</idno>
                </person>
                
                <person xml:id="vv014" role="person">
@@ -452,8 +455,8 @@
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
                   <listBibl>
-                     <bibl>RIB 450 <idno>http://romaninscriptionsofbritain.org/inscriptions/450</idno></bibl>
-                     <bibl>Malone III.3, 8</bibl>
+                     ,<listBibl><bibl>RIB 450 <idno>http://romaninscriptionsofbritain.org/inscriptions/450</idno></bibl>
+                     <bibl>Malone III.3, 8</bibl></listBibl>
                   </listBibl>
                    <idno>http://romaninscriptionsofbritain.org/person/4110</idno>
                </person>
@@ -568,9 +571,10 @@
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 937</bibl>
+                      <listBibl><bibl>RIB 937<idno>http://romaninscriptionsofbritain.org/inscriptions/937</idno></bibl>
                   <bibl>Malone III.3, Incertus</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3982</idno>
                </person>
                
                <person xml:id="vv036" role="person">
@@ -582,9 +586,10 @@
                   <occupation>praefectus castrorum</occupation>
                   <occupation>praefectus legionis</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 490</bibl>
+                      <listBibl><bibl>RIB 490<idno>http://romaninscriptionsofbritain.org/inscriptions/490</idno></bibl>
                   <bibl>Malone III.4,1</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/inscriptions/490</idno>
                </person>
                
                <person xml:id="vv037" role="person">
@@ -668,10 +673,11 @@
                   <occupation>soldier</occupation>
                   <occupation>primus plus</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1510</bibl>
+                      <listBibl><bibl>RIB 1510<idno>http://romaninscriptionsofbritain.org/inscriptions/1510</idno></bibl>
                   <bibl>JRS 52(1962), 194 no. 20</bibl>
                   <bibl>Malone III.5, 3</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3557</idno>
                </person>
                
                <person xml:id="vv043" role="person">
@@ -699,10 +705,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 469</bibl>
+                      <listBibl><bibl>RIB 469<idno>http://romaninscriptionsofbritain.org/inscriptions/469</idno></bibl>
                   <bibl>RIB 470</bibl>
                   <bibl>Malone III.6, 1</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3141</idno>
                </person>
                
                <person xml:id="vv045" role="person">
@@ -713,9 +720,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 754</bibl>
+                      <listBibl><bibl>RIB 754<idno>http://romaninscriptionsofbritain.org/inscriptions/754</idno></bibl>
                   <bibl>Malone III.6, 2</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3095</idno>
                </person>
                
                <person xml:id="vv046" role="person">
@@ -739,9 +747,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1327</bibl>
+                      <listBibl><bibl>RIB 1327<idno>http://romaninscriptionsofbritain.org/inscriptions/1327</idno></bibl>
                   <bibl>Malone III.6, 4</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3715</idno>
                </person>
                
                <person xml:id="vv048" role="person">
@@ -766,9 +775,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 2449.4</bibl>
+                     <listBibl><bibl>RIB 2449.4<idno></idno></bibl>
                   <bibl>Malone III.6, 6</bibl></listBibl>
                   </listBibl>
+                   <idno></idno>
                </person>
                
                <person xml:id="vv050" role="person">
@@ -778,12 +788,13 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 2122</bibl>
-                  <bibl>RIB 2123</bibl>
-                  <bibl>RIB 2124</bibl>
-                  <bibl>RIB 2125</bibl>
+                      <listBibl><bibl>RIB 2122<idno>http://romaninscriptionsofbritain.org/inscriptions/2122</idno></bibl>
+                          <bibl>RIB 2123<idno>http://romaninscriptionsofbritain.org/inscriptions/2123</idno></bibl>
+                          <bibl>RIB 2124<idno>http://romaninscriptionsofbritain.org/inscriptions/2124</idno></bibl>
+                          <bibl>RIB 2125<idno>http://romaninscriptionsofbritain.org/inscriptions/2125</idno></bibl>
                   <bibl>Malone III.6, 7</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2909</idno>
                </person>
                
                <person xml:id="vv051" role="person">
@@ -806,9 +817,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 471</bibl>
+                      <listBibl><bibl>RIB 471<idno>http://romaninscriptionsofbritain.org/inscriptions/471</idno></bibl>
                   <bibl>Malone III.6, 9</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3776</idno>
                </person>
                
                <person xml:id="vv053" role="person">
@@ -818,9 +830,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1779</bibl>
+                      <listBibl><bibl>RIB 1779<idno>http://romaninscriptionsofbritain.org/inscriptions/1779</idno></bibl>
                   <bibl>Malone III.6, 10</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3783</idno>
                </person>
                
                <person xml:id="vv054" role="person">
@@ -830,9 +843,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 447</bibl>
+                      <listBibl><bibl>RIB 447<idno>http://romaninscriptionsofbritain.org/inscriptions/447</idno></bibl>
                   <bibl>Malone III.6, 11</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3191</idno>
                </person>
                
                <person xml:id="vv055" role="person">
@@ -842,9 +856,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 491</bibl>
+                      <listBibl><bibl>RIB 491<idno>http://romaninscriptionsofbritain.org/inscriptions/491</idno></bibl>
                   <bibl>Malone III.6, 12</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3854</idno>
                </person>
                
                <person xml:id="vv056" role="person">
@@ -906,9 +921,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 439</bibl>
+                      <listBibl><bibl>RIB 439<idno>http://romaninscriptionsofbritain.org/inscriptions/439</idno></bibl>
                   <bibl>Malone III.6, 17</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3913</idno>
                </person>
                
                <person xml:id="vv061" role="person">
@@ -918,11 +934,12 @@
                   <occupation>centurio</occupation>
                   <listBibl>
                      <listBibl><bibl>RIB 2409.4</bibl>
-                  <bibl>RIB 1770 (HW45-45a)</bibl>
-                  <bibl>RIB 1811</bibl>
-                  <bibl>RIB 1855 (HW47-48)</bibl>
+                         <bibl>RIB 1770 (HW45-45a)<idno>http://romaninscriptionsofbritain.org/inscriptions/1770</idno></bibl>
+                         <bibl>RIB 1811<idno>http://romaninscriptionsofbritain.org/inscriptions/1811</idno></bibl>
+                         <bibl>RIB 1855 (HW47-48)<idno>http://romaninscriptionsofbritain.org/inscriptions/1855</idno></bibl>
                   <bibl>Malone III.6, 18</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2991</idno>
                </person>
                
                <person xml:id="vv062" role="person">
@@ -1009,9 +1026,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 452</bibl>
+                      <listBibl><bibl>RIB 452<idno>http://romaninscriptionsofbritain.org/inscriptions/452</idno></bibl>
                   <bibl>Malone III.6, 25</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4057</idno>
                </person>
                
                <person xml:id="vv069" role="person">
@@ -1022,9 +1040,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 200</bibl>
+                      <listBibl><bibl>RIB 200<idno>http://romaninscriptionsofbritain.org/inscriptions/200</idno></bibl>
                   <bibl>Malone III.6, 26</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4067</idno>
                </person>
                
                <person xml:id="vv071" role="person">
@@ -1035,11 +1054,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 468</bibl>
-                  <bibl>RIB 1769</bibl>
-                  <bibl>RIB 1867</bibl>
+                      <listBibl><bibl>RIB 468<idno>http://romaninscriptionsofbritain.org/inscriptions/468</idno></bibl>
+                          <bibl>RIB 1769<idno>romaninscriptionsofbritain.org/inscriptions/1769</idno></bibl>
+                          <bibl>RIB 1867<idno>http://romaninscriptionsofbritain.org/inscriptions/1867</idno></bibl>
                   <bibl>Malone III.6, 27</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2990</idno>
                </person>
                
                <person xml:id="vv072" role="person">
@@ -1050,9 +1070,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 2144</bibl>
+                      <listBibl><bibl>RIB 2144<idno>http://romaninscriptionsofbritain.org/inscriptions/2144</idno></bibl>
                   <bibl>Malone III.6, 28</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4092</idno>
                </person>
                
                <person xml:id="vv073" role="person">
@@ -1062,9 +1083,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 472</bibl>
+                      <listBibl><bibl>RIB 472<idno>http://romaninscriptionsofbritain.org/inscriptions/472</idno></bibl>
                   <bibl>Malone III.6, 29</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4098</idno>
                </person>
                
                <person xml:id="vv074" role="person">
@@ -1075,11 +1097,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1664</bibl>
-                  <bibl>RIB 1812</bibl>
+                      <listBibl><bibl>RIB 1664<idno>http://romaninscriptionsofbritain.org/inscriptions/1664</idno></bibl>
+                          <bibl>RIB 1812<idno>http://romaninscriptionsofbritain.org/inscriptions/1812</idno></bibl>
                   <bibl>JRS 50 (1960),237 no. 11a</bibl>
                   <bibl>Malone III.6, 30</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2913</idno>
                </person>
                
                <person xml:id="vv075" role="person">
@@ -1089,9 +1112,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 498</bibl>
+                      <listBibl><bibl>RIB 498<idno>http://romaninscriptionsofbritain.org/inscriptions/498</idno></bibl>
                   <bibl>Malone III.6, 31</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4119</idno>
                </person>
                
                <person xml:id="vv076" role="person">
@@ -1127,9 +1151,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1431</bibl>
+                      <listBibl><bibl>RIB 1431<idno>http://romaninscriptionsofbritain.org/inscriptions/1431</idno></bibl>
                   <bibl>Malone III.6, 34</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4154</idno>
                </person>
                
                <person xml:id="vv079" role="person">
@@ -1152,9 +1177,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1677</bibl>
+                      <listBibl><bibl>RIB 1677<idno>http://romaninscriptionsofbritain.org/inscriptions/1677</idno></bibl>
                   <bibl>Malone III.6, 36</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2987</idno>
                </person>
                
                <person xml:id="vv081" role="person">
@@ -1191,9 +1217,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1014</bibl>
+                      <listBibl><bibl>RIB 1014<idno>http://romaninscriptionsofbritain.org/inscriptions/1014</idno></bibl>
                   <bibl>Malone III.6, 39</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4254</idno>
                </person>
                
                <person xml:id="vv084" role="person">
@@ -1229,10 +1256,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 2077</bibl>
-                  <bibl>RIB 1330</bibl>
+                      <listBibl><bibl>RIB 2077<idno>http://romaninscriptionsofbritain.org/inscriptions/2077</idno></bibl>
+                          <bibl>RIB 1330<idno>http://romaninscriptionsofbritain.org/inscriptions/1330</idno></bibl>
                   <bibl>Malone III.6, 42</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2984</idno>
                </person>
                
                <person xml:id="vv087" role="person">
@@ -1258,9 +1286,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 122</bibl>
+                      <listBibl><bibl>RIB 122<idno>http://romaninscriptionsofbritain.org/inscriptions/122</idno></bibl>
                   <bibl>Malone III.6, 44</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4321</idno>
                </person>
                
                <person xml:id="vv089" role="person">
@@ -1282,9 +1311,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 544</bibl>
+                      <listBibl><bibl>RIB 544<idno>http://romaninscriptionsofbritain.org/inscriptions/544</idno></bibl>
                   <bibl>Malone III.6, 46</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4327</idno>
                </person>
                
                <person xml:id="vv091" role="person">
@@ -1306,9 +1336,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 473</bibl>
+                      <listBibl><bibl>RIB 473<idno>http://romaninscriptionsofbritain.org/inscriptions/473</idno></bibl>
                   <bibl>Malone III.6, 48</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4355</idno>
                </person>
                
                <person xml:id="vv093" role="person">
@@ -1321,12 +1352,12 @@
                   <occupation>primus pilus</occupation>
                   <occupation>praepositus</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 473</bibl>
-                  <bibl>RIB 1725</bibl>
-                  <bibl>RIB 2120</bibl>
+                      <listBibl><bibl>RIB 1725<idno>http://romaninscriptionsofbritain.org/inscriptions/1725</idno></bibl>
+                          <bibl>RIB 2120<idno>http://romaninscriptionsofbritain.org/inscriptions/2120</idno></bibl>
                   <bibl>AE 1985.735</bibl>
                   <bibl>Malone III.6, 49</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2916</idno>
                </person>
                
                <person xml:id="vv094" role="person">
@@ -1359,9 +1390,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 467</bibl>
+                      <listBibl><bibl>RIB 467<idno>http://romaninscriptionsofbritain.org/inscriptions/467</idno></bibl>
                   <bibl>Malone III.6, 52</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4392</idno>
                </person>
                
                <person xml:id="vv097" role="person">
@@ -1371,21 +1403,23 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 508</bibl>
+                      <listBibl><bibl>RIB 508<idno>http://romaninscriptionsofbritain.org/inscriptions/508</idno></bibl>
                   <bibl>Malone III.6, 53</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3455</idno>
                </person>
                
                <person xml:id="vv098" role="person">
-                  <persName xml:lang="en">Oppius   Proculus</persName>
+                  <persName xml:lang="en">Oppius  Proculus</persName>
                   <floruit>AD M2</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1095</bibl>
+                      <listBibl><bibl>RIB 1095<idno>http://romaninscriptionsofbritain.org/inscriptions/1095</idno></bibl>
                   <bibl>Malone III.6, 54</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4398</idno>
                </person>
                
                <person xml:id="vv099" role="person">
@@ -1409,9 +1443,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 539</bibl>
+                      <listBibl><bibl>RIB 539<idno>http://romaninscriptionsofbritain.org/inscriptions/539</idno></bibl>
                   <bibl>Malone III.6, 56</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4433</idno>
                </person>
                
                <person xml:id="vv101" role="person">
@@ -1444,10 +1479,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 441</bibl>
-                  <bibl>RIB 1659</bibl>
+                      <listBibl><bibl>RIB 441<idno>http://romaninscriptionsofbritain.org/inscriptions/441</idno></bibl>
+                          <bibl>RIB 1659<idno>http://romaninscriptionsofbritain.org/inscriptions/1659</idno></bibl>
                   <bibl>Malone III.6, 59</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4454</idno>
                </person>
                
                <person xml:id="vv104" role="person">
@@ -1494,9 +1530,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 2077</bibl>
+                      <listBibl><bibl>RIB 2077<idno>http://romaninscriptionsofbritain.org/inscriptions/2077</idno></bibl>
                   <bibl>Malone III.6, 63</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4533</idno>
                </person>
                
                <person xml:id="vv108" role="person">
@@ -1506,9 +1543,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 474</bibl>
+                      <listBibl><bibl>RIB 474<idno>http://romaninscriptionsofbritain.org/inscriptions/474</idno></bibl>
                   <bibl>Malone III.6, 64</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4534</idno>
                </person>
                
                <person xml:id="vv109" role="person">
@@ -1552,9 +1590,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 593</bibl>
+                      <listBibl><bibl>RIB 593<idno>http://romaninscriptionsofbritain.org/inscriptions/593</idno></bibl>
                   <bibl>Malone III.6, 67</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4541</idno>
                </person>
                
                <person xml:id="vv112" role="person">
@@ -1590,9 +1629,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1167</bibl>
+                      <listBibl><bibl>RIB 1167<idno>http://romaninscriptionsofbritain.org/inscriptions/1167</idno></bibl>
                   <bibl>Malone III.6, 70</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4551</idno>
                </person>
                
                <person xml:id="vv115" role="person">
@@ -1645,9 +1685,10 @@
                   <occupation>centurio</occupation>
                   <occupation>evocatus</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 2135</bibl>
+                      <listBibl><bibl>RIB 2135<idno>http://romaninscriptionsofbritain.org/inscriptions/2135</idno></bibl>
                   <bibl>Malone III.6, 74</bibl></listBibl>
                   </listBibl>
+                   <idno></idno>
                </person>
                
                <person xml:id="vv119" role="person">
@@ -1692,7 +1733,7 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 509</bibl>
+                      <listBibl><bibl>RIB 509<idno>romaninscriptionsofbritain.org/inscriptions/509</idno></bibl>
                   <bibl>JRS 56 (1966), 225</bibl>
                   <bibl>Malone III.6, 78</bibl></listBibl>
                   </listBibl>
@@ -1707,7 +1748,7 @@
                   <occupation>centurio</occupation>
                   <occupation>primus pilus</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 203</bibl>
+                      <listBibl><bibl>RIB 203<idno>http://romaninscriptionsofbritain.org/inscriptions/203</idno></bibl>
                   <bibl>Malone III.6, 79</bibl></listBibl>
                   </listBibl>
                </person>
@@ -1719,7 +1760,7 @@
                   <occupation>centurio</occupation>
                   <occupation>princeps prior</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1391 (HW12)</bibl>
+                      <listBibl><bibl>RIB 1391 (HW12)<idno>http://romaninscriptionsofbritain.org/inscriptions/1391</idno></bibl>
                   <bibl>Malone III.6, 80</bibl></listBibl>
                   </listBibl>
                </person>
@@ -1730,7 +1771,7 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1338</bibl>
+                      <listBibl><bibl>RIB 1338<idno>http://romaninscriptionsofbritain.org/inscriptions/1338</idno></bibl>
                   <bibl>Malone III.6, 81</bibl></listBibl>
                   </listBibl>
                </person>
@@ -1741,7 +1782,7 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 588</bibl>
+                      <listBibl><bibl>RIB 588<idno>romaninscriptionsofbritain.org/inscriptions/588</idno></bibl>
                   <bibl>Malone III.6, 82</bibl></listBibl>
                   </listBibl>
                </person>
@@ -1754,9 +1795,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1657</bibl>
+                      <listBibl><bibl>RIB 1657<idno>http://romaninscriptionsofbritain.org/inscriptions/1657</idno></bibl>
                   <bibl>Malone III.6, 83</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3903</idno>
                </person>
                
                <person xml:id="vv128" role="person">
@@ -1767,12 +1809,13 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1679</bibl>
-                  <bibl>RIB 1854</bibl>
+                      <listBibl><bibl>RIB 1679<idno>http://romaninscriptionsofbritain.org/inscriptions/1679</idno></bibl>
+                          <bibl>RIB 1854<idno>http://romaninscriptionsofbritain.org/inscriptions/1854</idno></bibl>
                   <bibl>JRS 50 (1960), 237 no. 11b</bibl>
                   <bibl>JRS 52 (1962), 194 no. 19b</bibl>
                   <bibl>Malone III.6, 84</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2994</idno>
                </person>
                
                <person xml:id="vv129" role="person">
@@ -1781,13 +1824,14 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1652</bibl>
-                  <bibl>RIB 1860</bibl>
-                  <bibl>RIB 1862</bibl>
+                      <listBibl><bibl>RIB 1652<idno>http://romaninscriptionsofbritain.org/inscriptions/1652</idno></bibl>
+                          <bibl>RIB 1860<idno>http://romaninscriptionsofbritain.org/inscriptions/1860</idno></bibl>
+                          <bibl>RIB 1862<idno>http://romaninscriptionsofbritain.org/inscriptions/1862</idno></bibl>
                   <bibl>Britannia 8 (1977), 432 no. 27</bibl>
                   <bibl>JRS 53 (1963), 161 no. 8b</bibl>
                   <bibl>Malone III.6, 85</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2997</idno>
                </person>
                
                <person xml:id="vv130" role="person">
@@ -1796,9 +1840,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1763</bibl>
+                      <listBibl><bibl>RIB 1763<idno>http://romaninscriptionsofbritain.org/inscriptions/1763</idno></bibl>
                   <bibl>Malone III.6, 86</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4100</idno>
                </person>
                
                <person xml:id="vv131" role="person">
@@ -1807,12 +1852,13 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1552</bibl>
-                  <bibl>RIB 1668</bibl>
+                      <listBibl><bibl>RIB 1572<idno>http://romaninscriptionsofbritain.org/inscriptions/1572</idno></bibl>
+                          <bibl>RIB 1668<idno>http://romaninscriptionsofbritain.org/inscriptions/1668</idno></bibl>
                   <bibl>Britannia 4 (1973), 329 no. 8</bibl>
                   <bibl>Britannia 18 (1987), 369 no. 11</bibl>
                   <bibl>Malone III.6, 87</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3084</idno>
                </person>
                
                <person xml:id="vv132" role="person">
@@ -1821,11 +1867,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1632</bibl>
-                  <bibl>RIB 1646</bibl>
-                  <bibl>RIB 1674</bibl>
+                      <listBibl><bibl>RIB 1632<idno>http://romaninscriptionsofbritain.org/inscriptions/1632</idno></bibl>
+                          <bibl>RIB 1646<idno>http://romaninscriptionsofbritain.org/inscriptions/1646</idno></bibl>
+                          <bibl>RIB 1674<idno>http://romaninscriptionsofbritain.org/inscriptions/1674</idno></bibl>
                   <bibl>Malone III.6, 88</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3083</idno>
                </person>
                
                <person xml:id="vv133" role="person">
@@ -1847,11 +1894,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1774</bibl>
+                      <listBibl><bibl>RIB 1774<idno>http://romaninscriptionsofbritain.org/inscriptions/1774</idno></bibl>
                   <bibl>JRS 57 (1967), 206 no. 19</bibl>
-                  <bibl>RIB 1658</bibl>
+                          <bibl>RIB 1658<idno>romaninscriptionsofbritain.org/inscriptions/1658</idno></bibl>
                   <bibl>Malone III.6, 90</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3106</idno>
                </person>
                
                <person xml:id="vv135" role="person">
@@ -1860,10 +1908,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1851</bibl>
+                      <listBibl><bibl>RIB 1851<idno>http://romaninscriptionsofbritain.org/inscriptions/1851</idno></bibl>
                   <bibl>JRS 51 (1961), 194 no. 11g</bibl>
                   <bibl>Malone III.6, 91</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3367</idno>
                </person>
                
                <person xml:id="vv136" role="person">
@@ -1872,9 +1921,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1772</bibl>
+                      <listBibl><bibl>RIB 1772<idno>http://romaninscriptionsofbritain.org/inscriptions/1772</idno></bibl>
                   <bibl>Malone III.6, 92</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3372</idno>
                </person>
                
                <person xml:id="vv137" role="person">
@@ -1883,10 +1933,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1508</bibl>
-                  <bibl>RIB 1678</bibl>
+                      <listBibl><bibl>RIB 1508<idno>romaninscriptionsofbritain.org/inscriptions/1508</idno></bibl>
+                          <bibl>RIB 1678<idno>http://romaninscriptionsofbritain.org/inscriptions/1678</idno></bibl>
                   <bibl>Malone III.6, 93</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3376</idno>
                </person>
                
                <person xml:id="vv138" role="person">
@@ -1897,14 +1948,15 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1499</bibl>
-                  <bibl>RIB 1506</bibl>
-                  <bibl>RIB 1681</bibl>
-                  <bibl>RIB 1859</bibl>
-                  <bibl>RIB 1861</bibl>
+                      <listBibl><bibl>RIB 1499<idno>http://romaninscriptionsofbritain.org/inscriptions/1499</idno></bibl>
+                          <bibl>RIB 1506<idno>http://romaninscriptionsofbritain.org/inscriptions/1506</idno></bibl>
+                          <bibl>RIB 1681<idno>http://romaninscriptionsofbritain.org/inscriptions/1681</idno></bibl>
+                          <bibl>RIB 1859<idno>http://romaninscriptionsofbritain.org/inscriptions/1859</idno></bibl>
+                          <bibl>RIB 1861<idno>http://romaninscriptionsofbritain.org/inscriptions/1861</idno></bibl>
                   <bibl>Britannia 12 (1981), 380 no. 18</bibl>
                   <bibl>Malone III.6, 94</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2908</idno>
                </person>
                
                <person xml:id="vv139" role="person">
@@ -1913,11 +1965,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1760</bibl>
-                  <bibl>RIB 1771</bibl>
+                      <listBibl><bibl>RIB 1760<idno>http://romaninscriptionsofbritain.org/inscriptions/1760</idno></bibl>
+                          <bibl>RIB 1771<idno>http://romaninscriptionsofbritain.org/inscriptions/1771</idno></bibl>
                   <bibl>JRS 51 (1961), 194 no. 11e</bibl>
                   <bibl>Malone III.6, 95</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2992</idno>
                </person>
                
                <person xml:id="vv140" role="person">
@@ -1927,12 +1980,14 @@
                   <occupation>centurio</occupation>
                   <occupation>princeps prior</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1571</bibl>
-                  <bibl>RIB 1669</bibl>
-                  <bibl>RIB 1758</bibl>
+                      <listBibl><bibl>RIB 1571<idno>http://romaninscriptionsofbritain.org/inscriptions/1571</idno></bibl>
+                          <bibl>RIB 1669<idno>http://romaninscriptionsofbritain.org/inscriptions/1669</idno></bibl>
+                          <bibl>RIB 1758<idno>http://romaninscriptionsofbritain.org/inscriptions/1758</idno></bibl>
                   <bibl>JRS 52 (1962), 194 no. 19c</bibl>
                   <bibl>Malone III.6, 96</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3419</idno>
+                   <idno>http://romaninscriptionsofbritain.org/person/3420</idno>
                </person>
                
                <person xml:id="vv141" role="person">
@@ -1954,11 +2009,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1765</bibl>
-                  <bibl>RIB 1846</bibl>
+                      <listBibl><bibl>RIB 1765<idno>http://romaninscriptionsofbritain.org/inscriptions/1765</idno></bibl>
+                          <bibl>RIB 1846<idno>romaninscriptionsofbritain.org/inscriptions/1846</idno></bibl>
                   <bibl>JRS 49 (1959), 135 no. 4</bibl>
                   <bibl>Malone III.6, 98</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4373</idno>
                </person>
                
                <person xml:id="vv143" role="person">
@@ -1967,13 +2023,14 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1647</bibl>
-                  <bibl>RIB 1849</bibl>
-                  <bibl>RIB 1857</bibl>
+                      <listBibl><bibl>RIB 1647<idno>http://romaninscriptionsofbritain.org/inscriptions/1647</idno></bibl>
+                          <bibl>RIB 1849<idno>http://romaninscriptionsofbritain.org/inscriptions/1849</idno></bibl>
+                          <bibl>RIB 1857<idno>http://romaninscriptionsofbritain.org/inscriptions/1857</idno></bibl>
                   <bibl>JRS 51 (1961), 194 no. 11a</bibl>
                   <bibl>JRS 54 (1964), 178 no. 5a</bibl>
                   <bibl>Malone III.6, 99</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2995</idno>
                </person>
                
                <person xml:id="vv144" role="person">
@@ -1982,9 +2039,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1856</bibl>
+                      <listBibl><bibl>RIB 1856<idno>http://romaninscriptionsofbritain.org/inscriptions/1856</idno></bibl>
                   <bibl>Malone III.6, 100</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4399</idno>
                </person>
                
                <person xml:id="vv145" role="person">
@@ -1993,9 +2051,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1676</bibl>
+                      <listBibl><bibl>RIB 1676<idno>http://romaninscriptionsofbritain.org/inscriptions/1676</idno></bibl>
                   <bibl>Malone III.6, 101</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3457</idno>
                </person>
                
                <person xml:id="vv146" role="person">
@@ -2021,7 +2080,7 @@
                </person>
                
                <person xml:id="vv148" role="person">
-                  <persName xml:lang="en">Pont(ius?) Magnus</persName>
+                  <persName xml:lang="en">Pon(tius?) Magnus</persName>
                   <floruit notBefore="0125" notAfter="0128">AD 125/128</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/1052">Italy</affiliation>
@@ -2029,9 +2088,10 @@
                   <occupation>centurio</occupation>
                   <occupation>primus pilus</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1845</bibl>
+                      <listBibl><bibl>RIB 1845<idno>http://romaninscriptionsofbritain.org/inscriptions/1845</idno></bibl>
                   <bibl>Malone III.6, 103</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4429</idno>
                </person>
                
                <person xml:id="vv149" role="person">
@@ -2040,9 +2100,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1670</bibl>
+                      <listBibl><bibl>RIB 1670<idno>http://romaninscriptionsofbritain.org/inscriptions/1670</idno></bibl>
                   <bibl>Malone III.6, 104</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4452</idno>
                </person>
                
                <person xml:id="vv150" role="person">
@@ -2051,10 +2112,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1757</bibl>
-                  <bibl>RIB 1764</bibl>
+                      <listBibl><bibl>RIB 1757<idno>http://romaninscriptionsofbritain.org/inscriptions/1757</idno></bibl>
+                          <bibl>RIB 1764<idno>http://romaninscriptionsofbritain.org/inscriptions/1764</idno></bibl>
                   <bibl>Malone III.6, 105</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4474</idno>
                </person>
                
                <person xml:id="vv151" role="person">
@@ -2063,9 +2125,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1755</bibl>
+                      <listBibl><bibl>RIB 1755<idno>http://romaninscriptionsofbritain.org/inscriptions/1755</idno></bibl>
                   <bibl>Malone III.6, 106</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3139</idno>
                </person>
                
                <person xml:id="vv152" role="person">
@@ -2074,9 +2137,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1754</bibl>
+                      <listBibl><bibl>RIB 1754<idno>http://romaninscriptionsofbritain.org/inscriptions/1754</idno></bibl>
                   <bibl>Malone III.6, 107</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4501</idno>
                </person>
                
                <person xml:id="vv153" role="person">
@@ -2085,11 +2149,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1675</bibl>
-                  <bibl>RIB 1768</bibl>
+                      <listBibl><bibl>RIB 1675<idno>http://romaninscriptionsofbritain.org/inscriptions/1675</idno></bibl>
+                          <bibl>RIB 1768<idno>http://romaninscriptionsofbritain.org/inscriptions/1768</idno></bibl>
                   <bibl>JRS 54 (1964), 178 no. 5c</bibl>
                   <bibl>Malone III.6, 108</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4509</idno>
                </person>
                
                <person xml:id="vv154" role="person">
@@ -2098,10 +2163,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1682</bibl>
-                  <bibl>RIB 1766</bibl>
+                      <listBibl><bibl>RIB 1682<idno>http://romaninscriptionsofbritain.org/inscriptions/1682</idno></bibl>
+                          <bibl>RIB 1766<idno>http://romaninscriptionsofbritain.org/inscriptions/1766</idno></bibl>
                   <bibl>Malone III.6, 109</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4602</idno>
                </person>
                
                <person xml:id="vv155" role="person">
@@ -2136,12 +2202,13 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1761</bibl>
-                  <bibl>RIB 1853</bibl>
-                  <bibl>RIB 2083</bibl>
+                      <listBibl><bibl>RIB 1761<idno>http://romaninscriptionsofbritain.org/inscriptions/1761</idno></bibl>
+                          <bibl>RIB 1853<idno>http://romaninscriptionsofbritain.org/inscriptions/1853</idno></bibl>
+                          <bibl>RIB 2083<idno>http://romaninscriptionsofbritain.org/inscriptions/2083</idno></bibl>
                   <bibl>JRS 51 (1961), 194 no. 11f</bibl>
                   <bibl>Malone III.6, 112</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2989</idno>
                </person>
                
                <person xml:id="vv158" role="person">
@@ -2152,10 +2219,11 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1858</bibl>
-                  <bibl>RIB 2084</bibl>
+                      <listBibl><bibl>RIB 1858<idno>http://romaninscriptionsofbritain.org/inscriptions/1858</idno></bibl>
+                          <bibl>RIB 2084<idno>http://romaninscriptionsofbritain.org/inscriptions/2084</idno></bibl>
                   <bibl>Malone III.6, 113</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/2996</idno>
                </person>
                
                <person xml:id="vv159" role="person">
@@ -2166,9 +2234,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1671</bibl>
+                      <listBibl><bibl>RIB 1671<idno>http://romaninscriptionsofbritain.org/inscriptions/1671</idno></bibl>
                   <bibl>Malone III.6, 114</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/808</idno>
                </person>
                
                <person xml:id="vv160" role="person">
@@ -2190,11 +2259,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1475</bibl>
-                  <bibl>RIB 1476</bibl>
-                  <bibl>RIB 1570</bibl>
+                      <listBibl><bibl>RIB 1475<idno>http://romaninscriptionsofbritain.org/inscriptions/1475</idno></bibl>
+                          <bibl>RIB 1476<idno>http://romaninscriptionsofbritain.org/inscriptions/1476</idno></bibl>
+                          <bibl>RIB 1570<idno>http://romaninscriptionsofbritain.org/inscriptions/1570</idno></bibl>
                   <bibl>Malone III.6, 116</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3089</idno>
                </person>
                
                <person xml:id="vv162" role="person">
@@ -2203,11 +2273,12 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 1473</bibl>
-                  <bibl>RIB 1501</bibl>
+                      <listBibl><bibl>RIB 1473<idno>http://romaninscriptionsofbritain.org/inscriptions/1473</idno></bibl>
+                          <bibl>RIB 1501<idno>http://romaninscriptionsofbritain.org/inscriptions/1501</idno></bibl>
                   <bibl>Britannia 4 (1973), 329 no. 9</bibl>
                   <bibl>Malone III.6, 117</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4381</idno>
                </person>
                
                <person xml:id="vv163" role="person">
@@ -2216,9 +2287,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 535</bibl>
+                      <listBibl><bibl>RIB 535<idno>http://romaninscriptionsofbritain.org/inscriptions/535</idno></bibl>
                   <bibl>Malone III.6, 118</bibl></listBibl>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4013</idno>
                </person>
                
                <person xml:id="vv164" role="person">
@@ -2326,8 +2398,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>optio</occupation>
-                  <listBibl><bibl>RIB 448</bibl>
+                   <listBibl><bibl>RIB 448<idno>http://romaninscriptionsofbritain.org/inscriptions/448</idno></bibl>
                   <bibl>Malone III.7, 2</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3695</idno>
                </person>
                
                <person xml:id="vv175" role="person">
@@ -2378,8 +2451,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 489</bibl>
+                   <listBibl><bibl>RIB 489<idno>http://romaninscriptionsofbritain.org/inscriptions/489</idno></bibl>
                   <bibl>Malone III.7, 6</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3737</idno>
                </person>
                
                <person xml:id="vv179" role="person">
@@ -2389,8 +2463,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <listBibl><bibl>RIB 517</bibl>
+                   <listBibl><bibl>RIB 517<idno>http://romaninscriptionsofbritain.org/inscriptions/517</idno></bibl>
                   <bibl>Malone III.7, 7</bibl></listBibl>
+                   <idno></idno>
                </person>
                
                <person xml:id="vv180" role="person">
@@ -2401,10 +2476,11 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>emertius</occupation>
-                  <listBibl><bibl>RIB 160</bibl>
+                   <listBibl><bibl>RIB 160<idno>http://romaninscriptionsofbritain.org/inscriptions/160</idno></bibl>
                   <bibl>Malone III.7, 8</bibl>
                      <relation active="#vv180" ref="snap:HasHeir"><desc>C. Tiberinus heres</desc></relation>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4676</idno>
                </person>
                
                <person xml:id="vv181" role="person">
@@ -2425,8 +2501,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/678060">Berytus</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 519</bibl>
+                   <listBibl><bibl>RIB 519<idno>http://romaninscriptionsofbritain.org/inscriptions/519</idno></bibl>
                   <bibl>Malone III.7, 10</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3764</idno>
                </person>
                
                <person xml:id="vv183" role="person">
@@ -2450,8 +2527,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>imaginifer</occupation>
-                  <listBibl><bibl>RIB 521</bibl>
+                   <listBibl><bibl>RIB 521<idno>http://romaninscriptionsofbritain.org/inscriptions/521</idno></bibl>
                   <bibl>Malone III.7, 12</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3831</idno>
                </person>
                
                <person xml:id="vv185" role="person">
@@ -2460,8 +2538,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>eques</occupation>
-                  <listBibl><bibl>RIB 522</bibl>
+                   <listBibl><bibl>RIB 522<idno>http://romaninscriptionsofbritain.org/inscriptions/522</idno></bibl>
                   <bibl>Malone III.7, 13</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3399</idno>
                </person>
                
                <person xml:id="vv186" role="person">
@@ -2497,8 +2576,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>optio</occupation>
-                  <listBibl><bibl>RIB 492</bibl>
+                   <listBibl><bibl>RIB 492<idno>http://romaninscriptionsofbritain.org/inscriptions/492</idno></bibl>
                   <bibl>Malone III.7, 16</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3898</idno>
                </person>
                
                <person xml:id="vv189" role="person">
@@ -2508,8 +2588,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/216733">Bessi</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 523</bibl>
+                   <listBibl><bibl>RIB 523<idno>http://romaninscriptionsofbritain.org/inscriptions/523</idno></bibl>
                   <bibl>Malone III.7, 17</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/inscriptions/523</idno>
                </person>
                
                <person xml:id="vv190" role="person">
@@ -2519,8 +2600,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/141201">Lugdunum</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 493</bibl>
+                   <listBibl><bibl>RIB 493<idno>http://romaninscriptionsofbritain.org/inscriptions/493</idno></bibl>
                   <bibl>Malone III.7, 18</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3915</idno>
                </person>
                
                <person xml:id="vv191" role="person">
@@ -2531,8 +2613,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>signifer</occupation>
-                  <listBibl><bibl>RIB 525</bibl>
+                   <listBibl><bibl>RIB 525<idno>http://romaninscriptionsofbritain.org/inscriptions/525</idno></bibl>
                   <bibl>Malone III.7, 19</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3939</idno>
                </person>
                
                <person xml:id="vv192" role="person">
@@ -2554,8 +2637,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 526</bibl>
+                   <listBibl><bibl>RIB 526<idno>http://romaninscriptionsofbritain.org/inscriptions/526</idno></bibl>
                   <bibl>Malone III.7, 21</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3951</idno>
                </person>
                
                <person xml:id="vv194" role="person">
@@ -2574,8 +2658,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/187583">Teurnia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 494</bibl>
+                   <listBibl><bibl>RIB 494<idno>http://romaninscriptionsofbritain.org/inscriptions/494</idno></bibl>
                   <bibl>Malone III.7, 23</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3957</idno>
                </person>
                
                <person xml:id="vv196" role="person">
@@ -2585,8 +2670,9 @@
                   <affiliation ref=" http://pleiades.stoa.org/places/157836 ">Forum Juli</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 527</bibl>
+                   <listBibl><bibl>RIB 527<idno>http://romaninscriptionsofbritain.org/inscriptions/527</idno></bibl>
                   <bibl>Malone III.7, 24</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3993</idno>
                </person>
                
                <person xml:id="vv197" role="person">
@@ -2605,8 +2691,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/109427">Celtic-?Rhineland</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 1005</bibl>
+                   <listBibl><bibl>RIB 1005<idno>http://romaninscriptionsofbritain.org/inscriptions/1005</idno></bibl>
                   <bibl>Malone III.7, 26</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3253</idno>
                </person>
                
                <person xml:id="vv199" role="person">
@@ -2615,8 +2702,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 528</bibl>
+                   <listBibl><bibl>RIB 528<idno>http://romaninscriptionsofbritain.org/inscriptions/528</idno></bibl>
                   <bibl>Malone III.7, 27</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4006</idno>
                </person>
                
                <person xml:id="vv200" role="person">
@@ -2671,8 +2759,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <listBibl><bibl>RIB 495</bibl>
+                   <listBibl><bibl>RIB 495<idno>http://romaninscriptionsofbritain.org/inscriptions/495</idno></bibl>
                   <bibl>Malone III.7, 32</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4048</idno>
                </person>
                
                <person xml:id="vv205" role="person">
@@ -2692,8 +2781,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>signifer</occupation>
-                  <listBibl><bibl>RIB 451</bibl>
+                   <listBibl><bibl>RIB 451<idno>http://romaninscriptionsofbritain.org/inscriptions/451</idno></bibl>
                   <bibl>Malone III.7, 34</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4123</idno>
                </person>
                
                <person xml:id="vv207" role="person">
@@ -2703,8 +2793,9 @@
                   <affiliation ref="http://pleiades.stoa.org/errata/991355">Panonnia?</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 496</bibl>
+                   <listBibl><bibl>RIB 496<idno>http://romaninscriptionsofbritain.org/inscriptions/496</idno></bibl>
                   <bibl>Malone III.7, 35</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/inscriptions/496</idno>
                </person>
                
                <person xml:id="vv208" role="person">
@@ -2714,8 +2805,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/109427">Rhineland?</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 501</bibl>
+                   <listBibl><bibl>RIB 501<idno>http://romaninscriptionsofbritain.org/inscriptions/501</idno></bibl>
                   <bibl>Malone III.7, 36</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4135</idno>
                </person>
                
                <person xml:id="vv209" role="person">
@@ -2736,8 +2828,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation> 
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 497</bibl>
+                   <listBibl><bibl>RIB 497<idno>http://romaninscriptionsofbritain.org/inscriptions/497</idno></bibl>
                   <bibl>Malone III.7, 38</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4142</idno>
                </person>
                
                <person xml:id="vv211" role="person">
@@ -2799,8 +2892,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>beneficiarius tribuni</occupation>
-                  <listBibl><bibl>RIB 532</bibl>
+                   <listBibl><bibl>RIB 532<idno>http://romaninscriptionsofbritain.org/inscriptions/532</idno></bibl>
                   <bibl>Malone III.7, 44</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4244</idno>
                </person>
                
                <person xml:id="vv217" role="person">
@@ -2810,10 +2904,11 @@
                   <affiliation ref="http://pleiades.stoa.org/places/197206">Celeia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 498</bibl>
+                   <listBibl><bibl>RIB 498<idno>http://romaninscriptionsofbritain.org/inscriptions/498</idno></bibl>
                   <bibl>Malone III.7, 45</bibl>
                      <relation active="#vv217" ref="snap:HasHeir"><desc>Rusius Mo... (h.)</desc></relation>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4263</idno>
                </person>
                
                <person xml:id="vv218" role="person">
@@ -2823,8 +2918,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/197206">Celeia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 447</bibl>
+                   <listBibl><bibl>RIB 447<idno>http://romaninscriptionsofbritain.org/inscriptions/447</idno></bibl>
                   <bibl>Malone III.7, 46</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4264</idno>
                </person>
                
                <person xml:id="vv219" role="person">
@@ -2833,8 +2929,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>eques</occupation>
-                  <listBibl><bibl>RIB 499</bibl>
+                   <listBibl><bibl>RIB 499<idno>http://romaninscriptionsofbritain.org/inscriptions/499</idno></bibl>
                   <bibl>Malone III.7, 47</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4279</idno>
                </person>
                
                <person xml:id="vv220" role="person">
@@ -2842,10 +2939,11 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 13</bibl>
+                   <listBibl><bibl>RIB 13<idno>http://romaninscriptionsofbritain.org/inscriptions/13</idno></bibl>
                   <bibl>Malone III.7, 48</bibl>
                      <relation active="#vv220" ref="snap:HasHeir"><desc>Flavius Attius heres</desc></relation>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3105</idno>
                </person>
                
                <person xml:id="vv221" role="person">
@@ -2891,8 +2989,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>fabriciensis</occupation>
-                  <listBibl><bibl>RIB 156</bibl>
+                   <listBibl><bibl>RIB 156<idno>http://romaninscriptionsofbritain.org/inscriptions/156</idno></bibl>
                   <bibl>Malone III.7, 52</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4297</idno>
                </person>
                
                <person xml:id="vv225" role="person">
@@ -2912,10 +3011,11 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <listBibl><bibl>RIB 534</bibl>
+                   <listBibl><bibl>RIB 534<idno>http://romaninscriptionsofbritain.org/inscriptions/534</idno></bibl>
                   <bibl>Malone III.7, 54</bibl>
                      <relation active="#vv226" ref="snap:HasHeir"><desc>Aelius Candidus curam agente</desc></relation>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4312</idno>
                </person>
                
                <person xml:id="vv227" role="person">
@@ -2926,8 +3026,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>veteranus</occupation>
-                  <listBibl><bibl>RIB 500</bibl>
+                   <listBibl><bibl>RIB 500<idno>http://romaninscriptionsofbritain.org/inscriptions/500</idno></bibl>
                   <bibl>Malone III.7, 55</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4318</idno>
                </person>
                
                <person xml:id="vv228" role="person">
@@ -2937,10 +3038,11 @@
                   <affiliation ref="http://pleiades.stoa.org/places/256155">Emerita</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 501</bibl>
+                   <listBibl><bibl>RIB 501<idno>http://romaninscriptionsofbritain.org/inscriptions/501</idno></bibl>
                   <bibl>Malone III.7, 56</bibl>
                      <relation active="#vv228" ref="snap:HasHeir"><desc>Frontius Aquilo heres</desc></relation>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4326</idno>
                </person>
                
                <person xml:id="vv229" role="person">
@@ -2971,8 +3073,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>beneficiarius legati pr</occupation>
-                  <listBibl><bibl>RIB 293</bibl>
+                   <listBibl><bibl>RIB 293<idno>http://romaninscriptionsofbritain.org/inscriptions/293</idno></bibl>
                   <bibl>Malone III.7, 59</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4344</idno>
                </person>
                
                <person xml:id="vv232" role="person">
@@ -3063,8 +3166,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 467</bibl>
+                   <listBibl><bibl>RIB 467<idno>http://romaninscriptionsofbritain.org/inscriptions/467</idno></bibl>
                   <bibl>Malone III.7, 67</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4370</idno>
                </person>
                
                <person xml:id="vv240" role="person">
@@ -3105,8 +3209,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/256155">Emerita</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 502</bibl>
+                   <listBibl><bibl>RIB 502<idno>http://romaninscriptionsofbritain.org/inscriptions/502</idno></bibl>
                   <bibl>Malone III.7, 71</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4435</idno>
                </person>
                
                <person xml:id="vv244" role="person">
@@ -3114,8 +3219,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 536</bibl>
+                   <listBibl><bibl>RIB 536<idno>http://romaninscriptionsofbritain.org/inscriptions/536</idno></bibl>
                   <bibl>Malone III.7, 72</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4444</idno>
                </person>
                
                <person xml:id="vv245" role="person">
@@ -3123,8 +3229,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 498</bibl>
+                   <listBibl><bibl>RIB 498<idno>romaninscriptionsofbritain.org/inscriptions/498</idno></bibl>
                   <bibl>Malone III.7, 73</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4455</idno>
                </person>
                
                <person xml:id="vv246" role="person">
@@ -3134,10 +3241,11 @@
                   <affiliation ref="http://pleiades.stoa.org/places/385835">Brixia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 503</bibl>
+                   <listBibl><bibl>RIB 503<idno>http://romaninscriptionsofbritain.org/inscriptions/503</idno></bibl>
                   <bibl>Malone III.7, 74</bibl>
                      <relation active="#vv246" ref="snap:HasHeir"><desc>Groma heres</desc></relation>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4457</idno>
                </person>
                
                <person xml:id="vv247" role="person">
@@ -3145,10 +3253,11 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 18</bibl>
+                   <listBibl><bibl>RIB 18<idno>http://romaninscriptionsofbritain.org/inscriptions/18</idno></bibl>
                   <bibl>Malone III.7, 75</bibl>
                      <relation active="#vv247" ref="snap:HasHeir"><desc>C. Acilius M...</desc></relation>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3138</idno>
                </person>
                
                <person xml:id="vv248" role="person">
@@ -3195,8 +3304,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/197206">Celeia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 504</bibl>
+                   <listBibl><bibl>RIB 504<idno>romaninscriptionsofbritain.org/inscriptions/504</idno></bibl>
                   <bibl>Malone III.7, 79</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4499</idno>
                </person>
                
                <person xml:id="vv252" role="person">
@@ -3227,11 +3337,12 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>beneficiarius legati</occupation>
-                  <listBibl><bibl>RIB 505</bibl>
+                   <listBibl><bibl>RIB 505<idno>http://romaninscriptionsofbritain.org/inscriptions/505</idno></bibl>
                   <bibl>Malone III.7, 82</bibl>
                      <relation active="#vv254" ref="snap:HusbandOf"><desc>Iulia Similina coniunx</desc></relation>
                      <relation active="#vv254" ref="snap:HasHeir"><desc>Iulia Similina heres</desc></relation>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4540</idno>
                </person>
                
                <person xml:id="vv255" role="person">
@@ -3239,8 +3350,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 539</bibl>
+                   <listBibl><bibl>RIB 539<idno>http://romaninscriptionsofbritain.org/inscriptions/539</idno></bibl>
                   <bibl>Malone III.7, 83</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4573</idno>
                </person>
                
                <person xml:id="vv256" role="person">
@@ -3248,8 +3360,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 540</bibl>
+                   <listBibl><bibl>RIB 540<idno>http://romaninscriptionsofbritain.org/inscriptions/540</idno></bibl>
                   <bibl>Malone III.7, 84</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4575</idno>
                </person>
                
                <person xml:id="vv257" role="person">
@@ -3276,14 +3389,15 @@
                </person>
                
                <person xml:id="vv259" role="person">
-                  <persName xml:lang="en">M.  Valerius Iullus</persName>
+                  <persName xml:lang="en">C. Valerius Iullus</persName>
                   <floruit>AD EM2-3rd</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/167719">Vienna</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 1826</bibl>
+                   <listBibl><bibl>RIB 1826<idno>http://romaninscriptionsofbritain.org/inscriptions/1826</idno></bibl>
                   <bibl>Malone III.7, 87</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4592</idno>
                </person>
                
                <person xml:id="vv260" role="person">
@@ -3292,10 +3406,11 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>actarius</occupation>
-                  <listBibl><bibl>RIB 507</bibl>
+                   <listBibl><bibl>RIB 507<idno>http://romaninscriptionsofbritain.org/inscriptions/507</idno></bibl>
                   <bibl>Malone III.7, 88</bibl>
                      <relation active="#vv260" ref="snap:HusbandOf"><desc>Cocceia Irene coniunx</desc></relation>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4593</idno>
                </person>
                
                <person xml:id="vv261" role="person">
@@ -3305,8 +3420,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/180461">Noviodunum</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 158</bibl>
+                   <listBibl><bibl>RIB 158<idno>http://romaninscriptionsofbritain.org/inscriptions/158</idno></bibl>
                   <bibl>Malone III.7, 89</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4595</idno>
                </person>
                
                <person xml:id="vv262" role="person">
@@ -3316,8 +3432,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/266022">Salaria</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 542</bibl>
+                   <listBibl><bibl>RIB 542<idno>http://romaninscriptionsofbritain.org/inscriptions/542</idno></bibl>
                   <bibl>Malone III.7, 90</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4608</idno>
                </person>
                
                <person xml:id="vv263" role="person">
@@ -3346,8 +3463,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/197240">Dalmatia/Moesia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 998</bibl>
+                   <listBibl><bibl>RIB 998<idno>http://romaninscriptionsofbritain.org/inscriptions/998</idno></bibl>
                   <bibl>Malone III.7, 93</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4625</idno>
                </person>
                
                <person xml:id="vv266" role="person">
@@ -3378,8 +3496,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/383628">Cremona</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 508</bibl>
+                   <listBibl><bibl>RIB 508<idno>http://romaninscriptionsofbritain.org/inscriptions/508</idno></bibl>
                      <bibl>Malone III.7, 96</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4647</idno>
                </person>
                
                <person xml:id="vv269" role="person">
@@ -3407,8 +3526,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/108896">Xanten?</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 506</bibl>
+                   <listBibl><bibl>RIB 506<idno>http://romaninscriptionsofbritain.org/inscriptions/506</idno></bibl>
                      <bibl>Malone III.7, 99</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3078</idno>
                </person>
                
                <person xml:id="vv272" role="person">
@@ -3437,7 +3557,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/344522">Oea</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 512</bibl>
+                   <listBibl><bibl>RIB 512<idno>http://romaninscriptionsofbritain.org/inscriptions/512</idno></bibl>
                      <bibl>Malone III.7, 102</bibl></listBibl>
                </person>
                
@@ -3447,7 +3567,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 122</bibl>
+                   <listBibl><bibl>RIB 122<idno>http://romaninscriptionsofbritain.org/inscriptions/122</idno></bibl>
                      <bibl>Malone III.7, 103</bibl></listBibl>
                </person>
                
@@ -3457,7 +3577,7 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>signifer</occupation>
-                  <listBibl><bibl>RIB 510</bibl>
+                   <listBibl><bibl>RIB 510<idno>http://romaninscriptionsofbritain.org/inscriptions/510</idno></bibl>
                      <bibl>Malone III.7, 104</bibl></listBibl>
                </person>
                
@@ -3469,7 +3589,7 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>signifer</occupation>
-                  <listBibl><bibl>RIB 511</bibl>
+                   <listBibl><bibl>RIB 511<idno>http://romaninscriptionsofbritain.org/inscriptions/511</idno></bibl>
                      <bibl>Malone III.7, 105</bibl></listBibl>
                </person>
                
@@ -3478,7 +3598,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 513</bibl>
+                   <listBibl><bibl>RIB 513<idno>http://romaninscriptionsofbritain.org/inscriptions/513</idno></bibl>
                      <bibl>Malone III.7, 106</bibl></listBibl>
                </person>
                
@@ -3487,7 +3607,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 514</bibl>
+                   <listBibl><bibl>RIB 514<idno>http://romaninscriptionsofbritain.org/inscriptions/514</idno></bibl>
                      <bibl>Malone III.7, 107</bibl></listBibl>
                </person>
                
@@ -3496,7 +3616,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 515</bibl>
+                   <listBibl><bibl>RIB 515<idno>515</idno></bibl>
                      <bibl>Malone III.7, 108</bibl></listBibl>
                </person>
                
@@ -3505,7 +3625,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 516</bibl>
+                   <listBibl><bibl>RIB 516<idno>http://romaninscriptionsofbritain.org/inscriptions/516</idno></bibl>
                      <bibl>Malone III.7, 109</bibl></listBibl>
                </person>
                
@@ -3515,7 +3635,7 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>optio ad spem ordinis</occupation>
-                  <listBibl><bibl>RIB 544</bibl>
+                   <listBibl><bibl>RIB 544<idno>http://romaninscriptionsofbritain.org/inscriptions/544</idno></bibl>
                      <bibl>Malone III.7, 110</bibl></listBibl>
                </person>
                
@@ -3524,7 +3644,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 2127</bibl>
+                   <listBibl><bibl>RIB 2127<idno>http://romaninscriptionsofbritain.org/inscriptions/2127</idno></bibl>
                      <bibl>Malone III.7, 111</bibl></listBibl>
                </person>
                
@@ -3567,8 +3687,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/256128">Corduba</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 518</bibl>
+                   <listBibl><bibl>RIB 518<idno>http://romaninscriptionsofbritain.org/inscriptions/518</idno></bibl>
                      <bibl>Malone III.7, 115</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3743</idno>
                </person>
                
                <person xml:id="vv288" role="person">
@@ -3576,8 +3697,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 520</bibl>
+                   <listBibl><bibl>RIB 520<idno>http://romaninscriptionsofbritain.org/inscriptions/520</idno></bibl>
                      <bibl>Malone III.7, 116</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3777</idno>
                </person>
                
                <person xml:id="vv289" role="person">
@@ -3587,8 +3709,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/383794">Taurini</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 524</bibl>
+                   <listBibl><bibl>RIB 524<idno>http://romaninscriptionsofbritain.org/inscriptions/524</idno></bibl>
                      <bibl>Malone III.7, 117</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3935</idno>
                </person>
                
                <person xml:id="vv290" role="person">
@@ -3596,8 +3719,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 529</bibl>
+                   <listBibl><bibl>RIB 529<idno>http://romaninscriptionsofbritain.org/inscriptions/529</idno></bibl>
                      <bibl>Malone III.7, 118</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4007</idno>
                </person>
                
                <person xml:id="vv291" role="person">
@@ -3605,8 +3729,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 530</bibl>
+                   <listBibl><bibl>RIB 530<idno>http://romaninscriptionsofbritain.org/inscriptions/530</idno></bibl>
                      <bibl>Malone III.7, 119</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4016</idno>
                </person>
                
                <person xml:id="vv292" role="person">
@@ -3616,8 +3741,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/197583">Virunum</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 531</bibl>
+                   <listBibl><bibl>RIB 531<idno>http://romaninscriptionsofbritain.org/inscriptions/531</idno></bibl>
                      <bibl>Malone III.7, 120</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4043</idno>
                </person>
                
                <person xml:id="vv293" role="person">
@@ -3625,10 +3751,11 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 533</bibl>
+                   <listBibl><bibl>RIB 533<idno>http://romaninscriptionsofbritain.org/inscriptions/533</idno></bibl>
                      <bibl>Malone III.7, 121</bibl>
                      <relation active="#vv293" ref="snap:HasHeir"><desc>Iulius Liberalis</desc></relation>
                   </listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4302</idno>
                </person>
                
                <person xml:id="vv294" role="person">
@@ -3638,8 +3765,9 @@
                   <affiliation ref="">Lucus</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 535</bibl>
+                   <listBibl><bibl>RIB 535<idno>http://romaninscriptionsofbritain.org/inscriptions/535</idno></bibl>
                      <bibl>Malone III.7, 122</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4323</idno>
                </person>
                
                <person xml:id="vv295" role="person">
@@ -3659,8 +3787,9 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>(eques)</occupation>
-                  <listBibl><bibl>RIB 538</bibl>
+                   <listBibl><bibl>RIB 538<idno>http://romaninscriptionsofbritain.org/inscriptions/538</idno></bibl>
                      <bibl>Malone III.7, 124</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3564</idno>
                </person>
                
                <person xml:id="vv297" role="person">
@@ -3669,9 +3798,10 @@
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
                   <occupation>(eques)</occupation>
-                  <listBibl><bibl>RIB 541</bibl>
+                   <listBibl><bibl>RIB 541<idno>http://romaninscriptionsofbritain.org/inscriptions/541</idno></bibl>
                      <bibl>Malone III.7, 125</bibl></listBibl>
-               </person>
+                   <idno>http://romaninscriptionsofbritain.org/person/4600</idno>
+                 </person>
                
                <person xml:id="vv298" role="person">
                   <persName xml:lang="en">Lucius Marcius</persName>
@@ -3707,8 +3837,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 13</bibl>
+                   <listBibl><bibl>RIB 13<idno>http://romaninscriptionsofbritain.org/inscriptions/13</idno></bibl>
                      <bibl>Malone III.7, Incerti 4</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4089</idno>
                </person>
                
                <person xml:id="vv302" role="person">
@@ -3716,8 +3847,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 18</bibl>
+                   <listBibl><bibl>RIB 18<idno>http://romaninscriptionsofbritain.org/inscriptions/18</idno></bibl>
                      <bibl>Malone III.7, Incerti 5</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/3671</idno>
                </person>
                
                <person xml:id="vv303" role="person">
@@ -3726,8 +3858,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 537</bibl>
+                   <listBibl><bibl>RIB 537<idno>http://romaninscriptionsofbritain.org/inscriptions/537</idno></bibl>
                      <bibl>Malone III.7, Incerti 6</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/person/4477</idno>
                </person>
                
                <person xml:id="vv304" role="person">
@@ -3735,21 +3868,63 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 543</bibl>
+                   <listBibl><bibl>RIB 543<idno>http://romaninscriptionsofbritain.org/inscriptions/543</idno></bibl>
                      <bibl>Malone III.7, Incerti 7</bibl></listBibl>
+                   <idno>http://romaninscriptionsofbritain.org/inscriptions/543</idno>
                </person>
+                
+                <person xml:id="vv305" role="person">
+                    <persName xml:lang="en">Atilianus</persName>
+                    <floruit>AD L1-E2?</floruit>
+                    <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                    <occupation>soldier</occupation>
+                    <occupation>miles</occupation>
+                    <listBibl><bibl>RIB 560<idno>http://romaninscriptionsofbritain.org/inscriptions/560</idno></bibl>
+                        <bibl>Malone III.7, Incerti 8</bibl>
+                    <relation active="#vv305" ref="snap:SlaveOf"><desc>Pompeius Optatus</desc></relation>
+                    </listBibl>
+                    <idno>http://romaninscriptionsofbritain.org/person/3184</idno>
+                </person>
+                
+                <person xml:id="vv306" role="person">
+                    <persName xml:lang="en">Antiatilianus</persName>
+                    <floruit>AD L1-E2?</floruit>
+                    <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                    <occupation>soldier</occupation>
+                    <occupation>miles</occupation>
+                    <listBibl><bibl>RIB 560<idno>http://romaninscriptionsofbritain.org/inscriptions/560</idno></bibl>
+                        <bibl>Malone III.7, Incerti 8</bibl>
+                    <relation active="#vv306" ref="snap:SlaveOf"><desc>Pompeius Optatus</desc></relation>
+                    </listBibl>
+                    <idno>http://romaninscriptionsofbritain.org/person/3166</idno>
+                </person>
+                
+                <person xml:id="vv307" role="person">
+                    <persName xml:lang="en">Protus</persName>
+                    <floruit>AD L1-E2?</floruit>
+                    <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                    <occupation>soldier</occupation>
+                    <occupation>miles</occupation>
+                    <listBibl><bibl>RIB 560<idno>http://romaninscriptionsofbritain.org/inscriptions/560</idno></bibl>
+                        <bibl>Malone III.7, Incerti 8</bibl>
+                    <relation active="#vv307" ref="snap:SlaveOf"><desc>Pompeius Optatus</desc></relation>
+                    </listBibl>
+                    <idno>http://romaninscriptionsofbritain.org/person/3490</idno>
+                </person>
                
-               <person xml:id="vv305" role="person">
-                  <persName xml:lang="en">Atilianus, Antiatilianus, Pompeius Optatus</persName>
-                  <floruit>AD L1-E2?</floruit>
-                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
-                  <occupation>soldier</occupation>
-                  <occupation>miles</occupation>
-                  <listBibl><bibl>RIB 560</bibl>
-                     <bibl>Malone III.7, Incerti 8</bibl></listBibl>
-               </person>
-               
-               <person xml:id="vv306" role="person">
+                <person xml:id="vv308" role="person">
+                    <persName xml:lang="en">Pompeius Optatus</persName>
+                    <floruit>AD L1-E2?</floruit>
+                    <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                    <occupation>soldier</occupation>
+                    <occupation>miles</occupation>
+                    <listBibl><bibl>RIB 560<idno>http://romaninscriptionsofbritain.org/inscriptions/560</idno></bibl>
+                        <bibl>Malone III.7, Incerti 8</bibl>
+                    <relation active="#vv308" ref="snap:MasterOf"><desc>Atilianus,Antiatilianus,Protus</desc></relation></listBibl>
+                    <idno>http://romaninscriptionsofbritain.org/person/4421</idno>
+                </person>
+                
+               <person xml:id="vv309" role="person">
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>miles</occupation>
@@ -3758,7 +3933,7 @@
                      <bibl>Malone III.7, Incerti 9</bibl></listBibl>
                </person>
                
-               <person xml:id="vv307" role="person">
+               <person xml:id="vv310" role="person">
                   <persName xml:lang="en">L. Baebius Veleias</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
@@ -3768,16 +3943,6 @@
                      <bibl>Malone III.7, Incerti 10</bibl></listBibl>
                </person>
                
-               
-               
-               
-               
-
-
-
-
-               
-                      
             </listPerson>
          </particDesc>
       </profileDesc>
