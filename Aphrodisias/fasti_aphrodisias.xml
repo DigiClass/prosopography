@@ -41,7 +41,7 @@
                <person xml:id="fas002">
                   <persName xml:lang="grc">Μᾶρκος Αὐρήλιος Διογένης</persName>
                   <persName xml:lang="en">Marcus Aurelius Diogenes</persName>
-                  <floruit notBefore="0255" notAfter="0255"> 255 </floruit>
+                  <floruit notBefore="0255" notAfter="0255">255</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <occupation>clarissimus</occupation>
@@ -61,7 +61,6 @@
                   <occupation>ὑπατικὸς ἡγέμων</occupation>
                   <occupation>πρεσβευτὴς καὶ ἀντιστράτηγος τῶν Σεβαστῶν</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/refer/segabbr.html</bibl>
                      <bibl>IGR IV.814</bibl>
                   </listBibl>
                </person>
