@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tei-to-html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The Fasti and prosopography of Aphrodisias</title>
+            <title>Fasti and prosopography of Aphrodisias</title>
             <author xml:id="cmr">Charlotte M. Roueché</author>
             <author xml:id="gb">Gabriel Bodard</author>
             <author xml:id="av">Athanasia Varveri</author>
