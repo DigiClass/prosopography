@@ -40,10 +40,47 @@
                             <xsl:value-of select="tei:persName[@xml:lang='en'][1]"/>
                         </h2>
                         <dl>
-                            <dt>Name(s)</dt>
+                            <dt>Permalink:</dt>
+                            <dd>
+                                <a href=""
+                                        >http://digiclass.github.io/prosopography/Aphrodisias/<xsl:value-of
+                                        select="./@xml:id"/>.html</a>
+                            </dd>
+                            <dt>Type:</dt>
+                            <dd>person</dd>
+                            <dt>Name(s):</dt>
                             <xsl:for-each select="tei:persName">
-                                <dd><xsl:value-of select="text()"/></dd>
+                                <dd>
+                                    <xsl:value-of select="text()"/>
+                                </dd>
                             </xsl:for-each>
+                            <dt>Associated date(s):</dt>
+                            <dd>
+                                <xsl:value-of select="tei:floruit"/>
+                            </dd>
+                            <dt>Associated place(s):</dt>
+                            <dd>
+                                <a href="{tei:affiliation/@ref}">
+                                    <xsl:value-of select="tei:affiliation"/>
+                                </a>
+                            </dd>
+                            <dt>Occupation/title(s):</dt>
+                            <dd>
+                                <xsl:for-each select="tei:occupation">
+                                    <xsl:value-of select="text()"/>; </xsl:for-each>
+                            </dd>
+                            <dt>Attestation(s):</dt>
+                            <xsl:for-each select="tei:bibl">
+                                <dd>
+                                    <xsl:value-of select="text()"/>
+                                </dd>
+                            </xsl:for-each>
+                            <dt>Other identifier(s):</dt>
+                            <dd>
+                                <xsl:for-each select="idno">
+                                    <xsl:value-of select="text()"/>
+                                </xsl:for-each>
+                            </dd>
                         </dl>
                     </body>
                 </html>
