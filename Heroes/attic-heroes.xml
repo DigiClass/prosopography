@@ -310,6 +310,7 @@
                      <relation active="#hero014" ref="snap:MotherOf" passive="#hero123"><desc>mother of Theseus</desc></relation>
                      <relation active="#hero014" ref="snap:DaughterOf"><desc>daugther of Pittheus</desc></relation>
                      <relation active="#hero014" ref="snap:GrandmotherOf" passive="#hero019"><desc>grandmother of Akamas</desc></relation>
+                     <relation active="#hero014" ref="snap:GrandmotherOf" passive="#hero075"><desc>grandmother of Demophon</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Aethra_(Greek_mythology)</idno>
                </person>
@@ -671,7 +672,7 @@
                      <bibl>Pausanias 1.2.5</bibl>
                      <bibl>Phanodemus FGrH 325 F 12</bibl>
                      <relation active="#hero035" ref="snap:SonOf" passive="#hero072"><desc>son of Deukalion</desc></relation>
-                     <relation active="#hero035" ref="snap:SonOf" passive="#hero072"><desc>son of Pyrrha</desc></relation>
+                     <relation active="#hero035" ref="snap:SonOf"><desc>son of Pyrrha</desc></relation>
                      <relation active="#hero035" ref="snap:FatherOf"><desc>father of Itonus</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Amphictyon</idno>
@@ -991,13 +992,9 @@
                <person xml:id="hero056" role="deity person">
                   <persName xml:lang="grc">Ἀχαρνεύς</persName>
                   <persName xml:lang="en">Acharneus</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/579843">Acharnai</affiliation>
                   <occupation>hero</occupation>
-                  <listBibl>
-                     <bibl></bibl>
-                  </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
                
                <person xml:id="hero057" role="deity person">
@@ -1111,7 +1108,6 @@
                   <persName xml:lang="grc">Γαργηττός</persName>
                   <persName xml:lang="en">Gargettos</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/579935">Gargettos</affiliation>
-
                   <occupation>hero</occupation>
                   <listBibl>
                      <bibl>Pausanias 6.22.7</bibl>
@@ -1146,6 +1142,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <occupation>goddess</occupation>
+                  <occupation>priestess</occupation>
                   <listBibl>
                      <bibl>IG I3 250.15-16</bibl>
                      <bibl>Pherecydes (FGrH) 3 F 45</bibl>
@@ -1153,9 +1150,11 @@
                      <relation active="#hero066" ref="snap:MotherOf" passive="#hero087"><desc>mother of Eleusis</desc></relation>
                      <relation active="#hero066" ref="snap:WifeOf" passive="#hero102"><desc>wife of Eumolpos</desc></relation>
                      <relation active="#hero066" ref="snap:MotherOf" passive="#hero136"><desc>mother of Immaros</desc></relation>
+                     <relation active="#hero066" ref="snap:DaughterOf"><desc>daughter of Oceanus</desc></relation>
+                     <relation active="#hero066" ref="snap:DaughterOf"><desc>sister of Styx</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero067" role="deity person">
                   <persName xml:lang="grc">Δαίδαλος</persName>
                   <persName xml:lang="en">Daidalos</persName>
@@ -1163,6 +1162,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/579858">Alopeke</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>craftsman</occupation>
                   <listBibl>
                      <bibl>Pausanias 7.4.5</bibl>
                      <bibl>Plat. Alc. 1.121</bibl>
@@ -1178,57 +1178,57 @@
                      <relation active="#hero067" ref="snap:SonOf" passive="#hero104"><desc>son of Eupalamos</desc></relation>
                      <relation active="#hero067" ref="snap:Son Of" passive="#hero026"><desc>son of Alkippe</desc></relation>
                      <relation active="#hero067" ref="snap:UncleOf" passive="#hero255"><desc>uncle of Talos</desc></relation>
+                     <relation active="#hero067" ref="snap:SonOf"><desc>son of Palamaon</desc></relation>
+                     <relation active="#hero067" ref="snap:SonOf"><desc>son of Merope</desc></relation>
+                     <relation active="#hero067" ref="snap:FatherOf"><desc>father of Icarus</desc></relation>
+                     <relation active="#hero067" ref="snap:UncleOf"><desc>uncle of Perdix</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Daedalus</idno>
                </person>
+               
                <person xml:id="hero068" role="deity person">
                   <persName xml:lang="grc">Δάτυλλος</persName>
                   <persName xml:lang="en">Datyllos</persName>
-                  <floruit></floruit>
+                  <floruit>AD 429/8?</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <listBibl>
                      <bibl>IG I3 383.76</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero069" role="deity person">
                   <persName xml:lang="grc">Δειράδης</persName>
                   <persName xml:lang="en">Deirades</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
-                  <listBibl>
-                     <bibl></bibl>
-                  </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero070" role="deity person">
                   <persName xml:lang="grc">Δέκελος</persName>
                   <persName xml:lang="en">Dekelos</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579907">Dekeleia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <listBibl>
-                     <bibl></bibl>
+                     <bibl>Hdt. 9.73</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero071" role="deity person">
                   <persName xml:lang="grc">Δεξίων</persName>
                   <persName xml:lang="en">Dexion</persName>
-                  <floruit></floruit>
+                  <floruit>AD 421/0</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <listBibl>
                      <bibl>IG II2 1252,1253,1259</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero072" role="deity person">
                   <persName xml:lang="grc">Δευκαλίων</persName>
                   <persName xml:lang="en">Deukalion</persName>
@@ -1242,13 +1242,15 @@
                      <bibl>Apollonius FGrH 365 F 4</bibl>
                      <bibl>Theopompus FGrH 115 F 63</bibl>
                      <relation active="#hero072" ref="snap:FatherOf" passive="#hero035"><desc>father of Amphiktyon</desc></relation>
+                     <relation active="#hero072" ref="snap:HusbandOf"><desc>husband of Pyrrha</desc></relation>
+                     <relation active="#hero072" ref="snap:SonOf"><desc>son of Promitheus</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Deucalion</idno>
                </person>
+               
                <person xml:id="hero073" role="deity person">
                   <persName xml:lang="grc">Δηιόπη</persName>
                   <persName xml:lang="en">Deiope</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579920">Eleusis</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
@@ -1258,8 +1260,8 @@
                      <relation active="#hero073" ref="snap:MotherOf" passive="#hero102"><desc>mother of Eumolpos</desc></relation>
                      <relation active="#hero073" ref="snap:WifeOf" passive="#hero201"><desc>wife of Mousaios</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero074" role="deity person">
                   <persName xml:lang="grc">Δηιών</persName>
                   <persName xml:lang="en">Deion</persName>
@@ -1271,12 +1273,15 @@
                      <bibl>Apollod. 1.7.3,9.4</bibl>
                      <bibl>Apollod 1.9.4</bibl>
                      <bibl>Pherecydes FGrH 3 F 120</bibl>
+                     <relation active="#hero074" ref="snap:SonOf"><desc>son of Aiolos</desc></relation>
+                     <relation active="#hero074" ref="snap:HusbandOf"><desc>husband of Diomede</desc></relation>
                      <relation active="#hero074" ref="snap:FatherOf" passive="#hero272"><desc>father of Philonis</desc></relation>
                      <relation active="#hero074" ref="snap:FatherOf" passive="#hero280"><desc>father of Phylakos</desc></relation>
                      <relation active="#hero074" ref="snap:FatherOf" passive="#hero017"><desc>father of Ainetos</desc></relation>
+                     <relation active="#hero074" ref="snap:FatherOf" passive="#hero153"><desc>father of Kephalos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero075" role="deity person">
                   <persName xml:lang="grc">Δημοφῶν</persName>
                   <persName xml:lang="en">Demophon</persName>
@@ -1284,6 +1289,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>king</occupation>
                   <listBibl>
                      <bibl>IG I3 383.159, 369.69, 87</bibl>
                      <bibl>Pausanias 1.1.4</bibl>
@@ -1295,10 +1301,17 @@
                      <bibl>Dionysius FGrH 15 F 5</bibl>
                      <bibl>Pausanias 1.28.9</bibl>
                      <relation active="#hero075" ref="snap:SonOf" passive="#hero123"><desc>son of Theseus</desc></relation>
+                     <relation active="#hero075" ref="snap:SonOf" passive="#hero123"><desc>son of Phaedra</desc></relation>
                      <relation active="#hero075" ref="sna:FatherOf" passive="#hero199"><desc>father of Mounichos</desc></relation>
-                  </listBibl>
+                     <relation active="#hero075" ref="sna:GrandsonOf" passive="#hero014"><desc>grandson of Aithra</desc></relation>
+                     <relation active="#hero075" ref="sna:FatherOf" passive="#hero019"><desc>father of Akamas</desc></relation>
+                     <relation active="#hero075" ref="sna:FatherOf"><desc>father of Amphipolis</desc></relation>
+                     <relation active="#hero075" ref="sna:BrotherOf" passive="#hero019"><desc>brother of Akamas</desc></relation>
+                     <relation active="#hero075" ref="sna:HusbandOf"><desc>husband of Phyllis</desc></relation>
+                 </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Demophon_of_Athens</idno>
                </person>
+               
                <person xml:id="hero076" role="deity person">
                   <persName xml:lang="grc">Δημοφῶν</persName>
                   <persName xml:lang="en">Demophon</persName>
@@ -1315,27 +1328,27 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Demophon_of_Eleusis</idno>
                </person>
+               
                <person xml:id="hero077" role="deity person">
                   <persName xml:lang="grc">Δίοκλος</persName>
                   <persName xml:lang="grc">Διοκλῆς</persName>
                   <persName xml:lang="en">Dioklos</persName>
                   <persName xml:lang="en">Diokles</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/570468">Megara</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <occupation>ruler</occupation>
+                 <occupation>chieftain</occupation>
                   <listBibl>
                      <bibl>Theocr. 12.27</bibl>
                      <bibl>Plutarch Theseus 10</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero078" role="deity person">
                   <persName xml:lang="grc">Δίομος</persName>
                   <persName xml:lang="en">Diomos</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579948">Herakleion</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579912">Diomeia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
@@ -1344,8 +1357,8 @@
                      <bibl>IG II2 1247</bibl>
                 <relation active="#hero078" ref="snap:SonOf" passive="#hero160"><desc>son of Kollytos</desc></relation>     
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero079" role="deity person">
                   <persName xml:lang="grc">Δόλιχος</persName>
                   <persName xml:lang="en">Dolichos</persName>
@@ -1353,12 +1366,15 @@
                   <affiliation ref="http://pleiades.stoa.org/places/579920">Eleusis</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>chieftain</occupation>
                   <listBibl>
                      <bibl>IG II2 1672.25</bibl>
-                     <bibl>IG I3 5</bibl>     
+                     <bibl>IG I3 5</bibl> 
+                     <relation active="#hero078" ref="snap:SonOf" passive="#hero262"><desc>son of Triptopolemos</desc></relation> 
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero080" role="deity person">
                   <persName xml:lang="grc">Δυσαύλης</persName>
                   <persName xml:lang="en">Dysaules</persName>
@@ -1372,20 +1388,19 @@
                      <relation active="#hero080" ref="snap:FatherOf" passive="#hero099"><desc>father of Euboulos</desc></relation>
                      <relation active="#hero080" ref="snap:FatherOf" passive="#hero262"><desc>father of Triptolemos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero081" role="deity person">
                   <persName xml:lang="grc">Ἐγλεμ-</persName>
                   <persName xml:lang="en">Eglem-</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579971">Kephale</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <listBibl>
                      <bibl>IG II2 2612</bibl>     
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero082" role="deity person">
                   <persName xml:lang="grc">Ἐγρέτης</persName>
                   <persName xml:lang="en">Egretes</persName>
@@ -1397,6 +1412,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero083" role="deity person">
                   <persName xml:lang="grc">Ἑκάδημος</persName>
                   <persName xml:lang="grc">Ἀκάδημος</persName>
@@ -1415,10 +1431,10 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Akademos</idno>
                </person>
+               
                <person xml:id="hero084" role="deity person">
                   <persName xml:lang="grc">Ἑκάλη</persName>
                   <persName xml:lang="en">Hekale</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579944">Hekale</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
@@ -1429,6 +1445,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Hecale</idno>
                </person>
+               
                <person xml:id="hero085" role="deity person">
                   <persName xml:lang="grc">Ἑλένη</persName>
                   <persName xml:lang="en">Helen</persName>
@@ -1442,11 +1459,20 @@
                      <bibl>Diod. 4.62.3</bibl>
                      <bibl>Apollod. Epit. 1.23</bibl>
                      <bibl>Plutarch Theseus 32</bibl>
+                     <relation active="#hero085" ref="snap:DaughterOf"><desc>daughter of Zeus</desc></relation>
+                     <relation active="#hero085" ref="snap:DaughterOf"><desc>daughter of Nemesis</desc></relation>
+                     <relation active="#hero085" ref="snap:DaughterOf"><desc>daughter of Leda</desc></relation>
                      <relation active="#hero085" ref="snap:MotherOf" passive="#hero140"><desc>mother of Iphigeneia</desc></relation>
                      <relation active="#hero085" ref="snap:MotherOf" passive="#hero209"><desc>mother of Xouthos</desc></relation>
+                     <relation active="#hero085" ref="snap:MotherOf"><desc>mother of Mousaios</desc></relation>
+                     <relation active="#hero085" ref="snap:WifeOf"><desc>wife of Antiphemos</desc></relation>
+                     <relation active="#hero085" ref="snap:WifeOf"><desc>wife of Menelaus</desc></relation>
+                     <relation active="#hero085" ref="snap:SisterOf"><desc>sister of Castor</desc></relation>
+                     <relation active="#hero085" ref="snap:SisterOf"><desc>sister of Pollux</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Helen_of_Troy</idno>
                </person>
+               
                <person xml:id="hero086" role="deity person">
                   <persName xml:lang="grc">Ἑλευθήρ</persName>
                   <persName xml:lang="en">Eleuther</persName>
@@ -1457,9 +1483,15 @@
                   <listBibl>
                      <bibl>Apollod. 3.10.1</bibl>
                      <bibl>Pausanias 9.26.1</bibl>
+                     <relation active="#hero086" ref="snap:SonOf"><desc>son of Apollo</desc></relation>
+                     <relation active="#hero086" ref="snap:SonOf"><desc>son of Aithousa</desc></relation>
+                     <relation active="#hero086" ref="snap:FatherOf"><desc>father of Iasios</desc></relation>
+                     <relation active="#hero086" ref="snap:FatherOf"><desc>father of Pierus</desc></relation>
+                     <relation active="#hero086" ref="snap:GrandfatherOf"><desc>grandfather of Chaeresileos</desc></relation>
+                     <relation active="#hero086" ref="snap:Great-grandfatherOf"><desc>great-grandfather of Poimandros</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Eleuther</idno>
                </person>
+               
                <person xml:id="hero087" role="deity person">
                   <persName xml:lang="grc">Ἐλευσίς</persName>
                   <persName xml:lang="grc">Ἐλεύσιος</persName>
@@ -1475,12 +1507,15 @@
                      <bibl>Pasuasnias 1.38.7</bibl>
                      <bibl>Apollod. 1.5.1</bibl>
                      <bibl>Philochorus FGrH 328 F 104</bibl>
+                     <relation active="#hero087" ref="snap:SonOf"><desc>son of Hermes</desc></relation>
                      <relation active="#hero087" ref="snap:SonOf" passive="#hero066"><desc>son of Daeira</desc></relation>
+                     <relation active="#hero087" ref="snap:SonOf"><desc>son of Ogygos</desc></relation>
                      <relation active="#hero087" ref="snap:FatherOf" passive="#hero149"><desc>father of Keleos</desc></relation>
                      <relation active="#hero087" ref="snap:FatherOf" passive="#hero262"><desc>father of Triptolemos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero088" role="deity person">
                   <persName xml:lang="en">Eleusis</persName>
                   <floruit></floruit>
@@ -1491,10 +1526,10 @@
                   <listBibl>
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero089" role="deity person">
-                  <persName xml:lang="grc">Ἐλίκη</persName>
+                  <persName xml:lang="grc">Ἑλίκη</persName>
                   <persName xml:lang="en">Helike</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
@@ -1503,12 +1538,14 @@
                   <listBibl>
                      <bibl>IG I2 864</bibl>
                      <bibl>Pausanias 7.1.3</bibl>
+                     <relation active="#hero089" ref="DaughterOf"><desc>daughter of Selinous</desc></relation>
                      <relation active="#hero089" ref="WifeOf" passive="#hero143"><desc>wife of Ion</desc></relation>
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero090" role="deity person">
-                  <persName xml:lang="grc">Ἐλλώτιον</persName>
+                  <persName xml:lang="grc">Ἑλλώτιον</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/580021">Marathon</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
@@ -1518,21 +1555,22 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero091" role="deity person">
                   <persName xml:lang="grc">Ἔμβαρος</persName>
                   <persName xml:lang="grc">Βάρος</persName>
                   <persName xml:lang="en">Embaros</persName>
                   <persName xml:lang="en">Baros</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>priest</occupation>
                   <listBibl>
                      <bibl>IG I3 383.347</bibl>
                      <bibl>IG II2 5071</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero092" role="deity person">
                   <persName xml:lang="grc">Ἔποψ</persName>
                   <persName xml:lang="en">Epops</persName>
@@ -1543,20 +1581,19 @@
                   <listBibl>
                      <bibl>Pausanias 1.41.9</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero093" role="deity group">
                   <persName xml:lang="grc">Ἐπώνυμοι ἣρωες</persName>
                   <persName xml:lang="en">Eponymous heroes</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <listBibl>
                      <bibl>Ar. Pax 1183-4</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero094" role="deity person">
                   <persName xml:lang="grc">Ἐρεχθεύς</persName>
                   <persName xml:lang="en">Erechtheus</persName>
@@ -1566,6 +1603,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/580097">Rhamnous</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>king</occupation>
                   <listBibl>
                      <bibl>Pausanias 1.26.5</bibl>
                      <bibl>IG I2 580</bibl>
@@ -1575,13 +1613,14 @@
                      <bibl>Apollod. 3.14.8</bibl>
                      <bibl>Apollod. 3.15.1</bibl>
                      <bibl>Apollod. 3.15.4</bibl>
+                     <relation active="#hero094" ref="snap:SonOf"><desc>son of Nemesis</desc></relation>
                      <relation active="#hero094" ref="snap:HusbandOf" passive="#hero229"><desc>husband of Praxithea</desc></relation>
                      <relation active="#hero094" ref="snap:FatherOf" passive="#hero148"><desc>father of Kekrops II</desc></relation>
                      <relation active="#hero094" ref="snap:FatherOf" passive="#hero196"><desc>father of Metion</desc></relation>
                      <relation active="#hero094" ref="snap:FatherOf" passive="#hero164"><desc>father of Kreousa</desc></relation>
                      <relation active="#hero094" ref="snap:FatherOf" passive="#hero231"><desc>father of Prokris</desc></relation>
-                     <relation active="#hero094" ref="snap:FatherOf" passive="#hero287"><desc>father of Chtonia</desc></relation>
-                     <relation active="#hero094" ref="snap:FatherOf" passive="#hero290"><desc>father of Oreithya</desc></relation>
+                     <relation active="#hero094" ref="snap:FatherOf" passive="#hero287"><desc>father of Chthonia</desc></relation>
+                     <relation active="#hero094" ref="snap:FatherOf" passive="#hero290"><desc>father of Oreithyia</desc></relation>
                      <relation active="#hero094" ref="snap:FatherOf" passive="#hero264"><desc>father of Hyakinthides</desc></relation>
                      <relation active="#hero094" ref="snap:FatherOf" passive="#hero001"><desc>father of Aglauros</desc></relation>
                      <relation active="#hero094" ref="snap:FatherOf" passive="#hero216"><desc>father of Orneus</desc></relation>
@@ -1590,6 +1629,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Erechtheus</idno>
                </person>
+               
                <person xml:id="hero095" role="deity person">
                   <persName xml:lang="grc">Ἐριχθόνιος</persName>
                   <persName xml:lang="en">Erichthonios</persName>
@@ -1604,11 +1644,15 @@
                      <bibl>Hellanicus FGrH 323a F 2</bibl>
                      <bibl>Apollod. 3.14.6</bibl>
                      <bibl>Philoch. FGrH 328a F 8</bibl>
+                     <relation active="#hero095" ref="snap:SonOf"><desc>son of Earth</desc></relation>
+                     <relation active="#hero095" ref="snap:SonOf"><desc>son of Hephaistos</desc></relation>
+                     <relation active="#hero095" ref="snap:SonOf" passive="#hero052"><desc>son of Atthis</desc></relation>
                      <relation active="#hero095" ref="snap:HusbandOf" passive="#hero229"><desc>husband of Prasithea</desc></relation>
                      <relation active="#hero095" ref="snap:FatherOf" passive="#hero220"><desc>father of Pandion</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Erichthonius_of_Athens</idno>
                </person>
+               
                <person xml:id="hero096" role="deity person">
                   <persName xml:lang="grc">Ἓρση</persName>
                   <persName xml:lang="en">Herse</persName>
@@ -1631,6 +1675,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Herse</idno>
                </person>
+               
                <person xml:id="hero097" role="deity person">
                   <persName xml:lang="grc">Ἐρυσίχθων</persName>
                   <persName xml:lang="en">Erysichthon</persName>
@@ -1652,21 +1697,21 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Erysichthon_of_Attica</idno>
                </person>
+               
                <person xml:id="hero098" role="deity person">
                   <persName xml:lang="grc">Ἒρχιος</persName>
                   <persName xml:lang="en">Erchios</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579924">Erchia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <listBibl> 
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Erysichthon_of_Attica</idno>
                </person>
+               
                <person xml:id="hero099" role="deity person">
-                  <persName xml:lang="grc">Εὒουλος</persName>
-                  <persName xml:lang="grc">Εὐουλεύς</persName>
+                  <persName xml:lang="grc">Εὒβουλος</persName>
+                  <persName xml:lang="grc">Εὐβουλεύς</persName>
                   <persName xml:lang="en">Euboulos</persName>
                   <persName xml:lang="en">Eubouleus</persName>
                   <floruit></floruit>
@@ -1680,13 +1725,15 @@
                      <bibl>Diod 5.76.3</bibl>
                      <relation active="#hero099" ref="snap:SonOf" passive="#hero080"><desc>son of Dysaules</desc></relation>
                      <relation active="#hero099" ref="snap:BrotherOf" passive="#hero262"><desc>brother of Triptolemos</desc></relation>
+                     <relation active="#hero099" ref="snap:SonOf"><desc>son of Demeter</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Erysichthon_of_Attica</idno>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Eubuleus</idno>
                </person>
+               
                <person xml:id="hero100" role="deity person">
                   <persName xml:lang="grc">Εὐδάνεμος</persName>
                   <persName xml:lang="grc">Εὑδάνεμος</persName>
-                  <persName xml:lang="en">Heudanemos</persName>
+                  <persName xml:lang="en">(H)eudanemos</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579920">Eleusis</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
@@ -1694,8 +1741,8 @@
                   <listBibl> 
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero101" role="deity person">
                   <persName xml:lang="grc">Εὒκολος</persName>
                   <persName xml:lang="en">Eukolos</persName>
@@ -1705,8 +1752,8 @@
                   <listBibl> 
                      <bibl>IG II2 4568</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero102" role="deity person">
                   <persName xml:lang="grc">Εὒμολπος</persName>
                   <persName xml:lang="en">Eumolpos</persName>
@@ -1715,6 +1762,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>chieftain</occupation>
                   <listBibl> 
                      <bibl>Pausanias 1.38.2</bibl>
                      <bibl>FGrH 324 F 70</bibl>
@@ -1723,15 +1771,17 @@
                      <bibl>Plutarch Mor. 607B</bibl>
                      <bibl>Apollod. 3.15.4</bibl>
                      <bibl>FGrH 334 F 22</bibl>
+                     <relation active="#hero102" ref="snap:SonOf"><desc>son of Poseidon</desc></relation>
                      <relation active="#hero102" ref="snap:FatherOf" passive="#hero136"><desc>father of Ismaros</desc></relation>
                      <relation active="#hero102" ref="snap:FatherOf" passive="#hero154"><desc>father of Keryx</desc></relation>
-                     <relation active="#hero102" ref="snap:FatherOf" passive="#hero201"><desc>father of Mousaios</desc></relation>
+                     <relation active="#hero102" ref="snap:SonOf" passive="#hero201"><desc>son of Mousaios</desc></relation>
                      <relation active="#hero102" ref="snap:SonOf" passive="#hero288"><desc>son of Chione</desc></relation>
                      <relation active="#hero102" ref="snap:HusbandOf" passive="#hero066"><desc>husband of Daeira</desc></relation>
                      <relation active="#hero102" ref="snap:SonOf" passive="#hero073"><desc>son of Deiope</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Eumolpus</idno>
                </person>
+               
                <person xml:id="hero103" role="deity person">
                   <persName xml:lang="grc">Εὒνεως</persName>
                   <persName xml:lang="en">Euneos</persName>
@@ -1742,9 +1792,13 @@
                      <bibl>IG II2 5056</bibl>
                      <bibl>Apollod. 1.9.17</bibl>
                      <bibl>Apollod. Epit. 1.9</bibl>
+                     <relation active="#hero103" ref="snap:SonOf"><desc>son of Jason</desc></relation>
+                     <relation active="#hero103" ref="snap:SonOf"><desc>son of Hypsipyle</desc></relation>
+                     <relation active="#hero103" ref="snap:BrotherOf"><desc>brother of Delpylos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
+                  <idno type="wikipedia">http://de.wikipedia.org/wiki/Euneos_(Sohn_des_Iason)</idno>
                </person>
+               
                <person xml:id="hero104" role="deity person">
                   <persName xml:lang="grc">Εὐπάλαμος</persName>
                   <persName xml:lang="en">Eupalamos</persName>
@@ -1759,12 +1813,15 @@
                      <relation active="#hero104" ref="snap:FatherOf" passive="#hero067"><desc>father of Daidalos</desc></relation>
                      <relation active="#hero104" ref="snap:FatherOf" passive="#hero195"><desc>father of Metiadousa</desc></relation>
                      <relation active="#hero104" ref="snap:FatherOf" passive="#hero196"><desc>father of Metion</desc></relation>
+                     <relation active="#hero104" ref="snap:GrandfatherOf" passive="#hero067"><desc>grandfather of Daidalos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
+                  <idno type="wikipedia">http://it.wikipedia.org/wiki/Eupalamo</idno>
                </person>
+               
                <person xml:id="hero105" role="deity person">
-                  <persName xml:lang="grc">Εὐρυηύης</persName>
+                  <persName xml:lang="grc">Εὐρυγύης</persName>
                   <persName xml:lang="en">Eurygyes</persName>
+                  <persName xml:lang="en">Androgeos</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
@@ -1773,21 +1830,23 @@
                      <bibl>Plutarch Theseus 15</bibl>
                      <bibl>Amelesagoras FGrH 330 F 2</bibl>
                      <bibl>Philoch. FGrH 328 F 17</bibl>
+                     <relation active="#hero105" ref="snap:SonOf"><desc>son of Minos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero106" role="deity person">
                   <persName xml:lang="grc">Εὐρυμέδων</persName>
                   <persName xml:lang="en">Eurymedon</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/580062">Peiraeus</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>king</occupation>
                   <listBibl> 
                      <bibl>IG II2 4567</bibl>
+                     <relation active="#hero106" ref="snap:GrandfatherOf" passive="#hero203"><desc>grandfather of Nausithoos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Eurymedon_%28mythology%29</idno>
                </person>
+               
                <person xml:id="hero107" role="deity person">
                   <persName xml:lang="grc">Εὐρύσακης</persName>
                   <persName xml:lang="en">Eurysakes</persName>
@@ -1798,10 +1857,12 @@
                   <listBibl> 
                      <bibl>Plutarch Sol. 10</bibl>
                      <relation active="#hero107" ref="snap:SonOf" passive="#hero010"><desc>son of Ajax</desc></relation>
+                     <relation active="#hero107" ref="snap:SonOf"><desc>son of Tecmessa</desc></relation>
                      <relation active="#hero107" ref="snap:BrotherOf" passive="#hero271"><desc>brother of Philaios</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Eurysaces</idno>
                </person>
+               
                <person xml:id="hero108" role="deity person">
                   <persName xml:lang="grc">Εὐρυσθεύς</persName>
                   <persName xml:lang="en">Eurystheus</persName>
@@ -1814,9 +1875,12 @@
                      <bibl>Strabo 377</bibl>
                      <bibl>Pausanias 1.44.0</bibl>
                      <bibl>Apollod. 2.8.1</bibl>
+                     <relation active="#hero108" ref="snap:SonOf"><desc>son of Nicippe</desc></relation>
+                     <relation active="#hero108" ref="snap:HusbandOf"><desc>husband of Antimache</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Eurystheus</idno>
                </person>
+               
                <person xml:id="hero109" role="deity person">
                   <persName xml:lang="grc">Εὐώνυμος</persName>
                   <persName xml:lang="en">Euonymos</persName>
@@ -1826,9 +1890,13 @@
                   <occupation>hero</occupation>
                   <listBibl> 
                      <bibl></bibl>
+                     <relation active="#hero109" ref="snap:SonOf"><desc>son of Ge</desc></relation>
+                     <relation active="#hero109" ref="snap:SonOf"><desc>son of Ouranos</desc></relation>
+                     <relation active="#hero109" ref="snap:SonOf"><desc>son of Kephisos</desc></relation>
+                     <relation active="#hero109" ref="snap:FatherOf"><desc>father of Aulis</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
-               </person>
+             </person>
+               
                <person xml:id="hero110" role="deity person">
                   <persName xml:lang="grc">Ἒχελος</persName>
                   <persName xml:lang="en">Echelos</persName>
@@ -1842,6 +1910,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero111" role="deity person">
                   <persName xml:lang="grc">Ἐχετλαῖος</persName>
                   <persName xml:lang="grc">Ἒχετλος</persName>
@@ -1854,8 +1923,8 @@
                   <listBibl> 
                      <bibl>Pausanias 1.32.5</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero112" role="deity person">
                   <persName xml:lang="grc">Ζάρηξ</persName>
                   <persName xml:lang="en">Zarex</persName>
@@ -1866,13 +1935,18 @@
                   <occupation>musician</occupation>
                   <listBibl> 
                      <bibl>Pausanias 1.38.4</bibl>
+                     <relation active="#hero112" ref="snap:SonOf"><desc>son of Petraios</desc></relation>
+                     <relation active="#hero112" ref="snap:GrandsonOf"><desc>grandson of Karystos</desc></relation>
+                     <relation active="#hero112" ref="snap:SonOf"><desc>son of Karystos</desc></relation>
+                     <relation active="#hero112" ref="snap:GrandsonOf"><desc>grandson of Cheiron</desc></relation>
+                     <relation active="#hero112" ref="snap:Of"><desc>husband of Rhoio</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Zarex</idno>
                </person>
+               
                <person xml:id="hero113" role="deity person">
                   <persName xml:lang="grc">Ζεύξιπος</persName>
                   <persName xml:lang="en">Zeuxippos</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation> 
                   <occupation>king</occupation>
@@ -1880,10 +1954,12 @@
                      <bibl>IG II2 4645</bibl>             
                      <bibl>Hellanicus FGrH 323a F23</bibl>
                      <bibl>Pausanias 2.6.7</bibl>
+                     <relation active="#hero113" ref="snap:SonOf" passive="#hero186"><desc>son of Eumelos</desc></relation>
+                     <relation active="#hero113" ref="snap:GrandsonOf" passive="#hero005"><desc>grandson of Admetos</desc></relation>
                      <relation active="#hero113" ref="snap:GrandfatherOf" passive="#hero186"><desc>grandfather of Melanippos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero114" role="deity person">
                   <persName xml:lang="grc">Ἠετἰων</persName>
                   <persName xml:lang="en">Eetion</persName>
@@ -1895,7 +1971,6 @@
                      <bibl>Philochorus FGrH 328 F 72</bibl>
                      <bibl>Pausanias 2.6.7</bibl>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Eetion</idno>
                </person>
                
                <person xml:id="hero115" role="deity person">
@@ -1914,8 +1989,11 @@
                      <bibl>Apollod. 2.5.12</bibl>
                      <bibl>Diod. 4.25</bibl>
                      <bibl>Pausanias1.5.2</bibl>
+                     <relation active="#hero115" ref="snap:SonOf"><desc>son of Zeus</desc></relation>
+                     <relation active="#hero115" ref="snap:SonOf"><desc>son of Alcmene</desc></relation>
                      <relation active="#hero115" ref="snap:FatherOf" passive="#hero045"><desc>father of Antiochos</desc></relation>
                      <relation active="#hero115" ref="snap:FatherOf" passive="#hero180"><desc>father of Makaria</desc></relation>
+                     <relation active="#hero115" ref="snap:FatherOf" passive="#hero116"><desc>father of Herakleidai</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Heracles</idno>
                </person>
@@ -1933,9 +2011,11 @@
                      <bibl>IG II2 1199</bibl>
                      <bibl>IG II2 4977</bibl>
                      <bibl>Plutarch, Theseus 23</bibl>
+                     <relation active="#hero116" ref="snap:SonsOf" passive="#hero115"><desc>sons of Herakles</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Heracleidae</idno>
                </person>
+               
                <person xml:id="hero117" role="deity person">
                   <persName xml:lang="grc">Ἠριγόνη</persName>
                   <persName xml:lang="en">Erigone</persName>
@@ -1949,12 +2029,15 @@
                      <bibl>Apollod. 3.14.7</bibl>
                      <bibl>Pausanias 3.19.9-10</bibl>
                      <relation active="#hero117" ref="snap:DaughterOf" passive="#hero135"><desc>daughter of Ikaros</desc></relation>
+                     <relation active="#hero117" ref="snap:DaughterOf"><desc>daughter of Aigistos</desc></relation>
+                     <relation active="#hero117" ref="snap:SisterOf"><desc>sister of Aletes</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Erigone_(daughter_of_Icarius)</idno>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Erigone_(daughter_of_Aegisthus)</idno>
                </person>
+               
                <person xml:id="hero118" role="deity person">
-                  <persName xml:lang="grc">Ἣσχυος</persName>
+                  <persName xml:lang="grc">Ἣσυχος</persName>
                   <persName xml:lang="en">Hesychos</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
@@ -1963,8 +2046,8 @@
                   <listBibl>              
                      <bibl>Athen. 14.6 618E</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                   <person xml:id="hero119" role="deity person">
                      <persName xml:lang="grc">Θαύλων</persName>
                      <persName xml:lang="en">Thaulon</persName>
@@ -1974,8 +2057,8 @@
                      <listBibl>              
                         <bibl>Pausanias 1.24.4, 28.10</bibl>
                      </listBibl>
-                     <idno type="wikipedia"></idno>
                   </person>
+               
                <person xml:id="hero120" role="deity person">
                   <persName xml:lang="grc">Θεμιστοκλῆς</persName>
                   <persName xml:lang="en">Themistocles</persName>
@@ -1988,6 +2071,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Themistocles</idno>
                </person>
+               
                <person xml:id="hero121" role="deity person">
                   <persName xml:lang="grc">Θηρικλῆς</persName>
                   <persName xml:lang="en">Therikles</persName>
@@ -2001,6 +2085,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero122" role="deity group">
                   <persName xml:lang="grc">Θήβας,οἱ ἐπί 7</persName>
                   <persName xml:lang="en">Seven against Thebes</persName>
@@ -2016,6 +2101,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Seven_Against_Thebes</idno>
                </person>
+               
                <person xml:id="hero123" role="deity person">
                   <persName xml:lang="grc">Θησεύς</persName>
                   <persName xml:lang="en">Theseus</persName>
@@ -2047,6 +2133,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Theseus</idno>
                </person>
+               
                <person xml:id="hero124" role="deity group">
                   <persName xml:lang="grc">Θορικός</persName>
                   <persName xml:lang="en">Thorikos</persName>
@@ -2057,8 +2144,8 @@
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero125" role="deity person">
                   <persName xml:lang="grc">Θρασ-</persName>
                   <persName xml:lang="en">Thras-</persName>
@@ -2069,8 +2156,8 @@
                   <listBibl>              
                      <bibl>IG II2 1582.68</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero126" role="deity person">
                   <persName xml:lang="grc">Θρεπτός</persName>
                   <persName xml:lang="en">Threptos</persName>
@@ -2081,8 +2168,8 @@
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero127" role="deity person">
                   <persName xml:lang="grc">Θριοῦς</persName>
                   <persName xml:lang="grc">Θριάσιος</persName>
@@ -2097,8 +2184,8 @@
                   <listBibl>              
                      <bibl>IG II2 5007</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero128" role="deity person">
                   <persName xml:lang="grc">Θυμοίτης</persName>
                   <persName xml:lang="en">Thymoites</persName>
@@ -2110,9 +2197,10 @@
                      <bibl>Pausanias 2.18.9</bibl>
                      <bibl>Hellanicus FGrH 323a F 23</bibl>
                      <relation active="#hero128" ref="snap:BrotherOf" passive="#hero053"><desc>brother of Apheidas</desc></relation>
+                     <relation active="#hero128" ref="snap:SonOf"><desc>son of Oxyntes</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero129" role="deity person">
                   <persName xml:lang="grc">Ἲακχος</persName>
                   <persName xml:lang="en">Iacchos</persName>
@@ -2126,9 +2214,12 @@
                      <bibl>IG II2 1006.10</bibl>
                      <bibl>Plutarch Phoc. 28</bibl>
                      <bibl>Plutarch Arist. 27.4</bibl>
+                     <relation active="#hero129" ref="snap:SonOf"><desc>son of Zeus</desc></relation>
+                     <relation active="#hero129" ref="snap:SonOf"><desc>son of Demeter</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Iacchus</idno>
                </person>
+               
                <person xml:id="hero130" role="deity person">
                   <persName xml:lang="grc">Ἰάμβη</persName>
                   <persName xml:lang="en">Iambe</persName>
@@ -2141,9 +2232,12 @@
                      <bibl>Apollod. 1.5.1</bibl>
                      <bibl>Ar. Plut. 1014</bibl>
                      <bibl>Philochorus FGrH 328 F 103</bibl>
+                     <relation active="#hero130" ref="snap:DaughterOf"><desc>daughter of Pan</desc></relation>
+                     <relation active="#hero130" ref="snap:DaughterOf"><desc>daughter of Echo</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Iambe</idno>
                </person>
+               
                <person xml:id="hero131" role="deity person">
                   <persName xml:lang="grc">Ἰασίλη</persName>
                   <persName xml:lang="en">Iasile</persName>
@@ -2153,12 +2247,14 @@
                   <occupation>hero</occupation> 
                   <listBibl>              
                      <bibl></bibl>
+                     <relation active="#hero131" ref="snap:DaughterOf"><desc>daughter of Kephalos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero132" role="deity person">
                   <persName xml:lang="grc">Ἣρως ἰατρός</persName>
                   <persName xml:lang="en">Heros Iatros</persName>
+                  <persName xml:lang="en">Amphilochos</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579920">Eleusis</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
@@ -2168,11 +2264,12 @@
                      <bibl>IG I3 393</bibl>
                      <bibl>IG I3 395</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero133" role="deity person">
                   <persName xml:lang="grc">Ἣρως ἰατρός</persName>
                   <persName xml:lang="en">Heros Iatros</persName>
+                  <persName xml:lang="en">Oresinios</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/580021">Marathon</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
@@ -2183,6 +2280,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero134" role="deity person">
                   <persName xml:lang="grc">Ἣρως ἰατρός,Ἀριστόμαχος</persName>
                   <persName xml:lang="en">Heros Iatros,Aristomachos</persName>
@@ -2197,6 +2295,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero135" role="deity person">
                   <persName xml:lang="grc">Ἰκάριος</persName>
                   <persName xml:lang="en">Ikarios</persName>
@@ -2212,6 +2311,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Icarius</idno>
                </person>
+               
                <person xml:id="hero136" role="deity person">
                   <persName xml:lang="grc">Ἰμμάραδος</persName>
                   <persName xml:lang="grc">Ἲμμαρος</persName>
@@ -2227,10 +2327,11 @@
                      <bibl>Pausanias 1.5.2</bibl>
                      <bibl>Apollod. 3.14.7</bibl>
                      <relation active="#hero136" ref="snap:SonOf" passive="#hero102"><desc>son of Eumolpos</desc></relation>
-                     <relation active="#hero136" ref="snap:SonOf" passive="#hero066"><desc>son of Daeira</desc></relation>
+                     <relation active="#hero136" ref="snap:SonOf" passive="#hero066"><desc>son of Daeira</desc></relation>        
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Eumolpus</idno>
                </person>
+               
                <person xml:id="hero137" role="deity person">
                   <persName xml:lang="grc">Ἰόλεως</persName>
                   <persName xml:lang="grc">Ἲόλαος</persName>
@@ -2252,9 +2353,11 @@
                      <bibl>Apollod. 2.5.2</bibl>
                      <bibl>Pausanias 1.44.10</bibl>
                      <bibl>Strabo 377</bibl>
+                     <relation active="#hero137" ref="snap:SonOf"><desc>son of Iphicles</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Iolaus</idno>
                </person>
+               
                <person xml:id="hero138" role="deity person">
                   <persName xml:lang="grc">Ἱπποθόων</persName>
                   <persName xml:lang="grc">Ἱπποθών</persName>
@@ -2273,9 +2376,11 @@
                      <bibl>Hellanicus FGrH 323a F 6</bibl>
                      <bibl>Pausanias 1.93.3</bibl>
                      <relation active="#hero138" ref="snap:SonOf" passive="#hero029"><desc>son of Alope</desc></relation>
+                     <relation active="#hero138" ref="snap:SonOf"><desc>son of Poseidon</desc></relation>
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero139" role="deity person">
                   <persName xml:lang="grc">Ἱππόλυτος</persName>
                   <persName xml:lang="en">Hippolytos</persName>
@@ -2293,6 +2398,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Hippolytus_(son_of_Theseus)</idno>
                </person>
+               
                <person xml:id="hero140" role="deity person">
                   <persName xml:lang="grc">Ἱφιγένεια</persName>
                   <persName xml:lang="en">Iphigeneia</persName>
@@ -2303,11 +2409,14 @@
                   <listBibl>              
                      <bibl>Pausanias 1.43.1</bibl>
                      <bibl>Pausanias 1.33.1</bibl>
+                     <relation active="#hero140" ref="snap:DaughterOf"><desc>daughter of Agamemnon</desc></relation>
+                     <relation active="#hero140" ref="snap:DaughterOf"><desc>daughter of Klytaimnistra</desc></relation>
                      <relation active="#hero140" ref="snap:DaughterOf" passive="#hero085"><desc>daughter of Helen</desc></relation>
                      <relation active="#hero140" ref="snap:DaughterOf" passive="#hero123"><desc>daughter of Theseus</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Iphigenia</idno>
                </person>
+               
                <person xml:id="hero141" role="deity person">
                   <persName xml:lang="grc">Ἰφινόη</persName>
                   <persName xml:lang="en">Iphinoe</persName>
@@ -2321,6 +2430,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Iphigenia</idno>
                </person>
+               
                <person xml:id="hero142" role="deity person">
                   <persName xml:lang="grc">Ἰφίστιος</persName>
                   <persName xml:lang="en">Iphistios</persName>
@@ -2331,8 +2441,8 @@
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero143" role="deity person">
                   <persName xml:lang="grc">Ἲων</persName>
                   <persName xml:lang="en">Ion</persName>
@@ -2352,12 +2462,17 @@
                      <bibl>Pausanias 7.1.3</bibl>
                      <relation active="#hero143" ref="snap:SonOf" passive="#hero209"><desc>son of Xouthos</desc></relation>
                      <relation active="#hero143" ref="snap:SonOf" passive="#hero164"><desc>son of Kreousa</desc></relation>
+                     <relation active="#hero143" ref="snap:SonOf"><desc>son of Apollo</desc></relation>
                      <relation active="#hero143" ref="snap:SonOf" passive="#hero064"><desc>son of Gargettos</desc></relation>
                      <relation active="#hero143" ref="snap:HusbandOf" passive="#hero089"><desc>husband of Helike</desc></relation>
                      <relation active="#hero143" ref="snap:FatherOf" passive="#hero214"><desc>father of Hoples</desc></relation>
+                     <relation active="#hero143" ref="snap:FatherOf"><desc>father of Geleon</desc></relation>
+                     <relation active="#hero143" ref="snap:FatherOf"><desc>father of Aigikores</desc></relation>
+                     <relation active="#hero143" ref="snap:FatherOf"><desc>father of Argades</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Ion_%28mythology%29</idno>
                </person>
+               
                <person xml:id="hero144" role="deity person">
                   <persName xml:lang="grc">Καλαμίτης ἣρως</persName>
                   <persName xml:lang="en">Kalamites</persName>
@@ -2368,8 +2483,8 @@
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero145" role="deity person">
                   <persName xml:lang="grc">Καλλιστέφανος</persName>
                   <persName xml:lang="en">Kallistephanos</persName>
@@ -2380,8 +2495,8 @@
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero146" role="deity person">
                   <persName xml:lang="grc">Κάνθαρος</persName>
                   <persName xml:lang="en">Kantharos</persName>
@@ -2392,8 +2507,8 @@
                   <listBibl>              
                      <bibl>Philochorus FGrH 328 F 203</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero147" role="deity person">
                   <persName xml:lang="grc">Κέκροψ</persName>
                   <persName xml:lang="en">Kekrops</persName>
@@ -2421,6 +2536,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Cecrops_I</idno>
                </person>
+               
                <person xml:id="hero148" role="deity person">
                   <persName xml:lang="grc">Κέκροψ ΙΙ</persName>
                   <persName xml:lang="en">Kekrops II</persName>
@@ -2434,9 +2550,11 @@
                      <relation active="#hero148" ref="snap:FatherOf" passive="#hero220"><desc>father of Pandion II</desc></relation>
                      <relation active="#hero148" ref="snap:SonOf" passive="#hero094"><desc>son of Erechtheus</desc></relation>
                      <relation active="#hero148" ref="snap:FatherOf" passive="#hero196"><desc>father of Metion</desc></relation>
+                     <relation active="#hero148" ref="snap:HusbandOf" passive="#hero195"><desc>husband of Metiadousa</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Cecrops_II</idno>
                </person>
+               
                <person xml:id="hero149" role="deity person">
                   <persName xml:lang="grc">Κελεός</persName>
                   <persName xml:lang="en">Keleos</persName>
@@ -2456,6 +2574,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Celeus</idno>
                </person>
+               
                <person xml:id="hero150" role="deity group">
                   <persName xml:lang="grc">Κελεοῦ θυγατέρες</persName>
                   <persName xml:lang="en">Daughters of Keleos</persName>
@@ -2465,9 +2584,11 @@
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl>Pausanias 1.38.3</bibl>
+                     <relation active="#hero150" ref="snap:DaughtersOf" passive="#hero149"><desc>daughters of keleos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero151" role="deity group">
                   <persName xml:lang="grc">Κέραμος</persName>
                   <persName xml:lang="en">Keramos</persName>
@@ -2477,10 +2598,12 @@
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl>Pausanias 1.38.3</bibl>
+                     <relation active="#hero151" ref="snap:SonOf"><desc>son of Dionysos</desc></relation>
+                     <relation active="#hero151" ref="snap:SonOf"><desc>son of Ariadne</desc></relation>
                      <relation active="#hero151" ref="snap:FatherOf" passive="#hero153"><desc>father of Kephalos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero152" role="deity person">
                   <persName xml:lang="grc">Κερκυών</persName>
                   <persName xml:lang="en">Kerkyon</persName>
@@ -2493,10 +2616,13 @@
                      <bibl>Apollod. Epit. 1.3</bibl>
                      <bibl>Pausanias 1.39.3</bibl>
                      <bibl>Plutarch Theseus 11.1</bibl>
+                     <relation active="#hero152" ref="snap:SonOf"><desc>son of Poseidon</desc></relation>
+                     <relation active="#hero152" ref="snap:FatherOf"><desc>father of Ekphantos</desc></relation>
                      <relation active="#hero152" ref="snap:FatherOf" passive="#hero029"><desc>father of Alope</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Cercyon</idno>
                </person>
+               
                <person xml:id="hero153" role="deity person">
                   <persName xml:lang="grc">Κέφαλος</persName>
                   <persName xml:lang="en">Kephalos</persName>
@@ -2511,10 +2637,13 @@
                      <bibl>Apollod. 2.4.7</bibl>
                      <bibl>Pausanias 1.3.1</bibl>
                      <bibl>Apollod. 3.14.3</bibl>
+                     <relation active="#hero153" ref="snap:SonOf"><desc>son of Deioneus</desc></relation>
+                     <relation active="#hero153" ref="snap:SonOf"><desc>son of Hermes</desc></relation>          
                      <relation active="#hero153" ref="snap:SonOf" passive="#hero096"><desc>son of Herse</desc></relation>
                      <relation active="#hero153" ref="snap:SonOf" passive="#hero151"><desc>son of Kerameus</desc></relation>
                      <relation active="#hero153" ref="snap:HusbandOf" passive="#hero231"><desc>husband of Prokris</desc></relation>
                      <relation active="#hero153" ref="snap:HusbandOf" passive="#hero155"><desc>husband of Klymene</desc></relation>
+                     <relation active="#hero153" ref="snap:FatherOf"><desc>father of Iphiklos</desc></relation>
                      <relation active="#hero153" ref="snap:FatherOf" passive="#hero211"><desc>father of Oie</desc></relation>
                      <relation active="#hero153" ref="snap:SonOf" passive="#hero164"><desc>son of Kreousa</desc></relation>
                      <relation active="#hero153" ref="snap:SonOf" passive="#hero220"><desc>son of Pandion</desc></relation>
@@ -2523,6 +2652,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Cephalus</idno>
                </person>
+               
                <person xml:id="hero154" role="deity person">
                   <persName xml:lang="grc">Κῆρυξ</persName>
                   <persName xml:lang="en">Keryx</persName>
@@ -2535,10 +2665,12 @@
                      <relation active="#hero154" ref="snap:SonOf" passive="#hero102"><desc>son of Eumolpos</desc></relation>
                      <relation active="#hero154" ref="snap:SonOf" passive="#hero002"><desc>son of Aglauros</desc></relation>
                      <relation active="#hero154" ref="snap:SonOf" passive="#hero096"><desc>son of Herse</desc></relation>
+                     <relation active="#hero154" ref="snap:SonOf"><desc>son of Hermes</desc></relation>
                      <relation active="#hero154" ref="snap:SonOf" passive="#hero221"><desc>son of Pandrosos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Ceryx</idno>
                </person>
+               
                <person xml:id="hero155" role="deity person">
                   <persName xml:lang="grc">Κλυμένη</persName>
                   <persName xml:lang="en">Klymene</persName>
@@ -2552,6 +2684,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Clymene_(mythology)</idno>
                </person>
+               
                <person xml:id="hero156" role="deity person">
                   <persName xml:lang="grc">Κόρδος</persName>
                   <persName xml:lang="en">Kodros</persName>
@@ -2573,6 +2706,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Codrus</idno>
                </person>
+               
                <person xml:id="hero157" role="deity person">
                   <persName xml:lang="grc">Κοίρων</persName>
                   <persName xml:lang="en">Koiron</persName>
@@ -2587,6 +2721,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero158" role="deity person">
                   <persName xml:lang="grc">Κόλαινος</persName>
                   <persName xml:lang="en">Kolainos</persName>
@@ -2598,23 +2733,26 @@
                      <bibl>Pausanias 1.31.5</bibl>
                      <bibl>Hellanicus FGrH 323a F 3</bibl>
                      <bibl>Pausanias 4.34.8</bibl>
+                     <relation active="#hero158" ref="snap:SonOf"><desc>son of Hermes</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero159" role="deity person">
                   <persName xml:lang="grc">Κολωνός</persName>
                   <persName xml:lang="en">Kolonos</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/582869">Kolonos Hippios</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
-                  <occupation>hero</occupation>
+                  <occupation>eponymous hero</occupation>
                   <occupation>horseman</occupation>
+                  <occupation>ἀρχηγός</occupation>
                   <listBibl>              
                      <bibl>Soph. OC 59-61,65</bibl>
                      <bibl>Plutarch Mor. 300D</bibl>
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero160" role="deity person">
                   <persName xml:lang="grc">Κολλυτός</persName>
                   <persName xml:lang="en">Kollytos</persName>
@@ -2628,6 +2766,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero161" role="deity person">
                   <persName xml:lang="grc">Κοννίδας</persName>
                   <persName xml:lang="en">Konnidas</persName>
@@ -2640,18 +2779,18 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero162" role="deity group">
-                  <persName xml:lang="grc">ἡρωινῇσιν Κορωνειίσιν</persName>
+                  <persName xml:lang="grc">[ἡρωι]νῇσιν Κορωνε[ιίσιν]</persName>
                   <persName xml:lang="en">Korone- heroines</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/580119">Thorikos</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl>TGrF I.208 F 1</bibl> 
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero163" role="deity person">
                   <persName xml:lang="grc">Κραναός</persName>
                   <persName xml:lang="en">Kranaos</persName>
@@ -2667,9 +2806,14 @@
                      <bibl>Pausanias 1.31.3</bibl>
                      <relation active="#hero163" ref="snap:FatherOf" passive="#hero239"><desc>father of Raros</desc></relation>
                      <relation active="#hero163" ref="snap:FatherOf" passive="#hero052"><desc>father of Athis</desc></relation>
+                     <relation active="#hero163" ref="snap:HusbandOf"><desc>husband of Pedias</desc></relation>
+                     <relation active="#hero163" ref="snap:FatherOf"><desc>father of Kranae</desc></relation>
+                     <relation active="#hero163" ref="snap:FatherOf"><desc>father of Kranaichme</desc></relation>
+                     <relation active="#hero163" ref="snap:FatherOf" passive="#hero239"><desc>father of Raros</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Cranaus</idno>
                </person>
+               
                <person xml:id="hero164" role="deity person">
                   <persName xml:lang="grc">Κρέουσα</persName>
                   <persName xml:lang="en">Kreousa</persName>
@@ -2681,9 +2825,12 @@
                      <relation active="#hero164" ref="snap:DaughterOf" passive="#hero094"><desc>daughter of Erechtheus</desc></relation>
                      <relation active="#hero164" ref="snap:WifeOf" passive="#hero209"><desc>wife of Xouthos</desc></relation>
                      <relation active="#hero164" ref="MotherOf" passive="#hero153"><desc>mother of Kephalos</desc></relation>
+                     <relation active="#hero164" ref="MotherOf"><desc>mother of Doros</desc></relation>
+                     <relation active="#hero164" ref="MotherOf"><desc>mother of Achaios</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Creusa</idno>
                </person>
+               
                <person xml:id="hero165" role="deity person">
                   <persName xml:lang="grc">Κριός</persName>
                   <persName xml:lang="en">Krios</persName>
@@ -2693,13 +2840,14 @@
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl>Theog. 374-5</bibl>
+                     <relation active="#hero165" ref="FatherOf" passive="#hero219"><desc>father of Pallas</desc></relation>
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero166" role="deity person">
                   <persName xml:lang="grc">Κρόκων</persName>
                   <persName xml:lang="en">Krokon</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
@@ -2709,13 +2857,13 @@
                      <relation active="#hero166" ref="snap:BrotherOf" passive="#hero157"><desc>brother of Koiron</desc></relation>
                      <relation active="#hero166" ref="snap:SonOf" passive="#hero262"><desc>son of Triptolemos</desc></relation>
                      <relation active="#hero166" ref="FatherOf" passive="#hero192"><desc>father of Metaneira</desc></relation>
+                     <relation active="#hero166" ref="HusbandOf"><desc>husband of Saisara</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero167" role="deity person">
                   <persName xml:lang="grc">Κυαμίτης</persName>
                   <persName xml:lang="en">Kyamites</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
@@ -2725,6 +2873,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Cyamites</idno>
                </person>
+               
                <person xml:id="hero168" role="deity person">
                   <persName xml:lang="grc">Κύλανθος</persName>
                   <persName xml:lang="en">Kylanthos</persName>
@@ -2738,6 +2887,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero169" role="deity person">
                   <persName xml:lang="grc">Κύννης</persName>
                   <persName xml:lang="en">Kynnes</persName>
@@ -2747,9 +2897,11 @@
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl></bibl>
+                     <relation active="#hero169" ref="snap:SonOf"><desc>son of Apollo</desc></relation>
+                     <relation active="#hero169" ref="snap:SonOf"><desc>son of Parnethia</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero170" role="deity person">
                   <persName xml:lang="grc">Κυχρεύς</persName>
                   <persName xml:lang="en">Kychreus</persName>
@@ -2765,9 +2917,13 @@
                      <bibl>Apollod. 3.12.7</bibl>
                      <bibl>Diod.4.74</bibl>
                      <bibl>Plutarch Theseus 10.3</bibl>
+                     <relation active="#hero170" ref="snap:SonOf"><desc>son of Poseidon</desc></relation>
+                     <relation active="#hero170" ref="snap:SonOf"><desc>son of Salamis</desc></relation>
+                     <relation active="#hero170" ref="snap:FatherOf"><desc>father of Glauke</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Cychreus_(mythology)</idno>
                </person>
+               
                <person xml:id="hero171" role="deity person">
                   <persName xml:lang="grc">Λάκιος</persName>
                   <persName xml:lang="en">Lakios</persName>
@@ -2779,11 +2935,11 @@
                   <listBibl>              
                      <bibl>Pausanias 1.37.2</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero172" role="deity person">
                   <persName xml:lang="en">Laureion</persName>
-                  <floruit></floruit>
+                  <floruit>second half of fourth century</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/580010">Laureion</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
@@ -2792,20 +2948,20 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero173" role="deity person">
                   <persName xml:lang="grc">Λεύκασπις</persName>
                   <persName xml:lang="en">Leukaspis</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579924">Erchia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl>Diod. 4.23.8</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero174" role="deity person">
-                  <persName xml:lang="grc">Λέως</persName>
+                  <persName xml:lang="grc">Λεώς</persName>
                   <persName xml:lang="en">Leos</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579938">Hagnous</affiliation>
@@ -2816,8 +2972,9 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Leos</idno>
                </person>
+               
                <person xml:id="hero175" role="deity person">
-                  <persName xml:lang="grc">Λέως</persName>
+                  <persName xml:lang="grc">Λεώς</persName>
                   <persName xml:lang="en">Leos</persName>
                   <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
@@ -2828,11 +2985,15 @@
                      <bibl>IG II2 1742</bibl>
                      <bibl>IG II2 2818</bibl>
                      <bibl>IG I3 244.C4-5</bibl>
-                     <relation active="#hero175" ref="snap:FatherOf" passive="#hero168"><desc>son of Kylanthos</desc></relation>
+                     <relation active="#hero175" ref="snap:SonOf"><desc>son of Orpheus</desc></relation>
+                     <relation active="#hero175" ref="snap:FatherOf" passive="#hero168"><desc>father of Kylanthos</desc></relation>
                      <relation active="#hero175" ref="snap:FatherOf" passive="#hero229"><desc>father of Praxithea</desc></relation>
+                     <relation active="#hero175" ref="snap:FatherOf" passive="#hero176"><desc>father of Theope</desc></relation>
+                     <relation active="#hero175" ref="snap:FatherOf" passive="#hero176"><desc>father of Euboule</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Leos</idno>
                </person>
+               
                <person xml:id="hero176" role="deity group">
                   <persName xml:lang="grc">Λέω κόραι</persName>
                   <persName xml:lang="en">daughters of Leos</persName>
@@ -2845,6 +3006,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero177" role="deity person">
                   <persName xml:lang="grc">Λουσία</persName>
                   <persName xml:lang="en">Lousia</persName>
@@ -2854,9 +3016,11 @@
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl>Apollod. 3.15.8</bibl>
+                     <relation active="#hero175" ref="snap:DaughterOf"><desc>daughter of Hyakinthos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero178" role="deity person">
                   <persName xml:lang="grc">Λύκος</persName>
                   <persName xml:lang="en">Lykos</persName>
@@ -2873,18 +3037,18 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Lycus_%28mythology%29</idno>
                </person>
+               
                <person xml:id="hero179" role="deity person">
                   <persName xml:lang="grc">Μαῖα</persName>
                   <persName xml:lang="en">Maia</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/580085">Porthmos</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Maia_%28mythology%29</idno>
                </person>
+               
                <person xml:id="hero180" role="deity person">
                   <persName xml:lang="grc">Μακαρία</persName>
                   <persName xml:lang="en">Makaria</persName>
@@ -2896,9 +3060,11 @@
                      <bibl>Pausanias 1.32.6</bibl>
                      <bibl>Strabo 377</bibl>
                      <relation active="#hero180" ref="snap:DaughterOf" passive="#hero115"><desc>daughter of Herakles</desc></relation>
+                     <relation active="#hero180" ref="snap:DaughterOf"><desc>daughter of Deianeira</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Macaria</idno>
                </person>
+               
                <person xml:id="hero181" role="deity person">
                   <persName xml:lang="grc">Μάραθος</persName>
                   <persName xml:lang="grc">Μαραθών</persName>
@@ -2913,9 +3079,12 @@
                      <bibl>Pausanias 2.1.1</bibl>
                      <bibl>Plutarch Theseus 32</bibl>
                      <bibl>Pausanias 1.15.3, 32.4</bibl>
+                     <relation active="#hero181" ref="snap:SonOf"><desc>son of Apollo</desc></relation>
+                     <relation active="#hero181" ref="snap:SonOf"><desc>son of Epopeus</desc></relation>
+                     <relation active="#hero181" ref="snap:FatherOf"><desc>father of Herakles</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero182" role="deity group">
                   <persName xml:lang="en">Marathon dead</persName>
                   <floruit></floruit>
@@ -2928,6 +3097,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero183" role="deity group">
                   <persName xml:lang="en">Marathon, anonymous heroes</persName>
                   <floruit></floruit>
@@ -2937,8 +3107,8 @@
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero184" role="deity person">
                   <persName xml:lang="grc">Μέδων</persName>
                   <persName xml:lang="en">Medon</persName>
@@ -2955,6 +3125,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Medon</idno>
                </person>
+               
                <person xml:id="hero185" role="deity person">
                   <persName xml:lang="grc">Μέλανθος</persName>
                   <persName xml:lang="en">Melanthos</persName>
@@ -2967,9 +3138,12 @@
                      <bibl>IG II2 4258</bibl>
                      <bibl>Hellanicus FGrH 323a F 23</bibl>
                      <relation active="#hero185" ref="snap:FatherOf" passive="#hero156"><desc>father of Kodros</desc></relation>
+                     <relation active="#hero185" ref="snap:SonOf"><desc>son of Andropompeus</desc></relation>
+                     <relation active="#hero185" ref="snap:SonOf"><desc>son of Henioche</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Melanthus</idno>
                </person>
+               
                <person xml:id="hero186" role="deity person">
                   <persName xml:lang="grc">Μελάνιππος</persName>
                   <persName xml:lang="en">Melanippos</persName>
@@ -2983,11 +3157,14 @@
                      <bibl>Plutarch Theseus 8</bibl>
                      <bibl>Pausanias 10.25.7</bibl>
                      <relation active="#hero186" ref="snap:SonOf" passive="#hero123"><desc>son of Theseus</desc></relation>
+                     <relation active="#hero186" ref="snap:SonOf"><desc>son of Perigoune</desc></relation>
+                     <relation active="#hero186" ref="snap:SonOf"><desc>son of Kyklops</desc></relation>
                      <relation active="#hero186" ref="snap:FatherOf" passive="#hero202"><desc>father of Myrmex</desc></relation>
                      <relation active="#hero186" ref="snap:GrandsonOf" passive="#hero113"><desc>grandson of Zeuxippos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Melanippus</idno>
                </person>
+               
                <person xml:id="hero187" role="deity person">
                   <persName xml:lang="grc">Μελίτη</persName>
                   <persName xml:lang="en">Melite</persName>
@@ -3002,10 +3179,14 @@
                      <bibl>Plutarch Theseus 8</bibl>
                      <bibl>Pausanias 10.25.7</bibl>
                      <relation active="#hero187" ref="snap:DaughterOf" passive="#hero202"><desc>daughter of Myrmex</desc></relation>
+                     <relation active="#hero187" ref="snap:DaughterOf"><desc>daughter of Dios</desc></relation>
+                     <relation active="#hero187" ref="snap:DaughterOf"><desc>daughter of Trikorythos</desc></relation>
+                     <relation active="#hero187" ref="snap:DaughterOf" passive="#hero214"><desc>daughter of Hoples</desc></relation>
                      <relation active="#hero187" ref="WifeOf" passive="#hero011"><desc>wife of Aigeus</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Melite</idno>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Melite_(heroine)</idno>
                </person>
+               
                <person xml:id="hero188" role="deity person">
                   <persName xml:lang="grc">Μέλιχος</persName>
                   <persName xml:lang="grc">Μείλιχος</persName>
@@ -3017,8 +3198,8 @@
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero189" role="deity person">
                   <persName xml:lang="grc">Μενεδεῖος</persName>
                   <persName xml:lang="en">Menedeios</persName>
@@ -3029,8 +3210,8 @@
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero190" role="deity person">
                   <persName xml:lang="grc">Μενέλεως</persName>
                   <persName xml:lang="grc">Μενέλαος</persName>
@@ -3043,8 +3224,8 @@
                   <listBibl>              
                      <bibl>IG II2 1932</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero191" role="deity person">
                   <persName xml:lang="grc">Μενεσθεύς</persName>
                   <persName xml:lang="en">Menestheus</persName>
@@ -3061,9 +3242,11 @@
                      <bibl>Plutarch Theseus 35.5</bibl>
                      <bibl>Pausanias 1.23.8</bibl>
                      <bibl>Plutarch Theseus 17.6</bibl>
+                     <relation active="#hero191" ref="snap:WifeOf"><desc>son of Peteos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Menestheus</idno>
                </person>
+               
                <person xml:id="hero192" role="deity person">
                   <persName xml:lang="grc">Μετάνειρα</persName>
                   <persName xml:lang="en">Metaneira</persName>
@@ -3078,9 +3261,11 @@
                      <relation active="#hero192" ref="snap:MotherOf" passive="#hero076"><desc>mother of Demophon</desc></relation>
                      <relation active="#hero192" ref="snap:MotherOf" passive="#hero262"><desc>mother of Triptolemos</desc></relation>
                      <relation active="#hero192" ref="snap:DaughterOf" passive="#hero166"><desc>daughter of Krokon</desc></relation>
+                     <relation active="#hero192" ref="snap:DaughterOf"><desc>wife of Arkas</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Metanira</idno>
                </person>
+               
                <person xml:id="hero193" role="deity person">
                   <persName xml:lang="grc">Μήδα</persName>
                   <persName xml:lang="en">Meda</persName>
@@ -3090,10 +3275,11 @@
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl>Pausanias 1.5.2, 10.10.1</bibl>
+                     <relation active="#hero193" ref="snap:DaughterOf"><desc>daughter of Phylas</desc></relation>
                      <relation active="#hero193" ref="snap:MotherOf" passive="#hero045"><desc>mother of Antiochos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Meda_%28mythology%29</idno>
                </person>
+               
                <person xml:id="hero194" role="deity person">
                   <persName xml:lang="grc">Μήστρα</persName>
                   <persName xml:lang="en">Mestra</persName>
@@ -3107,10 +3293,10 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Mestra</idno>
                </person>
+               
                <person xml:id="hero195" role="deity person">
                   <persName xml:lang="grc">Μητιάδουσα</persName>
                   <persName xml:lang="en">Metiadousa</persName>
-                  <floruit></floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
@@ -3118,9 +3304,11 @@
                      <bibl>Apollod. 3.15.5</bibl>
                      <relation active="#hero195" ref="snap:DaughterOf" passive="#hero102"><desc>daughter of Eupalamos</desc></relation>
                      <relation active="#hero195" ref="snap:MotherOf" passive="#hero220"><desc>mother of Pandion II</desc></relation>
+                     <relation active="#hero195" ref="snap:WifeOf" passive="#hero102"><desc>wife of Eupalamos</desc></relation>
+                     <relation active="#hero195" ref="snap:MotherOf" passive="#hero067"><desc>mother of Daidalos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero196" role="deity person">
                   <persName xml:lang="grc">Μητίων</persName>
                   <persName xml:lang="en">Metion</persName>
@@ -3143,6 +3331,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Metion</idno>
                </person>
+               
                <person xml:id="hero197" role="deity person">
                   <persName xml:lang="grc">Μνησιμάχη</persName>
                   <persName xml:lang="en">Mnesimache</persName>
@@ -3153,9 +3342,10 @@
                   <listBibl>              
                      <bibl>Pausanias 1.37.3</bibl>
                      <bibl>Apollod. 2.5.5</bibl>
+                     <relation active="#hero197" ref="snap:DaughterOf" passive="#hero141"><desc>daughter of Dexamenos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Mnesimache</idno>
                </person>
+               
                <person xml:id="hero198" role="deity person">
                   <persName xml:lang="grc">Μολπαδία</persName>
                   <persName xml:lang="en">Molpadia</persName>
@@ -3163,12 +3353,14 @@
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>amazon</occupation>
                   <listBibl>              
                      <bibl>Pausanias 1.21.1</bibl>
                      <bibl>Plutarch Theseus 27.6</bibl>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Molpadia</idno>
                </person>
+               
                <person xml:id="hero199" role="deity person">
                   <persName xml:lang="grc">Μούνιχος</persName>
                   <persName xml:lang="grc">Μούνυχος</persName>
@@ -3182,11 +3374,13 @@
                      <bibl>IG II2 4590</bibl>
                      <bibl>Diodorus FGrH 371 F 39</bibl>
                      <bibl>Plutarch Theseus 34.2</bibl>
+                     <relation active="#hero199" ref="snap:SonOf"><desc>son of Pantakles</desc></relation> 
                      <relation active="#hero199" ref="snap:FatherOf" passive="#hero271"><desc>father of Philaios</desc></relation>
                      <relation active="#hero199" ref="snap:SonOf" passive="#hero075"><desc>son of Demophon</desc></relation>
+                     <relation active="#hero199" ref="snap:SonOf"><desc>son of Laodike</desc></relation> 
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero200" role="deity person">
                   <persName xml:lang="grc">Μούνιτος</persName>
                   <persName xml:lang="en">Mounitos</persName>
@@ -3198,9 +3392,10 @@
                      <bibl>Plutarch Theseus 34.2</bibl>
                      <relation active="#hero200" ref="snap:SonOf" passive="#hero019"><desc>son of Akamas</desc></relation>
                      <relation active="#hero200" ref="snap:SonOf" passive="#hero075"><desc>son of Demophon</desc></relation>
+                     <relation active="#hero200" ref="snap:SonOf"><desc>son of Laodike</desc></relation> 
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero201" role="deity person">
                   <persName xml:lang="grc">Μουσαῖος</persName>
                   <persName xml:lang="en">Mousaios</persName>
@@ -3219,6 +3414,7 @@
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Musaeus_of_Athens</idno>
                </person>
+               
                <person xml:id="hero202" role="deity person">
                   <persName xml:lang="grc">Μύρμηξ</persName>
                   <persName xml:lang="en">Myrmex</persName>
@@ -3233,6 +3429,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero203" role="deity person">
                   <persName xml:lang="grc">Ναύσειρος</persName>
                   <persName xml:lang="grc">Ναυσίθοος</persName>
@@ -3246,9 +3443,13 @@
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl>Plutarch Theseus 17.6</bibl>
+                     <relation active="#hero203" ref="snap:SonOf"><desc>son of Poseidon</desc></relation>
+                     <relation active="#hero203"><desc>son of Periboia</desc></relation>
+                     <relation active="#hero203" ref="snap:FatherOf"><desc>father of Alkinoos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Nausithous</idno>
                </person>
+               
                <person xml:id="hero204" role="deity person">
                   <persName xml:lang="grc">Νεανίας</persName>
                   <persName xml:lang="en">Neanias</persName>
@@ -3261,8 +3462,8 @@
                   <listBibl>              
                      <bibl>Pausanias 1.33.8</bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero205" role="deity person">
                   <persName xml:lang="grc">-νεχος</persName>
                   <persName xml:lang="en">-nechos</persName>
@@ -3273,8 +3474,8 @@
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero206" role="deity person">
                   <persName xml:lang="grc">Νηλεύς</persName>
                   <persName xml:lang="grc">Νειλεύς</persName>
@@ -3292,6 +3493,7 @@
                   </listBibl>
                   <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero207" role="deity person">
                   <persName xml:lang="grc">Νῖσος</persName>
                   <persName xml:lang="en">Nisos</persName>
@@ -3300,15 +3502,18 @@
                   <affiliation ref="http://pleiades.stoa.org/places/580119">Thorikos</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>king</occupation>
                   <listBibl>              
                      <bibl>Pausanias 1.19.4</bibl>
                      <bibl>Soph. TGrF 24</bibl>
                      <relation active="#hero207" ref="snap:SonOf" passive="#hero220"><desc>son of Pandion</desc></relation>
                      <relation active="#hero207" ref="snap:BrotherOf" passive="#hero219"><desc>brother of Pallas</desc></relation>
                      <relation active="#hero207" ref="snap:BrotherOf" passive="#hero011"><desc>brother of Aigeus</desc></relation>
+                     <relation active="#hero207" ref="snap:HusbandOf"><desc>husband of Abrota</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Nisos</idno>
                </person>
+               
                <person xml:id="hero208" role="deity person">
                   <persName xml:lang="grc">Ξένος ἰατρός</persName>
                   <persName xml:lang="grc">Τοξάρις</persName>
@@ -3320,8 +3525,8 @@
                   <listBibl>              
                      <bibl></bibl>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero209" role="deity person">
                   <persName xml:lang="grc">Ξοῦθος</persName>
                   <persName xml:lang="en">Xouthos</persName>
@@ -3335,11 +3540,15 @@
                      <bibl>Apollod. 1.7.3</bibl>
                      <bibl>Apollod 1.9.4</bibl>
                      <relation active="#hero209" ref="snap:SonOf" passive="#hero085"><desc>son of Helen</desc></relation>
+                     <relation active="#hero209" ref="snap:SonOf"><desc>son of Othreis</desc></relation>
                      <relation active="#hero209" ref="snap:HusbandOf" passive="#hero164"><desc>husband of Kreousa</desc></relation>
-                     <relation active="#hero209" ref="snap:FatherOf" passive="#hero143"><desc>father of Ion</desc></relation>                   
+                     <relation active="#hero209" ref="snap:FatherOf" passive="#hero143"><desc>father of Ion</desc></relation>    
+                     <relation active="#hero209" ref="snap:BrotherOf"><desc>brother of Doros</desc></relation>    
+                     <relation active="#hero209" ref="snap:BrotherOf"><desc>brother of Aiolos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Xuthus</idno>
                </person>
+               
                <person xml:id="hero210" role="deity person">
                   <persName xml:lang="grc">Οἰδίπους</persName>
                   <persName xml:lang="en">Oedipus</persName>
@@ -3347,11 +3556,15 @@
                   <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/579888">Attica</affiliation>
                   <occupation>hero</occupation>
+                  <occupation>king</occupation>
                   <listBibl>              
-                     <bibl>Soph. OC 1579-1669</bibl>                   
+                     <bibl>Soph. OC 1579-1669</bibl>  
+                     <relation active="#hero210" ref="snap:SonOf"><desc>son of Laios</desc></relation>
+                     <relation active="#hero210" ref="snap:SonOf"><desc>son of Jocaste</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Oedipus</idno>
                </person>
+               
                <person xml:id="hero211" role="deity person">
                   <persName xml:lang="grc">Οἲη</persName>
                   <persName xml:lang="en">Oie</persName>
@@ -3362,9 +3575,10 @@
                   <listBibl>              
                      <bibl>Soph. OC 1579-1669</bibl>
                      <relation active="#hero211" ref="snap:DaughterOf" passive="#hero153"><desc>daughter of Kephalos</desc></relation>
+                     <relation active="#hero211" ref="snap:WifeOf"><desc>wife of Charops</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero212" role="deity person">
                   <persName xml:lang="grc">Οινεύς</persName>
                   <persName xml:lang="en">Oineus</persName>
@@ -3375,9 +3589,11 @@
                   <listBibl>              
                      <bibl>Pausanias 1.5.2</bibl>
                      <relation active="#hero212" ref="snap:SonOf" passive="#hero220"><desc>son of Pandion</desc></relation>
+                     <relation active="#hero212" ref="snap:SonOf"><desc>son of Dionysos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Oeneus</idno>
                </person>
+               
                <person xml:id="hero213" role="deity person">
                   <persName xml:lang="grc">Οἰνόη</persName>
                   <persName xml:lang="en">Oinoe</persName>
@@ -3387,9 +3603,10 @@
                   <occupation>hero</occupation>
                   <listBibl>              
                      <bibl>Pausanias 1.33.8</bibl>
+                     <relation active="#hero213" ref="snap:SisterOf"><desc>sister of Epochos</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Oenoe_(mythology)</idno>
                </person>
+               
                <person xml:id="hero214" role="deity person">
                   <persName xml:lang="grc">Ὃπλης</persName>
                   <persName xml:lang="en">Hoples</persName>
@@ -3400,9 +3617,10 @@
                   <listBibl>              
                      <bibl>Phanodemus FGrH 325 F 5</bibl>
                      <relation active="#hero214" ref="snap:SonOf" passive="#hero143"><desc>son of Ion</desc></relation>
+                     <relation active="#hero214" ref="snap:FatherOf" passive="#hero187"><desc>father of Melite</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia"></idno>
                </person>
+               
                <person xml:id="hero215" role="deity person">
                   <persName xml:lang="grc">Ορέστης</persName>
                   <persName xml:lang="en">Orestes</persName>
@@ -3413,9 +3631,12 @@
                   <listBibl>              
                      <bibl>Hellanicus FGrH 323a F 22</bibl>
                      <bibl>Plutarch Mor. 643A</bibl>
+                     <relation active="#hero215" ref="snap:SonOf"><desc>son of Klytaimestra</desc></relation>
+                     <relation active="#hero215" ref="snap:SonOf"><desc>son of Agamemnon</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Orestes</idno>
                </person>
+               
                <person xml:id="hero216" role="deity person">
                   <persName xml:lang="grc">Ὀρνεύς</persName>
                   <persName xml:lang="en">Orneus</persName>
@@ -3429,9 +3650,12 @@
                      <bibl>Plutarch Theseus 32</bibl>
                      <relation active="#hero216" ref="snap:SonOf" passive="#hero094"><desc>son of Erechtheus</desc></relation>
                      <relation active="#hero216" ref="snap:SonOf" passive="#hero220"><desc>son of Pandion</desc></relation>
+                     <relation active="#hero216" ref="snap:FatherOf"><desc>father of Peteos</desc></relation>
+                     <relation active="#hero216" ref="snap:GrandfatherOf" passive="#hero191"><desc>grandfather of Menestheus</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Orneus</idno>
                </person>
+               
                <person xml:id="hero217" role="deity person">
                   <persName xml:lang="grc">Παγκράτης</persName>
                   <persName xml:lang="en">Pankrates</persName>
@@ -4089,7 +4313,7 @@
                      <bibl>Apollod. 1.5.2</bibl>
                      <bibl>Pl. Apol. 41A</bibl>
                      <relation active="#hero262" ref="snap:SonOf" passive="#hero087"><desc>son of Eleusis</desc></relation>
-                     <relation active="#hero262" ref="snap:SonOf" passive="#hero239"><desc>son of Raros</desc></relation>
+                     <relation active="#hero262" ref="snap:SonOf" passive="#hero239"><desc>son of </desc></relation>
                      <relation active="#hero262" ref="snap:SonOf" passive="#hero080"><desc>son of Dysaules</desc></relation>
                      <relation active="#hero262" ref="snap:BrotherOf" passive="#hero099"><desc>brother of Eubouleus</desc></relation>
                      <relation active="#hero262" ref="snap:SonOf" passive="#hero149"><desc>son of Keleos</desc></relation>
@@ -4097,6 +4321,7 @@
                      <relation active="#hero262" ref="snapFatherOf" passive="#hero073"><desc>father of Deiope</desc></relation>
                      <relation active="#hero262" ref="snapFatherOf" passive="#hero157"><desc>father of Koiron</desc></relation>
                      <relation active="#hero262" ref="snapFatherOf" passive="#hero166"><desc>father of Krokon</desc></relation>
+                     <relation active="#hero262" ref="snapFatherOf" passive="#hero079"><desc>father of Dolichos</desc></relation>
                   </listBibl>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Triptolemus</idno>
                </person>
