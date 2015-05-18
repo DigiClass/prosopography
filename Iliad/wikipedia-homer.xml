@@ -39,14 +39,14 @@
                   <persName type="citable" xml:lang="en">Agamemnon</persName>
                   <persName xml:lang="grc">Ἀγαμέμνων</persName>
                   <occupation>King</occupation>
-                  <residence ref="http://pleiades.stoa.org/places/570491">Mycenae</residence>
+                  <affiliation ref="http://pleiades.stoa.org/places/570491">Mycenae</affiliation>
                      <listBibl><bibl></bibl>
                      <relation active="#Agamemnon" ref="snap:BrotherOf" passive="#Menelaus">
                         <desc>elder brother of King Menelaus</desc>
                      </relation>
                   </listBibl>
-                  
                </person>
+               
                <person xml:id="Ajax">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_(mythology)</idno>
                   <persName type="citable" xml:lang="en">Ajax</persName>
@@ -59,6 +59,7 @@
                         <desc>son of Telamon</desc>
                      </relation></listBibl>
                </person>
+               
                <person xml:id="Ajax_the_Lesser">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_the_Lesser</idno>
                   <persName type="citable" xml:lang="en">Ajax the Lesser</persName>
