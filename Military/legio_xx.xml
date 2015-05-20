@@ -390,9 +390,12 @@
                   <affiliation ref="http://pleiades.stoa.org/places/501525">Ulpia Nicopolis</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
+                  <occupation>evocatus</occupation>
                   <listBibl>
                      <listBibl><bibl>Britannia 20 (1989),331 no. 5</bibl>
-                  <bibl>Malone III.3, 2</bibl></listBibl>
+                  <bibl>Malone III.3, 2</bibl>
+                        <relation ref="snap:SonOf" active="#vv021"><desc>son of Marcus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -401,13 +404,16 @@
                   <floruit>AD 31 BC</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/396386">Forum Livi</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1027">Spain</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
                   <occupation>praefectus</occupation>
                   <occupation>IIIIvir</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL XI 623</bibl>
-                  <bibl>Malone III.3, 3</bibl></listBibl>
+                  <bibl>Malone III.3, 3</bibl>
+                        <relation ref="snap:SonOf" active="#vv022"><desc>son of Titus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -421,7 +427,9 @@
                   <occupation>conductor</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL III 5184</bibl>
-                  <bibl>Malone III.3, 4</bibl></listBibl>
+                  <bibl>Malone III.3, 4</bibl>
+                        <relation ref="snap:HusbandOf" active="#vv023"><desc>husband of Petronia Tertia</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -430,17 +438,25 @@
                   <floruit notBefore="0043" notAfter="0059">AD 43/59</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/599612">Ephesus</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/876562">Alexandria</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
                   <occupation>prefect</occupation>
                   <occupation>archiereus</occupation>
                   <occupation>director</occupation>
                   <occupation>procurator</occupation>
+                  <occupation>Vespasian</occupation>
                   <listBibl>
                      <listBibl><bibl>AE 1924, 78</bibl>
-                  <bibl>Malone III.3, 5</bibl></listBibl>
+                  <bibl>Malone III.3, 5</bibl>
+                        <relation ref="snap:SonOf" active="#vv024"><desc>son of Tiberius Claudius Thrasyllos</desc></relation>
+                        <relation ref="snap:UncleOf" active="#vv024"><desc>uncle of Ennia Thrasylla</desc></relation>
+                        <relation ref="snap:FatherOf" active="#vv024"><desc>father of Claudia Capitolina</desc></relation>
+                        <relation ref="snap:GrandfatherOf" active="#vv024"><desc>grandfather of Julia Balbilla</desc></relation>
+                     </listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 C 813</idno>
+                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Tiberius_Claudius_Balbilus</idno>
                </person>
                
                <person xml:id="vv025" role="person">
@@ -455,7 +471,9 @@
                   <occupation>priestess</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL XII 1868</bibl>
-                  <bibl>Malone III.3, 6</bibl></listBibl>
+                  <bibl>Malone III.3, 6</bibl>
+                        <relation ref="snap:HusbandOf" active="#vv025"><desc>husband of Gratina</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -466,12 +484,14 @@
                   <affiliation ref="http://pleiades.stoa.org/places/396380">Verona</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>tribunus angusticlavius</occupation>
-                  <occupation>IIvir</occupation>
+                  <occupation>IIIIvir</occupation>
                   <occupation>prefect</occupation>
                   <occupation>flamen</occupation>
                   <listBibl>
                      <listBibl><bibl>AE 1966, 124</bibl>
-                  <bibl>Malone III.3, 7</bibl></listBibl>
+                  <bibl>Malone III.3, 7</bibl>
+                        <relation ref="snap:SonOf" active="#vv026"><desc>son of Marcus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -485,6 +505,7 @@
                   <listBibl>
                      <bibl>RIB 450 <idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/450</idno></bibl>
                      <bibl>Malone III.3, 8</bibl>
+                     <relation ref="snap:FatherOf" active="#vv027"><desc>father of Longinus</desc></relation>
                   </listBibl>
                    <idno type="rib">http://romaninscriptionsofbritain.org/person/4110</idno>
                </person>
@@ -500,7 +521,10 @@
                   <occupation>omnibus honoribus</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL II 3583</bibl>
-                  <bibl>Malone III.3, 9</bibl></listBibl>
+                  <bibl>Malone III.3, 9</bibl>
+                        <relation ref="snap:SonOf" active="#vv028"><desc>son of Titus</desc></relation>
+                        <relation ref="snap:FatherOf" active="#vv028"><desc>father of T. Iunius Severus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -524,7 +548,7 @@
                   <occupation>tribunus angusticlavius</occupation>
                   <occupation>patron</occupation>
                   <listBibl>
-                     <listBibl><bibl>CIL X 7587</bibl>
+                     <listBibl><bibl>AE 1935,25</bibl>
                   <bibl>Malone III.3, 11</bibl></listBibl>
                   </listBibl>
                </person>
@@ -544,7 +568,9 @@
                   <occupation>pontifex</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL X 7587</bibl>
-                  <bibl>Malone III.3, 12</bibl></listBibl>
+                  <bibl>Malone III.3, 12</bibl>
+                        <relation ref="snap:SonOf" active="#vv031"><desc>son of Lucius</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -558,7 +584,9 @@
                   <occupation>flamen</occupation>
                      <listBibl>
                      <listBibl><bibl>CIL II 4245</bibl>
-                  <bibl>Malone III.3, 13</bibl></listBibl>
+                  <bibl>Malone III.3, 13</bibl>
+                        <relation ref="snap:SonOf" active="#vv032"><desc>son of Marcus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -577,7 +605,9 @@
                   <occupation>curator</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL XIII 1900</bibl>
-                  <bibl>Malone III.3, 14</bibl></listBibl>
+                  <bibl>Malone III.3, 14</bibl>
+                        <relation ref="snap:SonOf" active="#vv033"><desc>son of Sextus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -630,7 +660,9 @@
                   <occupation>praefectus legionis</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL XIV 2523</bibl>
-                  <bibl>Malone III.4, 2</bibl></listBibl>
+                  <bibl>Malone III.4, 2</bibl>
+                        <relation ref="snap:SonOf" active="#vv037"><desc>son of Marcus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -669,9 +701,12 @@
                   <occupation>soldier</occupation>
                   <occupation>primus plus</occupation>
                   <occupation>prefect</occupation>
+                  <occupation>commander</occupation>
                     <listBibl>
                      <listBibl><bibl>AE 1960. 28</bibl>
-                  <bibl>Malone III.5, 1</bibl></listBibl>
+                  <bibl>Malone III.5, 1</bibl>
+                        <relation ref="snap:SonOf" active="#vv040"><desc>son of Sextus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -680,16 +715,20 @@
                   <floruit>AD >56</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/187578">Trieste</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1052">Italy</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>primus plus</occupation>
                   <occupation>tribunus</occupation>
                   <occupation>procurator</occupation>
                   <occupation>prefect</occupation>
+                  <occupation>fleet-commander</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL V 533</bibl>
                   <bibl>Sup. It. 474</bibl>
                   <bibl>Tacitus Ann. 13.30</bibl>
-                  <bibl>Malone III.5, 2</bibl></listBibl>
+                  <bibl>Malone III.5, 2</bibl>
+                        <relation ref="snap:SonOf" active="#vv041"><desc>son of Publius</desc></relation>
+                     </listBibl>
                   </listBibl>
                   <idno type="pir">PIR2 P 72</idno>
                </person>
@@ -721,7 +760,9 @@
                   <occupation>optio peregrinorum</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL VIII 1322</bibl>
-                  <bibl>Malone III.5, 4</bibl></listBibl>
+                  <bibl>Malone III.5, 4</bibl>
+                        <relation ref="snap:SonOf" active="#vv043"><desc>son of Lucius</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -763,7 +804,9 @@
                   <occupation>centurio</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL VIII 2786</bibl>
-                  <bibl>Malone III.6, 3</bibl></listBibl>
+                  <bibl>Malone III.6, 3</bibl>
+                        <relation ref="snap:SonOf" active="#vv046"><desc>son of Publius</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -791,7 +834,9 @@
                   <occupation>cornicularius</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL XI 3108</bibl>
-                  <bibl>Malone III.6, 5</bibl></listBibl>
+                  <bibl>Malone III.6, 5</bibl>
+                        <relation ref="snap:SonOf" active="#vv048"><desc>son of Quintus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -813,8 +858,9 @@
                   <persName xml:lang="en">C. Arrius Domitianus</persName>
                   <floruit notBefore="0142" notAfter="0155">AD 142/155</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/992076">Pannonia</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 2122<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/2122</idno></bibl>
                           <bibl>RIB 2123<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/2123</idno></bibl>
@@ -882,7 +928,7 @@
                   <floruit>AD E3</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 491<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/491</idno></bibl>
                   <bibl>Malone III.6, 12</bibl></listBibl>
@@ -899,7 +945,9 @@
                   <occupation>centurio</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL XII 2601</bibl>
-                  <bibl>Malone III.6, 13</bibl></listBibl>
+                  <bibl>Malone III.6, 13</bibl>
+                        <relation ref="snap:SonOf" active="#vv056"><desc>son of Gaius</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -917,7 +965,7 @@
                
                <person xml:id="vv058" role="person">
                   <persName xml:lang="en">Calvius Priscus</persName>
-                  <floruit>AD 83</floruit>
+                  <floruit>AD 84</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/1052">Italy</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/148141">Narbonensis</affiliation>
@@ -979,7 +1027,9 @@
                   <occupation>centurio</occupation>
                   <listBibl>
                      <listBibl><bibl>AE 1939.157</bibl>
-                  <bibl>Malone III.6, 19</bibl></listBibl>
+                  <bibl>Malone III.6, 19</bibl>
+                        <relation ref="snap:SonOf" active="#vv062"><desc>son of Tiberius</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -989,11 +1039,13 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/1027">Spain?</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <occupation>secundus princeps posterior</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL VI 3584</bibl>
-                  <bibl>Malone III.6, 20</bibl></listBibl>
+                  <bibl>Malone III.6, 20</bibl>
+                        <relation ref="snap:SonOf" active="#vv063"><desc>son of Tiberius</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -1003,7 +1055,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/187309">Bedaium</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL III 5577</bibl>
                   <bibl>Malone III.6, 21</bibl></listBibl>
@@ -1012,7 +1064,7 @@
                
                <person xml:id="vv065" role="person">
                   <persName xml:lang="en"> Cornelius Crescens</persName>
-                  <floruit>AD L1</floruit>
+                  <floruit>AD 87-88</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
@@ -1031,6 +1083,7 @@
                   <listBibl>
                      <listBibl><bibl>AE 1928.90</bibl>
                   <bibl>Malone III.6, 23</bibl></listBibl>
+                     
                   </listBibl>
                </person>
                
@@ -1062,7 +1115,7 @@
                
                <person xml:id="vv069" role="person">
                   <persName xml:lang="en">M. Favonius Facilis</persName>
-                  <floruit>AD M1</floruit>
+                  <floruit>AD 50-60</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/1052">Italy?</affiliation>
                   <occupation>soldier</occupation>
@@ -1096,7 +1149,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/991337">Germany</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 2144<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/2144</idno></bibl>
                   <bibl>Malone III.6, 28</bibl></listBibl>
@@ -1123,7 +1176,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/981538">Noricum</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 1664<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/1664</idno></bibl>
                           <bibl>RIB 1812<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/1812</idno></bibl>
@@ -1151,11 +1204,15 @@
                   <floruit>AD L2</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <occupation>nomus hastatus posterior</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL VIII 2877</bibl>
-                  <bibl>Malone III.6, 32</bibl></listBibl>
+                  <bibl>Malone III.6, 32</bibl>
+                        <relation ref="snap:HusbandOf" active="#vv076"><desc>husband of Lollia Bodicca</desc></relation>
+                        <relation ref="snap:FatherOf" active="#vv076"><desc>father of Flavius Victor</desc></relation>
+                        <relation ref="snap:FatherOf" active="#vv076"><desc>Flavius Victorinus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -1163,11 +1220,14 @@
                   <persName xml:lang="en">Sal. Frebranus Baculus</persName>
                   <floruit>before AD 9</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/20468">Germany</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL III 2836</bibl>
-                  <bibl>Malone III.6, 33</bibl></listBibl>
+                  <bibl>Malone III.6, 33</bibl>
+                        <relation ref="snap:SonOf" active="#vv077"><desc>son of Titus</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -1203,7 +1263,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/415252">Florens</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 1677<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/1677</idno></bibl>
                   <bibl>Malone III.6, 36</bibl></listBibl>
@@ -1232,10 +1292,13 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/108751">Ara</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL VIII 2907</bibl>
-                  <bibl>Malone III.6, 38</bibl></listBibl>
+                  <bibl>Malone III.6, 38</bibl>
+                        <relation ref="snap:SonOf" active="#vv082"><desc>son of Gaius</desc></relation>
+                        <relation ref="snap:HusbandOf" active="#vv082"><desc>husband of Salviena Metiliana</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -1243,7 +1306,7 @@
                   <persName xml:lang="en">Iulius Peculiaris</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 1014<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/1014</idno></bibl>
                   <bibl>Malone III.6, 39</bibl></listBibl>
@@ -1253,10 +1316,10 @@
                
                <person xml:id="vv084" role="person">
                   <persName xml:lang="en">Iulius Sedatus</persName>
-                  <floruit>AD EM2</floruit>
+                  <floruit>AD 150-160</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                      <listBibl><bibl>RIB 2501.3</bibl>
                   <bibl>Malone III.6, 40</bibl></listBibl>
@@ -1269,7 +1332,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/991337">Germany/Gaul</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                      <listBibl><bibl>RIB 2496.2</bibl>
                   <bibl>Malone III.6, 41</bibl></listBibl>
@@ -1282,7 +1345,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/619103">[Ancyra]</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 2077<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/2077</idno></bibl>
                           <bibl>RIB 1330<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/1330</idno></bibl>
@@ -1297,7 +1360,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/413261">Pitinum Mergens</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <occupation>evocatus Augusti</occupation>
                   <occupation>beneficiarius</occupation>
                   <listBibl>
@@ -1312,7 +1375,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/1052,(http://pleiades.stoa.org/places/775)">Italy (Africa?)</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 122<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/122</idno></bibl>
                   <bibl>Malone III.6, 44</bibl></listBibl>
@@ -1337,7 +1400,7 @@
                   <floruit>AD L1</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 544<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/544</idno></bibl>
                   <bibl>Malone III.6, 46</bibl></listBibl>
@@ -1349,6 +1412,7 @@
                   <persName xml:lang="en">Malius Crassus</persName>
                   <floruit>AD E3</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1027">Spain</affiliation>
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
@@ -1362,7 +1426,7 @@
                   <floruit>AD L1</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 473<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/473</idno></bibl>
                   <bibl>Malone III.6, 48</bibl></listBibl>
@@ -1376,14 +1440,16 @@
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/167719">Vienna</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <occupation>primus pilus</occupation>
                   <occupation>praepositus</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 1725<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/1725</idno></bibl>
                           <bibl>RIB 2120<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/2120</idno></bibl>
                   <bibl>AE 1985.735</bibl>
-                  <bibl>Malone III.6, 49</bibl></listBibl>
+                  <bibl>Malone III.6, 49</bibl>
+                         <relation ref="snap:SonOf" active="#vv093"><desc>son of Lucius</desc></relation>
+                      </listBibl>
                   </listBibl>
                    <idno type="rib">http://romaninscriptionsofbritain.org/person/2916</idno>
                </person>
@@ -1392,7 +1458,7 @@
                   <persName xml:lang="en">Naevius</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                      <listBibl><bibl>RIB 2449.8</bibl>
                   <bibl>Malone III.6, 50</bibl></listBibl>
@@ -1403,11 +1469,14 @@
                   <persName xml:lang="en">L. Numerius Felix</persName>
                   <floruit>AD ML2</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
+                  <affiliation ref="http://pleiades.stoa.org/places/1027">Spain</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                      <listBibl><bibl>CIL II 4162</bibl>
-                  <bibl>Malone III.6, 51</bibl></listBibl>
+                  <bibl>Malone III.6, 51</bibl>
+                        <relation ref="snap:SonOf" active="#vv095"><desc>son of Lucius</desc></relation>
+                     </listBibl>
                   </listBibl>
                </person>
                
@@ -1416,7 +1485,7 @@
                   <floruit>AD L1-E2</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <occupation>soldier</occupation>
-                  <occupation>centurio</occupation>
+                  <occupation>centurion</occupation>
                   <listBibl>
                       <listBibl><bibl>RIB 467<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/467</idno></bibl>
                   <bibl>Malone III.6, 52</bibl></listBibl>
