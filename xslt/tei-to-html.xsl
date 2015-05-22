@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xpath-default-namespace="http://www.w3.org/1999/xhtml"
-    xmlns="http://www.w3.org/1999/xhtml">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+    xpath-default-namespace="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
     <xsl:output method="html" doctype-public="-//W3C//DTD HTML 4.01//EN"
         doctype-system="http://www.w3.org/TR/html4/strict.dtd"/>
     <xsl:template match="/">
@@ -42,8 +41,7 @@
                         <dl>
                             <dt>Permalink:</dt>
                             <dd>
-                                <a href=""
-                                        >http://digiclass.github.io/prosopography/Aphrodisias/<xsl:value-of
+                                <a href="">http://digiclass.github.io/prosopography/Aphrodisias/<xsl:value-of
                                         select="./@xml:id"/>.html</a>
                             </dd>
                             <dt>Type:</dt>
@@ -70,14 +68,14 @@
                                     <xsl:value-of select="text()"/>; </xsl:for-each>
                             </dd>
                             <dt>Attestation(s):</dt>
-                            <xsl:for-each select="tei:bibl">
-                                <dd>
-                                    <xsl:value-of select="text()"/>
-                                </dd>
-                            </xsl:for-each>
+                            <dd>
+                                <xsl:for-each select="tei:listBibl/tei:bibl">
+                                    <xsl:value-of select="text()"/>;
+                                </xsl:for-each>
+                            </dd>
                             <dt>Other identifier(s):</dt>
                             <dd>
-                                <xsl:for-each select="idno">
+                                <xsl:for-each select="tei:idno">
                                     <xsl:value-of select="text()"/>
                                 </xsl:for-each>
                             </dd>
