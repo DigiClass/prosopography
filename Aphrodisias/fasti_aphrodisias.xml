@@ -877,7 +877,7 @@
                   </listBibl>
                   <idno type="pbe">http://www.pbe.kcl.ac.uk/person/p5739</idno>
                </person> 
-               <person xml:id="fas0059"> 
+               <person xml:id="fas059"> 
                   <persName xml:lang="en">Joseph</persName>
                   <floruit notBefore="0900" notAfter="0999">
                      Tenth century
@@ -3101,7 +3101,7 @@
                   <idno type="lgpn-hr">V.B Λεόντιος 2</idno>
                   <idno type="lgpn">http://www.lgpn.ox.ac.uk/id/V5b-8881</idno>
                </person>
-               <person xml:id="pers0102">
+               <person xml:id="pers102">
                   <persName xml:lang="grc">Λέων</persName> 
                   <persName xml:lang="en">Leon</persName>
                   <floruit notBefore="0401">
