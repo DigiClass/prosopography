@@ -78,12 +78,13 @@
                                     <xsl:value-of select="text()"/>;
                                 </xsl:for-each>
                             </dd>
+                            <xsl:if test="tei:idno">
                             <dt>Other identifier(s):</dt>
                             <dd>
                                 <xsl:for-each select="tei:idno">
                                     <xsl:value-of select="text()"/>
                                 </xsl:for-each>
-                            </dd>
+                            </dd></xsl:if>
                         </dl>
                     </body>
                 </html>
