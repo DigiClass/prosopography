@@ -54,7 +54,7 @@
                             <dt>Name(s):</dt>
                             <xsl:for-each select="tei:persName">
                                 <dd>
-                                    <xsl:value-of select="text()"/>
+                                    <xsl:value-of select="text()"/><xsl:if test="following-sibling::tei:bibl"><xsl:text>; </xsl:text></xsl:if>
                                 </dd>
                             </xsl:for-each>
                             <dt>Associated date(s):</dt>
@@ -70,19 +70,19 @@
                             <dt>Occupation/title(s):</dt>
                             <dd>
                                 <xsl:for-each select="tei:occupation">
-                                    <xsl:value-of select="text()"/>; </xsl:for-each>
+                                    <xsl:value-of select="text()"/><xsl:if test="following-sibling::tei:bibl"><xsl:text>; </xsl:text></xsl:if></xsl:for-each>
                             </dd>
                             <dt>Attestation(s):</dt>
                             <dd>
                                 <xsl:for-each select="tei:listBibl/tei:bibl">
-                                    <xsl:value-of select="text()"/>;
+                                    <xsl:value-of select="text()"/><xsl:if test="following-sibling::tei:bibl"><xsl:text>; </xsl:text></xsl:if>
                                 </xsl:for-each>
                             </dd>
                             <xsl:if test="tei:idno">
                             <dt>Other identifier(s):</dt>
                             <dd>
                                 <xsl:for-each select="tei:idno">
-                                    <xsl:value-of select="text()"/>
+                                    <xsl:value-of select="text()"/><xsl:if test="following-sibling::tei:bibl"><xsl:text>; </xsl:text></xsl:if>
                                 </xsl:for-each>
                             </dd></xsl:if>
                         </dl>
