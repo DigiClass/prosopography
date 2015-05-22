@@ -30,6 +30,11 @@
                                 float:left;
                                 margin-bottom:0.25em;
                             }</style>
+                        <script src="http://isawnyu.github.io/awld-js/lib/requirejs/require.min.js" type="text/javascript"></script>
+                        <script src="http://isawnyu.github.io/awld-js/awld.js" type="text/javascript"></script>
+                        <script type="text/javascript">
+                            awld.init();
+                        </script>
                     </head>
                     <body>
                         <h1>
