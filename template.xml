@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/tei-to-html.xsl"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><!--Title of Prosopography--></title>
+            <author xml:id="initials"><!--Your Name--></author>
+         </titleStmt>
+         <publicationStmt>
+            <ab/>
+         </publicationStmt>
+         <sourceDesc>
+            <ab/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="person1"><!-- or hero1, monster1, god1, etc. -->
+                  <persName xml:lang="en"></persName>
+                  <persName xml:lang="el"></persName>
+                  <floruit notBefore="0001" notAfter="0001"><!--Any dating information--></floruit> <!-- (if applicable) --> 
+                  <affiliation ref="pleiades:url"><!-- place name --></affiliation> <!-- (if applicable) -->
+                  <occupation><!-- any role or title --></occupation>
+                  <listBibl>
+                     <bibl><!-- any ancient citations --></bibl>
+                     <relation active="#person1" ref="snap:BondClass" passive="#person2">
+                        <desc><!-- relationship text from source --></desc>
+                     </relation>
+                  </listBibl>
+                  <idno type="wikipedia"><!-- wikipedia URL --></idno>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change when="2015-03-23" who="#init">created xml prosopography</change>
+         </listChange>
+     </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab/>
+      </body>
+   </text>
+</TEI>
