@@ -1,9 +1,14 @@
-import urllib2
-import re
-import os
-import os.path
+from scrapy.spider import Spider
+from scrapy.selector import Selector
 
-wikiurls= ["http://www.en.wikipedia.org/wiki/Agreus_%26_Nomios",
+from dirbot.items import Website
+
+
+class DmozSpider(Spider):
+    name = "wikipedia"
+    allowed_domains = ["http://www.en.wikipedia.org/"]
+    start_urls = [
+            "http://www.en.wikipedia.org/wiki/Agreus_%26_Nomios",
             "http://www.en.wikipedia.org/wiki/Aloadae",
             "http://www.en.wikipedia.org/wiki/Ampelos",
             "http://www.en.wikipedia.org/wiki/Amphisbaena",
@@ -99,48 +104,25 @@ wikiurls= ["http://www.en.wikipedia.org/wiki/Agreus_%26_Nomios",
             "http://www.en.wikipedia.org/wiki/Teumessian_fox",
             "http://www.en.wikipedia.org/wiki/Titan_(mythology)",
             "http://www.en.wikipedia.org/wiki/Triton_(mythology)",
-            "http://www.en.wikipedia.org/wiki/Winged_unicorn",]       
+            "http://www.en.wikipedia.org/wiki/Winged_unicorn"
+            ]
 
+    def parse(self, response):
+        """
+        The lines below is a spider contract. For more info see:
+        http://doc.scrapy.org/en/latest/topics/contracts.html
+        @url http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/
+        @scrapes name
+        """
+        sel = Selector(response)
+        sites = sel.xpath('//ul[@class="directory-url"]/li')
+        items = []
 
+        for site in sites:
+            item = Website()
+            item['name'] = site.xpath('title/text()').extract()
+            items.append(item)
 
+        return items
 
-
-
-
-
-
-
-for wiki_url in wikiurls: 
-
-    conn=urllib2.urlopen(wiki_url)
-    characters=conn.read()
-    conn.close()
-    
-    
-    
-    
-
-    
-
-
-    
-    names=re.findall(r'<title>.*?</title>',characters)
-
-    gr_names1=re.findall(r'xml:lang="grc">.*?</',characters)
-    gr_names2=re.findall(r'xml:lang="el">.*?</',characters)
-    gr_names3=re.findall(r'Greek</a>.*?<a',characters)
-    gr_names4=re.findall(r'Gr.</a>.*?<i>',characters)
-    gr_names5=re.findall(r'comes directly from Ancient Greek ".*?",',characters)
-    gr_names6=re.findall(r'</span></span>;.*?protectress"',characters)
-
-    print names, gr_names1, gr_names2, gr_names3, gr_names4, gr_names5, gr_names6, '<idno type="wikipedia">', wiki_url, "</idno>" 
-
-
-    
-    
-    
-      
-    
-
-
-
+print items
