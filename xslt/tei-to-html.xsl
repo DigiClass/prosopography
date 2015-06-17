@@ -4,6 +4,27 @@
     <xsl:output method="html" doctype-public="-//W3C//DTD HTML 4.01//EN"
         doctype-system="http://www.w3.org/TR/html4/strict.dtd"/>
     <xsl:template match="/">
+        <xsl:result-document method="html" href="html-test/index.html">
+            <html>
+                <head>
+                    <title>Index</title>
+                </head>
+                <body>
+                    <h1>Table of Contents</h1>
+                    <ul>
+                        <xsl:for-each select="//tei:person">
+                            <li>
+                                <xsl:element name="a">
+                                <xsl:attribute name="href">
+                                    <xsl:value-of select="./@xml:id"/><xsl:text>.html</xsl:text>
+                                </xsl:attribute>
+                                <xsl:value-of select="./tei:persName[@xml:lang='en']"/></xsl:element>
+                            </li>
+                        </xsl:for-each>
+                    </ul>
+                </body>
+            </html>
+        </xsl:result-document>
         <xsl:for-each select="//tei:person">
             <xsl:result-document method="html" href="html-test/{@xml:id}.html">
                 <html>
@@ -11,7 +32,7 @@
                         <title>
                             <xsl:value-of select="//tei:titleStmt/tei:title[1]"/>
                             <xsl:text>: </xsl:text>
-                            <xsl:value-of select="tei:persName[@xml:lang='en'][1]"/>
+                            <xsl:value-of select="tei:persName[@xml:lang = 'en'][1]"/>
                         </title>
                         <meta charset="utf-8"/>
                         <style>
@@ -30,8 +51,8 @@
                                 float:left;
                                 margin-bottom:0.25em;
                             }</style>
-                        <script src="http://isawnyu.github.io/awld-js/lib/requirejs/require.min.js" type="text/javascript"></script>
-                        <script src="http://isawnyu.github.io/awld-js/awld.js" type="text/javascript"></script>
+                        <script src="http://isawnyu.github.io/awld-js/lib/requirejs/require.min.js" type="text/javascript"/>
+                        <script src="http://isawnyu.github.io/awld-js/awld.js" type="text/javascript"/>
                         <script type="text/javascript">
                             awld.init();
                         </script>
@@ -41,7 +62,7 @@
                             <xsl:value-of select="//tei:titleStmt/tei:title[1]"/>
                         </h1>
                         <h2>
-                            <xsl:value-of select="tei:persName[@xml:lang='en'][1]"/>
+                            <xsl:value-of select="tei:persName[@xml:lang = 'en'][1]"/>
                         </h2>
                         <dl>
                             <dt>Permalink:</dt>
@@ -55,7 +76,9 @@
                             <xsl:for-each select="tei:persName">
                                 <dd>
                                     <xsl:value-of select="text()"/>
-                                    <xsl:if test="following-sibling::tei:persName"><xsl:text>; </xsl:text></xsl:if>
+                                    <xsl:if test="following-sibling::tei:persName">
+                                        <xsl:text>; </xsl:text>
+                                    </xsl:if>
                                 </dd>
                             </xsl:for-each>
                             <dt>Associated date(s):</dt>
@@ -71,21 +94,32 @@
                             <dt>Occupation/title(s):</dt>
                             <dd>
                                 <xsl:for-each select="tei:occupation">
-                                    <xsl:value-of select="text()"/><xsl:if test="following-sibling::tei:occupation"><xsl:text>; </xsl:text></xsl:if></xsl:for-each>
+                                    <xsl:value-of select="text()"/>
+                                    <xsl:if test="following-sibling::tei:occupation">
+                                        <xsl:text>; </xsl:text>
+                                    </xsl:if>
+                                </xsl:for-each>
                             </dd>
                             <dt>Attestation(s):</dt>
                             <dd>
                                 <xsl:for-each select="tei:listBibl/tei:bibl">
-                                    <xsl:value-of select="text()"/><xsl:if test="following-sibling::tei:bibl"><xsl:text>; </xsl:text></xsl:if>
+                                    <xsl:value-of select="text()"/>
+                                    <xsl:if test="following-sibling::tei:bibl">
+                                        <xsl:text>; </xsl:text>
+                                    </xsl:if>
                                 </xsl:for-each>
                             </dd>
                             <xsl:if test="tei:idno">
-                            <dt>Other identifier(s):</dt>
-                            <dd>
-                                <xsl:for-each select="tei:idno">
-                                    <xsl:value-of select="text()"/><xsl:if test="following-sibling::tei:bibl"><xsl:text>; </xsl:text></xsl:if>
-                                </xsl:for-each>
-                            </dd></xsl:if>
+                                <dt>Other identifier(s):</dt>
+                                <dd>
+                                    <xsl:for-each select="tei:idno">
+                                        <xsl:value-of select="text()"/>
+                                        <xsl:if test="following-sibling::tei:bibl">
+                                            <xsl:text>; </xsl:text>
+                                        </xsl:if>
+                                    </xsl:for-each>
+                                </dd>
+                            </xsl:if>
                         </dl>
                     </body>
                 </html>
