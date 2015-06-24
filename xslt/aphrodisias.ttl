@@ -1,0 +1,1646 @@
+@prefix cito: <http://purl.org/spar/cito/> .
+@prefix cnt: <http://www.w3.org/2011/content#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix lawd: <http://lawd.info/ontology/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix snap: <http://onto.snapdrgn.net/snap#> .
+<http://digiclass.github.io/prosopography/Aphrodisias/fas001.html>   rdf:type   lawd:Person ;
+          foaf:name   "Q. Fabius Clodius Agrippianus Celsinus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas001.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas002.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μᾶρκος Αὐρήλιος Διογένης"@grc , "Marcus Aurelius Diogenes"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas002.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas003.html>   rdf:type   lawd:Person ;
+          foaf:name   "Anonymus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas003.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas004.html>   rdf:type   lawd:Person ;
+          foaf:name   "Aurelius Maximus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas004.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas005.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀσκληπιοδότος"@grc , "Τίτος Ὄππιος Ἀσκληπίοδοτος"@grc , "Asclepiodotus"@en , "T. Oppius Aelianus Asclepiodotus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas005.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas006.html>   rdf:type   lawd:Person ;
+          foaf:name   "Livius Castrius Constans"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas006.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas007.html>   rdf:type   lawd:Person ;
+          foaf:name   "Priscus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas007.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas008.html>   rdf:type   lawd:Person ;
+          foaf:name   "Iu-"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas008.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/609502> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas009.html>   rdf:type   lawd:Person ;
+          foaf:name   "Tiberius Fulvius Asticus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas009.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas010.html>   rdf:type   lawd:Person ;
+          foaf:name   "? Anicius Asper"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas010.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/857208> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas011.html>   rdf:type   lawd:Person ;
+          foaf:name   "Flavius Optimus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas011.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/609502> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas012.html>   rdf:type   lawd:Person ;
+          foaf:name   "Valerius Rinacius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas012.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas013.html>   rdf:type   lawd:Person ;
+          foaf:name   "Aurelius Marcellus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas013.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas014.html>   rdf:type   lawd:Person ;
+          foaf:name   "Firminianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas014.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas015.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φλαούιος Κυιντίλιος Ἔρως Μονάξιος"@grc , "Flavius Quintus Eros Monaxius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas015.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas016.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἑλλάδιος"@grc , "Helladius Ioannes 3"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas016.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas017.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀντώνιος Τατιανὸς"@grc , "Antonius Tatianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas017.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas018.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φλαούιος Κωνσταντίνος"@grc , "Flavius Constantius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas018.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas019.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀντωνίου Πρίσκου"@grc , "Antonius Priscus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas019.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas020.html>   rdf:type   lawd:Person ;
+          foaf:name   "Οἰκουμένιος"@grc , "Oecumenius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas020.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas021.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φλαούιος Πελάγιος Ἰωάννης"@grc , "Flavius Pelagius Ioannes"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas021.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas022.html>   rdf:type   lawd:Person ;
+          foaf:name   "?Ἀλεξάνδροιος"@grc , "?Alexander"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas022.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas023.html>   rdf:type   lawd:Person ;
+          foaf:name   "Βερονικιανὸς"@grc , "Beronicianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas023.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas024.html>   rdf:type   lawd:Person ;
+          foaf:name   "Flavius Baralach"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas024.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas025.html>   rdf:type   lawd:Person ;
+          foaf:name   "Τατιανὸς"@grc , "Tatianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas025.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas026.html>   rdf:type   lawd:Person ;
+          foaf:name   "Δουλκίτιος"@grc , "Dulcitius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas026.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas027.html>   rdf:type   lawd:Person ;
+          foaf:name   "?Ἰωάννης"@grc , "?Ioannes"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas027.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas028.html>   rdf:type   lawd:Person ;
+          foaf:name   "?Adrastus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas028.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas029.html>   rdf:type   lawd:Person ;
+          foaf:name   "Flavius Ioannes"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas029.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas030.html>   rdf:type   lawd:Person ;
+          foaf:name   "Procopius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas030.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas031.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φλάβιον Παλμᾶτος"@grc , "Flavius Palmatus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas031.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas032.html>   rdf:type   lawd:Person ;
+          foaf:name   "Flavius Marianus--Ioannes Patricius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas032.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas033.html>   rdf:type   lawd:Person ;
+          foaf:name   "Nonnus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas033.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas034.html>   rdf:type   lawd:Person ;
+          foaf:name   "?Papius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas034.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas035.html>   rdf:type   lawd:Person ;
+          foaf:name   "Βιτιανὸς"@grc , "Vitianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas035.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas036.html>   rdf:type   lawd:Person ;
+          foaf:name   "Eutheius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas036.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas037.html>   rdf:type   lawd:Person ;
+          foaf:name   "Anon"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas037.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas038.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀρσαβὶρ" , "Arsaber"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas038.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas039.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ammonius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas039.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas040.html>   rdf:type   lawd:Person ;
+          foaf:name   "Eudoxius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas040.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas041.html>   rdf:type   lawd:Person ;
+          foaf:name   "Cyrus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas041.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas042.html>   rdf:type   lawd:Person ;
+          foaf:name   "Critonianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas042.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas043.html>   rdf:type   lawd:Person ;
+          foaf:name   "Nonnus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas043.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas044.html>   rdf:type   lawd:Person ;
+          foaf:name   "?Julian"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas044.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas045.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐφήμιος"@grc , "Euphemius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas045.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas046.html>   rdf:type   lawd:Person ;
+          foaf:name   "Severianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas046.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas047.html>   rdf:type   lawd:Person ;
+          foaf:name   "Paul"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas047.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas048.html>   rdf:type   lawd:Person ;
+          foaf:name   "Deuterius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas048.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas049.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ὀρθαγόρας"@grc , "Orthagoras"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas049.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas050.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεοπρόπιος"@grc , "Theopropius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas050.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas051.html>   rdf:type   lawd:Person ;
+          foaf:name   "Theodore"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas051.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas052.html>   rdf:type   lawd:Person ;
+          foaf:name   "Sissinius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas052.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas053.html>   rdf:type   lawd:Person ;
+          foaf:name   "Eustathius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas053.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas054.html>   rdf:type   lawd:Person ;
+          foaf:name   "Theophylact"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas054.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas055.html>   rdf:type   lawd:Person ;
+          foaf:name   "Michael"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas055.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas056.html>   rdf:type   lawd:Person ;
+          foaf:name   "?Ephraim"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas056.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas057.html>   rdf:type   lawd:Person ;
+          foaf:name   "Sergius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas057.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas058.html>   rdf:type   lawd:Person ;
+          foaf:name   "Nicephorus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas058.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas059.html>   rdf:type   lawd:Person ;
+          foaf:name   "Joseph"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas059.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas060.html>   rdf:type   lawd:Person ;
+          foaf:name   "Michael"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas060.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas061.html>   rdf:type   lawd:Person ;
+          foaf:name   "John"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas061.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas062.html>   rdf:type   lawd:Person ;
+          foaf:name   "Λέων"@grc , "?Leo"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas062.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas063.html>   rdf:type   lawd:Person ;
+          foaf:name   "Eustratius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas063.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas064.html>   rdf:type   lawd:Person ;
+          foaf:name   "Anonymus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas064.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas065.html>   rdf:type   lawd:Person ;
+          foaf:name   "John"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas065.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas066.html>   rdf:type   lawd:Person ;
+          foaf:name   "Constantine"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas066.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas067.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ignatius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas067.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas068.html>   rdf:type   lawd:Person ;
+          foaf:name   "John"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas068.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas069.html>   rdf:type   lawd:Person ;
+          foaf:name   "Demetrius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas069.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas070.html>   rdf:type   lawd:Person ;
+          foaf:name   "Joseph"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas070.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas071.html>   rdf:type   lawd:Person ;
+          foaf:name   "Leo"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas071.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas072.html>   rdf:type   lawd:Person ;
+          foaf:name   "Anonymus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas072.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas073.html>   rdf:type   lawd:Person ;
+          foaf:name   "Anonymus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas073.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas074.html>   rdf:type   lawd:Person ;
+          foaf:name   "Leo"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas074.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas075.html>   rdf:type   lawd:Person ;
+          foaf:name   "Neophytus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas075.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas076.html>   rdf:type   lawd:Person ;
+          foaf:name   "Anonymus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas076.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas077.html>   rdf:type   lawd:Person ;
+          foaf:name   "Anonymus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas077.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas078.html>   rdf:type   lawd:Person ;
+          foaf:name   "Anonymus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas078.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas079.html>   rdf:type   lawd:Person ;
+          foaf:name   "Esaias"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas079.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas080.html>   rdf:type   lawd:Person ;
+          foaf:name   "Theodore"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas080.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas081.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀντώνιος Κλαύδιος Νεικόμαχος"@grc , "Antonius Claudius Nicomachus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas081.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas082.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μᾶρκος Ἀντώνιος Οὐενίδιος Ἀπελλᾶς"@grc , "Marcus Antonius Venidius Apellas"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas082.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas083.html>   rdf:type   lawd:Person ;
+          foaf:name   "?Hermogenes"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas083.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas084.html>   rdf:type   lawd:Person ;
+          foaf:name   "Τιβέριος Κλαύδιος Μαρκιανὸς"@grc , "Tiverius Claudius Marcianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas084.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas085.html>   rdf:type   lawd:Person ;
+          foaf:name   "Πάπιος"@grc , "Papias"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas085.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas086.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μένανδρος"@grc , "Menander"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas086.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas087.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεόπομπος"@grc , "Theopompus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas087.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas088.html>   rdf:type   lawd:Person ;
+          foaf:name   "Asclepiodotus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas088.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas089.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἰωάννης"@grc , "Joannes"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas089.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas090.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φλάβιος Ἀμπέλιος"@grc , "Flavius Ampelius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas090.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas091.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ο-"@grc , "?O-"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas091.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas092.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φλάβιος Ἀθήνεος"@grc , "Flavius Athenaeus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas092.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas093.html>   rdf:type   lawd:Person ;
+          foaf:name   "Aristocrates"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas093.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas094.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φλάβιος Φώτιος"@grc , "Flavius Photius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas094.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas095.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ῥοδοπαῖoς"@grc , "Rhodopaeus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas095.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas096.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεόπομπος"@grc , "?Theopompus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas096.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas097.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀσκληπίοδοτος, Τίτος Ὄππιος"@grc , "Asclepiodotus, Titus Oppius Aelianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas097.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas098.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μάννος Πόπλιος Αἴλιος Σεπτίμιος"@grc , "Mannus Publius Aelius Septimius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas098.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/fas099.html>   rdf:type   lawd:Person ;
+          foaf:name   "Iulius Iulianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/fas099.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/599564> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers001.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀβέλκιος"@grc , "Abelcius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers001.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers002.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀθανάσιος"@grc , "Athanasius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers002.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers003.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀθανάσιος"@grc , "Atha[nasius?"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers003.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers004.html>   rdf:type   lawd:Person ;
+          foaf:name   "Αἰλιανός"@grc , "Aelianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers004.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers005.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀλβῖνος"@grc , "Albinus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers005.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers006.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀλέξανδρος"@grc , "Alexander"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers006.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers007.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀναστάσιος"@grc , "Anastasius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers007.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers008.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀνατόλις"@grc , "Anatolis"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers008.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers009.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀνδρόκλης"@grc , "Androcles"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers009.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers010.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀνδρόνικος, Φλάβιος"@grc , "Andronicus, Flavius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers010.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers011.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀνθέμιος"@grc , "Anthemius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers011.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers012.html>   rdf:type   lawd:Person ;
+          foaf:name   "Αριστόλαος"@grc , "Aristolaus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers012.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers013.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἄρκιμος/Ἄλκιμος"@grc , "Arcimus/Alcimus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers013.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers014.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀσκληπιόδοτος"@grc , "Asclepiodotus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers014.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers015.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀσκληπιόδοτος"@grc , "Asclepiodotus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers015.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers016.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀστέριος"@grc , "Asterius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers016.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers017.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀστέριος"@grc , "Asterius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers017.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers018.html>   rdf:type   lawd:Person ;
+          foaf:name   "Αὐχένιος, Μάρκος Αὐρ. Λεόντηος"@grc , "Auchenius, Marcus Aurelius Leontius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers018.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers019.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀχαειός"@grc , "Achaeius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers019.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers020.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἀχεός"@grc , "Acheus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers020.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers021.html>   rdf:type   lawd:Person ;
+          foaf:name   "Βαλεριανός"@grc , "Valerianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers021.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers022.html>   rdf:type   lawd:Person ;
+          foaf:name   "Βίκτωρ"@grc , "Victor"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers022.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers023.html>   rdf:type   lawd:Person ;
+          foaf:name   "Βικτωρεῖνος"@grc , "Victorinus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers023.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers024.html>   rdf:type   lawd:Person ;
+          foaf:name   "Γαιόργηος"@grc , "Γεοργήιος"@grc , "George"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers024.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers025.html>   rdf:type   lawd:Person ;
+          foaf:name   "Γεόργις"@grc , "George"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers025.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers026.html>   rdf:type   lawd:Person ;
+          foaf:name   "Γεώργηος"@grc , "Γηόργης"@grc , "George"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers026.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers027.html>   rdf:type   lawd:Person ;
+          foaf:name   "Γεώργιος"@grc , "George"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers027.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers028.html>   rdf:type   lawd:Person ;
+          foaf:name   "Γεώργιος"@grc , "George"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers028.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers029.html>   rdf:type   lawd:Person ;
+          foaf:name   "Δαμοχάρης Φλαουίος"@grc , "Damochares, Flavius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers029.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers030.html>   rdf:type   lawd:Person ;
+          foaf:name   "Δαμόχαρις"@grc , "Damocharis"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers030.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers031.html>   rdf:type   lawd:Person ;
+          foaf:name   "Διονυσία, Αὐρηλία"@grc , "Dionysia, Aurelia"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers031.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers032.html>   rdf:type   lawd:Person ;
+          foaf:name   "Διονύσιος"@grc , "Dionysius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers032.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers033.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἑορτάσιος"@grc , "Heortasius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers033.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers034.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἐπίκτητος"@grc , "Epictetus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers034.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers035.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἐπιφάνις"@grc , "Epiphanios"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers035.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers036.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἑπταμήνιος"@grc , "Heptamenius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers036.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers037.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἑρμίας"@grc , "Hermias"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers037.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers038.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἑρμίας"@grc , "Hermias"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers038.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers039.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἑρμίας, Φλάβιος Ἐπιφαν-"@grc , "Hermias , Flavius Epiphan-"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers039.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers040.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐάρεστος"@grc , "Euarestus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers040.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers041.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐγένιος"@grc , "Eugenius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers041.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers042.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐγράφιος"@grc , "Eugraphius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers042.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers043.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐθαλι-"@grc , "Euthalius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers043.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers044.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐλάλιος"@grc , "Eulalius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers044.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers045.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐλάμιος"@grc , "Eulamius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers045.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers046.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐπείθιος"@grc , "Eupeithius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers046.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers047.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐσέβιος, Φλάβιος"@grc , "Eusebius, Flavius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers047.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers048.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐστόχιος"@grc , "Eustochius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers048.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers049.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐτύχης, Μάρκος Αὐρόλιος"@grc , "Eutyches, Marcus Aurilius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers049.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers050.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐτυχία"@grc , "Eutychia"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers050.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers051.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐτυχιανός"@grc , "Eutychianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers051.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers052.html>   rdf:type   lawd:Person ;
+          foaf:name   "Εὐφημία"@grc , "Euphemia"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers052.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers053.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ζερκουνης, Μιχαήλ"@grc , "Michael Zerkounes"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers053.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers054.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ζήνων, Φλάβιος"@grc , "Zeno, Flavius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers054.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers055.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ζοτικός"@grc , "Zoticus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers055.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers056.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ζωητός"@grc , "Zoetus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers056.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers057.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ζωτικός"@grc , "Zoticus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers057.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers058.html>   rdf:type   lawd:Person ;
+          foaf:name   "Η- Φλάβιος"@grc , "Flavius E-"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers058.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers059.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἡλιόδωρος"@grc , "Heliodorus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers059.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers060.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἡράκλειος, Μάρκος Αὐρίλιος"@grc , "Heracleius, Marcus Aurilius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers060.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers061.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἡροδιανός"@grc , "Herodianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers061.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers062.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεα-"@grc , "Thea-"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers062.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers063.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεοδόκιος"@grc , "Theodocius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers063.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers064.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεόδορος"@grc , "Theodorus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers064.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers065.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεοδωρήτη"@grc , "Theodoreta"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers065.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers066.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεοδώρητος"@grc , "Theodoretus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers066.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers067.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεόδωρος"@grc , "Theodorus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers067.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers068.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεόδωρος"@grc , "Theodorus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers068.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers069.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεόδωρος"@grc , "Theodorus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers069.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers070.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεόδωρος Κώδων"@grc , "Theodorus Kodon"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers070.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers071.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεόκτιστος"@grc , "Theoctistus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers071.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers072.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεοπέμπτος"@grc , "Theopemptus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers072.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers073.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεόφιλος"@grc , "Theophilus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers073.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers074.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεοφύλακτος"@grc , "Theophylact"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers074.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers075.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεοφύλακτος"@grc , "Theophylact"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers075.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers076.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεοφύλακτος"@grc , "Theophylact"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers076.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers077.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεοχάρης"@grc , "Theochares"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers077.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers078.html>   rdf:type   lawd:Person ;
+          foaf:name   "Θεοχάριστος"@grc , "Theocharistus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers078.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers079.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἰορδάνης"@grc , "Jordanes"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers079.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers080.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἰωάννης"@grc , "Ioannes"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers080.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers081.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἰωάννης"@grc , "John"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers081.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers082.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἰωάννης"@grc , "John"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers082.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers083.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἰωάννης"@grc , "John"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers083.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers084.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἰωάννης"@grc , "John"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers084.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers085.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἰωάννης"@grc , "John"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers085.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers086.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἰωάννης"@grc , "John"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers086.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers087.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ἰωάννης Φιλάδελπος"@grc , "John Philadelphus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers087.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers088.html>   rdf:type   lawd:Person ;
+          foaf:name   "Καλλίνικος"@grc , "Callinicus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers088.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers089.html>   rdf:type   lawd:Person ;
+          foaf:name   "Κερεκόκκιως"@grc , "Κούρεος"@grc , "Kerekokkius"@en , "Curius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers089.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers090.html>   rdf:type   lawd:Person ;
+          foaf:name   "Κης"@grc , "Ke-"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers090.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers091.html>   rdf:type   lawd:Person ;
+          foaf:name   "Κλαυδία"@grc , "Claudia"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers091.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers092.html>   rdf:type   lawd:Person ;
+          foaf:name   "Κονσταντῖνος"@grc , "Constantinus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers092.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers093.html>   rdf:type   lawd:Person ;
+          foaf:name   "Κονσταντῖνος"@grc , "Constantinus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers093.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers094.html>   rdf:type   lawd:Person ;
+          foaf:name   "Κυριακός"@grc , "Cyriacus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers094.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers095.html>   rdf:type   lawd:Person ;
+          foaf:name   "Κυριακός"@grc , "Cyriacus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers095.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers096.html>   rdf:type   lawd:Person ;
+          foaf:name   "Κυριακός"@grc , "Cyriacus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers096.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers097.html>   rdf:type   lawd:Person ;
+          foaf:name   "Κωρίδιος"@grc , "Coridius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers097.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers098.html>   rdf:type   lawd:Person ;
+          foaf:name   "Κωσταντεν"@grc , "Constanten"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers098.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers099.html>   rdf:type   lawd:Person ;
+          foaf:name   "Λέον"@grc , "Leon"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers099.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers100.html>   rdf:type   lawd:Person ;
+          foaf:name   "Λέον"@grc , "Leon"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers100.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers101.html>   rdf:type   lawd:Person ;
+          foaf:name   "Λεόντιος"@grc , "Leontius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers101.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers102.html>   rdf:type   lawd:Person ;
+          foaf:name   "Λέων"@grc , "Leon"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers102.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers103.html>   rdf:type   lawd:Person ;
+          foaf:name   "Λέων"@grc , "Leon"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers103.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers104.html>   rdf:type   lawd:Person ;
+          foaf:name   "Λέων"@grc , "Leon"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers104.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers105.html>   rdf:type   lawd:Person ;
+          foaf:name   "Λουκᾶς"@grc , "Lucas"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers105.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers106.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μου"@grc , "Mou"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers106.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers107.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μαγ-"@grc , "Mag-"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers107.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers108.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μακηδόνιος"@grc , "Macedonius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers108.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers109.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μάμας"@grc , "Mamas"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers109.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers110.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μάξιμος"@grc , "Maximus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers110.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers111.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μαρδαητος"@grc , "Mardaetus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers111.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers112.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μαριανὸς"@grc , "Marianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers112.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers113.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μᾶρκος"@grc , "Marcus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers113.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers114.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μένανδρος"@grc , "Menander"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers114.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers115.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μένανδρος"@grc , "Menander"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers115.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers116.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μηχαήλ"@grc , "Michael"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers116.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers117.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μηχαήλ"@grc , "Michael"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers117.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers118.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μηχαήλ"@grc , "Michael"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers118.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers119.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μιχαήλ"@grc , "Michael"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers119.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers120.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μιχαήλ"@grc , "Michael"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers120.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers121.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μιχαήλ"@grc , "Michael"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers121.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers122.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μιχαήλ"@grc , "Michael"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers122.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers123.html>   rdf:type   lawd:Person ;
+          foaf:name   "Μόσχος"@grc , "Moschus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers123.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers124.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ναρσῆς"@grc , "Narses"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers124.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers125.html>   rdf:type   lawd:Person ;
+          foaf:name   "Νεικόμαχος Ἀντώνιος"@grc , "Nicomachus Antonius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers125.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers126.html>   rdf:type   lawd:Person ;
+          foaf:name   "Νηκήτας"@grc , "Nicetas"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers126.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers127.html>   rdf:type   lawd:Person ;
+          foaf:name   "Νικήφορος"@grc , "Nicephorus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers127.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers128.html>   rdf:type   lawd:Person ;
+          foaf:name   "Νικόλαος"@grc , "Nicolaus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers128.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers129.html>   rdf:type   lawd:Person ;
+          foaf:name   "Νουνέχιος"@grc , "Nounechius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers129.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers130.html>   rdf:type   lawd:Person ;
+          foaf:name   "-ορος"@grc , "-orus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers130.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers131.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ονήσιμος"@grc , "Onesimus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers131.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers132.html>   rdf:type   lawd:Person ;
+          foaf:name   "Πακός"@grc , "Pakos"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers132.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers133.html>   rdf:type   lawd:Person ;
+          foaf:name   "Παλλάδιος"@grc , "Palladius Flavius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers133.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers134.html>   rdf:type   lawd:Person ;
+          foaf:name   "Παλμα"@grc , "Palmas"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers134.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers135.html>   rdf:type   lawd:Person ;
+          foaf:name   "Παπαῖος"@grc , "Papeus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers135.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers136.html>   rdf:type   lawd:Person ;
+          foaf:name   "Παπίας"@grc , "Papias"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers136.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers137.html>   rdf:type   lawd:Person ;
+          foaf:name   "Περιτιανός"@grc , "Peritianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers137.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers138.html>   rdf:type   lawd:Person ;
+          foaf:name   "Περιτιανός Μάρκος Αὐρίλιος"@grc , "Peritianus Marcus Aurelius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers138.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers139.html>   rdf:type   lawd:Person ;
+          foaf:name   "Πέτρος"@grc , "Petros"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers139.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers140.html>   rdf:type   lawd:Person ;
+          foaf:name   "Πολυχρόνιος"@grc , "Polychronius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers140.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers141.html>   rdf:type   lawd:Person ;
+          foaf:name   "Πολυχρόνιος"@grc , "Polychronius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers141.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers142.html>   rdf:type   lawd:Person ;
+          foaf:name   "Πολυχρόνιος Μάρκος Αὐρίλιος Παπαῖος"@grc , "Polychronius Marcus Aurilius Papaeus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers142.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers143.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ποστύμιος"@grc , "Postumius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers143.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers144.html>   rdf:type   lawd:Person ;
+          foaf:name   "Πραύλιος"@grc , "Praulius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers144.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers145.html>   rdf:type   lawd:Person ;
+          foaf:name   "Προκόπιος"@grc , "Procopius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers145.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers146.html>   rdf:type   lawd:Person ;
+          foaf:name   "Πυθέας"@grc , "Pytheas"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers146.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers147.html>   rdf:type   lawd:Person ;
+          foaf:name   "Πυθιόδωρος"@grc , "Pythiodorus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers147.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers148.html>   rdf:type   lawd:Person ;
+          foaf:name   "-ρωτικος"@grc , "-roticus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers148.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers149.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ῥουφινία"@grc , "Rufinia"@en , "Rufinianus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers149.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers150.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ῥοῦφος"@grc , "Rufus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers150.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers151.html>   rdf:type   lawd:Person ;
+          foaf:name   "Ῥωμανός"@grc , "Romanus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers151.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers152.html>   rdf:type   lawd:Person ;
+          foaf:name   "Σεπτίμιος Φλάβιος"@grc , "Septimius Flavius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers152.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers153.html>   rdf:type   lawd:Person ;
+          foaf:name   "Στέφανος"@grc , "Stephanus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers153.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers154.html>   rdf:type   lawd:Person ;
+          foaf:name   "Στέφανος"@grc , "Stephanus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers154.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers155.html>   rdf:type   lawd:Person ;
+          foaf:name   "Στέφανος"@grc , "Stephanus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers155.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers156.html>   rdf:type   lawd:Person ;
+          foaf:name   "Στέφανος"@grc , "Stephanus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers156.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers157.html>   rdf:type   lawd:Person ;
+          foaf:name   "Συμβατίκιος"@grc , "Symbaticius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers157.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers158.html>   rdf:type   lawd:Person ;
+          foaf:name   "Συνόδιος"@grc , "Synodius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers158.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers159.html>   rdf:type   lawd:Person ;
+          foaf:name   "Τατιανός Φλάβιος Ἐυτόλμιος"@grc , "Tatianus Flavius Eutolmius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers159.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers160.html>   rdf:type   lawd:Person ;
+          foaf:name   "Τρύφων"@grc , "Tryphon"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers160.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers161.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φαβούλιος"@grc , "Phaboulius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers161.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers162.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φήληππως"@grc , "Philip"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers162.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers163.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φήλιππος"@grc , "Philip"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers163.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers164.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φίλιππος"@grc , "Philip"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers164.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers165.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φίλιππος"@grc , "Philip"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers165.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers166.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φίλιππος"@grc , "Philip"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers166.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers167.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φίλιππος"@grc , "Philip"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers167.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers168.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φιλόθεος"@grc , "Philotheus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers168.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers169.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φιλοσοφία"@grc , "Philosophia"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers169.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers170.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φλάβιος"@grc , "Flavius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers170.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers171.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φλάουιος"@grc , "Flavius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers171.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers172.html>   rdf:type   lawd:Person ;
+          foaf:name   "Φωτεῖνος"@grc , "Photeinus"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers172.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers173.html>   rdf:type   lawd:Person ;
+          foaf:name   "Χαρίτου"@grc , "Charito"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers173.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
+<http://digiclass.github.io/prosopography/Aphrodisias/pers174.html>   rdf:type   lawd:Person ;
+          foaf:name   "Scholasticius"@en ;
+          lawd:hasAttestation   <http://digiclass.github.io/prosopography/Aphrodisias/pers174.html#reference> ;
+ ;
+          lawd:associatedPlace   <http://pleiades.stoa.org/places/638753> .
+
