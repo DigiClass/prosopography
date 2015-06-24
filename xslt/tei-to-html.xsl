@@ -4,7 +4,7 @@
     <xsl:output method="html" doctype-public="-//W3C//DTD HTML 4.01//EN"
         doctype-system="http://www.w3.org/TR/html4/strict.dtd"/>
     <xsl:template match="/">
-        <xsl:result-document method="html" href="html-test/index.html">
+        <xsl:result-document method="html" href="html/index.html">
             <html>
                 <head>
                     <title>Index</title>
@@ -14,6 +14,8 @@
                     <h2>Table of Contents</h2>
                     <ul>
                         <xsl:for-each select="//tei:person">
+                            <xsl:value-of select="@xml:id"/>
+                            <xsl:text>. </xsl:text>
                             <li>
                                 <xsl:element name="a">
                                 <xsl:attribute name="href">
@@ -27,7 +29,7 @@
             </html>
         </xsl:result-document>
         <xsl:for-each select="//tei:person">
-            <xsl:result-document method="html" href="html-test/{@xml:id}.html">
+            <xsl:result-document method="html" href="html/{@xml:id}.html">
                 <html>
                     <head>
                         <title>
@@ -63,12 +65,14 @@
                             <xsl:value-of select="//tei:titleStmt/tei:title[1]"/>
                         </h1>
                         <h2>
+                            <xsl:value-of select="@xml:id"/>
+                            <xsl:text>. </xsl:text>
                             <xsl:value-of select="tei:persName[@xml:lang = 'en'][1]"/>
                         </h2>
                         <dl>
                             <dt>Permalink:</dt>
                             <dd>
-                                <a href="">http://digiclass.github.io/prosopography/Aphrodisias/<xsl:value-of
+                                <a href="">http://digiclass.github.io/prosopography/Aphrodisias/html/<xsl:value-of
                                         select="./@xml:id"/>.html</a>
                             </dd>
                             <dt>Type:</dt>
