@@ -10,7 +10,8 @@
                     <title>Index</title>
                 </head>
                 <body>
-                    <h1>Table of Contents</h1>
+                    <h1>Fasti and Prosopography of Aphrodisias</h1>
+                    <h2>Table of Contents</h2>
                     <ul>
                         <xsl:for-each select="//tei:person">
                             <li>
