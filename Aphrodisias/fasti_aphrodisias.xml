@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../xslt/tei-to-html.xsl"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FPAph">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Fasti and Prosopography of Aphrodisias</title>
+            <title type="full">Fasti and Prosopography of Aphrodisias</title>
+            <title type="abbrev">FPAph</title>
             <author xml:id="cmr">Charlotte M. Roueché</author>
             <author xml:id="gb">Gabriel Bodard</author>
             <author xml:id="av">Athanasia Varveri</author>
@@ -50,8 +51,8 @@
                   <occupation>πρεσβευτὴς Σεβαστῶν ἀντιστράτηγος</occupation>
                   <occupation>ἡγέμων</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla005.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla006.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla005.html">ALA 5</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla006.html">ALA 6</bibl>
                      <bibl>SEG 41.940</bibl>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/AurDiogenes.html</idno>
@@ -85,7 +86,7 @@
                   <occupation>praeses</occupation>
                   <occupation>ὑπατικὸς ἡγεμόνας</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla007.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla007.html">ALA 7</bibl>
                      <bibl>SEG 41.1101</bibl>
                      <relation/>
                   </listBibl>
@@ -213,8 +214,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla019.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.5</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla019.html">ALA 19</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.5">ALA commentary III.5</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="plre">PLRE I, Monaxius</idno>
@@ -227,10 +228,10 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla016.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla017.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla018.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-II.html#II.35</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla016.html">ALA 16</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla017.html">ALA 17</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla018.html">ALA 18</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-II.html#II.35">ALA commentary II.35</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="plre"> PLRE I</idno>
@@ -244,9 +245,9 @@
                   <occupation>governor</occupation>
                   <listBibl>
                      <bibl>Milet VI.1, 339, 340</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla020.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla021.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.13</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla020.html">ALA 20</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla021.html">ALA 21</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.13">ALA commentary III.13</bibl>
                   </listBibl>
                   <idno type="plre">PLRE I, Tatianus 2</idno>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/TatianusAnt.html</idno>
@@ -258,8 +259,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla022.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.16</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla022.html">ALA 22</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.16">ALA commentary III.16</bibl>
                   </listBibl>
                   <idno type="plre"> PLRE I, Constantius 6</idno>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/FlConstantius.html</idno>
@@ -271,11 +272,11 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla025.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla026.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla027.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla028.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.30</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla025.html">ALA 25</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla026.html">ALA 26</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla027.html">ALA 27</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla028.html">ALA 28</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.30">ALA commentary III.30</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="plre">PLRE I, Priscus 6</idno>
@@ -287,8 +288,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla031.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.33</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla031.html">ALA 31</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.33">ALA commentary III.33</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Oecumenius.html</idno>
@@ -300,8 +301,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla029.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla029.html">ALA 29</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32">ALA commentary III.32</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="plre"> PLRE I, Ioannes 4,</idno>
@@ -314,8 +315,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla032.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.35</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla032.html">ALA 32</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.35">ALA commentary III.35</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/alexander1.html</idno>
@@ -329,8 +330,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla036.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.5</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla036.html">ALA 36</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.5">ALA commentary IV.5</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="plre">PLRE I, Fl. Leontius Beronicianus</idno>
@@ -343,7 +344,7 @@
                   <occupation>governor</occupation>
                   <listBibl>
                      <bibl>I.Mylasa I.612</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.2</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.2">ALA commentary IV.2</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="plre">PLRE II, Baralach</idno>
@@ -355,8 +356,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla037.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.10</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla037.html">ALA 37</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.10">ALA commentary IV.10</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="plre">PLRE I, Fl. Leontius Beronicianus</idno>
@@ -368,10 +369,10 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla039.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla040.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla041.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.24</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla039.html">ALA 39</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla040.html">ALA 40</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla041.html">ALA 41</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.24">ALA commentary IV.24</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Dulcitius.html</idno>
@@ -383,8 +384,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla045.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.35</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla045.html">ALA 45</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.35">ALA commentary IV.35</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ioannes2.html</idno>
@@ -397,7 +398,7 @@
                   <occupation>ἀνὴρ φιλόχριστος</occupation>
                   <occupation>σχολαστικός</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.17</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.17">ALA commentary V.17</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -439,9 +440,9 @@
                   <occupation>consularis</occupation>
                   <occupation>acting vicar</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla062.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla063.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.33</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla062.html">ALA 62</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla063.html">ALA 63</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.33">ALA commentary V.33</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="plre">PLRE III, Ioannes 21 and 22</idno>
@@ -477,7 +478,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>consulatis</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-VI.html#VI.3</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-VI.html#VI.3">ALA commentary VI.3</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="plre"> PLRE III, Papius</idno>
@@ -490,11 +491,11 @@
                   <occupation>scholasticus</occupation>
                   <occupation>consularis</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla065.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla065.html">ALA 65</bibl>
                      <bibl>Miletus (published by H. Philipp, IstMitt. 29 (1979), 199 — 203</bibl>
                      <bibl>IstMitt 31 (1981), 181 — 9</bibl>
                      <bibl>SEG 41.979</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.38</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.38">ALA commentary V.38</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Vitianus.html</idno>
@@ -516,8 +517,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla064.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.37</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla064.html">ALA 64</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.37">ALA commentary V.37</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -541,7 +542,7 @@
                   <occupation>bishop</occupation>
                   <listBibl>
                      <bibl>E. Honigmann, Byzantion 14 (1939), 38</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-II.html#II.20</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-II.html#II.20">ALA commentary II.20</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -564,7 +565,7 @@
                      <bibl>A. Crabbe, JTS 32 (1981) 373 no. 28, 383 no. 30</bibl>
                      <bibl>E. Honigmann, Byzantion 16 (1940), 34 no. 10</bibl>
                      <bibl>CTh II.1.37</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.3</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.3">ALA commentary IV.3</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -575,7 +576,7 @@
                   <occupation>bishop</occupation>
                   <listBibl>
                      <bibl>E. Honigmann, Byzantion 16 (1940) 51</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.3</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.3">ALA commentary IV.3</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -586,7 +587,7 @@
                   <occupation>bishop</occupation>
                   <listBibl>
                      <bibl> Zacharias 36</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.17</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.17">ALA commentary V.17</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -597,7 +598,7 @@
                   <occupation>bishop</occupation>
                   <listBibl>
                      <bibl>Theophanes 154. 9</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.25</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.25">ALA commentary V.25</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -608,8 +609,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>bishop</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla060.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.25</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla060.html">ALA 60</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-V.html#V.25">ALA commentary V.25</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Euphemiusbishop.html</idno>
@@ -631,7 +632,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>bishop</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-VI.html#VI.39</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-VI.html#VI.39">ALA commentary VI.39</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -641,7 +642,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>bishop</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-VI.html#VI.39</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-VI.html#VI.39">ALA commentary VI.39</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -652,8 +653,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>bisghop</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla090.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-VI.html#VI.36</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla090.html">ALA 90</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-VI.html#VI.36">ALA commentary VI.36</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Orthagoras.html</idno>
@@ -665,9 +666,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>bishop</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla165.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla166.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IX.html#IX.35</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla165.html">ALA 165</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla166.html">ALA 166</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IX.html#IX.35">ALA commentary IX.35</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theopropius1.html</idno>
@@ -912,7 +913,7 @@
                      <bibl>Patr.Reg. 1077</bibl>
                      <bibl>W. H. Buckler, BZ 28 (1928), 98-101</bibl>
                      <bibl>IRAIK 13 (1908),19</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-VII.html#VII.26</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-VII.html#VII.26">ALA commentary VII.26</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -979,7 +980,7 @@
                      <bibl>Patr.Reg. 2827, from MM II. 398, 106-8</bibl>
                      <bibl>Patr.Reg. 2829, from MM II. 399, 108-Il</bibl>
                      <bibl>Patr.Reg. 2939 from MM II. 451, 197-99</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-VII.html#VII.29</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-VII.html#VII.29">ALA commentary VII.29</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -1022,8 +1023,8 @@
                   <occupation>first archon</occupation>
                   <occupation>axiologotatos</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla004.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla005.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla004.html">ALA 4</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla005.html">ALA 5</bibl>
                      <relation ref="snap:SonOf" active="#fas081" passive="#pers125">
                         <desc>son of Nicomachus Antonius</desc>
                      </relation>
@@ -1040,7 +1041,7 @@
                   <occupation>fisrt archon</occupation>
                   <occupation>axiologotatos</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla006.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla006.html">ALA 6</bibl>
                      <relation ref="snap:FatherOf" active="#fas082" passive="#fas083" cert="low">
                         <desc>father of Hermogenes</desc>
                      </relation>
@@ -1068,7 +1069,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>first archon</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla007.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla007.html">ALA 7</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/marcianus.html</idno>
@@ -1083,8 +1084,8 @@
                   <occupation>Curiales</occupation>
                   <occupation>πολιτευόμενοι</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html">ALA 151</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32">ALA commentary III.32</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -1096,8 +1097,8 @@
                   <occupation>Curiales</occupation>
                   <occupation>πολιτευόμενοι</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla030.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla030.html">ALA 30</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32">ALA commentary III.32</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="lgpn-hr">V.B Μένανδρος 64</idno>
@@ -1111,8 +1112,8 @@
                   <occupation>Curiales</occupation>
                   <occupation>πολιτευόμενοι</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla089.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla089.html">ALA 89</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-III.html#III.32">ALA commentary III.32</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="lgpn-hr">V.B Θεόπομπος 1</idno>
@@ -1136,7 +1137,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>first men of the council</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla073.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla073.html">ALA 73</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="lgpn-hr">V.B Ἰωάννης 7</idno>
@@ -1150,10 +1151,10 @@
                   <occupation>father of the city</occupation>
                   <occupation>scholasticus</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla038.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla042.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla043.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla044.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla038.html">ALA 38</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla042.html">ALA 42</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla043.html">ALA 43</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla044.html">ALA 44</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ampelius.html</idno>
@@ -1167,8 +1168,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>father of the city</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla061.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla061.html">ALA 61</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23">ALA commentary IV.23</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/o1.html</idno>
@@ -1180,8 +1181,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>father of the city</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla062.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla062.html">ALA 62</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23">ALA commentary IV.23</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/atheneos.html</idno>
@@ -1195,7 +1196,7 @@
                   <occupation>father of the city</occupation>
                   <listBibl>
                      <bibl>Justinian, Nov. 160, cited VI.3</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23">ALA commentary IV.23</bibl>
                      <relation/>
                   </listBibl>
                </person>
@@ -1207,9 +1208,9 @@
                   <occupation>father of the city</occupation>
                   <occupation>scholasticus</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla068.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla069.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla238.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla068.html">ALA 68</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla069.html">ALA 69</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla238.html">ALA 238</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/photius1.html</idno>
@@ -1223,8 +1224,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>fathers of the city</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla085.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla085.html">ALA 85</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23">ALA commentary IV.23</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Rhodopaeus.html</idno>
@@ -1238,8 +1239,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/599564">Caria</affiliation>
                   <occupation>father of the city</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla089.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla089.html">ALA 89</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/narrative/sec-IV.html#IV.23">ALA commentary IV.23</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theopompus.html</idno>
@@ -1255,7 +1256,7 @@
                   <occupation>ὑπατικὸς ἡγεμόνας</occupation>
                   <listBibl>
                      <bibl>PIR (2) O 0115</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla007.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla007.html">ALA 7</bibl>
                      <bibl>Christol, Carrières, 219-21</bibl>
                      <relation/>
                   </listBibl>
@@ -1273,7 +1274,7 @@
                   <occupation>ὑπατικὸς ἡγέμων</occupation>
                   <listBibl>
                      <bibl>PIR Addenda</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla253.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla253.html">ALA 253</bibl>
                      <bibl>F. G. B. Millar, The Roman Near East (Harvard, 1993), Appendix C</bibl>
                      <bibl> I.Selge 12</bibl>
                      <bibl>Thomas Corsten, I.Laodikeia am Lykos, 46</bibl>
@@ -1314,7 +1315,7 @@
                   <floruit notBefore="0567" notAfter="0633"> Late sixth/early seventh century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation active="#pers001" ref="snap:BrotherOf" passive="#pers025">
                         <desc>Brother of George</desc>
                      </relation>
@@ -1330,7 +1331,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>epitaph</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla163.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla163.html">ALA 163</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/athanasius1.html</idno>
@@ -1344,7 +1345,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>epitaph</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla171.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla171.html">ALA 171</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/athanasius2.html</idno>
@@ -1355,7 +1356,7 @@
                   <floruit notBefore="0201" notAfter="0400"> Late imperial </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla193.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla193.html">ALA 193</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/aelianus1.html</idno>
@@ -1369,8 +1370,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>clarissimus</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla082.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla083.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla082.html">ALA 82</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla083.html">ALA 83</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Albinus.html</idno>
@@ -1384,7 +1385,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>barber</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla191.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla191.html">ALA 191</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/alexander2.html</idno>
@@ -1398,8 +1399,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>donor in the Temple-Church</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla094.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla095.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla094.html">ALA 94</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla095.html">ALA 95</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Anastasius.html</idno>
@@ -1414,7 +1415,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>donor in the Temple-Church</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla098.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla098.html">ALA 98</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Anatolis.html</idno>
@@ -1428,7 +1429,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>donor in the Theatre</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla034.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla034.html">ALA 34</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Androcles.html</idno>
@@ -1443,7 +1444,7 @@
                   <occupation>perfectissimus</occupation>
                   <occupation> sculptor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla013.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla013.html">ALA 13</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/FlAndronicus.html</idno>
@@ -1456,7 +1457,7 @@
                   <floruit notBefore="0405" notAfter="0414"> AD 405/414 </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla036.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla036.html">ALA 36</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Anthemius.html</idno>
@@ -1467,7 +1468,7 @@
                   <floruit notBefore="0551" notAfter="0551"> AD 551 </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html">ALA 164</bibl>
                      <relation ref="snap:HusbandOf" active="#pers012" passive="#pers065">
                         <desc>husband of Theodoreta</desc>
                      </relation>
@@ -1488,7 +1489,7 @@
                   <floruit notBefore="0401" notAfter="0600"> Fifth-sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla162.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla162.html">ALA 162</bibl>
                      <relation ref="snap:SonOf" active="#pers013" passive="#pers030">
                         <desc>son of Damocharis</desc>
                      </relation>
@@ -1507,8 +1508,8 @@
                   <listBibl>
                      <bibl>PLRE II, Asclepiodotus 2</bibl>
                      <bibl>Dictionnaire des philosophes antiques (Paris, 1989-) A 454</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla053.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla054.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla053.html">ALA 53</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla054.html">ALA 54</bibl>
                      <relation ref="snap:FatherOf" active="#pers014" passive="pers''">
                         <desc>father of Damiane</desc>
                      </relation>
@@ -1523,7 +1524,7 @@
                   <floruit notBefore="0301"> Fourth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla175.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla175.html">ALA 175</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/asclepiodotus1.html</idno>
@@ -1538,7 +1539,7 @@
                   <occupation>pandouros</occupation>
                   <occupation>πανδούρος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla113.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla113.html">ALA 113</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/asterius1.html</idno>
@@ -1553,7 +1554,7 @@
                   <occupation>cursor of the phylae</occupation>
                   <occupation>κούρσορος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla150.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla150.html">ALA 150</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/asterius2.html</idno>
@@ -1568,7 +1569,7 @@
                   <occupation>teacher</occupation>
                   <occupation>διδάσκαλος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html">ALA 151</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/auchenius1.html</idno>
@@ -1581,7 +1582,7 @@
                   <floruit notBefore="0567" notAfter="0633"> Late sixth/early seventh century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation ref="snap:FatherOf" active="#pers019" passive="#pers078">
                         <desc>father of Theocharistus</desc>
                      </relation>
@@ -1597,7 +1598,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla147.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla147.html">ALA 147</bibl>
                      <relation ref="snap:FatherOf" active="#pers020" passive="#pers040">
                         <desc>father of Euarestus</desc>
                      </relation>
@@ -1613,7 +1614,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>princeps officii</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla041.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla041.html">ALA 41</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Valerianus.html</idno>
@@ -1626,7 +1627,7 @@
                   <occupation>a prefect</occupation>
                   <occupation>λαμπρότατος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla072.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla072.html">ALA 72</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Victor.html</idno>
@@ -1639,7 +1640,7 @@
                   <occupation>praefectus vehiculorum</occupation>
                   <occupation>πρωτηκτόρων ἔπαρχος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla152.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla152.html">ALA 152</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/victorinus1.html</idno>
@@ -1651,7 +1652,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html">ALA 132</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george3.html</idno>
@@ -1666,7 +1667,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation active="#pers025" ref="snap:BrotherOf" passive="#pers001">
                         <desc>brother of Abelcius</desc>
                      </relation>
@@ -1682,7 +1683,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla131.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla131.html">ALA 131</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george2.html</idno>
@@ -1696,7 +1697,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla241.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla241.html">ALA 241</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george6.html</idno>
@@ -1709,7 +1710,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla247.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla247.html">ALA 247</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/george5.html</idno>
@@ -1724,7 +1725,7 @@
                   <occupation>cursor</occupation>
                   <occupation>κούρσορος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla116.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla116.html">ALA 116</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/damocharis2.html</idno>
@@ -1738,7 +1739,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla162.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla162.html">ALA 162</bibl>
                      <relation ref="snap:FatherOf" active="#pers030" passive="#pers013">
                         <desc>father of Arcimus</desc>
                      </relation>
@@ -1753,7 +1754,7 @@
                   <floruit notBefore="0101" notAfter="0400"> Second/fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla148.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla148.html">ALA 148</bibl>
                      <relation ref="snap:DaughterOf" active="#pers031" passive="#pers155">
                         <desc>daughter of Stephanus</desc>
                      </relation>
@@ -1770,7 +1771,7 @@
                   <occupation>doctor</occupation>
                   <occupation>ἰατρός</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla067.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla067.html">ALA 67</bibl>
                      <relation ref="snap:SonOf" active="#pers032" passive="#pers172">
                         <desc>son of Photeinus</desc>
                      </relation>
@@ -1785,7 +1786,7 @@
                   <floruit notBefore="0201" notAfter="0400"> ?Late imperial </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla195.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla195.html">ALA 195</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/heortasius1.html</idno>
@@ -1800,7 +1801,7 @@
                   <occupation>capsarius</occupation>
                   <occupation>κανψάριος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla190.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla190.html">ALA 190</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Epictetus.html</idno>
@@ -1815,7 +1816,7 @@
                   <occupation>bull-rearer</occupation>
                   <occupation>ταυρωτρόφος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla237.html#</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla237.html">ALA 237</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/epiphanios1.html</idno>
@@ -1828,7 +1829,7 @@
                   <floruit notBefore="0201" notAfter="0400"> ?Late imperial </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla207.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla207.html">ALA 207</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/heptamenius1.html</idno>
@@ -1842,7 +1843,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>benefactor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla074.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla074.html">ALA 74</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/hermias1.html</idno>
@@ -1855,7 +1856,7 @@
                   <floruit notBefore="0301" notAfter="0600"> Fourth to sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla223.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla223.html">ALA 223</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/hermias3.html</idno>
@@ -1868,7 +1869,7 @@
                   <floruit notBefore="0401" notAfter="0600"> Fifth/sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla072.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla072.html">ALA 72</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/hermias2.html</idno>
@@ -1881,7 +1882,7 @@
                   <floruit notBefore="0101" notAfter="0400"> Second/fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla147.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla147.html">ALA 147</bibl>
                      <relation ref="snap:SonOf" active="#pers040" passive="#pers020">
                         <desc>son of Acheus</desc>
                      </relation>
@@ -1897,7 +1898,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>benefactor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla088.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla088.html">ALA 88</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Eugenius.html</idno>
@@ -1912,7 +1913,7 @@
                   <occupation>phylarch</occupation>
                   <occupation>φύλαρχος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla201.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla201.html">ALA 201</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eugraphius1.html</idno>
@@ -1926,7 +1927,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla245.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla245.html">ALA 245</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/euthal-.html</idno>
@@ -1940,7 +1941,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla156.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla156.html">ALA 156</bibl>
                      <relation ref="snap:FatherOf" active="#pers044" passive="#pers079">
                         <desc>father of Jordanes</desc>
                      </relation>
@@ -1955,7 +1956,7 @@
                   <floruit notBefore="0401"> Fifth or sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla222.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla222.html">ALA 222</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eulamius1.html</idno>
@@ -1970,7 +1971,7 @@
                   <occupation>benefactor</occupation>
                   <occupation>sophist</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla033.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla033.html">ALA 33</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Eupeithius.html</idno>
@@ -1985,7 +1986,7 @@
                   <occupation>former primipilaris</occupation>
                   <occupation>πριμιπιλάριος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla010.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla010.html">ALA 10</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eusebius1.html</idno>
@@ -1999,8 +2000,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>benefactor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla046.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla047.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla046.html">ALA 46</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla047.html">ALA 47</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Eustochius.html</idno>
@@ -2013,7 +2014,7 @@
                   <floruit notBefore="0201" notAfter="0400"> Third-fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla149.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla149.html">ALA 149</bibl>
                      <relation ref="snap:BrotherOf" active="#pers049" passive="#pers060">
                         <desc>brother of Heraclius</desc>
                      </relation>
@@ -2034,7 +2035,7 @@
                   <floruit notBefore="0401" notAfter="0600"> Fifth/sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla172.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla172.html">ALA 172</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eutychia1.html</idno>
@@ -2048,7 +2049,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>benefactor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla239.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla239.html">ALA 239</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/eutychianos1.html</idno>
@@ -2061,7 +2062,7 @@
                   <floruit notBefore="0543" notAfter="0558"> AD 543 or AD 558 </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla157.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla157.html">ALA 157</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/euphemia1.html</idno>
@@ -2074,7 +2075,7 @@
                   <floruit notBefore="0301" notAfter="0500"> Fourth-fifth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla217.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla217.html">ALA 217</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/zerkounes.html</idno>
@@ -2093,8 +2094,8 @@
                   <occupation> κόμης</occupation>
                   <listBibl>
                      <bibl>PLRE II, Zeno 5</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla011.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla012.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla011.html">ALA 11</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla012.html">ALA 12</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/FlZeno.html</idno>
@@ -2109,7 +2110,7 @@
                   <occupation>peddlar</occupation>
                   <occupation>κάπηλος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla206.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla206.html">ALA 206</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/zoticus2.html</idno>
@@ -2123,8 +2124,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla169.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla243.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla169.html">ALA 169</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla243.html">ALA 243</bibl>
                      <relation ref="snap:BrotherOf" active="#pers056" passive="#pers068">
                         <desc>brother of Theodore</desc>
                      </relation>
@@ -2142,7 +2143,7 @@
                   <floruit notBefore="0201" notAfter="0400"> Late imperial </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla201.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla201.html">ALA 201</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/zoticus1.html</idno>
@@ -2156,7 +2157,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>responsible for work in the Hadrianic Baths</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla051.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla051.html">ALA 51</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/flavius3.html</idno>
@@ -2169,7 +2170,7 @@
                   <occupation>elachistus</occupation>
                   <occupation>ἐλάχιστος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla106.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla106.html">ALA 106</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Heliodorus.html</idno>
@@ -2182,7 +2183,7 @@
                   <floruit notBefore="0201" notAfter="0400"> Third-fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla149.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla149.html">ALA 149</bibl>
                      <relation ref="snap:BrotherOf" active="#pers060" passive="#pers138">
                         <desc>brother of Peritianus</desc>
                      </relation>
@@ -2203,7 +2204,7 @@
                   <floruit notBefore="0467" notAfter="0533"> Late fifth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla066.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla066.html">ALA 66</bibl>
                      <relation ref="snap:FatherOf" active="#pers061" passive="#pers164">
                         <desc>father of Philip</desc>
                      </relation>
@@ -2216,7 +2217,7 @@
                   <floruit notBefore="0301" notAfter="0600"> Fourth-sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla154.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla154.html">ALA 154</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/thea-.html</idno>
@@ -2227,7 +2228,7 @@
                   <floruit notBefore="0501"> Sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla174.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla174.html">ALA 174</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theodocius1.html</idno>
@@ -2242,7 +2243,7 @@
                   <occupation>reader</occupation>
                   <occupation>ἀναγνόστης</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation ref="snap:SonOf" active="#pers064" passive="#pers150">
                         <desc>son of Rufus</desc>
                      </relation>
@@ -2260,7 +2261,7 @@
                   <floruit notBefore="0551" notAfter="0551"> AD 551 </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html">ALA 164</bibl>
                      <relation ref="snap:WifeOf" active="#pers065" passive="#pers012">
                         <desc>wife of Aristolaus</desc>
                      </relation>
@@ -2279,8 +2280,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>donor in Temple-Church</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla092.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla093.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla092.html">ALA 92</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla093.html">ALA 93</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theodoretus1.html</idno>
@@ -2293,7 +2294,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla114.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla114.html">ALA 114</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theodore2.html</idno>
@@ -2308,7 +2309,7 @@
                   <occupation>keromatites</occupation>
                   <occupation>κηροματίτης</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla169.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla169.html">ALA 169</bibl>
                      <relation ref="snap:BrotherOf" active="#pers068" passive="#pesr056">
                         <desc>brother of Zoetus</desc>
                      </relation>
@@ -2323,7 +2324,7 @@
                   <floruit notBefore="0301" notAfter="0600"> Fourth-sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla192.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla192.html">ALA 192</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theodorus5.html</idno>
@@ -2340,7 +2341,7 @@
                   <occupation>πρωταναγνώστης</occupation>
                   <occupation>ἐφεστῶτος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla115.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla115.html">ALA 115</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theodore3.html</idno>
@@ -2353,8 +2354,8 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla202.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla204.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla202.html">ALA 202</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla204.html">ALA 204</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theoctistus1.html</idno>
@@ -2368,7 +2369,7 @@
                   <floruit notBefore="0301"> Fourth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla243.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla243.html">ALA 243</bibl>
                      <relation ref="snap:FatherOf" active="#pers072" passive="#pers056">
                         <desc>father of Zoetus</desc>
                      </relation>
@@ -2387,7 +2388,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>butcher</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla117.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla117.html">ALA 117</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/theophilus1.html</idno>
@@ -2404,7 +2405,7 @@
                   <listBibl>
                      <bibl>PLRE III, Theophylact 2</bibl>
                      <bibl>PLRE III, Theophylact 10</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theophylact1.html</idno>
@@ -2419,7 +2420,7 @@
                   <occupation>deacon</occupation>
                   <occupation> διάκονος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theophylact2.html</idno>
@@ -2433,7 +2434,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html">ALA 132</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theophylact3.html</idno>
@@ -2447,7 +2448,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>donor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla102.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla102.html">ALA 102</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Theochares.html</idno>
@@ -2460,7 +2461,7 @@
                   <floruit notBefore="0567" notAfter="0633"> Late sixth/early seventh century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation ref="snap:SonOf" active="#pers078" passive="#pers019">
                         <desc>son of Achaeus</desc>
                      </relation>
@@ -2475,7 +2476,7 @@
                   <floruit notBefore="0401" notAfter="0600"> Fifth/sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla156.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla156.html">ALA 156</bibl>
                      <relation ref="snap:SonOf" active="#pers079" passive="#pers044">
                         <desc>son of Eulalius</desc>
                      </relation>
@@ -2490,7 +2491,7 @@
                   <floruit notBefore="0401" notAfter="0600"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html">ALA 132</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ioannes9.html</idno>
@@ -2504,7 +2505,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>benefactor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla048.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla048.html">ALA 48</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ioannes4.html</idno>
@@ -2519,7 +2520,7 @@
                   <occupation>first man of the council</occupation>
                   <occupation>πρωτόθρονος ἀνέρας βουλῆς</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla073.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla073.html">ALA 73</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ioannes3.html</idno>
@@ -2533,7 +2534,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>benefactor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla107.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla107.html">ALA 107</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ioannes5.html</idno>
@@ -2547,7 +2548,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla133.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla133.html">ALA 133</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ioannes6.html</idno>
@@ -2561,7 +2562,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla171.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla171.html">ALA 171</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ioannes7.html</idno>
@@ -2576,7 +2577,7 @@
                   <occupation>eloquentissimus</occupation>
                   <occupation>ἐλλογιμώτατος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla205.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla205.html">ALA 205</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Ioannes8.html</idno>
@@ -2589,7 +2590,7 @@
                   <floruit notBefore="0551" notAfter="0551"> AD 551 </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html">ALA 164</bibl>
                      <relation ref="snap:HusbandOf" active="#pers087" passive="#pers169">
                         <desc>husband of Philosophia</desc>
                      </relation>
@@ -2604,7 +2605,7 @@
                   <floruit notBefore="0401" notAfter="0600"> Fifth-sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla200.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla200.html">ALA 200</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/callinicus1.html</idno>
@@ -2619,7 +2620,7 @@
                   <floruit notBefore="0301"> Fourth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla142.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla142.html">ALA 142</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/kerek.html</idno>
@@ -2632,7 +2633,7 @@
                   <floruit notBefore="0301"> Fourth/fifth/sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla203.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla203.html">ALA 203</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/kes.html</idno>
@@ -2643,7 +2644,7 @@
                   <floruit notBefore="0301" notAfter="0600"> Fourth-sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla153.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla153.html">ALA 153</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/claudia1.html</idno>
@@ -2658,7 +2659,7 @@
                   <occupation>deacon</occupation>
                   <occupation>δηάκων</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla117.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla117.html">ALA 117</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/constantine1.html</idno>
@@ -2671,7 +2672,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla133.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla133.html">ALA 133</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/constantine3.html</idno>
@@ -2685,8 +2686,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>donor in Temple-Church</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla092.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla093.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla092.html">ALA 92</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla093.html">ALA 93</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Cyriacus1.html</idno>
@@ -2700,7 +2701,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>priest</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla168.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla168.html">ALA 168</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Cyriacus2.html</idno>
@@ -2715,7 +2716,7 @@
                   <occupation>trousers-maker</occupation>
                   <occupation> βρακάριος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla189.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla189.html">ALA 189</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/cyriacus3.html</idno>
@@ -2728,7 +2729,7 @@
                   <floruit notBefore="0301" notAfter="0400"> Third-fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla149.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla149.html">ALA 149</bibl>
                      <relation ref="snap:FatherOf" active="#pers097" passive="#pers137">
                         <desc>father of Peritianus</desc>
                      </relation>
@@ -2743,7 +2744,7 @@
                   <floruit notBefore="0301" notAfter="0350"> First half fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla140.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla140.html">ALA 140</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/constantine4.html</idno>
@@ -2756,7 +2757,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla113.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla113.html">ALA 113</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/leon1.html</idno>
@@ -2770,7 +2771,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>domesticus</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla131.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla131.html">ALA 131</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/leon4.html</idno>
@@ -2783,7 +2784,7 @@
                   <floruit notBefore="0267" notAfter="0333"> Late third/early fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html">ALA 151</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/leontius1.html</idno>
@@ -2796,7 +2797,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla121.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla121.html">ALA 121</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/leon2.html</idno>
@@ -2809,7 +2810,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla125.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla125.html">ALA 125</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/leon3.html</idno>
@@ -2822,7 +2823,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century, or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla211.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla211.html">ALA 211</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/leon5.html</idno>
@@ -2837,7 +2838,7 @@
                   <occupation>philoponus</occupation>
                   <occupation>φιλόπονος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla187.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla187.html">ALA 187</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/lucas1.html</idno>
@@ -2850,7 +2851,7 @@
                   <floruit notBefore="0401" notAfter="0600"> Fifth-sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla199.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla199.html">ALA 199</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/m-us.html</idno>
@@ -2861,7 +2862,7 @@
                   <floruit notBefore="0301"> Fourth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla178.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla178.html">ALA 178</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/mag.html</idno>
@@ -2872,7 +2873,7 @@
                   <floruit notBefore="0401" notAfter="0600"> Fifth or sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla158.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla158.html">ALA 158</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/macedonius1.html</idno>
@@ -2886,7 +2887,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>donor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla103.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla103.html">ALA 103</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Mamas.html</idno>
@@ -2899,7 +2900,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla171.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla171.html">ALA 171</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/maximus1.html</idno>
@@ -2910,7 +2911,7 @@
                   <floruit notBefore="0401" notAfter="0600"> Fifth or sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla059.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla059.html">ALA 59</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Mardaetus.html</idno>
@@ -2925,7 +2926,7 @@
                   <occupation>deacon</occupation>
                   <occupation>διάκονος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/marianus1.html</idno>
@@ -2938,7 +2939,7 @@
                   <floruit notBefore="0267" notAfter="0333"> Late third/early fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html">ALA 151</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/marcus1.html</idno>
@@ -2951,7 +2952,7 @@
                   <occupation>vicar</occupation>
                   <listBibl>
                      <bibl>PLRE I, Menander 7</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla024.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla024.html">ALA 24</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Menander1.html</idno>
@@ -2967,7 +2968,7 @@
                   <occupation>benefactor</occupation>
                   <occupation>πολιτευομένου</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla030.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla030.html">ALA 30</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Menander2.html</idno>
@@ -2982,7 +2983,7 @@
                   <occupation>supplicant</occupation>
                   <occupation>angel</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla124.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla124.html">ALA 124</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/michael2.html</idno>
@@ -2997,7 +2998,7 @@
                   <occupation>supplicant</occupation>
                   <occupation>angel</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html">ALA 132</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/michael4.html</idno>
@@ -3010,7 +3011,7 @@
                   <floruit notBefore="0301"> Fourth-fifth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla217.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla217.html">ALA 217</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/michael7.html</idno>
@@ -3026,7 +3027,7 @@
                   <occupation>supplicant</occupation>
                   <occupation>angel</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla101.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla101.html">ALA 101</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/michael6.html</idno>
@@ -3040,7 +3041,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>supplicant</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla119.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla119.html">ALA 119</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/michael1.html</idno>
@@ -3053,7 +3054,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html">ALA 132</bibl>
                      <relation ref="snap:SonOf" active="#pers121" passive="#pers134">
                         <desc>son of Palmas</desc>
                      </relation>
@@ -3070,7 +3071,7 @@
                   <occupation>subdeacon</occupation>
                   <occupation>ὑποδιάκονος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla133.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla133.html">ALA 133</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/michael5.html</idno>
@@ -3086,7 +3087,7 @@
                   <floruit notBefore="0401"> Fifth or sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla222.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla222.html">ALA 222</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/moschus1.html</idno>
@@ -3099,7 +3100,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla170.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla170.html">ALA 170</bibl>
                      <relation ref="snap:HusbandOf" active="#pers124" passive="#pers173">
                         <desc>husband of Charito</desc>
                      </relation>
@@ -3115,8 +3116,8 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>ἀξιολογώτατος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla004.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla005.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla004.html">ALA 4</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla005.html">ALA 5</bibl>
                      <relation ref="snap:FatherOf" active="#pers125" passive="#fas081">
                         <desc>father of Antonius Claudius Nicomachus</desc>
                      </relation>
@@ -3129,7 +3130,7 @@
                   <floruit notBefore="0301"> Fourth-fifth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla217.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla217.html">ALA 217</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/nicetas1.html</idno>
@@ -3142,7 +3143,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla133.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla133.html">ALA 133</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/nicephorus1.html</idno>
@@ -3155,7 +3156,7 @@
                   <floruit notBefore="0901"> Tenth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla173.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla173.html">ALA 173</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/nicolaus1.html</idno>
@@ -3166,7 +3167,7 @@
                   <floruit notBefore="0567" notAfter="0633"> Late sixth/early seventh century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation ref="snap:SonOf" active="#pers129" passive="#pers161">
                         <desc>son of Phaboulius</desc>
                      </relation>
@@ -3181,7 +3182,7 @@
                   <floruit notBefore="0401"> Fifth or sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla222.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla222.html">ALA 222</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/orus1.html</idno>
@@ -3192,7 +3193,7 @@
                   <floruit> Very uncertain </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla126.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla126.html">ALA 126</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/onesimus1.html</idno>
@@ -3206,7 +3207,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>donor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla103.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla103.html">ALA 103</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Pakos.html</idno>
@@ -3220,7 +3221,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>sculptor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla252.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla252.html">ALA 252</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Palladius.html</idno>
@@ -3233,7 +3234,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla132.html">ALA 132</bibl>
                      <relation type="ala" active="#pers134" passive="#pers121">
                         <desc>father of Michael</desc>
                      </relation>
@@ -3248,7 +3249,7 @@
                   <floruit notBefore="0257" notAfter="0333"> Late third/early fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html">ALA 151</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/papaeus1.html</idno>
@@ -3262,7 +3263,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>curialis</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html">ALA 151</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/papias1.html</idno>
@@ -3275,7 +3276,7 @@
                   <floruit notBefore="0201" notAfter="0400"> Third-fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla149.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla149.html">ALA 149</bibl>
                      <relation ref="snap:FatherOf" active="#pers137" passive="#pers138">
                         <desc>father of Peritianus</desc>
                      </relation>
@@ -3299,7 +3300,7 @@
                   <floruit notBefore="0201" notAfter="0400"> Third-fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla149.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla149.html">ALA 149</bibl>
                      <relation ref="snap:SonOf" active="#pers138" passive="#pers137">
                         <desc>son of Peritianus</desc>
                      </relation>
@@ -3320,7 +3321,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla118.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla118.html">ALA 118</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/petros1.html</idno>
@@ -3333,7 +3334,7 @@
                   <floruit notBefore="0301"> Fourth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla176.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla176.html">ALA 176</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/polychronius2.html</idno>
@@ -3347,7 +3348,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>boxer</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla214.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla214.html">ALA 214</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/polychronius3.html</idno>
@@ -3361,7 +3362,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>διοικητής</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla151.html">ALA 151</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/polychronius1.html</idno>
@@ -3374,7 +3375,7 @@
                   <floruit notBefore="0501"> Sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla210.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla210.html">ALA 210</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/postum-.html</idno>
@@ -3387,7 +3388,7 @@
                   <floruit notBefore="0201" notAfter="0400"> Third-fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla150.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla150.html">ALA 150</bibl>
                      <relation ref="snap:FatherOf" active="#pers144" passive="#pers148">
                         <desc>father of -roticus</desc>
                      </relation>
@@ -3402,7 +3403,7 @@
                   <floruit notBefore="0567" notAfter="0633"> Late sixth/early seventh century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation ref="snap:SonOf" active="#pers145" passive="#pers150">
                         <desc>son of Rufus</desc>
                      </relation>
@@ -3422,10 +3423,10 @@
                   <occupation>magnificentissimus</occupation>
                   <occupation>benefactor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla056.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla057.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla058.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla250.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla056.html">ALA 56</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla057.html">ALA 57</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla058.html">ALA 58</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla250.html">ALA 250</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Pytheas.html</idno>
@@ -3441,7 +3442,7 @@
                   <occupation>poet</occupation>
                   <occupation>ῥητὴρ</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla038.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla038.html">ALA 38</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Pythiodorus.html</idno>
@@ -3454,7 +3455,7 @@
                   <floruit notBefore="0201" notAfter="0400"> Third-fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla150.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla150.html">ALA 150</bibl>
                      <relation ref="snap:SonOf" active="#pers148" passive="#pers144">
                         <desc>son of Praulius</desc>
                      </relation>
@@ -3468,7 +3469,7 @@
                   <floruit notBefore="0301"> Fourth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla177.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla177.html">ALA 177</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/rufinia1.html</idno>
@@ -3481,7 +3482,7 @@
                   <occupation>doctor</occupation>
                   <occupation>ἰατρος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation ref="snap:FatherOf" active="#pers150" passive="#pers064">
                         <desc>father of Theodorus</desc>
                      </relation>
@@ -3499,7 +3500,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla134.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla134.html">ALA 134</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/romanus1.html</idno>
@@ -3513,7 +3514,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>governor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla035.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla035.html">ALA 35</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Septimius.html</idno>
@@ -3526,7 +3527,7 @@
                   <occupation>subdeacon</occupation>
                   <occupation>ὑποδιάκονος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla120.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla120.html">ALA 120</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/stephanus1.html</idno>
@@ -3539,7 +3540,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla121.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla121.html">ALA 121</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/stephanus2.html</idno>
@@ -3552,7 +3553,7 @@
                   <floruit notBefore="0101" notAfter="0400"> Second/fourth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla148.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla148.html">ALA 148</bibl>
                      <relation ref="snap:FatherOf" active="#pers155" passive="#pers031">
                         <desc>Father of Aurelia Dionysia</desc>
                      </relation>
@@ -3568,7 +3569,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>deacon</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla155.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla155.html">ALA 155</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/stephanus4.html</idno>
@@ -3582,7 +3583,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>donor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla101.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla101.html">ALA 101</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Symbaticius.html</idno>
@@ -3595,7 +3596,7 @@
                   <floruit notBefore="0301" notAfter="0600"> Fourth to sixth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla233.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla233.html">ALA 233</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/synodius1.html</idno>
@@ -3609,10 +3610,10 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>ἔπαρχος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla025.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla026.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla027.html</bibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla037.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla025.html">ALA 25</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla026.html">ALA 26</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla027.html">ALA 27</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla037.html">ALA 37</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/EutTatianus.html</idno>
@@ -3628,7 +3629,7 @@
                   <occupation>chief decanus</occupation>
                   <occupation>ἀρχιδέκανος</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla188.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla188.html">ALA 188</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Tryphon.html</idno>
@@ -3642,7 +3643,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla091.html">ALA 91</bibl>
                      <relation ref="snap:FatherOf" active="#pers161" passive="#pers129">
                         <desc>father of Nounechius</desc>
                      </relation>
@@ -3657,7 +3658,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla129.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla129.html">ALA 129</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/philip3.html</idno>
@@ -3670,7 +3671,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla134.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla134.html">ALA 134</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/philip4.html</idno>
@@ -3684,7 +3685,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>benefactor</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla066.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla066.html">ALA 66</bibl>
                      <relation ref="snap:SonOf" active="#pers164" passive="#pers061">
                         <desc>son of Herodianus</desc>
                      </relation>
@@ -3699,7 +3700,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla122.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla122.html">ALA 122</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/philip2.html</idno>
@@ -3712,7 +3713,7 @@
                   <floruit notBefore="0201" notAfter="0400"> Late imperial </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla198.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla198.html">ALA 198</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/philip5.html</idno>
@@ -3725,7 +3726,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century, or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla211.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla211.html">ALA 211</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/philip6.html</idno>
@@ -3738,7 +3739,7 @@
                   <floruit notBefore="0201" notAfter="0400"> Late imperial </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla209.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla209.html">ALA 209</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/philotheus1.html</idno>
@@ -3751,7 +3752,7 @@
                   <floruit notBefore="0551" notAfter="0551"> AD 551 </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla164.html">ALA 164</bibl>
                      <relation ref="snap:WifeOf" active="#pers169" passive="#pers087">
                         <desc>wife of John Philadelphus</desc>
                      </relation>
@@ -3767,7 +3768,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation>responsible for work in the Hadrianic Baths</occupation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla050.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla050.html">ALA 50</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/flavius2.html</idno>
@@ -3779,7 +3780,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla001.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla001.html">ALA 1</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/flavius1.html</idno>
@@ -3791,7 +3792,7 @@
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <occupation/>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla067.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla067.html">ALA 67</bibl>
                      <relation ref="snap:FatherOf" active="#pers172" passive="#pers032">
                         <desc>Father of </desc>
                      </relation>
@@ -3806,7 +3807,7 @@
                   <floruit notBefore="0401"> Fifth-sixth century or later </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla170.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla170.html">ALA 170</bibl>
                      <relation ref="snap:WifeOf" active="#pers173" passive="#pers124">
                         <desc>wife of Narses</desc>
                      </relation>
@@ -3820,7 +3821,7 @@
                   <floruit notBefore="0301" notAfter="0500"> Fourth/fifth century </floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/638753">Aphrodisias</affiliation>
                   <listBibl>
-                     <bibl>http://insaph.kcl.ac.uk/ala2004/inscription/eAla079.html</bibl>
+                     <bibl corresp="http://insaph.kcl.ac.uk/ala2004/inscription/eAla079.html">ALA 79</bibl>
                      <relation/>
                   </listBibl>
                   <idno type="ala">http://insaph.kcl.ac.uk/ala2004/search/alist/prosop/Scholasticius.html</idno>
