@@ -19,14 +19,18 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix snap: <http://onto.snapdrgn.net/snap#> .
-
 ]]></xsl:text>
         <!-- Model for each person record -->
         <xsl:for-each select="descendant::tei:person">
-            <xsl:variable name="myid" select="tei:idno[1]"/>
+            <xsl:variable name="myid" select="@xml:id"/>
+            <xsl:variable name="myuri">
+                <xsl:text>http://digiclass.github.io/prosopography/Aphrodisias/</xsl:text>
+                <xsl:value-of select="$myid"/>
+                <xsl:text>.html</xsl:text>
+            </xsl:variable>
             <!-- URI plus rdf:type -->
             <xsl:text><![CDATA[<]]></xsl:text>
-            <xsl:value-of select="$myid"/>
+            <xsl:value-of select="$myuri"/>
             <xsl:text><![CDATA[>]]>   </xsl:text>
             <xsl:text>rdf:type   </xsl:text>
             <xsl:choose>
@@ -86,7 +90,7 @@
                 <xsl:text> ;&#xa;</xsl:text>
                 <xsl:text>          lawd:hasAttestation   </xsl:text>
                 <xsl:text><![CDATA[<]]></xsl:text>
-                <xsl:value-of select="$myid"/>
+                <xsl:value-of select="$myuri"/>
                 <xsl:text>#reference</xsl:text>
                 <xsl:text><![CDATA[>]]></xsl:text>
             </xsl:if>
@@ -94,7 +98,16 @@
             <xsl:if test="child::tei:floruit">
                 <xsl:text> ;&#xa;</xsl:text>
             </xsl:if>
+            
             <!-- Model for place -->
+            <xsl:if test="tei:affiliation/text()">
+                <xsl:text> ;&#xa;</xsl:text>
+                <xsl:text>          lawd:associatedPlace   </xsl:text>
+                <xsl:text><![CDATA[<]]></xsl:text>
+                <xsl:value-of select="tei:affiliation/@ref"/>   
+                <xsl:text><![CDATA[>]]></xsl:text>
+            </xsl:if>
+            
             <!-- Model for occupation -->
             <!-- Model for disambiguators -->
             <!-- Model for relationships/bonds -->
