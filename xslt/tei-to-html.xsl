@@ -28,6 +28,10 @@
                                             <xsl:text>Person </xsl:text>
                                             <xsl:number value="substring-after(@xml:id,'pers')" format="1"/>
                                         </xsl:when>
+                                        <xsl:when test="starts-with(@xml:id,'hero')">
+                                            <xsl:text>Hero </xsl:text>
+                                            <xsl:number value="substring-after(@xml:id,'hero')" format="1"/>
+                                        </xsl:when>
                                     </xsl:choose>
                                     <xsl:text>. </xsl:text>
                                     <xsl:value-of select="./tei:persName[@xml:lang='en']"/></xsl:element>
