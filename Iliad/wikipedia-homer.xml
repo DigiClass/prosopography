@@ -8,7 +8,7 @@
          <publicationStmt>
             <authority>http://orcid.org/0000-0002-8566-6666</authority>
             <publisher>http://snapdrgn.net/</publisher>
-            <idno>http://example.com/prosopography/wp-iliad/</idno>
+            <idno>http://digiclass.github.io/prosopography/wikipedia-homer/</idno>
          </publicationStmt>
          <sourceDesc>
             <p><ref>http://en.wikipedia.org/wiki/List_of_Homeric_characters</ref>,
@@ -144,6 +144,7 @@
 
                <person xml:id="Phoenix">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Phoenix_(son_of_Amyntor)</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q1061747</idno>
                   <persName type="citable" xml:lang="en">Phoenix</persName>
                 </person>
 
@@ -153,7 +154,7 @@
                      xml:lang="en">Teucer</persName>
                   <listBibl>
                      <bibl></bibl>
-                     <relation active="#Teucer" ref="snap:BrotherOf_snap:HalfFamilyRelationship" passive="#Ajax">
+                     <relation active="#Teucer" ref="snap:BrotherOf snap:HalfFamilyRelationship" passive="#Ajax">
                      <desc>half-brother of Ajax</desc></relation></listBibl>
                </person>
 
