@@ -323,7 +323,7 @@
                   <occupation>goddess of love, beauty, and sexual pleasure</occupation>
                   <listBibl>
                      <bibl></bibl>
-                     <relation><desc>Daughter of Zeus</desc></relation>
+                     <relation active="#Aphrodite" passive="#Zeus" ref="snap:DaughterOf"><desc>Daughter of Zeus</desc></relation>
                      <relation><desc>wife of Hephaestus</desc></relation>
                      <relation><desc>lover of Ares</desc></relation>
                   </listBibl>
@@ -383,7 +383,7 @@
                   <persName type="citable" xml:lang="en">Zeus</persName>
                   <occupation>king of the Gods</occupation>
                   <listBibl>
-                     <bibl></bibl>
+                     <bibl/>
                      <relation active="#Zeus" ref="snap:BrotherOf" passive="#Poseidon"><desc>brother of Poseidon</desc></relation>
                      <relation active="#Zeus" ref="snap:FatherOf" passive="#Athena"><desc>father of Athena</desc></relation>
                      <relation active="#Zeus" ref="snap:FatherOf" passive="#Aphrodite"><desc>father of Aphrodite</desc></relation>
