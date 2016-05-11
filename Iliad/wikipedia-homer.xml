@@ -390,6 +390,954 @@
                      <relation active="#Zeus" ref="snap:FatherOf" passive="#Helen"><desc>father of Helen</desc></relation>
                   </listBibl>
                </person>
+               
+               <!-- NEW BY ARGYRO -->
+
+
+               <person xml:id="Acamas">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Acamas</idno>
+                <persName type="citable" xml:lang="en">Acamas</persName>
+                </person>
+
+
+                <person xml:id="AcamasSonofAntenor">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Acamas_%28son_of_Antenor%29</idno>
+                    <persName type="citable" xml:lang="en">Acamas (son of Antenor)</persName>
+                </person>
+                
+                
+                <person xml:id="Actor">
+     <idno type="wikipedia">https://en.wikipedia.org/wiki/Actor_%28mythology%29</idno>
+                    <persName type="citable" xml:lang="en">Actor</persName>
+                </person>
+                
+                <person xml:id="Adrastus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Adrastus</idno>
+                    <persName type="citable" xml:lang="en">Adrastus</persName>
+                </person>
+                
+                <person xml:id="Aesepus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aesepus</idno>
+                    <persName type="citable" xml:lang="en">Aesepus</persName>
+                </person>
+                
+                
+                <person xml:id="Agapenor">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Agapenor</idno>
+                    <persName type="citable" xml:lang="en">Agapenor</persName>
+                </person>
+                
+                
+                <person xml:id="AgenorSonofAntenor">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Agenor,_son_of_Antenor</idno>
+                    <persName type="citable" xml:lang="en">Agenor, son of Antenor</persName>
+                </person>
+                
+                
+                <person xml:id="Alcathous">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alcathous</idno>
+                    <persName type="citable" xml:lang="en">Alcathous</persName>
+                </person>
+                
+                <person xml:id="Alcimus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alcimus_%28mythology%29</idno>
+                    <persName type="citable" xml:lang="en">Alcimus (mythology)</persName>
+                </person>
+                
+                <person xml:id="Amphimachus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphimachus</idno>
+                    <persName type="citable" xml:lang="en">Amphimachus</persName>
+                </person>
+                
+                <person xml:id="Amphius">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphius</idno>
+                    <persName type="citable" xml:lang="en">Amphius</persName>
+                </person>
+                
+                <person xml:id="Anchialus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Anchialus</idno>
+                    <persName type="citable" xml:lang="en">Anchialus</persName>
+                </person>
+                
+                <person xml:id="Anchises">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Anchises</idno>
+                    <persName type="citable" xml:lang="en">Anchises</persName>
+                </person>
+                
+                <person xml:id="Andromache">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Andromache</idno>
+                    <persName type="citable" xml:lang="en">Andromache</persName>
+                </person>
+                
+                
+                <person xml:id="Antilochus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Antilochus</idno>
+                    <persName type="citable" xml:lang="en">Antilochus</persName>
+                </person>
+                
+                
+                <person xml:id="Antimachus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Antimachus_in_Greek_mythology</idno>
+                    <persName type="citable" xml:lang="en">Antimachus in Greek mythology</persName>
+                </person>
+                
+                
+                <person xml:id="Antiphates">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Antiphates</idno>
+                    <persName type="citable" xml:lang="en">Antiphates</persName>
+                </person>
+                
+                
+                <person xml:id="Antiphus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Antiphus</idno>
+                    <persName type="citable" xml:lang="en">Antiphus</persName>
+                </person>
+                
+                
+                <person xml:id="Arcesilaus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Arcesilaus_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Arcesilaus (mythology)</persName>
+                </person>
+                
+                
+                <person xml:id="Archelochus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Archelochus</idno>
+                    <persName type="citable" xml:lang="en">Archelochus</persName>
+                </person>
+                
+                
+                <person xml:id="Areithous">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Areithous</idno>
+                    <persName type="citable" xml:lang="en">Areithous</persName>
+                </person>
+                
+                
+                <person xml:id="Aretus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Aretus</idno>
+                    <persName type="citable" xml:lang="en">Aretus</persName>
+                </person>
+                
+                
+                <person xml:id="Arsinoos">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Arsinoos</idno>
+                    <persName type="citable" xml:lang="en">Arsinoos</persName>
+                </person>
+                
+                
+                <person xml:id="Ascalaphus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Ascalaphus</idno>
+                    <persName type="citable" xml:lang="en">Ascalaphus</persName>
+                </person>
+                
+                <person xml:id="Asius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Asius_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Asius (mythology)</persName>
+                </person>
+                
+                <person xml:id="AsiusSonofHyrtacus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Asius_(son_of_Hyrtacus)</idno>
+                    <persName type="citable" xml:lang="en">Asius (son of Hyrtacus)</persName>
+                </person>
+                
+                <person xml:id="Asteropaios">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Asteropaios</idno>
+                    <persName type="citable" xml:lang="en">Asteropaios</persName>
+                </person>
+                
+                <person xml:id="Astyanax">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Astyanax</idno>
+                    <persName type="citable" xml:lang="en">Astyanax</persName>
+                </person>
+                
+                <person xml:id="Automedon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Automedon</idno>
+                    <persName type="citable" xml:lang="en">Automedon</persName>
+                </person>
+                
+                <person xml:id="Axylus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Axylus</idno>
+                    <persName type="citable" xml:lang="en">Axylus</persName>
+                </person>
+                
+                <person xml:id="Aeolus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Aeolus</idno>
+                    <persName type="citable" xml:lang="en">Aeolus</persName>
+                </person>
+                
+                <person xml:id="Agelaus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Agelaus</idno>
+                    <persName type="citable" xml:lang="en">Agelaus</persName>
+                </person>
+                
+                <person xml:id="Alcinous">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Alcinous</idno>
+                    <persName type="citable" xml:lang="en">Alcinous</persName>
+                </person>
+                
+                <person xml:id="Amphimedon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Amphimedon</idno>
+                    <persName type="citable" xml:lang="en">Amphimedon</persName>
+                </person>
+                
+                <person xml:id="Anticlea">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Anticlea</idno>
+                    <persName type="citable" xml:lang="en">Anticlea</persName>
+                </person>
+                
+                <person xml:id="Arete">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Arete_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Arete (mythology)</persName>
+                </person>
+                
+                <person xml:id="ArgosDog">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Argos_(dog)</idno>
+                    <persName type="citable" xml:lang="en">Argos (dog)</persName>
+                </person>
+                
+                <person xml:id="Artemis ">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Artemis</idno>
+                    <persName type="citable" xml:lang="en">Artemis </persName>
+                </person>
+                
+                
+                
+                <person xml:id="Balius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Balius_and_Xanthus</idno>
+                    <persName type="citable" xml:lang="en">Balius</persName>
+                </person>
+                
+                
+                <person xml:id="Xanthus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Balius_and_Xanthus</idno>
+                    <persName type="citable" xml:lang="en">Xanthus</persName>
+                </person>
+                
+                
+                <person xml:id="Bias">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Bias_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Bias (mythology)</persName>
+                </person>
+                
+                
+                <person xml:id="Calesius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Calesius</idno>
+                    <persName type="citable" xml:lang="en">Calesius</persName>
+                </person>
+                
+                
+                <person xml:id="Caletor">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Caletor</idno>
+                    <persName type="citable" xml:lang="en">Caletor</persName>
+                </person>
+                
+                
+                <person xml:id="Cassandra">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Cassandra</idno>
+                    <persName type="citable" xml:lang="en">Cassandra</persName>
+                </person>
+                
+                
+                <person xml:id="Chryses">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Chryses</idno>
+                    <persName type="citable" xml:lang="en">Chryses</persName>
+                </person>
+                
+                
+                <person xml:id="Clonius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Clonius</idno>
+                    <persName type="citable" xml:lang="en">Clonius</persName>
+                </person>
+                
+                
+                <person xml:id="Clytius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Clytius</idno>
+                    <persName type="citable" xml:lang="en">Clytius</persName>
+                </person>
+                
+                
+                <person xml:id="Coeranus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Coeranus_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Coeranus (mythology)</persName>
+                </person>
+                
+                
+                <person xml:id="Calypso">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Calypso_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Calypso (mythology)</persName>
+                </person>
+                
+                
+                <person xml:id="Circe">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Circe</idno>
+                    <persName type="citable" xml:lang="en">Circe</persName>
+                </person>
+                
+                
+                <person xml:id="Ctesippus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Ctesippus</idno>
+                    <persName type="citable" xml:lang="en">Ctesippus</persName>
+                </person>
+                
+                <person xml:id="Ctimene">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Ctimene</idno>
+                    <persName type="citable" xml:lang="en">Ctimene</persName>
+                </person>
+                
+                <person xml:id="DaresPhrygius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Dares_Phrygius</idno>
+                    <persName type="citable" xml:lang="en">Dares Phrygius</persName>
+                </person>
+                
+                <person xml:id="Deidamia">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Deidamia_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Deidamia (mythology)</persName>
+                </person>
+                
+                <person xml:id="Deiphobus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Deiphobus</idno>
+                    <persName type="citable" xml:lang="en">Deiphobus</persName>
+                </person>
+                
+                <person xml:id="Diomede">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Diomede</idno>
+                    <persName type="citable" xml:lang="en">Diomede</persName>
+                </person>
+                
+                <person xml:id="Dolon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Dolon_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Dolon (mythology)</persName>
+                </person>
+                
+                <person xml:id="Demodocus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Demodocus_(Odyssey_character)</idno>
+                    <persName type="citable" xml:lang="en">Demodocus (Odyssey character)</persName>
+                </person>
+                
+                <person xml:id="Demoptolemus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Demoptolemus</idno>
+                    <persName type="citable" xml:lang="en">Demoptolemus</persName>
+                </person>
+                
+                <person xml:id="DeucalionofCrete">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Deucalion_of_Crete</idno>
+                    <persName type="citable" xml:lang="en">Deucalion of Crete</persName>
+                </person>
+                
+                <person xml:id="Dolius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Dolius</idno>
+                    <persName type="citable" xml:lang="en">Dolius</persName>
+                </person>
+                
+                <person xml:id="Eioneus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eioneus</idno>
+                    <persName type="citable" xml:lang="en">Eioneus</persName>
+                </person>
+                
+                <person xml:id="Elephenor">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Elephenor</idno>
+                    <persName type="citable" xml:lang="en">Elephenor</persName>
+                </person>
+                
+                <person xml:id="Ennomus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Ennomus</idno>
+                    <persName type="citable" xml:lang="en">Ennomus</persName>
+                </person>
+                
+                <person xml:id="Epeigeus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Epeigeus</idno>
+                    <persName type="citable" xml:lang="en">Epeigeus</persName>
+                </person>
+                
+                <person xml:id="Epeius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Epeius</idno>
+                    <persName type="citable" xml:lang="en">Epeius</persName>
+                </person>
+                
+                <person xml:id="Epistrophus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Epistrophus_(Greek_mythology)</idno>
+                    <persName type="citable" xml:lang="en">Epistrophus (Greek mythology)</persName>
+                </person>
+                
+                <person xml:id="Eris">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eris_%28mythology%29</idno>
+                    <persName type="citable" xml:lang="en">Eris (mythology) </persName>
+                </person>
+                
+                <person xml:id="Eteoneus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eteoneus</idno>
+                    <persName type="citable" xml:lang="en">Eteoneus</persName>
+                </person>
+                
+                <person xml:id="Euchenor">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Euchenor</idno>
+                    <persName type="citable" xml:lang="en">Euchenor</persName>
+                </person>
+                
+                <person xml:id="Eudoros">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eudoros</idno>
+                    <persName type="citable" xml:lang="en">Eudoros</persName>
+                </person>
+                
+                <person xml:id="Euneus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Euneus</idno>
+                    <persName type="citable" xml:lang="en">Euneus</persName>
+                </person>
+                
+                <person xml:id="Euphemus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Euphemus</idno>
+                    <persName type="citable" xml:lang="en">Euphemus</persName>
+                </person>
+                
+                <person xml:id="Euphorbus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Euphorbus</idno>
+                    <persName type="citable" xml:lang="en">Euphorbus</persName>
+                </person>
+                
+                <person xml:id="Euryalus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Euryalus</idno>
+                    <persName type="citable" xml:lang="en">Euryalus</persName>
+                </person>
+                
+                <person xml:id="Eurybates">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eurybates</idno>
+                    <persName type="citable" xml:lang="en">Eurybates</persName>
+                </person>
+                
+                <person xml:id="Eurydamas">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eurydamas</idno>
+                    <persName type="citable" xml:lang="en">Eurydamas</persName>
+                </person>
+                
+                <person xml:id="Eurypylus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eurypylus</idno>
+                    <persName type="citable" xml:lang="en">Eurypylus</persName>
+                </person>
+                
+                <person xml:id="Echephron">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Echephron</idno>
+                    <persName type="citable" xml:lang="en">Echephron</persName>
+                </person>
+                
+                <person xml:id="Echetus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Echetus</idno>
+                    <persName type="citable" xml:lang="en">Echetus</persName>
+                </person>
+                
+                <person xml:id="Elatus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Elatus</idno>
+                    <persName type="citable" xml:lang="en">Elatus</persName>
+                </person>
+                
+                <person xml:id="Elpenor">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Elpenor</idno>
+                    <persName type="citable" xml:lang="en">Elpenor</persName>
+                </person>
+                
+                <person xml:id="Eumaeus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eumaeus</idno>
+                    <persName type="citable" xml:lang="en">Eumaeus</persName>
+                </person>
+                
+                <person xml:id="Eupeithes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eupeithes</idno>
+                    <persName type="citable" xml:lang="en">Eupeithes</persName>
+                </person>
+                
+                <person xml:id="Eurycleia">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eurycleia</idno>
+                    <persName type="citable" xml:lang="en">Eurycleia</persName>
+                </person>
+                
+                <person xml:id="Eurymedousa">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eurymedousa</idno>
+                    <persName type="citable" xml:lang="en">Eurymedousa</persName>
+                </person>
+                
+                <person xml:id="Eurynome">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Eurynome</idno>
+                    <persName type="citable" xml:lang="en">Eurynome</persName>
+                </person>
+                
+                <person xml:id="Gorgythion">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Gorgythion</idno>
+                    <persName type="citable" xml:lang="en">Gorgythion</persName>
+                </person>
+                
+       <!-- do we?? -->         
+                <person xml:id="Halizones">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Halizones</idno>
+                    <persName type="citable" xml:lang="en">Halizones</persName>
+                </person>
+                
+                
+                
+                <person xml:id="Hecamede">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Hecamede</idno>
+                    <persName type="citable" xml:lang="en">Hecamede</persName>
+                </person>
+                
+                <person xml:id="Halitherses">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Halitherses</idno>
+                    <persName type="citable" xml:lang="en">Halitherses</persName>
+                </person>
+                
+                <person xml:id="Hecuba">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Hecuba</idno>
+                    <persName type="citable" xml:lang="en">Hecuba</persName>
+                </person>
+                
+                <person xml:id="Helenus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Helenus</idno>
+                    <persName type="citable" xml:lang="en">Helenus</persName>
+                </person>
+                
+                <person xml:id="Hyperenor">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Hyperenor</idno>
+                    <persName type="citable" xml:lang="en">Hyperenor</persName>
+                </person>
+                
+                <person xml:id="Helios">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Helios</idno>
+                    <persName type="citable" xml:lang="en">Helios</persName>
+                </person>
+                
+                <person xml:id="Heracles ">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Heracles</idno>
+                    <persName type="citable" xml:lang="en">Heracles </persName>
+                </person>
+                
+                <person xml:id="Hades">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Hades</idno>
+                    <persName type="citable" xml:lang="en">Hades</persName>
+                </person>
+                
+                <person xml:id="Hephaestus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Hephaestus</idno>
+                    <persName type="citable" xml:lang="en">Hephaestus</persName>
+                </person>
+                
+                <person xml:id="Iamenus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Iamenus</idno>
+                    <persName type="citable" xml:lang="en">Iamenus</persName>
+                </person>
+                
+                <person xml:id="Ilioneus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Ilioneus</idno>
+                    <persName type="citable" xml:lang="en">Ilioneus</persName>
+                </person>
+                
+                <person xml:id="Iphthime">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Iphthime</idno>
+                    <persName type="citable" xml:lang="en">Iphthime</persName>
+                </person>
+                
+                <person xml:id="Ino">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ino_%28Greek_mythology%29</idno>
+                    <persName type="citable" xml:lang="en">Ino</persName>
+                </person>
+                
+                <person xml:id="Kebriones">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Kebriones</idno>
+                    <persName type="citable" xml:lang="en">Kebriones</persName>
+                </person>
+                
+                <person xml:id="Khione">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Chione_%28daughter_of_Boreas%29</idno>
+                    <persName type="citable" xml:lang="en">Khione</persName>
+                </person>
+                
+                <person xml:id="LaodiceDaughterofPriam">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Laodice_(daughter_of_Priam)</idno>
+                    <persName type="citable" xml:lang="en">Laodice (daughter of Priam)</persName>
+                </person>
+                
+                <person xml:id="Leitus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Leitus</idno>
+                    <persName type="citable" xml:lang="en">Leitus</persName>
+                </person>
+                
+                <person xml:id="Leonteus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Leonteus_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Leonteus (mythology)</persName>
+                </person>
+                
+                <person xml:id="Lycaon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Lycaon_(Troy)</idno>
+                    <persName type="citable" xml:lang="en">Lycaon (Troy)</persName>
+                </person>
+                
+                <person xml:id="Lycomedes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Lycomedes</idno>
+                    <persName type="citable" xml:lang="en">Lycomedes</persName>
+                </person>
+                
+                <person xml:id="LycomedesSonofCreon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Lycomedes_(son_of_Creon)</idno>
+                    <persName type="citable" xml:lang="en">Lycomedes (son of Creon)</persName>
+                </person>
+                
+                <person xml:id="Laodamas">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Laodamas</idno>
+                    <persName type="citable" xml:lang="en">Laodamas</persName>
+                </person>
+                
+                <person xml:id="Leodes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Leodes</idno>
+                    <persName type="citable" xml:lang="en">Leodes</persName>
+                </person>
+                
+                <person xml:id="Leucothea">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Leucothea</idno>
+                    <persName type="citable" xml:lang="en">Leucothea</persName>
+                </person>
+                
+                <person xml:id="Machaon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Machaon_(physician)</idno>
+                    <persName type="citable" xml:lang="en">Machaon (physician)</persName>
+                </person>
+                
+                <person xml:id="Mecisteus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Mecisteus</idno>
+                    <persName type="citable" xml:lang="en">Mecisteus</persName>
+                </person>
+                
+                <person xml:id="Medon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Medon</idno>
+                    <persName type="citable" xml:lang="en">Medon</persName>
+                </person>
+                
+                <person xml:id="Meges">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Meges</idno>
+                    <persName type="citable" xml:lang="en">Meges</persName>
+                </person>
+                
+                <person xml:id="Melanippus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Melanippus</idno>
+                    <persName type="citable" xml:lang="en">Melanippus</persName>
+                </person>
+                
+                <person xml:id="Menestheus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Menestheus</idno>
+                    <persName type="citable" xml:lang="en">Menestheus</persName>
+                </person>
+                
+                <person xml:id="Mentes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Mentes_(King_of_the_Cicones)</idno>
+                    <persName type="citable" xml:lang="en">Mentes (King of the Cicones)</persName>
+                </person>
+                
+                <person xml:id="Meriones">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Meriones_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Meriones (mythology)</persName>
+                </person>
+                
+                <person xml:id="Mydon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Mydon</idno>
+                    <persName type="citable" xml:lang="en">Mydon</persName>
+                </person>
+                
+                <person xml:id="MygdonofPhrygia">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Mygdon_of_Phrygia</idno>
+                    <persName type="citable" xml:lang="en">Mygdon of Phrygia</persName>
+                </person>
+                
+                <person xml:id="Melanthius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Melanthius_(Odyssey)</idno>
+                    <persName type="citable" xml:lang="en">Melanthius (Odyssey)</persName>
+                </person>
+                
+                <person xml:id="Melantho">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Melantho</idno>
+                    <persName type="citable" xml:lang="en">Melantho</persName>
+                </person>
+                
+                
+                <person xml:id="MentesKingoftheTaphians">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Mentes_(King_of_the_Taphians)</idno>
+                    <persName type="citable" xml:lang="en">Mentes (King of the Taphians)</persName>
+                </person>
+                
+                <person xml:id="Mentor">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Mentor_(Odyssey)</idno>
+                    <persName type="citable" xml:lang="en">Mentor (Odyssey)</persName>
+                </person>
+                
+                <person xml:id="Mesaulius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Mesaulius</idno>
+                    <persName type="citable" xml:lang="en">Mesaulius</persName>
+                </person>
+                
+                <person xml:id="Nausicaa">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Nausicaa</idno>
+                    <persName type="citable" xml:lang="en">Nausicaa</persName>
+                </person>
+                
+                <person xml:id="Othryoneus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Othryoneus</idno>
+                    <persName type="citable" xml:lang="en">Othryoneus</persName>
+                </person>
+                
+                <person xml:id="Orsilochus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Orsilochus</idno>
+                    <persName type="citable" xml:lang="en">Orsilochus</persName>
+                </person>
+                
+                <person xml:id="Pandarus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Pandarus</idno>
+                    <persName type="citable" xml:lang="en">Pandarus</persName>
+                </person>
+                
+                <person xml:id="Panthous">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Panthous</idno>
+                    <persName type="citable" xml:lang="en">Panthous</persName>
+                </person>
+                
+                <person xml:id="Pedasus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Pedasus</idno>
+                    <persName type="citable" xml:lang="en">Pedasus</persName>
+                </person>
+                
+                <person xml:id="Peirous">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Peirous</idno>
+                    <persName type="citable" xml:lang="en">Peirous</persName>
+                </person>
+                
+                <person xml:id="Pelagon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Pelagon</idno>
+                    <persName type="citable" xml:lang="en">Pelagon</persName>
+                </person>
+                
+                <person xml:id="Peneleos">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Peneleos</idno>
+                    <persName type="citable" xml:lang="en">Peneleos</persName>
+                </person>
+                
+                <person xml:id="Periphas">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Periphas</idno>
+                    <persName type="citable" xml:lang="en">Periphas</persName>
+                </person>
+                
+                <person xml:id="Periphetes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Periphetes</idno>
+                    <persName type="citable" xml:lang="en">Periphetes</persName>
+                </person>
+                
+                <person xml:id="Phaenops">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Phaenops</idno>
+                    <persName type="citable" xml:lang="en">Phaenops</persName>
+                </person>
+                
+                <person xml:id="Philoctetes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Philoctetes</idno>
+                    <persName type="citable" xml:lang="en">Philoctetes</persName>
+                </person>
+                
+                <person xml:id="Phorcys">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Phorcys</idno>
+                    <persName type="citable" xml:lang="en">Phorcys</persName>
+                </person>
+                
+                <person xml:id="PhorcysTrojanWar">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Phorcys_(Trojan_War)</idno>
+                    <persName type="citable" xml:lang="en">Phorcys (Trojan War)</persName>
+                </person>
+                
+                <person xml:id="Phylas">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Phylas</idno>
+                    <persName type="citable" xml:lang="en">Phylas</persName>
+                </person>
+                
+                <person xml:id="Podalirius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Podalirius</idno>
+                    <persName type="citable" xml:lang="en">Podalirius</persName>
+                </person>
+                
+                <person xml:id="Podarces">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Podarces</idno>
+                    <persName type="citable" xml:lang="en">Podarces</persName>
+                </person>
+                
+                <person xml:id="PolitesFriendofOdysseus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Polites_(friend_of_Odysseus)</idno>
+                    <persName type="citable" xml:lang="en">Polites (friend of Odysseus)</persName>
+                </person>
+                
+                <person xml:id="PolitesPrinceofTroy">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Polites_(Prince_of_Troy)</idno>
+                    <persName type="citable" xml:lang="en">Polites (Prince of Troy)</persName>
+                </person>
+                
+                <person xml:id="PolybusTrojanWar">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Polybus_(Trojan_War)</idno>
+                    <persName type="citable" xml:lang="en">Polybus (Trojan War)</persName>
+                </person>
+                
+                <person xml:id="Promachus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Promachus</idno>
+                    <persName type="citable" xml:lang="en">Promachus</persName>
+                </person>
+                
+                <person xml:id="Prothoenor">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Prothoenor</idno>
+                    <persName type="citable" xml:lang="en">Prothoenor</persName>
+                </person>
+                
+                <person xml:id="Pylaemenes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Pylaemenes</idno>
+                    <persName type="citable" xml:lang="en">Pylaemenes</persName>
+                </person>
+                
+                <person xml:id="Pyraechmes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Pyraechmes</idno>
+                    <persName type="citable" xml:lang="en">Pyraechmes</persName>
+                </person>
+                
+                <person xml:id="Peisenor">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Peisenor</idno>
+                    <persName type="citable" xml:lang="en">Peisenor</persName>
+                </person>
+                
+                <person xml:id="Peisistratus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Peisistratus_(Odyssey)</idno>
+                    <persName type="citable" xml:lang="en">Peisistratus (Odyssey)</persName>
+                </person>
+                
+                <person xml:id="Perimedes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Perimedes</idno>
+                    <persName type="citable" xml:lang="en">Perimedes</persName>
+                </person>
+                
+                <person xml:id="Phemius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Phemius</idno>
+                    <persName type="citable" xml:lang="en">Phemius</persName>
+                </person>
+                
+                <person xml:id="Philoetius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Philoetius_(Odyssey)</idno>
+                    <persName type="citable" xml:lang="en">Philoetius (Odyssey)</persName>
+                </person>
+                
+                <person xml:id="Polydamna">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Polydamna</idno>
+                    <persName type="citable" xml:lang="en">Polydamna</persName>
+                </person>
+                
+                <person xml:id="Polyphemus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Polyphemus</idno>
+                    <persName type="citable" xml:lang="en">Polyphemus</persName>
+                </person>
+                
+                <person xml:id="Pontonous">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Pontonous</idno>
+                    <persName type="citable" xml:lang="en">Pontonous</persName>
+                </person>
+                
+                <person xml:id="Proteus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Proteus</idno>
+                    <persName type="citable" xml:lang="en">Proteus</persName>
+                </person>
+                
+
+                <person xml:id="RhesusofThrace">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Rhesus_of_Thrace</idno>
+                    <persName type="citable" xml:lang="en">Rhesus of Thrace</persName>
+                </person>
+                
+                <person xml:id="Schedius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Schedius</idno>
+                    <persName type="citable" xml:lang="en">Schedius</persName>
+                </person>
+                
+                <person xml:id="Stentor">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Stentor</idno>
+                    <persName type="citable" xml:lang="en">Stentor</persName>
+                </person>
+                
+                <person xml:id="Sthenelus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Sthenelus</idno>
+                    <persName type="citable" xml:lang="en">Sthenelus</persName>
+                </person>
+                
+                
+                <!-- do we?? -->
+                <person xml:id="Siren">
+                    <idno type="wikipedia">Siren (mythology)</idno>
+                    <persName type="citable" xml:lang="en">Siren (mythology)</persName>
+                </person>
+                
+                <person xml:id="Stratichus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Stratichus</idno>
+                    <persName type="citable" xml:lang="en">Stratichus</persName>
+                </person>
+                
+                <person xml:id="Talthybius">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Talthybius</idno>
+                    <persName type="citable" xml:lang="en">Talthybius</persName>
+                </person>
+                
+                <person xml:id="Theano">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Theano</idno>
+                    <persName type="citable" xml:lang="en">Theano</persName>
+                </person>
+                
+                <person xml:id="Thersites">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Thersites</idno>
+                    <persName type="citable" xml:lang="en">Thersites</persName>
+                </person>
+                
+                <person xml:id="Thestor">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Thestor_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Thestor (mythology)</persName>
+                </person>
+                
+                <person xml:id="Thoas">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Thoas</idno>
+                    <persName type="citable" xml:lang="en">Thoas</persName>
+                </person>
+                
+                <person xml:id="Thoon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Thoon_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Thoon (mythology)</persName>
+                </person>
+                
+                <person xml:id="Thrasymedes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Thrasymedes_(mythology)</idno>
+                    <persName type="citable" xml:lang="en">Thrasymedes (mythology)</persName>
+                </person>
+                
+                <person xml:id="Thymoetes">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Thymoetes</idno>
+                    <persName type="citable" xml:lang="en">Thymoetes</persName>
+                </person>
+                
+                <person xml:id="Tlepolemus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Tlepolemus</idno>
+                    <persName type="citable" xml:lang="en">Tlepolemus</persName>
+                </person>
+                
+                <person xml:id="Theoclymenus">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Theoclymenus</idno>
+                    <persName type="citable" xml:lang="en">Theoclymenus</persName>
+                </person>
+                
+                <person xml:id="ThaliaNereid">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Thalia_%28Nereid%29</idno>
+                    <persName type="citable" xml:lang="en">Thalia (Nereid)</persName>
+                </person>
+                
+                <person xml:id="Thetis">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Thetis</idno>
+                    <persName type="citable" xml:lang="en">Thetis</persName>
+                </person>
+                
+                <person xml:id="Ucalegon">
+                    <idno type="wikipedia">https://en.m.wikipedia.org/wiki/Ucalegon</idno>
+                    <persName type="citable" xml:lang="en">Ucalegon</persName>
+                </person>
+
+
+<!-- end BY ARGYRO -->
+
 
             </listPerson>
          </particDesc>
