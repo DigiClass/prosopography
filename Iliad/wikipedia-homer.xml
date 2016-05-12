@@ -846,6 +846,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Chryses</idno>
                     <persName type="citable" xml:lang="en">Chryses</persName>
                    <persName type="citable" xml:lang="grc">Χρύσης</persName>
+                    <occupation>priest</occupation>
                     <listBibl>
                         <bibl></bibl>
                         <relation active="#Chryses" ref="snap:FatherOf" passive="#Chryseis"><desc>father of Chryseis</desc></relation>
@@ -858,6 +859,11 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Clonius</idno>
                     <persName type="citable" xml:lang="en">Clonius</persName>
                    <persName type="citable" xml:lang="grc">Κλονίος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Clonius" ref="BrotherOf" passive="#Leitus"><desc>brother of Leitus</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 
@@ -924,6 +930,7 @@
                 
                 <person xml:id="DaresPhrygius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Dares_Phrygius</idno>
+                    <occupation>priest</occupation>
                     <persName type="citable" xml:lang="en">Dares Phrygius</persName>
                    <persName type="citable" xml:lang="grc">Δάρης</persName>
                 </person>
@@ -932,18 +939,37 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Deidamia_(mythology)</idno>
                     <persName type="citable" xml:lang="en">Deidamia (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Δηϊδάμεια</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Deidamia" ref="snap:DaughterOf" passive="#Lycomedes"><desc>daughter of king Lycomedes</desc></relation>
+                         <relation active="#Deidamia" ref="snap:IntimateRelationshipWith" passive="#Achilles"><desc>in intimate relationship with Achilles before the Trojan War</desc></relation>
+                         <relation active="#Deidamia" ref="snap:MotherOf" passive="#Neoptolemus"><desc>mother of Neoptolemus</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Deiphobus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Deiphobus</idno>
                     <persName type="citable" xml:lang="en">Deiphobus</persName>
                    <persName type="citable" xml:lang="grc">Δηίφοβος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Deiphobus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+                        <relation active="#Deiphobus" ref="snap:SonOf" passive="#Hecuba"><desc>son of Hecuba</desc></relation>
+                            
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Diomede">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Diomede</idno>
                     <persName type="citable" xml:lang="en">Diomede</persName>
                    <persName type="citable" xml:lang="grc">Διομήδη </persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Diomede" ref="snap:IntimateRelationshipWith" passive="#Achilles"><desc>mistress of Achilles</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Dolon">
@@ -954,6 +980,7 @@
                 
                 <person xml:id="Demodocus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Demodocus_(Odyssey_character)</idno>
+                    <occupation>poet</occupation>
                     <persName type="citable" xml:lang="en">Demodocus (Odyssey character)</persName>
                    <persName type="citable" xml:lang="grc">Δημόδoκος</persName>
                 </person>
@@ -966,14 +993,26 @@
                 
                 <person xml:id="DeucalionofCrete">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Deucalion_of_Crete</idno>
+                    <affiliation ref="http://pleiades.stoa.org/places/589748">Crete</affiliation>
+                    <occupation>kind</occupation>
                     <persName type="citable" xml:lang="en">Deucalion of Crete</persName>
                    <persName type="citable" xml:lang="grc">Δευκαλίων της Κρήτης</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Deucalion" ref="snap:GrandsonOf" passive="#Zeus"><desc>grandson of Zeus (and son of Minos)</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Dolius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Dolius</idno>
                     <persName type="citable" xml:lang="en">Dolius</persName>
                    <persName type="citable" xml:lang="grc">Δόλιος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Dolius" ref="snap:SlaveOf" passive="#Pelope"><desc>slave of Pelope</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Eioneus">
@@ -984,6 +1023,7 @@
                 
                 <person xml:id="Elephenor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Elephenor</idno>
+                    <affiliation ref="http://pleiades.stoa.org/places/540775">Abantes Euboea</affiliation>
                     <persName type="citable" xml:lang="en">Elephenor</persName>
                    <persName type="citable" xml:lang="grc">Ἐλεφήνωρ</persName>
                 </person>
@@ -996,6 +1036,7 @@
                 
                 <person xml:id="Epeigeus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Epeigeus</idno>
+                    <occupation>Myrmidon</occupation>
                     <persName type="citable" xml:lang="en">Epeigeus</persName>
                    <persName type="citable" xml:lang="grc">Ἐπειγεύς </persName>
                 </person>
@@ -1026,12 +1067,14 @@
                 
                 <person xml:id="Euchenor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Euchenor</idno>
+                    <affiliation ref="http://pleiades.stoa.org/places/570182">Corinth</affiliation>
                     <persName type="citable" xml:lang="en">Euchenor</persName>
                    <persName type="citable" xml:lang="grc">Εὐχήνωρ </persName>
                 </person>
                 
                 <person xml:id="Eudoros">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eudoros</idno>
+                    <occupation>commander</occupation>
                     <persName type="citable" xml:lang="en">Eudoros</persName>
                    <persName type="citable" xml:lang="grc">Εὔδωρος </persName>
                 </person>
@@ -1040,16 +1083,22 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Euneus</idno>
                     <persName type="citable" xml:lang="en">Euneus</persName>
                    <persName type="citable" xml:lang="grc">Εὔνηος </persName>
+                   <listBibl>
+                       <bibl></bibl>
+                       <relation active="#Euneus" ref="SonOf" passive="#Jason"><desc>son of Jason and Hypsipyle</desc></relation>
+                   </listBibl>
                 </person>
                 
                 <person xml:id="Euphemus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Euphemus</idno>
+                    <occupation>leader of Cicones</occupation>
                     <persName type="citable" xml:lang="en">Euphemus</persName>
                    <persName type="citable" xml:lang="grc">Εὔφημος </persName>
                 </person>
                 
                 <person xml:id="Euphorbus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Euphorbus</idno>
+                    <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Euphorbus</persName>
                    <persName type="citable" xml:lang="grc">Εὔφορβος </persName>
                 </person>
@@ -1068,12 +1117,15 @@
                 
                 <person xml:id="Eurydamas">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurydamas</idno>
+                    <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Eurydamas</persName>
                    <persName type="citable" xml:lang="grc">Εὐρυδάμας</persName>
                 </person>
                 
                 <person xml:id="Eurypylus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurypylus</idno>
+                    <occupation>king</occupation>
+                    <affiliation >Thessaly</affiliation>
                     <persName type="citable" xml:lang="en">Eurypylus</persName>
                    <persName type="citable" xml:lang="grc">Εὐρύπυλος</persName>
                 </person>
@@ -1082,6 +1134,10 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Echephron</idno>
                     <persName type="citable" xml:lang="en">Echephron</persName>
                    <persName type="citable" xml:lang="grc">Ἐχέφρων </persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Echephron" ref="SonOf" passive="#Nestor"><desc>son of Nestor</desc></relation>
+                    </listBibl>  
                 </person>
                 
                 <person xml:id="Echetus">
@@ -1100,30 +1156,50 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Elpenor</idno>
                     <persName type="citable" xml:lang="en">Elpenor</persName>
                    <persName type="citable" xml:lang="grc">Ἐλπήνωρ </persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Elpenor" ref="Bond" passive="#Odysseus"><desc>shipmate of Odysseus</desc></relation>
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Eumaeus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eumaeus</idno>
                     <persName type="citable" xml:lang="en">Eumaeus</persName>
                    <persName type="citable" xml:lang="grc">Εὔμαιος </persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Eumaeus" ref="Bond" passive="#Odysseus"><desc>swineherd of Odysseus</desc></relation>
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Eupeithes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eupeithes</idno>
                     <persName type="citable" xml:lang="en">Eupeithes</persName>
                    <persName type="citable" xml:lang="grc">Εὐπείθης </persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Eupeithes" ref="FatherOf" passive="#Antinous"><desc>father of Antinous</desc></relation>
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Eurycleia">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurycleia</idno>
                     <persName type="citable" xml:lang="en">Eurycleia</persName>
                    <persName type="citable" xml:lang="grc">Εὐρύκλεια </persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Eurycleia" ref="Bond" passive="#Odysseus"><desc>maid of Odysseus</desc></relation>
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Eurymedousa">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurymedousa</idno>
                     <persName type="citable" xml:lang="en">Eurymedousa</persName>
                    <persName type="citable" xml:lang="grc">Εὐρυμέδουσα </persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Eurymedousa" ref="Bond" passive="#Nausicaa"><desc>attendant of Nausicaa</desc></relation>
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Eurynome">
@@ -1136,6 +1212,10 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Gorgythion</idno>
                     <persName type="citable" xml:lang="en">Gorgythion</persName>
                    <persName type="citable" xml:lang="grc">Γοργυθίων</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Gorgythion" ref="SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+                    </listBibl>
                 </person>
                 
               
@@ -1151,24 +1231,45 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Hecamede</idno>
                     <persName type="citable" xml:lang="en">Hecamede</persName>
                    <persName type="citable" xml:lang="grc">Ἑκαμήδη</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Hecamede" ref="SlaveOf" passive="#Nestor"><desc>she was given as a captive to King Nestor</desc></relation>
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Halitherses">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Halitherses</idno>
+                    <occupation>prophet</occupation>
                     <persName type="citable" xml:lang="en">Halitherses</persName>
                    <persName type="citable" xml:lang="grc">Ἁλιθέρσης</persName>
                 </person>
                 
                 <person xml:id="Hecuba">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Hecuba</idno>
+                    <occupation>queen</occupation>
+                    <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Hecuba</persName>
                    <persName type="citable" xml:lang="grc">Ἑκάβη </persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Hecuba" ref="WifeOf" passive="#Priam"><desc>wife of Priam</desc></relation>
+                        <relation active="#Hecuba" ref="MotherOf" passive="#Hector"><desc>mother of Hector</desc></relation>
+   
+                        <relation active="#Hecuba" ref="MotherOf" passive="#Paris"><desc>mother of Paris</desc></relation>
+                        <relation active="#Hecuba" ref="MotherOf" passive="#Cassandra"><desc>mother of Cassandra</desc></relation>
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Helenus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Helenus</idno>
                     <persName type="citable" xml:lang="en">Helenus</persName>
                    <persName type="citable" xml:lang="grc">Ἕλενος</persName>
+                    <listBibl>
+                    <bibl></bibl>
+                    <relation active="#Helenus" ref="SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+                    <relation active="#Helenus" ref="SonOf" passive="#Hecuba"><desc>son of Hecuba</desc></relation>
+                    
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Hyperenor">
@@ -1187,6 +1288,11 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Heracles</idno>
                     <persName type="citable" xml:lang="en">Heracles </persName>
                    <persName type="citable" xml:lang="grc">Ἡρακλῆς</persName>
+                    <listBibl>
+                    <bibl></bibl>
+                    <relation active="#Heracles" ref="SonOf" passive="#Zeus"><desc>son of Zeus</desc></relation>
+                    
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Hades" role="deity">
@@ -1203,12 +1309,14 @@
                 
                 <person xml:id="Iamenus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Iamenus</idno>
+                    <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Iamenus</persName>
                     <persName type="citable" xml:lang="grc">Ἰαμενός </persName>
                 </person>
                 
                 <person xml:id="Ilioneus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Ilioneus</idno>
+                    <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Ilioneus</persName>
                     <persName type="citable" xml:lang="grc">Ἰλιονέας / Ἰλιονεύς</persName>
                 </person>
@@ -1217,6 +1325,11 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Iphthime</idno>
                     <persName type="citable" xml:lang="en">Iphthime</persName>
                     <persName type="citable" xml:lang="grc">Ἰφθίμη </persName>
+                    <listBibl>
+                    <bibl></bibl>
+                    <relation active="#Iphthime" ref="SisterOf" passive="#Penelope"><desc>sister of Penelope</desc></relation>
+                    
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Ino" role="deity">
@@ -1229,6 +1342,12 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Kebriones</idno>
                     <persName type="citable" xml:lang="en">Kebriones</persName>
                     <persName type="citable" xml:lang="grc">Κεβριόνης</persName>
+                    <listBibl>
+                    <bibl></bibl>
+                    <relation active="#Kebriones" ref="SlaveOf" passive="#Priam"><desc>slave and illegitimate son of Priam</desc></relation>
+                    <relation active="#Kebriones" ref="MotherOf" passive="#Hector"><desc>half-brother of Hector</desc></relation>
+                    
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Khione" role="Nymph">
@@ -1241,16 +1360,29 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Laodice_(daughter_of_Priam)</idno>
                     <persName type="citable" xml:lang="en">Laodice (daughter of Priam)</persName>
                     <persName type="citable" xml:lang="grc">Λαοδίκη</persName>
+                    <listBibl>
+                    <bibl></bibl>
+                    <relation active="#Laodice" ref="DaughterOf" passive="#Priam"><desc>daughter of Priam</desc></relation>
+                    <relation active="#Laodice" ref="DaughterOf" passive="#Hecuba"><desc>daughter of Hecuba</desc></relation>
+                    
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Leitus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Leitus</idno>
+                    <affiliation ref="http://pleiades.stoa.org/places/540689">Boeotia</affiliation>
                     <persName type="citable" xml:lang="en">Leitus</persName>
                     <persName type="citable" xml:lang="grc">Λήιτος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Leitus" ref="BrotherOf" passive="#Clonius"><desc>brother of Clonius</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Leonteus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Leonteus_(mythology)</idno>
+                    <occupation>commander of Lapiths</occupation>
                     <persName type="citable" xml:lang="en">Leonteus (mythology)</persName>
                     <persName type="citable" xml:lang="grc">Λεοντεύς</persName>
                 </person>
@@ -1259,12 +1391,22 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycaon_(Troy)</idno>
                     <persName type="citable" xml:lang="en">Lycaon (Troy)</persName>
                     <persName type="citable" xml:lang="grc">Λυκάων</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Lycaon" ref="SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Lycomedes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycomedes</idno>
                     <persName type="citable" xml:lang="en">Lycomedes</persName>
                     <persName type="citable" xml:lang="grc">Λυκομήδης</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Lycomedes" ref="FatherOf" passive="#Deidamia"><desc>father of Deidameia(/Deidamia)</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Lycomedes2" role="Son of Creon">
@@ -1277,6 +1419,12 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Laodamas</idno>
                     <persName type="citable" xml:lang="en">Laodamas</persName>
                     <persName type="citable" xml:lang="grc">Λαοδάμας</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Laodamas" ref="SonOf" passive="#Alcinous"><desc>son of Alcinous</desc></relation>
+                        <relation active="#Laodamas" ref="SonOf" passive="#Arete"><desc>son of Arete</desc></relation>
+                            
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Leodes">
