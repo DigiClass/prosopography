@@ -22,20 +22,6 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <!--<person xml:id="vv000" role="person">
-                  <persName xml:lang="en"></persName>
-                  <floruit></floruit>
-                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
-                  <affiliation ref=""></affiliation>
-                  <occupation>soldier</occupation>
-                  <occupation>legatus legionis</occupation>
-                  <listBibl>
-                     <bibl></bibl>
-                     <bibl></bibl>
-                  </listBibl>
-                  <idno type="wikipedia"></idno>
-                  <idno type="pir"></idno>
-               </person>-->
                <person xml:id="vv001" role="person">
                   <persName xml:lang="en">C. Manlius Valens</persName>
                   <floruit notBefore="0052" notAfter="0096">AD 52/96</floruit>
