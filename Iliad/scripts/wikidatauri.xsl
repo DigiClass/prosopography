@@ -40,8 +40,11 @@
       <xsl:apply-templates/>
     </xsl:element>
     <xsl:if test="not(following-sibling::t:idno[@type='wikidata'])">
+      <xsl:text>
+                  </xsl:text>
       <xsl:element name="idno">
         <xsl:attribute name="type"><xsl:text>wikidata</xsl:text></xsl:attribute>
+        <xsl:text>http:</xsl:text>
         <xsl:value-of select="document(.)//li[@id='t-wikibase']/a/@href"/>
       </xsl:element>
     </xsl:if>
