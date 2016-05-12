@@ -391,6 +391,7 @@
                   </listBibl>
                </person>
                
+               
                <!-- NEW BY ARGYRO -->
 
 
@@ -398,6 +399,13 @@
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Acamas</idno>
                 <persName type="citable" xml:lang="en">Acamas</persName>
                   <persName xml:lang="grc">Ἀκάμας</persName>
+                   <affiliation ref="http://pleiades.stoa.org/places/1001889">Thrace</affiliation>
+                   <listBibl>
+                       <bibl></bibl>
+                       <relation active="#Acamas" ref="snap:SonOf" passive="#Eussorus"><desc>Son of Eussorus</desc></relation>
+                       <!-- ?? -->
+                       
+                   </listBibl>
                 </person>
 
 
@@ -405,27 +413,46 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Acamas_%28son_of_Antenor%29</idno>
                     <persName type="citable" xml:lang="en">Acamas (son of Antenor)</persName>
                    <persName xml:lang="grc">Ἀκάμας</persName>
-                
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Acamas2" ref="snap:SonOf" passive="#Antenor"><desc>Son of Antenor</desc></relation>
+                        <relation active="#Acamas2" ref="snap:SonOf" passive="#Theano"><desc>Son of Theano</desc></relation>
+                        <relation active="#Acamas2" ref="snap:BrotherOf" passive="#Archelochus"><desc>Brother of Archelochus</desc></relation>
+                        <relation active="#Acamas2" ref="snap:CousinOf" passive="#Aeneas"><desc>cousin of Aeneas</desc></relation>
+                    </listBibl>
                 </person>
                 
                 
                 <person xml:id="Actor">
-     <idno type="wikipedia">https://en.wikipedia.org/wiki/Actor_%28mythology%29</idno>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Actor_%28mythology%29</idno>
                     <persName type="citable" xml:lang="en">Actor</persName>
                    <persName type="citable" xml:lang="grc">Ἄκτωρ</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Actor" ref="snap:GrandfatherOf" passive="#Patroclus"><desc>grandfather of Patroclus</desc></relation>
+
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Adrastus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Adrastus</idno>
+                    <occupation>king</occupation>
+                    <affiliation>Argos</affiliation>
                     <persName type="citable" xml:lang="en">Adrastus</persName>
                    <persName type="citable" xml:lang="grc">Ἄδραστος</persName>
-                    
+
                 </person>
                 
                 <person xml:id="Aesepus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Aesepus</idno>
                     <persName type="citable" xml:lang="en">Aesepus</persName>
                    <persName type="citable" xml:lang="grc">Αἴσηπος</persName>
+                    <affiliation>Troy</affiliation>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Aesepus" ref="snap:BrotherOf" passive="#Pedasus"><desc>twin brother of Pedasus</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 
@@ -433,6 +460,8 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Agapenor</idno>
                     <persName type="citable" xml:lang="en">Agapenor</persName>
                    <persName type="citable" xml:lang="grc">Ἀγαπήνωρ</persName>
+                    <occupation>king of the Arcadians</occupation>
+                    <affiliation ref="http://pleiades.stoa.org/places/570102">Arcadia</affiliation>
                 </person>
                 
                 
@@ -440,6 +469,11 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Agenor,_son_of_Antenor</idno>
                     <persName type="citable" xml:lang="en">Agenor, son of Antenor</persName>
                    <persName type="citable" xml:lang="grc">Ἀγήνωρ</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Agenor" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 
@@ -447,24 +481,36 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Alcathous</idno>
                     <persName type="citable" xml:lang="en">Alcathous</persName>
                    <persName type="citable" xml:lang="grc">Ἀλκάθοος</persName>
+                    <affiliation>Troy</affiliation>
                 </person>
                 
                 <person xml:id="Alcimus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Alcimus_%28mythology%29</idno>
                     <persName type="citable" xml:lang="en">Alcimus (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Ἄλκιμος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Aesepus" ref="snap:AllianceWith" passive="#Achilles"><desc>a companion of Achilles</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Amphimachus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphimachus</idno>
                     <persName type="citable" xml:lang="en">Amphimachus</persName>
                    <persName type="citable" xml:lang="grc">Ἀμφίμαχος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Amphimachus" ref="snap:SonOf" passive="#Actor"><desc>son of Actor</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Amphius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphius</idno>
                     <persName type="citable" xml:lang="en">Amphius</persName>
                    <persName type="citable" xml:lang="grc">Ἅμφιος</persName>
+                    <affiliation>Troy</affiliation>
                 </person>
                 
                 <person xml:id="Anchialus">
@@ -477,12 +523,23 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Anchises</idno>
                     <persName type="citable" xml:lang="en">Anchises</persName>
                    <persName type="citable" xml:lang="grc">Ἀγχίσης</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Anchises" ref="snap:FatherOf" passive="#Aeneas"><desc>father of Aeneas</desc></relation>
+                        
+                    </listBibl> 
                 </person>
                 
                 <person xml:id="Andromache">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Andromache</idno>
                     <persName type="citable" xml:lang="en">Andromache</persName>
                    <persName type="citable" xml:lang="grc">Ἀνδρομάχη</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Andromache" ref="snap:WifeOf" passive="#Hector"><desc>wife of Hector</desc></relation>
+                        <relation active="#Andromache" ref="snap:MotherOf" passive="#Astyanax"><desc>mother of Astyanax</desc></relation>
+                            
+                    </listBibl>
                 </person>
                
                
@@ -498,6 +555,12 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Antilochus</idno>
                     <persName type="citable" xml:lang="en">Antilochus</persName>
                    <persName type="citable" xml:lang="grc">Ἀντίλοχος</persName>
+                    <affiliation ref="http://pleiades.stoa.org/places/570640">Pylos</affiliation>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Antilochus" ref="snap:SonOf" passive="#Nestor"><desc>son of Nestor</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 
@@ -505,6 +568,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Antimachus_in_Greek_mythology</idno>
                     <persName type="citable" xml:lang="en">Antimachus in Greek mythology</persName>
                    <persName type="citable" xml:lang="grc">Ἄντίμαχος</persName>
+                    <affiliation>Troy</affiliation>
                 </person>
                 
                 
@@ -512,6 +576,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Antiphates</idno>
                     <persName type="citable" xml:lang="en">Antiphates</persName>
                    <persName type="citable" xml:lang="grc">Ἀντιφάτης</persName>
+                    
                 </person>
                 
                 
@@ -519,6 +584,12 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Antiphus</idno>
                     <persName type="citable" xml:lang="en">Antiphus</persName>
                    <persName type="citable" xml:lang="grc">Ἄντιφος</persName>
+                    <affiliation>Troy</affiliation>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Antiphates" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+                        <relation active="#Antiphates" ref="snap:SonOf" passive="#Hecuba"><desc>son of Hecuba</desc></relation>
+                    </listBibl>
                 </person>
                 
                 
@@ -526,6 +597,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Arcesilaus_(mythology)</idno>
                     <persName type="citable" xml:lang="en">Arcesilaus (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Ἀρκεσίλαος</persName>
+                    <affiliation ref="http://pleiades.stoa.org/places/540689">Boeotia</affiliation>
                 </person>
                 
                 
@@ -533,6 +605,12 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Archelochus</idno>
                     <persName type="citable" xml:lang="en">Archelochus</persName>
                    <persName type="citable" xml:lang="grc">Ἀρχέλοχος</persName>
+                    <affiliation>Troy</affiliation>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Archelochus" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
+                        <relation active="#Archelochus" ref="snap:BrotherOf" passive="#Acamas2"><desc>brother of Acamas, son of Antenor</desc></relation>
+                    </listBibl>
                 </person>
                 
                 
@@ -540,6 +618,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Areithous</idno>
                     <persName type="citable" xml:lang="en">Areithous</persName>
                    <persName type="citable" xml:lang="grc">Ἀρηΐθοος</persName>
+                    
                 </person>
                 
                 
@@ -547,6 +626,21 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Aretus</idno>
                     <persName type="citable" xml:lang="en">Aretus</persName>
                    <persName type="citable" xml:lang="grc">Ἄρητος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Aretus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam </desc></relation>
+                    </listBibl>
+                </person>
+                
+                <person xml:id="Aretus2">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aretus</idno>
+                    <persName type="citable" xml:lang="en">Aretus</persName>
+                    <persName type="citable" xml:lang="grc">Ἄρητος</persName>
+                    <occupation>king</occupation>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Aretus2" ref="snap:SonOf" passive="#Nestor"><desc>son of Nestor in Odyssey</desc></relation>
+                    </listBibl>
                 </person>
                 
                 
@@ -567,6 +661,13 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Asius_(mythology)</idno>
                     <persName type="citable" xml:lang="en">Asius (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Ἄσιος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Asius" ref="snap:NephewOf" passive="#Hecuba"><desc>nephew of Hecuba</desc></relation>
+                       
+                       <relation active="#Asius" ref="snap:FatherOf" passive="#Phaenops"><desc>father of Phaenops</desc></relation>
+                    </listBibl>
+                    
                 </person>
                 
                 <person xml:id="Asius2" role="SonofHyrtacus">
@@ -585,6 +686,11 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Astyanax</idno>
                     <persName type="citable" xml:lang="en">Astyanax</persName>
                    <persName type="citable" xml:lang="grc">Ἀστυάναξ</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Astyanax" ref="snap:SonOf" passive="#Hector"><desc>son of Hector</desc></relation>
+                        <relation active="#Astyanax" ref="snap:SonOf" passive="#Andromache"><desc>son of Andromache</desc></relation>
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Automedon">
@@ -615,6 +721,14 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Alcinous</idno>
                     <persName type="citable" xml:lang="en">Alcinous</persName>
                    <persName type="citable" xml:lang="grc">Ἀλκίνους / Ἀλκίνοος</persName>
+                    <occupation>king</occupation>
+                    <affiliation>Scheria</affiliation>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Alcinous" ref="snap:FatherOf" passive="#Nausicaa"><desc>father of Nausicaa</desc></relation>
+                        <relation active="#Alcinous" ref="snap:HusbandOf" passive="#Arete"><desc>husband of Arete</desc></relation>
+                         
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Amphimedon">
@@ -627,18 +741,33 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Anticlea</idno>
                     <persName type="citable" xml:lang="en">Anticlea</persName>
                    <persName type="citable" xml:lang="grc">Ἀντίκλεια</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Anticlea" ref="snap:MotherOf" passive="#Odysseus"><desc>mother of Odysseus</desc></relation>
+                        <relation active="#Anticlea" ref="snap:WifeOf" passive="#Laertes"><desc>wife of Laertes</desc></relation>
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Arete">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Arete_(mythology)</idno>
                     <persName type="citable" xml:lang="en">Arete (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Ἀρήτη</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Arete" ref="snap:MotherOf" passive="#Nausicaa"><desc>mother of Nausicaa</desc></relation>
+                        <relation active="#Arete" ref="snap:WifeOf" passive="#Alcinous"><desc>wife of king Alcinous</desc></relation>
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Argos" role="animal">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Argos_(dog)</idno>
                     <persName type="citable" xml:lang="en">Argos (dog)</persName>
                    <persName type="citable" xml:lang="grc">Ἄργος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Argos" ref="snap:Bond" passive="#Odysseus"><desc>the loyal dog of Odysseus</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 <person xml:id="Artemis" role="deity">
@@ -653,6 +782,11 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Balius_and_Xanthus</idno>
                     <persName type="citable" xml:lang="en">Balius</persName>
                    <persName type="citable" xml:lang="grc">Βάλιος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Balius" ref="snap:Bond" passive="#Achilles"><desc>horse of Achilles (with Xanthus)</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 
@@ -660,6 +794,11 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Balius_and_Xanthus</idno>
                     <persName type="citable" xml:lang="en">Xanthus</persName>
                    <persName type="citable" xml:lang="grc">Ξάνθος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Xanthus" ref="snap:Bond" passive="#Achilles"><desc>horse of Achilles (with Balius)</desc></relation>
+                        
+                    </listBibl>
                 </person>
                 
                 
