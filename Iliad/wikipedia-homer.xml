@@ -475,7 +475,7 @@
 
                <person xml:id="Acamas">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Acamas</idno>
-                   <idno type="smith">http://data.perseus.org/people/smith:acamas-bio-1</idno>
+                   <idno type="smith">http://data.perseus.org/people/smith:acamas-1</idno>
                    <idno type="wikidata">https://www.wikidata.org/wiki/Q342286</idno>
                 <persName type="citable" xml:lang="en">Acamas</persName>
                   <persName xml:lang="grc">Ἀκάμας</persName>
@@ -486,7 +486,7 @@
 
                 <person xml:id="Acamas2" role="Son of Antenor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Acamas_%28son_of_Antenor%29</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:acamas-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:acamas-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1782641</idno>
                     <persName type="citable" xml:lang="en">Acamas (son of Antenor)</persName>
                    <persName xml:lang="grc">Ἀκάμας</persName>
@@ -502,7 +502,7 @@
                 
                 <person xml:id="Actor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Actor_%28mythology%29</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:actor-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:actor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q557214</idno>
                     <persName type="citable" xml:lang="en">Actor</persName>
                    <persName type="citable" xml:lang="grc">Ἄκτωρ</persName>
@@ -515,7 +515,7 @@
                 
                 <person xml:id="Adrastus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Adrastus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:adrastus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:adrastus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q223152</idno>
                     <occupation>king</occupation>
                     <affiliation>Argos</affiliation>
@@ -541,7 +541,7 @@
                 
                 <person xml:id="Agapenor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Agapenor</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:agapenor-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:agapenor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q390492</idno>
                     <persName type="citable" xml:lang="en">Agapenor</persName>
                    <persName type="citable" xml:lang="grc">Ἀγαπήνωρ</persName>
@@ -552,7 +552,7 @@
                 
                 <person xml:id="Agenor2" role="SonofAntenor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Agenor,_son_of_Antenor</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:agenor-bio-6</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:agenor-6</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2547185</idno>
                     <persName type="citable" xml:lang="en">Agenor, son of Antenor</persName>
                    <persName type="citable" xml:lang="grc">Ἀγήνωρ</persName>
@@ -566,7 +566,7 @@
                 
                 <person xml:id="Alcathous">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Alcathous</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:alcathous-bio-3</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:alcathous-3</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q246622</idno>
                     <persName type="citable" xml:lang="en">Alcathous</persName>
                    <persName type="citable" xml:lang="grc">Ἀλκάθοος</persName>
@@ -588,7 +588,7 @@
                 
                 <person xml:id="Amphimachus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphimachus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:amphimachus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:amphimachus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q474890</idno>
                     <persName type="citable" xml:lang="en">Amphimachus</persName>
                    <persName type="citable" xml:lang="grc">Ἀμφίμαχος</persName>
@@ -601,7 +601,7 @@
                 
                 <person xml:id="Amphius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphius</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:amphius-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:amphius-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3616664</idno>
                     <persName type="citable" xml:lang="en">Amphius</persName>
                    <persName type="citable" xml:lang="grc">Ἅμφιος</persName>
@@ -610,7 +610,7 @@
                 
                 <person xml:id="Anchialus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Anchialus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:anchialus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:anchialus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q21473227</idno>
                     <persName type="citable" xml:lang="en">Anchialus</persName>
                    <persName type="citable" xml:lang="grc">Ἀγχίαλος</persName>
@@ -618,7 +618,7 @@
                 
                 <person xml:id="Anchises">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Anchises</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:anchises-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:anchises-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q211953</idno>
                     <persName type="citable" xml:lang="en">Anchises</persName>
                    <persName type="citable" xml:lang="grc">Ἀγχίσης</persName>
@@ -631,7 +631,7 @@
                 
                 <person xml:id="Andromache">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Andromache</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:andromache-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:andromache-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q19376</idno>
                     <persName type="citable" xml:lang="en">Andromache</persName>
                    <persName type="citable" xml:lang="grc">Ἀνδρομάχη</persName>
@@ -655,7 +655,7 @@
                 
                 <person xml:id="Antilochus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Antilochus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:andromache-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:andromache-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q577552</idno>
                     <persName type="citable" xml:lang="en">Antilochus</persName>
                    <persName type="citable" xml:lang="grc">Ἀντίλοχος</persName>
@@ -670,7 +670,7 @@
                 
                 <person xml:id="Antimachus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Antimachus_in_Greek_mythology</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:antimachus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:antimachus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2721173</idno>
                     <persName type="citable" xml:lang="en">Antimachus in Greek mythology</persName>
                    <persName type="citable" xml:lang="grc">Ἄντίμαχος</persName>
@@ -691,7 +691,7 @@
                 
                 <person xml:id="Antiphus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Antiphus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:antiphus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:antiphus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q4775127</idno>
                     <persName type="citable" xml:lang="en">Antiphus</persName>
                    <persName type="citable" xml:lang="grc">Ἄντιφος</persName>
@@ -706,7 +706,7 @@
                 
                 <person xml:id="Arcesilaus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Arcesilaus_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:arcesilaus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:arcesilaus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2860691</idno>
                     <persName type="citable" xml:lang="en">Arcesilaus (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Ἀρκεσίλαος</persName>
@@ -716,7 +716,7 @@
                 
                 <person xml:id="Archelochus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Archelochus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:</idno>
+                    
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1330702</idno>
                     <persName type="citable" xml:lang="en">Archelochus</persName>
                    <persName type="citable" xml:lang="grc">Ἀρχέλοχος</persName>
@@ -731,7 +731,7 @@
                 
                 <person xml:id="Areithous">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Areithous</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:areithous-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:areithous-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q641062</idno>
                     <persName type="citable" xml:lang="en">Areithous</persName>
                    <persName type="citable" xml:lang="grc">Ἀρηΐθοος</persName>
@@ -741,7 +741,7 @@
                 
                 <person xml:id="Aretus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Aretus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:aretus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:aretus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q643493</idno>
                     <persName type="citable" xml:lang="en">Aretus</persName>
                    <persName type="citable" xml:lang="grc">Ἄρητος</persName>
@@ -776,7 +776,7 @@
                 
                 <person xml:id="Ascalaphus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Ascalaphus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:ascalaphus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:ascalaphus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q660196</idno>
                     <persName type="citable" xml:lang="en">Ascalaphus</persName>
                    <persName type="citable" xml:lang="grc">Ἀσκάλαφος</persName>
@@ -784,7 +784,7 @@
                 
                 <person xml:id="Asius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Asius_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:asius-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:asius-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q730614</idno>
                     <persName type="citable" xml:lang="en">Asius (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Ἄσιος</persName>
@@ -799,7 +799,7 @@
                 
                 <person xml:id="Asius2" role="SonofHyrtacus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Asius_(son_of_Hyrtacus)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:ascalaphus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:ascalaphus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2647181</idno>
                     <persName type="citable" xml:lang="en">Asius (son of Hyrtacus)</persName>
                    <persName type="citable" xml:lang="grc">Ἄσιος</persName>
@@ -815,7 +815,7 @@
                 
                 <person xml:id="Astyanax">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Astyanax</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:astyanax-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:astyanax-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q334787</idno>
                     <persName type="citable" xml:lang="en">Astyanax</persName>
                    <persName type="citable" xml:lang="grc">Ἀστυάναξ</persName>
@@ -828,7 +828,7 @@
                 
                 <person xml:id="Automedon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Automedon</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:automedon-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:automedon-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q772808</idno>
                     <persName type="citable" xml:lang="en">Automedon</persName>
                    <persName type="citable" xml:lang="grc">Αὐτομέδων</persName>
@@ -844,7 +844,7 @@
                 
                 <person xml:id="Aeolus" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Aeolus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:aeolus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:aeolus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q172549</idno>
                     <persName type="citable" xml:lang="en">Aeolus</persName>
                    <persName type="citable" xml:lang="grc">Αἴολος</persName>
@@ -852,7 +852,7 @@
                 
                 <person xml:id="Agelaus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Agelaus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:agelaus-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:agelaus-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q25574</idno>
                     <persName type="citable" xml:lang="en">Agelaus</persName>
                    <persName type="citable" xml:lang="grc">Ἀγέλαος</persName>
@@ -860,7 +860,7 @@
                 
                 <person xml:id="Alcinous">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Alcinous</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:alcinous-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:alcinous-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q496595</idno>
                     <persName type="citable" xml:lang="en">Alcinous</persName>
                    <persName type="citable" xml:lang="grc">Ἀλκίνους / Ἀλκίνοος</persName>
@@ -876,7 +876,7 @@
                 
                 <person xml:id="Amphimedon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphimedon</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:amphimedon-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:amphimedon-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1841246</idno>
                     <persName type="citable" xml:lang="en">Amphimedon</persName>
                    <persName type="citable" xml:lang="grc">Ἀμφιμέδων</persName>
@@ -884,7 +884,7 @@
                 
                 <person xml:id="Anticlea">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Anticlea</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:anticleia-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:anticleia-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q576170</idno>
                     <persName type="citable" xml:lang="en">Anticlea / Anticleia</persName>
                    <persName type="citable" xml:lang="grc">Ἀντίκλεια</persName>
@@ -897,7 +897,7 @@
                 
                 <person xml:id="Arete">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Arete_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:arete-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:arete-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q6305390</idno>
                     <persName type="citable" xml:lang="en">Arete (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Ἀρήτη</persName>
@@ -923,7 +923,7 @@
                 
                 <person xml:id="Artemis" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Artemis</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:artemis-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:artemis-2</idno>
                     <idno type="wikidata">//www.wikidata.org/wiki/Q39503</idno>
                     <persName type="citable" xml:lang="en">Artemis </persName>
                    <persName type="citable" xml:lang="grc">Ἄρτεμις</persName>
@@ -961,7 +961,7 @@
                 
                 <person xml:id="Bias">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Bias_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:bias-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:bias-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q855509</idno>
                     <persName type="citable" xml:lang="en">Bias (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Βίας</persName>
@@ -979,7 +979,7 @@
                 
                 <person xml:id="Caletor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Caletor</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:caletor-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:caletor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5019548</idno>
                     <persName type="citable" xml:lang="en">Caletor</persName>
                    <persName type="citable" xml:lang="grc">Καλήτωρ</persName>
@@ -993,7 +993,7 @@
                 
                 <person xml:id="Cassandra">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Cassandra</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:cassandra-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:cassandra-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q170779</idno>
                     <persName type="citable" xml:lang="en">Cassandra</persName>
                    <persName type="citable" xml:lang="grc">Κασσάνδρα</persName>
@@ -1009,7 +1009,7 @@
                 
                 <person xml:id="Chryses">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Chryses</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:chryses-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:chryses-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q852301</idno>
                     <persName type="citable" xml:lang="en">Chryses</persName>
                    <persName type="citable" xml:lang="grc">Χρύσης</persName>
@@ -1024,7 +1024,7 @@
                 
                 <person xml:id="Clonius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Clonius</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:clonius-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:clonius-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5135022</idno>
                     <persName type="citable" xml:lang="en">Clonius</persName>
                    <persName type="citable" xml:lang="grc">Κλονίος</persName>
@@ -1038,7 +1038,7 @@
                 
                 <person xml:id="Clytius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Clytius</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:clytius-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:clytius-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1433885</idno>
                     <persName type="citable" xml:lang="en">Clytius</persName>
                    <persName type="citable" xml:lang="grc">Κλυτίος</persName>
@@ -1061,7 +1061,7 @@
                 
                 <person xml:id="Calypso" role="nymph">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Calypso_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:calypso-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:calypso-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48961</idno>
                     <persName type="citable" xml:lang="en">Calypso (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Καλυψώ</persName>
@@ -1076,7 +1076,7 @@
                 
                 <person xml:id="Circe" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Circe</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:circe-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:circe-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q187602</idno>
                     <persName type="citable" xml:lang="en">Circe</persName>
                    <persName type="citable" xml:lang="grc">Κίρκη </persName>
@@ -1090,7 +1090,7 @@
                 
                 <person xml:id="Ctesippus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Ctesippus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:ctesippus-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:ctesippus-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2688223</idno>
                     <persName type="citable" xml:lang="en">Ctesippus</persName>
                    <persName type="citable" xml:lang="grc">Κτήσιππος</persName>
@@ -1111,7 +1111,7 @@
                 
                 <person xml:id="DaresPhrygius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Dares_Phrygius</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:dares-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:dares-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q544378</idno>
                     <occupation>priest</occupation>
                     <persName type="citable" xml:lang="en">Dares Phrygius</persName>
@@ -1120,7 +1120,7 @@
                 
                 <person xml:id="Deidamia">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Deidamia_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:deidameia-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:deidameia-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q431387</idno>
                     <persName type="citable" xml:lang="en">Deidamia / Deidameia</persName>
                    <persName type="citable" xml:lang="grc">Δηϊδάμεια</persName>
@@ -1135,7 +1135,7 @@
                 
                 <person xml:id="Deiphobus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Deiphobus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:deiphobus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:deiphobus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q736813</idno>
                     <persName type="citable" xml:lang="en">Deiphobus</persName>
                    <persName type="citable" xml:lang="grc">Δηίφοβος</persName>
@@ -1150,7 +1150,7 @@
                 
                 <person xml:id="Diomede">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Diomede</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:diomede-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:diomede-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q18650075</idno>
                     <persName type="citable" xml:lang="en">Diomede</persName>
                    <persName type="citable" xml:lang="grc">Διομήδη </persName>
@@ -1163,7 +1163,7 @@
                 
                 <person xml:id="Dolon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Dolon_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:dolon-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:dolon-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q854056</idno>
                     <persName type="citable" xml:lang="en">Dolon (mythology)</persName>
                    <persName type="citable" xml:lang="grc">Δόλων</persName>
@@ -1171,7 +1171,7 @@
                 
                 <person xml:id="Demodocus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Demodocus_(Odyssey_character)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:demodocus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:demodocus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q844808</idno>
                     <occupation>poet</occupation>
                     <persName type="citable" xml:lang="en">Demodocus (Odyssey character)</persName>
@@ -1180,7 +1180,7 @@
                 
                 <person xml:id="Demoptolemus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Demoptolemus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:demoptolemus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:demoptolemus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1621892</idno>
                     <persName type="citable" xml:lang="en">Demoptolemus</persName>
                    <persName type="citable" xml:lang="grc">Δημοπτόλεμος</persName>
@@ -1188,7 +1188,7 @@
                 
                 <person xml:id="Deucalion">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Deucalion_of_Crete</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:deucalion-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:deucalion-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q904515</idno>
                     <affiliation ref="http://pleiades.stoa.org/places/589748">Crete</affiliation>
                     <occupation>kind</occupation>
@@ -1203,7 +1203,7 @@
                 
                 <person xml:id="Dolius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Dolius</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:dolius-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:dolius-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q907854</idno>
                     <persName type="citable" xml:lang="en">Dolius</persName>
                    <persName type="citable" xml:lang="grc">Δόλιος</persName>
@@ -1216,7 +1216,7 @@
                 
                 <person xml:id="Eioneus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eioneus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:eioneus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:eioneus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5349838</idno>
                     <persName type="citable" xml:lang="en">Eioneus</persName>
                    <persName type="citable" xml:lang="grc">Ἠιονεύς</persName>
@@ -1224,7 +1224,7 @@
                 
                 <person xml:id="Elephenor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Elephenor</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:elephenor-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:elephenor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1328257</idno>
                     <affiliation ref="http://pleiades.stoa.org/places/540775">Abantes Euboea</affiliation>
                     <persName type="citable" xml:lang="en">Elephenor</persName>
@@ -1233,7 +1233,7 @@
                 
                 <person xml:id="Ennomus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Ennomus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:ennomus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:ennomus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3562609</idno>
                     <persName type="citable" xml:lang="en">Ennomus</persName>
                    <persName type="citable" xml:lang="grc">Ἔννομος </persName>
@@ -1241,7 +1241,7 @@
                 
                 <person xml:id="Epeigeus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Epeigeus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:epeigeus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:epeigeus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3589147</idno>
                     <occupation>Myrmidon</occupation>
                     <persName type="citable" xml:lang="en">Epeigeus</persName>
@@ -1250,7 +1250,7 @@
                 
                 <person xml:id="Epeius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Epeius</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:epeius-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:epeius-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q278930</idno>
                     <persName type="citable" xml:lang="en">Epeius</persName>
                    <persName type="citable" xml:lang="grc">Ἐπειός </persName>
@@ -1258,7 +1258,7 @@
                 
                 <person xml:id="Epistrophus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Epistrophus_(Greek_mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:epistrophus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:epistrophus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2567493</idno>
                     <persName type="citable" xml:lang="en">Epistrophus (Greek mythology)</persName>
                    <persName type="citable" xml:lang="grc">Ἐπίστροφος </persName>
@@ -1266,7 +1266,7 @@
                 
                 <person xml:id="Eris" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eris_%28mythology%29</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:eris-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:eris-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q140001</idno>
                     <persName type="citable" xml:lang="en">Eris (mythology) </persName>
                    <persName type="citable" xml:lang="grc">Ἔρις </persName>
@@ -1282,7 +1282,7 @@
                 
                 <person xml:id="Euchenor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Euchenor</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:euchenor-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:euchenor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5405852</idno>
                     <affiliation ref="http://pleiades.stoa.org/places/570182">Corinth</affiliation>
                     <persName type="citable" xml:lang="en">Euchenor</persName>
@@ -1291,7 +1291,7 @@
                 
                 <person xml:id="Eudoros">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eudoros</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:eudorus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:eudorus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1331224</idno>
                     <occupation>commander</occupation>
                     <persName type="citable" xml:lang="en">Eudoros / Eudorus</persName>
@@ -1300,7 +1300,7 @@
                 
                 <person xml:id="Euneus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Euneus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:euneus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:euneus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1373992</idno>
                     <persName type="citable" xml:lang="en">Euneus</persName>
                    <persName type="citable" xml:lang="grc">Εὔνηος </persName>
@@ -1312,7 +1312,7 @@
                 
                 <person xml:id="Euphemus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Euphemus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:euphemus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:euphemus-1</idno>
                     <!-- at the end -->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q749123</idno>
                     <occupation>leader of Cicones</occupation>
@@ -1322,7 +1322,7 @@
                 
                 <person xml:id="Euphorbus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Euphorbus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:euphorbus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:euphorbus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q599489</idno>
                     <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Euphorbus</persName>
@@ -1331,7 +1331,7 @@
                 
                 <person xml:id="Euryalus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Euryalus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:euryalus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:euryalus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1077656</idno>
                     <persName type="citable" xml:lang="en">Euryalus</persName>
                    <persName type="citable" xml:lang="grc">Εὐρύαλος </persName>
@@ -1339,7 +1339,7 @@
                 
                 <person xml:id="Eurybates">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurybates</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:eurybates-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:eurybates-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2665082</idno>
                     <persName type="citable" xml:lang="en">Eurybates</persName>
                    <persName type="citable" xml:lang="grc">Εὐρυβάτης </persName>
@@ -1347,7 +1347,7 @@
                 
                 <person xml:id="Eurydamas">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurydamas</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:eurydamas-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:eurydamas-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5413997</idno>
                     <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Eurydamas</persName>
@@ -1356,7 +1356,7 @@
                 
                 <person xml:id="Eurypylus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurypylus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:eurypylus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:eurypylus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1146975</idno>
                     <occupation>king</occupation>
                     <affiliation>Thessaly</affiliation>
@@ -1366,7 +1366,7 @@
                 
                 <person xml:id="Echephron">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Echephron</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:echephron-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:echephron-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1280298</idno>
                     <persName type="citable" xml:lang="en">Echephron</persName>
                    <persName type="citable" xml:lang="grc">Ἐχέφρων </persName>
@@ -1378,7 +1378,7 @@
                 
                 <person xml:id="Echetus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Echetus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:echetus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:echetus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2641180</idno>
                     <persName type="citable" xml:lang="en">Echetus</persName>
                    <persName type="citable" xml:lang="grc">Ἔχετος </persName>
@@ -1386,7 +1386,7 @@
                 
                 <person xml:id="Elatus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Elatus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:elatus-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:elatus-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3253971</idno>
                     <persName type="citable" xml:lang="en">Elatus</persName>
                    <persName type="citable" xml:lang="grc">Ἔλατος </persName>
@@ -1394,7 +1394,7 @@
                 
                 <person xml:id="Elpenor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Elpenor</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:elpenor-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:elpenor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q935433</idno>
                     <persName type="citable" xml:lang="en">Elpenor</persName>
                    <persName type="citable" xml:lang="grc">Ἐλπήνωρ </persName>
@@ -1406,7 +1406,7 @@
                 
                 <person xml:id="Eumaeus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eumaeus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:eumaeus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:eumaeus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1333846</idno>
                     <persName type="citable" xml:lang="en">Eumaeus</persName>
                    <persName type="citable" xml:lang="grc">Εὔμαιος </persName>
@@ -1418,7 +1418,7 @@
                 
                 <person xml:id="Eupeithes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eupeithes</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:eupeithes-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:eupeithes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q13233212</idno>
                     <persName type="citable" xml:lang="en">Eupeithes</persName>
                    <persName type="citable" xml:lang="grc">Εὐπείθης </persName>
@@ -1430,7 +1430,7 @@
                 
                 <person xml:id="Eurycleia">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurycleia</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:eurycleia-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:eurycleia-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q615201</idno>
                     <persName type="citable" xml:lang="en">Eurycleia</persName>
                    <persName type="citable" xml:lang="grc">Εὐρύκλεια </persName>
@@ -1454,7 +1454,7 @@
                 
                 <person xml:id="Eurynome">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurynome</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:eurynome-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:eurynome-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q547303</idno>
                     <persName type="citable" xml:lang="en">Eurynome</persName>
                    <persName type="citable" xml:lang="grc">Εὐρυνόμη </persName>
@@ -1485,7 +1485,7 @@
                 
                 <person xml:id="Hecamede">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Hecamede</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:hecamede-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:hecamede-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3084264</idno>
                     <persName type="citable" xml:lang="en">Hecamede</persName>
                    <persName type="citable" xml:lang="grc">Ἑκαμήδη</persName>
@@ -1497,7 +1497,7 @@
                 
                 <person xml:id="Halitherses">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Halitherses</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:halitherses-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:halitherses-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2915608</idno>
                     <occupation>prophet</occupation>
                     <persName type="citable" xml:lang="en">Halitherses</persName>
@@ -1506,7 +1506,7 @@
                 
                 <person xml:id="Hecuba">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Hecuba</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:hecabe-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:hecabe-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q193433</idno>
                     <occupation>queen</occupation>
                     <affiliation>Troy</affiliation>
@@ -1524,7 +1524,7 @@
                 
                 <person xml:id="Helenus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Helenus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:helenus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:helenus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q729332</idno>
                     <persName type="citable" xml:lang="en">Helenus</persName>
                    <persName type="citable" xml:lang="grc">Ἕλενος</persName>
@@ -1538,7 +1538,7 @@
                 
                 <person xml:id="Hyperenor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Hyperenor</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:hyperenor-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:hyperenor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5957987</idno>
                     <persName type="citable" xml:lang="en">Hyperenor</persName>
                    <persName type="citable" xml:lang="grc">Ὺπερήνωρ</persName>
@@ -1546,7 +1546,7 @@
                 
                 <person xml:id="Helios" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Helios</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:helios-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:helios-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q134270</idno>
                     <persName type="citable" xml:lang="en">Helios</persName>
                    <persName type="citable" xml:lang="grc">Ἠέλιος / Ἥλιος</persName>
@@ -1554,7 +1554,7 @@
                 
                 <person xml:id="Heracles" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Heracles</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:heracles-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:heracles-1</idno>
                     <idno type="wikidata">//www.wikidata.org/wiki/Q122248</idno>
                     <persName type="citable" xml:lang="en">Heracles </persName>
                    <persName type="citable" xml:lang="grc">Ἡρακλῆς</persName>
@@ -1567,7 +1567,7 @@
                 
                 <person xml:id="Hades" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Hades</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:hades-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:hades-1</idno>
                     <idno type="wikidata">//www.wikidata.org/wiki/Q41410</idno>
                     <persName type="citable" xml:lang="en">Hades</persName>
                    <persName type="citable" xml:lang="grc">ᾍδης</persName>
@@ -1575,7 +1575,7 @@
                 
                 <person xml:id="Hephaestus" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Hephaestus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:hephaestus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:hephaestus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44384</idno>
                     <persName type="citable" xml:lang="en">Hephaestus</persName>
                    <persName type="citable" xml:lang="grc">Ἥφαιστος </persName>
@@ -1583,7 +1583,7 @@
                 
                 <person xml:id="Iamenus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Iamenus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:iamenus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:iamenus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5980703</idno>
                     <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Iamenus</persName>
@@ -1592,7 +1592,7 @@
                 
                 <person xml:id="Ilioneus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Ilioneus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:ilioneus-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:ilioneus-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q13566442</idno>
                     <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Ilioneus</persName>
@@ -1601,7 +1601,7 @@
                 
                 <person xml:id="Iphthime">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Iphthime</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:iphthime-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:iphthime-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1635169</idno>
                     <persName type="citable" xml:lang="en">Iphthime</persName>
                     <persName type="citable" xml:lang="grc">Ἰφθίμη </persName>
@@ -1614,7 +1614,7 @@
                 
                 <person xml:id="Ino" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Ino_%28Greek_mythology%29</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:ino-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:ino-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q223690</idno>
                     <persName type="citable" xml:lang="en">Ino</persName>
                     <persName type="citable" xml:lang="grc">Ἰνώ</persName>
@@ -1622,7 +1622,7 @@
                 
                 <person xml:id="Kebriones">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Kebriones</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:cebriones-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:cebriones-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q655184</idno>
                     <persName type="citable" xml:lang="en">Kebriones</persName>
                     <persName type="citable" xml:lang="grc">Κεβριόνης</persName>
@@ -1636,7 +1636,7 @@
                 
                 <person xml:id="Khione" role="nymph">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Chione_%28daughter_of_Boreas%29</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:chione-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:chione-1</idno>
                     <!-- ? -->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q7382381</idno>
                     <persName type="citable" xml:lang="en">Khione</persName>
@@ -1645,7 +1645,7 @@
                 
                 <person xml:id="Laodice" role="DaughterofPriam">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Laodice_(daughter_of_Priam)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:laodice-bio-4</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:laodice-4</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1178583</idno>
                     <persName type="citable" xml:lang="en">Laodice (daughter of Priam)</persName>
                     <persName type="citable" xml:lang="grc">Λαοδίκη</persName>
@@ -1659,7 +1659,7 @@
                 
                 <person xml:id="Leitus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Leitus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:leitus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:leitus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2194100</idno>
                     <affiliation ref="http://pleiades.stoa.org/places/540689">Boeotia</affiliation>
                     <persName type="citable" xml:lang="en">Leitus</persName>
@@ -1673,7 +1673,7 @@
                 
                 <person xml:id="Leonteus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Leonteus_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:leonteus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:leonteus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q22155491</idno>
                     <occupation>commander of Lapiths</occupation>
                     <persName type="citable" xml:lang="en">Leonteus (mythology)</persName>
@@ -1682,7 +1682,7 @@
                 
                 <person xml:id="Lycaon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycaon_(Troy)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:lycaon-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:lycaon-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1331212</idno>
                     <persName type="citable" xml:lang="en">Lycaon (Troy)</persName>
                     <persName type="citable" xml:lang="grc">Λυκάων</persName>
@@ -1695,7 +1695,7 @@
                 
                 <person xml:id="Lycomedes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycomedes</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:lycomedes-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:lycomedes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1330532</idno>
                     <persName type="citable" xml:lang="en">Lycomedes</persName>
                     <persName type="citable" xml:lang="grc">Λυκομήδης</persName>
@@ -1708,7 +1708,7 @@
                 
                 <person xml:id="Lycomedes2" role="Son of Creon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycomedes_(son_of_Creon)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:lycomedes-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:lycomedes-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q15262316</idno>
                     <persName type="citable" xml:lang="en">Lycomedes (son of Creon)</persName>
                     <persName type="citable" xml:lang="grc">Λυκομήδης</persName>
@@ -1716,7 +1716,7 @@
                 
                 <person xml:id="Laodamas">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Laodamas</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:laodamas-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:laodamas-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q765456</idno>
                     <persName type="citable" xml:lang="en">Laodamas</persName>
                     <persName type="citable" xml:lang="grc">Λαοδάμας</persName>
@@ -1746,7 +1746,7 @@
                 
                 <person xml:id="Machaon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Machaon_(physician)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:machaon-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:machaon-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q674319</idno>
                     <occupation>physician</occupation>
                     <persName type="citable" xml:lang="en">Machaon (physician)</persName>
@@ -1759,7 +1759,7 @@
                 
                 <person xml:id="Mecisteus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Mecisteus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:mecisteus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:mecisteus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1968413</idno>
                     <persName type="citable" xml:lang="en">Mecisteus</persName>
                     <persName type="citable" xml:lang="grc">Μηκιστεύς</persName>
@@ -1771,7 +1771,7 @@
                 
                 <person xml:id="Medon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Medon</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:medon-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:medon-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1155364</idno>
                     
                     <persName type="citable" xml:lang="en">Medon</persName>
@@ -1785,7 +1785,7 @@
                 
                 <person xml:id="Medon2">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Medon</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:medon-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:medon-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1155364</idno>
                     <persName type="citable" xml:lang="en">Medon</persName>
                     <persName type="citable" xml:lang="grc">Μέδων</persName>
@@ -1797,7 +1797,7 @@
                 
                 <person xml:id="Meges">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Meges</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:meges-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:meges-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2300199</idno>
                     <persName type="citable" xml:lang="en">Meges</persName>
                     <persName type="citable" xml:lang="grc">Μέγης</persName>
@@ -1805,7 +1805,7 @@
                 
                 <person xml:id="Melanippus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Melanippus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:melanippus-bio-6</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:melanippus-6</idno>
                     <!-- at the end as a 7th Melanippus -->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q20202254</idno>
                     <persName type="citable" xml:lang="en">Melanippus</persName>
@@ -1814,7 +1814,7 @@
                 
                 <person xml:id="Menestheus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Menestheus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:menestheus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:menestheus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q781867</idno>
                     <occupation>king</occupation>
                     <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
@@ -1824,7 +1824,7 @@
                 
                 <person xml:id="Mentes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Mentes_(King_of_the_Cicones)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:mentes-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:mentes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q13442310</idno>
                     <occupation>king</occupation>
                     <persName type="citable" xml:lang="en">Mentes (King of the Cicones)</persName>
@@ -1833,7 +1833,7 @@
                 
                 <person xml:id="Meriones">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Meriones_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:meriones-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:meriones-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q367819</idno>
                     <persName type="citable" xml:lang="en">Meriones (mythology)</persName>
                     <persName type="citable" xml:lang="grc">Μηριόνης</persName>
@@ -1854,7 +1854,7 @@
                 
                 <person xml:id="Mygdon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Mygdon_of_Phrygia</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:mygdon-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:mygdon-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1647552</idno>
                     <persName type="citable" xml:lang="en">Mygdon of Phrygia</persName>
                     <persName type="citable" xml:lang="grc">Μύγδων</persName>
@@ -1862,7 +1862,7 @@
                 
                 <person xml:id="Melanthius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Melanthius_(Odyssey)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:melanthius-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:melanthius-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1299128</idno>
                     <persName type="citable" xml:lang="en">Melanthius (Odyssey)</persName>
                     <persName type="citable" xml:lang="grc">Μελάνθιος / Μελανθεύς</persName>
@@ -1874,7 +1874,7 @@
                 
                 <person xml:id="Melantho">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Melantho</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:melantho-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:melantho-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1862383</idno>
                     <persName type="citable" xml:lang="en">Melantho</persName>
                     <persName type="citable" xml:lang="grc">Μελανθώ</persName>
@@ -1888,7 +1888,7 @@
                 
                 <person xml:id="Mentes2">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Mentes_(King_of_the_Taphians)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:mentes-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:mentes-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q13442311</idno>
                     <occupation>king of Taphians</occupation>
                     <persName type="citable" xml:lang="en">Mentes (King of the Taphians)</persName>
@@ -1901,7 +1901,7 @@
                 
                 <person xml:id="Mentor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Mentor_(Odyssey)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:mentor-bio-3</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:mentor-3</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q214003</idno>
                     <persName type="citable" xml:lang="en">Mentor (Odyssey)</persName>
                     <persName type="citable" xml:lang="grc">Μέντωρ</persName>
@@ -1921,7 +1921,7 @@
                 
                 <person xml:id="Nausicaa">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Nausicaa</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:nausicaa-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:nausicaa-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q135224</idno>
                     <persName type="citable" xml:lang="en">Nausicaa</persName>
                     <persName type="citable" xml:lang="grc">Ναυσικάα /Ναυσικᾶ</persName>
@@ -1934,7 +1934,7 @@
                 
                 <person xml:id="Othryoneus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Othryoneus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:othryoneus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:othryoneus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2305436</idno>
                     <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Othryoneus</persName>
@@ -1943,7 +1943,7 @@
                 
                 <person xml:id="Orsilochus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Orsilochus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:orsilochus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:orsilochus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q396261</idno>
                     <persName type="citable" xml:lang="en">Orsilochus</persName>
                     <persName type="citable" xml:lang="grc">Ὁρσἰλοχος / Ὁρτἰλοχος</persName>
@@ -1951,7 +1951,7 @@
                 
                 <person xml:id="Pandarus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pandarus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:pandarus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:pandarus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1057384</idno>
                     <persName type="citable" xml:lang="en">Pandarus</persName>
                     <persName type="citable" xml:lang="grc">Πάνδαρος</persName>
@@ -1963,7 +1963,7 @@
                 
                 <person xml:id="Panthous">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Panthous</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:panthous-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:panthous-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q119919</idno>
                     <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Panthous</persName>
@@ -2004,7 +2004,7 @@
                 
                 <person xml:id="Peneleos">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Peneleos</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:peneleos-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:peneleos-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q254381</idno>
                     <persName type="citable" xml:lang="en">Peneleos</persName>
                     <persName type="citable" xml:lang="grc">Πηνελέως</persName>
@@ -2012,7 +2012,7 @@
                 
                 <person xml:id="Periphas">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Periphas</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:periphas-bio-6</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:periphas-6</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2397439</idno>
                     <persName type="citable" xml:lang="en">Periphas</persName>
                     <persName type="citable" xml:lang="grc">Περίφας</persName>
@@ -2020,7 +2020,7 @@
                 
                 <person xml:id="Periphetes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Periphetes</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:periphetes-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:periphetes-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q582161</idno>
                     <persName type="citable" xml:lang="en">Periphetes</persName>
                     <persName type="citable" xml:lang="grc">Περιφήτης</persName>
@@ -2028,7 +2028,7 @@
                 
                 <person xml:id="Phaenops">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phaenops</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:phaenops-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:phaenops-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q7180030</idno>
                     <persName type="citable" xml:lang="en">Phaenops</persName>
                     <persName type="citable" xml:lang="grc">Φαίνωψ</persName>
@@ -2040,7 +2040,7 @@
                 
                 <person xml:id="Philoctetes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Philoctetes</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:philoctetes-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:philoctetes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q212827</idno>
                     <persName type="citable" xml:lang="en">Philoctetes</persName>
                     <persName type="citable" xml:lang="grc">Φιλοκτήτης</persName>
@@ -2068,7 +2068,7 @@
                 
                 <person xml:id="Phylas">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phylas</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:phylas-bio-3</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:phylas-3</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q7188469</idno>
                     <persName type="citable" xml:lang="en">Phylas</persName>
                     <persName type="citable" xml:lang="grc">Φύλας</persName>
@@ -2088,7 +2088,7 @@
                 
                 <person xml:id="Podarces">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Podarces</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:podarces-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:podarces-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1206572</idno>
                     <persName type="citable" xml:lang="en">Podarces</persName>
                     <persName type="citable" xml:lang="grc">Ποδάρκης</persName>
@@ -2100,7 +2100,7 @@
                 
                 <person xml:id="Protesilaus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Protesilaus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:protesilaus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:protesilaus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q871361</idno>
                     <persName type="citable" xml:lang="en">Protesilaus</persName>
                     <persName type="citable" xml:lang="grc">Πρωτεσίλαος</persName>
@@ -2108,7 +2108,7 @@
                 
                 <person xml:id="Polites">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polites_(friend_of_Odysseus)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:polftes-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:polftes-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q838767</idno>
                     <persName type="citable" xml:lang="en">Polites (friend of Odysseus)</persName>
                     <persName type="citable" xml:lang="grc">Πολίτης</persName>
@@ -2120,7 +2120,7 @@
                 
                 <person xml:id="Polites2">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polites_(Prince_of_Troy)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:polites-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:polites-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q17334717</idno>
                     <persName type="citable" xml:lang="en">Polites (Prince of Troy)</persName>
                     <persName type="citable" xml:lang="grc">Πολίτης</persName>
@@ -2133,7 +2133,7 @@
                 
                 <person xml:id="Polybus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polybus_(Trojan_War)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:polybus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:polybus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3266310</idno>
                     <persName type="citable" xml:lang="en">Polybus (Trojan War)</persName>
                     <persName type="citable" xml:lang="grc">Πόλυβος</persName>
@@ -2146,7 +2146,7 @@
                 
                 <person xml:id="Promachus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Promachus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:promachus-bio-3</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:promachus-3</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2112792</idno>
                     <affiliation ref="http://pleiades.stoa.org/places/540689">Boeotia</affiliation>
                     <persName type="citable" xml:lang="en">Promachus</persName>
@@ -2155,7 +2155,7 @@
                 
                 <person xml:id="Prothoenor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Prothoenor</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:prothoenor-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:prothoenor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3924297</idno>
                     <persName type="citable" xml:lang="en">Prothoenor</persName>
                     <persName type="citable" xml:lang="grc">Προθοήνωρ</persName>
@@ -2163,7 +2163,7 @@
                 
                 <person xml:id="Pylaemenes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pylaemenes</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:pylaemenes-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:pylaemenes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1241841</idno>
                     <persName type="citable" xml:lang="en">Pylaemenes</persName>
                     <persName type="citable" xml:lang="grc">Πυλαιμένης</persName>
@@ -2171,7 +2171,7 @@
                 
                 <person xml:id="Pyraechmes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pyraechmes</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:pyraechmes-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:pyraechmes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1199200</idno>
                     <persName type="citable" xml:lang="en">Pyraechmes</persName>
                     <persName type="citable" xml:lang="grc">Πυραίχμης </persName>
@@ -2203,7 +2203,7 @@
                 
                 <person xml:id="Perimedes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Perimedes</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:perimedes-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:perimedes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1181060</idno>
                     <persName type="citable" xml:lang="en">Perimedes</persName>
                     <persName type="citable" xml:lang="grc">Περιμήδης</persName>
@@ -2215,7 +2215,7 @@
                 
                 <person xml:id="Phemius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phemius</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:phemius-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:phemius-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1235168</idno>
                     <occupation>poet</occupation>
                     <persName type="citable" xml:lang="en">Phemius</persName>
@@ -2224,7 +2224,7 @@
                 
                 <person xml:id="Philoetius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Philoetius_(Odyssey)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:philoetius-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:philoetius-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2277624</idno>
                     <persName type="citable" xml:lang="en">Philoetius (Odyssey)</persName>
                     <persName type="citable" xml:lang="grc">Φιλοίτιος</persName>
@@ -2236,7 +2236,7 @@
                 
                 <person xml:id="Polydamna">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polydamna</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:polydamna-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:polydamna-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q7226266</idno>
                     <persName type="citable" xml:lang="en">Polydamna</persName>
                     <persName type="citable" xml:lang="grc">Πολύδαμνα</persName>
@@ -2244,7 +2244,7 @@
                 
                 <person xml:id="Polyphemus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polyphemus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:polyphemus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:polyphemus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q193567</idno>
                     <persName type="citable" xml:lang="en">Polyphemus</persName>
                     <persName type="citable" xml:lang="grc">Πολύφημος</persName>
@@ -2264,7 +2264,7 @@
                 
                 <person xml:id="Proteus" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Proteus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:proteus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:proteus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q191481</idno>
                     <persName type="citable" xml:lang="en">Proteus</persName>
                     <persName type="citable" xml:lang="grc">Πρωτεύς</persName>
@@ -2273,7 +2273,7 @@
 
                 <person xml:id="Rhesus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Rhesus_of_Thrace</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:rhesus-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:rhesus-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1061782</idno>
                     <affiliation ref="http://pleiades.stoa.org/places/1001889">Thrace</affiliation>
                     <persName type="citable" xml:lang="en">Rhesus of Thrace</persName>
@@ -2282,7 +2282,7 @@
                 
                 <person xml:id="Schedius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Schedius</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:schedius-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:schedius-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1330712</idno>
                     <persName type="citable" xml:lang="en">Schedius</persName>
                     <persName type="citable" xml:lang="grc">Σχεδίος</persName>
@@ -2290,7 +2290,7 @@
                 
                 <person xml:id="Stentor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Stentor</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:stentor-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:stentor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q748100</idno>
                     <persName type="citable" xml:lang="en">Stentor</persName>
                     <persName type="citable" xml:lang="grc">Στέντωρ </persName>
@@ -2298,7 +2298,7 @@
                 
                 <person xml:id="Sthenelus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Sthenelus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:sthenelus-bio-6</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:sthenelus-6</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1300254</idno>
                     <persName type="citable" xml:lang="en">Sthenelus</persName>
                     <persName type="citable" xml:lang="grc">Σθένελος</persName>
@@ -2328,7 +2328,7 @@
                 
                 <person xml:id="Talthybius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Talthybius</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:talthybius-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:talthybius-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1367860</idno>
                     <persName type="citable" xml:lang="en">Talthybius</persName>
                     <persName type="citable" xml:lang="grc">Ταλθύβιος</persName>
@@ -2340,7 +2340,7 @@
                 
                 <person xml:id="Theano">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Theano</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:theano-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:theano-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1154473</idno>
                     <persName type="citable" xml:lang="en">Theano</persName>
                     <persName type="citable" xml:lang="grc">Θεανώ</persName>
@@ -2352,7 +2352,7 @@
                 
                 <person xml:id="Thersites">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thersites</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:thersites-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:thersites-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1045730</idno>
                     <persName type="citable" xml:lang="en">Thersites</persName>
                     <persName type="citable" xml:lang="grc">Θερσίτης</persName>
@@ -2361,7 +2361,7 @@
                 
                 <person xml:id="Thestor">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thestor_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:thestor-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:thestor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3523939</idno>
                     <persName type="citable" xml:lang="en">Thestor (mythology)</persName>
                     <persName type="citable" xml:lang="grc">Θέστωρ</persName>
@@ -2373,7 +2373,7 @@
                 
                 <person xml:id="Thoas">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thoas</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:thoas-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:thoas-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1367871</idno>
                     <persName type="citable" xml:lang="en">Thoas</persName>
                     <persName type="citable" xml:lang="grc">Θόας</persName>
@@ -2381,7 +2381,7 @@
                 
                 <person xml:id="Thoon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thoon_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:thoon-bio-3</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:thoon-3</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q7795987</idno>
                     <persName type="citable" xml:lang="en">Thoon (mythology)</persName>
                     <persName type="citable" xml:lang="grc">Θοών </persName>
@@ -2393,7 +2393,7 @@
                 
                 <person xml:id="Thrasymedes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thrasymedes_(mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:thrasymedes-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:thrasymedes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q956906</idno>
                     <persName type="citable" xml:lang="en">Thrasymedes (mythology)</persName>
                     <persName type="citable" xml:lang="grc">Θρασυμήδης </persName>
@@ -2405,7 +2405,7 @@
                 
                 <person xml:id="Thymoetes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thymoetes</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:thymoetes-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:thymoetes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q398273</idno>
                     <persName type="citable" xml:lang="en">Thymoetes</persName>
                     <persName type="citable" xml:lang="grc">Θυμοίτης </persName>
@@ -2417,7 +2417,7 @@
                 
                 <person xml:id="Laomedon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Laomedon</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:laomedon-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:laomedon-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q332324</idno>
                     <persName type="citable" xml:lang="en">Laomedon</persName>
                     <persName type="citable" xml:lang="grc">Λαομέδων</persName>
@@ -2429,7 +2429,7 @@
                 
                 <person xml:id="Tlepolemus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Tlepolemus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:tlepolemus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:tlepolemus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q690613</idno>
                     <persName type="citable" xml:lang="en">Tlepolemus</persName>
                     <persName type="citable" xml:lang="grc">Τληπόλεμος </persName>
@@ -2441,7 +2441,7 @@
                 
                 <person xml:id="Theoclymenus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Theoclymenus</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:theoclymenus-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:theoclymenus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2626787</idno>
                     <occupation>prophet</occupation>
                     <affiliation>Argos</affiliation>
@@ -2451,7 +2451,7 @@
                 
                 <person xml:id="Thalia" role="Nereid">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thalia_%28Nereid%29</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:thaleia-bio-2</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:thaleia-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1241338</idno>
                     <persName type="citable" xml:lang="en">Thalia / Thaleia (Nereid)</persName>
                     <persName type="citable" xml:lang="grc">Θάλεια </persName>
@@ -2459,7 +2459,7 @@
                 
                 <person xml:id="Thetis" role="nereid">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thetis</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:thetis-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:thetis-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q184437</idno>
                     <persName type="citable" xml:lang="en">Thetis</persName>
                     <persName type="citable" xml:lang="grc">Θέτις</persName>
@@ -2471,7 +2471,7 @@
                 
                 <person xml:id="Ucalegon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Ucalegon</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:ucalegon-bio-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:ucalegon-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q4002524</idno>
                     <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Ucalegon</persName>
