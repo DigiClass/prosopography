@@ -856,6 +856,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q25574</idno>
                     <persName type="citable" xml:lang="en">Agelaus</persName>
                    <persName type="citable" xml:lang="grc">Ἀγέλαος</persName>
+                    <affiliation>Troy</affiliation>
                 </person>
                 
                 <person xml:id="Alcinous">
@@ -2696,8 +2697,99 @@
                 </person>
                 
                 
+                <person xml:id="Aesymnus">
+                    
+                    <persName type="citable" xml:lang="en">Aesymnus</persName>
+                    <persName type="citable" xml:lang="grc"></persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Aesymnus" ref="snap:EmnityOf" passive="#Hector"><desc>killed by Hector</desc></relation>
+                        
+                    </listBibl>
+                </person>
                 
                 
+                <person xml:id="Aethrae">
+                    
+                    
+                    <persName type="citable" xml:lang="en">Aethrae</persName>
+                    <persName type="citable" xml:lang="grc"></persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Aethrae" ref="snap:Bond" passive="#Helen"><desc>servant of Helen</desc></relation>
+                        
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Agacles">
+                    
+                    <persName type="citable" xml:lang="en">Agacles</persName>
+                    <persName type="citable" xml:lang="grc"></persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Agacles" ref="snap:FatherOf" passive="#Epeigeus"><desc>father of Epeigeus</desc></relation>
+                        
+                    </listBibl>
+                </person>
+                
+                <person xml:id="Agamede" role="physician">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Agamede</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:agamede-1</idno>
+                    
+                    <persName type="citable" xml:lang="en">Agamede</persName>
+                    <persName type="citable" xml:lang="grc">Ἀγαμήδη</persName>
+                    
+                </person>
+                
+                
+                
+                <person xml:id="Agasthenes">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Agasthenes</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:agasthenes-1</idno>
+                    
+                    <persName type="citable" xml:lang="en">Agasthenes</persName>
+                    <persName type="citable" xml:lang="grc">Ἀγασθένης</persName>
+                    
+                </person>
+                
+                
+                <person xml:id="Agastrophus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Agastrophus</idno>
+                    <persName type="citable" xml:lang="en">Agastrophus</persName>
+                    <persName type="citable" xml:lang="grc">Ἀγάστροφος</persName>
+                    <affiliation>Troy</affiliation>
+                    
+                </person>
+                
+                
+                <person xml:id="Agathon">
+                    
+                    <persName type="citable" xml:lang="en">Agathon</persName>
+                    <persName type="citable" xml:lang="grc">Ἀγάθων</persName>
+                   <listBibl>
+                       <bibl></bibl>
+                       <relation active="#Agathon" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+                   </listBibl>
+                    
+                </person>
+                
+                
+                <person xml:id="Agave" role="nereid">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Agave_%28mythology%29</idno>
+                    <persName type="citable" xml:lang="en">Agave</persName>
+                    <persName type="citable" xml:lang="grc">Ἀγαύη</persName>
+                    
+                </person>
+                
+                
+                <person xml:id="Agelaus2">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Agelaus</idno>
+                    <persName type="citable" xml:lang="en">Agelaus</persName>
+                    <persName type="citable" xml:lang="grc">Ἀγέλαος</persName>
+                    <affiliation>Achaea</affiliation>
+                    
+                </person>
                 
                 
                 
