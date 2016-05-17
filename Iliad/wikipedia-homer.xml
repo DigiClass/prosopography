@@ -2478,7 +2478,153 @@
                     <persName type="citable" xml:lang="grc">Οὐκαλέγων</persName>
                 </person>
 
-
+<!-- extra names  not from wikiledia:category Iliad/Odyssey characters-->
+                
+                <person xml:id="Abarbarea" role="naiad">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Abarbarea</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:abarbarea-1</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q279782</idno>
+                    
+                    <persName type="citable" xml:lang="en">Abarbarea</persName>
+                    <persName type="citable" xml:lang="grc">Ἀβαρβαρέα</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Abarbarea" ref="snap:MotherOf" passive="#Aesepus"><desc>mother of Aesepus</desc></relation>
+                        <relation active="#Abarbarea" ref="snap:MotherOf" passive="#Pedasus"><desc>mother of Pedasus</desc></relation>
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Abas">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Abas_%28mythology%29</idno>
+                    
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q4663542</idno>
+                    <affiliation>Troy</affiliation>
+                    <persName type="citable" xml:lang="en">Abas</persName>
+                    <persName type="citable" xml:lang="grc">Ἄβας</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Abas" ref="snap:SonOf" passive="#Eurydamas"><desc>son of Eurydamas</desc></relation>
+                        
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Ableros">
+                    <idno type="wikipedia">https://el.wikipedia.org/wiki/%CE%86%CE%B2%CE%BB%CE%B7%CF%81%CE%BF%CF%82</idno>
+                    <!-- wikipedia: in greek (deutch, italian) not in english -->
+                   
+                    <persName type="citable" xml:lang="en">Ableros</persName>
+                    <persName type="citable" xml:lang="grc">Ἄβληρος</persName>
+                    
+                </person>
+                
+                
+                <person xml:id="Acessamenus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Acessamenus</idno>
+                    
+                    <persName type="citable" xml:lang="en">Acessamenus</persName>
+                    <persName type="citable" xml:lang="grc">Ἀκεσσαμενός</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Acessamenus" ref="snap:GrandfatherOf" passive="#Pelagon"><desc>grandfather of Pelagon</desc></relation>
+                        
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Achelous" role="deity">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Achelous</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:achelous-1</idno>
+                    
+                    <persName type="citable" xml:lang="en">Abarbarea</persName>
+                    <persName type="citable" xml:lang="grc">Ἀβαρβαρέα</persName>
+                    
+                </person>
+                
+                
+                <person xml:id="Acrisius">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Acrisius</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:acrisius-1</idno>
+                    
+                    <persName type="citable" xml:lang="en">Acrisius</persName>
+                    <persName type="citable" xml:lang="grc">Ἀκρίσιος</persName>
+                    <affiliation>Argos</affiliation>
+                    <occupation>king</occupation>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Acrisius" ref="snap:SonOf" passive="#Abas"><desc>son of Abas</desc></relation>
+                        <relation active="#Acrisius" ref="snap:FatherOf" passive="https://en.wikipedia.org/wiki/Dana%C3%AB"><desc>mother of Pedasus</desc></relation>
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Actaia" role="nereid">
+                    <!-- only as a name in wikipedia -->
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+                    <persName type="citable" xml:lang="en">Actaia</persName>
+                    <persName type="citable" xml:lang="grc">Ἀκταίη</persName>
+                    
+                </person>
+                
+                
+                <person xml:id="Actor2">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Actor_%28mythology%29</idno>
+                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q557214</idno>
+                    <persName type="citable" xml:lang="en">Actor</persName>
+                    <persName type="citable" xml:lang="grc">Ἄκτωρ</persName>
+                    <listBibl>
+                        <bibl/>
+                        <relation active="#Actor" ref="snap:GrandfatherOf" passive="#Ascalaphus"><desc>grandfather of Ascalaphus</desc></relation>
+                        
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Actor3">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Actor_%28mythology%29</idno>
+                    
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q557214</idno>
+                    <persName type="citable" xml:lang="en">Actor</persName>
+                    <persName type="citable" xml:lang="grc">Ἄκτωρ</persName>
+                    <listBibl>
+                        <bibl/>
+                        <relation active="#Actor" ref="snap:Bond" passive="https://en.wikipedia.org/wiki/Polymele"><desc>father in-law of Polymele</desc></relation>
+                        
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Actor4">
+                    
+                    <persName type="citable" xml:lang="en">Actor</persName>
+                    <persName type="citable" xml:lang="grc">Ἄκτωρ</persName>
+                    <listBibl>
+                        <bibl/>
+                        <relation active="#Actor" ref="snap:FatherOf" passive="https://en.wikipedia.org/wiki/Eurytus_and_Cteatus"><desc>father of Eurytus and Cteatus</desc></relation>
+                        
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Admetus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Admetus</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:admetus-1</idno>
+                    
+                    <persName type="citable" xml:lang="en">Admetus</persName>
+                    <persName type="citable" xml:lang="grc">Ἄδμητος </persName>
+                    <occupation>king</occupation>
+                    <affiliation>Thessaly</affiliation>
+                    
+                </person>
+                
+                
+                
+                
+                
+                
+                
 <!-- end BY ARGYRO -->
 
 
