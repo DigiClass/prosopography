@@ -2620,6 +2620,82 @@
                 </person>
                 
                 
+                <person xml:id="Adrastus2">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Adrastus_%28mythology%29</idno>
+                    
+                    <persName type="citable" xml:lang="en">Adrastus / Adrestus</persName>
+                    <persName type="citable" xml:lang="grc">Ἄδραστος / Ἄδρηστος</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Adrastus2" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Merops_%28mythology%29"><desc>son of Merops</desc></relation>
+                        <relation active="#Adrastus2" ref="snap:BrotherOf" passive="#Amphius"><desc>brother of Amphius</desc></relation>
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Aeacus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aeacus</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:aeacus-1</idno>
+                    
+                    <persName type="citable" xml:lang="en">Aeacus</persName>
+                    <persName type="citable" xml:lang="grc">Αἰακός</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Aeacus" ref="snap:GrandfatherOf" passive="#Achilles"><desc>grandfather of Achilles</desc></relation>
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Aegeus">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aegeus</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:aegeus-1</idno>
+                    
+                    <persName type="citable" xml:lang="en">Aegeus / Aegeas</persName>
+                    <persName type="citable" xml:lang="grc">Αἰγεύς / Αιγέας</persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Aegeus" ref="snap:FatherOf" passive="https://en.wikipedia.org/wiki/Theseus"><desc>father of Theseus</desc></relation>
+                        
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Aegialeia">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aegialeia</idno>
+                    
+                    <persName type="citable" xml:lang="en">Aegialeia / Aegiale </persName>
+                    <persName type="citable" xml:lang="grc">Αἰγιάλεια / Αἰγιάλη </persName>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Aegialeia" ref="snap:DaughterOf" passive="#Adrastus"><desc>daughter of Adrastus</desc></relation>
+                        <relation active="#Aegialeia" ref="snap:WifeOf" passive="#Diomedes"><desc>wife of Diomedes</desc></relation>
+                    </listBibl>
+                </person>
+                
+                
+                <person xml:id="Aenius">
+                    
+                    <persName type="citable" xml:lang="en">Aenius</persName>
+                    <persName type="citable" xml:lang="grc">Αίνειος</persName>
+                   <affiliation>Troy</affiliation>
+                </person>
+                
+                
+                <person xml:id="Aesyetes">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aesyetes</idno>
+                    
+                    
+                    <persName type="citable" xml:lang="en">Aesyetes</persName>
+                    <persName type="citable" xml:lang="grc"></persName>
+                    <affiliation>Troy</affiliation>
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Aesyetes" ref="snap:FatherOf" passive="#Alcathous"><desc>father of Alcathous</desc></relation>
+                        
+                    </listBibl>
+                </person>
+                
+                
                 
                 
                 
