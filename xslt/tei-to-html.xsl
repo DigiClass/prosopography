@@ -23,18 +23,21 @@
                                         <xsl:when test="starts-with(@xml:id,'fas')">
                                             <xsl:text>Fasti </xsl:text>
                                             <xsl:number value="substring-after(@xml:id,'fas')" format="1"/>
+                                            <xsl:text>. </xsl:text>
                                         </xsl:when>
                                         <xsl:when test="starts-with(@xml:id,'pers')">
                                             <xsl:text>Person </xsl:text>
                                             <xsl:number value="substring-after(@xml:id,'pers')" format="1"/>
+                                            <xsl:text>. </xsl:text>
                                         </xsl:when>
                                         <xsl:when test="starts-with(@xml:id,'hero')">
                                             <xsl:text>Hero </xsl:text>
                                             <xsl:number value="substring-after(@xml:id,'hero')" format="1"/>
+                                            <xsl:text>. </xsl:text>
                                         </xsl:when>
                                     </xsl:choose>
-                                    <xsl:text>. </xsl:text>
-                                    <xsl:value-of select="./tei:persName[1]"/></xsl:element>
+                                    <xsl:value-of select="./tei:persName[1]"/>
+                                </xsl:element>
                             </li>
                         </xsl:for-each>
                     </ul>
