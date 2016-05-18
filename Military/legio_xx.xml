@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -22,20 +21,6 @@
       <profileDesc>
          <particDesc>
             <listPerson>
-               <!--<person xml:id="vv000" role="person">
-                  <persName xml:lang="en"></persName>
-                  <floruit></floruit>
-                  <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
-                  <affiliation ref=""></affiliation>
-                  <occupation>soldier</occupation>
-                  <occupation>legatus legionis</occupation>
-                  <listBibl>
-                     <bibl></bibl>
-                     <bibl></bibl>
-                  </listBibl>
-                  <idno type="wikipedia"></idno>
-                  <idno type="pir"></idno>
-               </person>-->
                <person xml:id="vv001" role="person">
                   <persName xml:lang="en">C. Manlius Valens</persName>
                   <floruit notBefore="0052" notAfter="0096">AD 52/96</floruit>
@@ -65,6 +50,7 @@
                   </listBibl>
                   <idno type="pir">PIR2 R 94</idno>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Marcus_Roscius_Coelius</idno>
+                  <idno type="wikidata">http://www.wikidata.org/wiki/Q1215165</idno>
                </person>
                 
                <person xml:id="vv003" role="person">
@@ -91,6 +77,7 @@
                   </listBibl>
                   <idno type="pir">PIR2 I 126</idno>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Gnaeus_Julius_Agricola</idno>
+                  <idno type="wikidata">http://www.wikidata.org/wiki/Q272082</idno>
                </person>
                
                <person xml:id="vv004" role="person">
@@ -223,7 +210,7 @@
                         <relation ref="snap:SonOf" active="#vv009"><desc>son of Quintus</desc></relation>
                      </listBibl>
                   </listBibl>
-                  <idno type="pir"></idno>
+                  <idno type="pir"/>
                </person>
                
                <person xml:id="vv010" role="person">
@@ -457,6 +444,7 @@
                   </listBibl>
                   <idno type="pir">PIR2 C 813</idno>
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Tiberius_Claudius_Balbilus</idno>
+                  <idno type="wikidata">http://www.wikidata.org/wiki/Q389558</idno>
                </person>
                
                <person xml:id="vv025" role="person">
@@ -712,7 +700,7 @@
                
                <person xml:id="vv041" role="person">
                   <persName xml:lang="en">P. Palpellius Clodius Quirinalis</persName>
-                  <floruit>AD >56</floruit>
+                  <floruit>AD &gt;56</floruit>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/187578">Trieste</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/1052">Italy</affiliation>
@@ -848,10 +836,10 @@
                   <occupation>soldier</occupation>
                   <occupation>centurio</occupation>
                   <listBibl>
-                     <listBibl><bibl>RIB 2449.4<idno></idno></bibl>
+                     <listBibl><bibl>RIB 2449.4<idno/></bibl>
                   <bibl>Malone III.6, 6</bibl></listBibl>
                   </listBibl>
-                   <idno></idno>
+                   <idno/>
                </person>
                
                <person xml:id="vv050" role="person">
@@ -1801,7 +1789,7 @@
                       <listBibl><bibl>RIB 2135<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/2135</idno></bibl>
                   <bibl>Malone III.6, 74</bibl></listBibl>
                   </listBibl>
-                   <idno></idno>
+                   <idno/>
                </person>
                
                <person xml:id="vv119" role="person">
@@ -2276,7 +2264,7 @@
                
                <person xml:id="vv154" role="person">
                   <persName xml:lang="en">Valerius Rufinus</persName>
-                  <floruit></floruit>
+                  <floruit/>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/1027">Spain</affiliation>
                   <occupation>soldier</occupation>
@@ -2300,7 +2288,7 @@
                
                <person xml:id="vv156" role="person">
                   <persName xml:lang="en">Valerius Verus</persName>
-                  <floruit></floruit>
+                  <floruit/>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/109277/http://pleiades.stoa.org/places/981537">Rhine/Narb.?</affiliation>
                   <occupation>soldier</occupation>
@@ -2332,7 +2320,7 @@
                
                <person xml:id="vv158" role="person">
                   <persName xml:lang="en">Victorinus</persName>
-                  <floruit></floruit>
+                  <floruit/>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/991337">Gaul/Germany</affiliation>
                   <occupation>soldier</occupation>
@@ -2357,7 +2345,7 @@
                
                <person xml:id="vv160" role="person">
                   <persName xml:lang="en">Caecilius Proculus</persName>
-                  <floruit></floruit>
+                  <floruit/>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>                 
                   <affiliation ref="http://pleiades.stoa.org/places/1027">Spain</affiliation>
                   <occupation>soldier</occupation>
@@ -2573,7 +2561,7 @@
                   <occupation>veteranus</occupation>
                    <listBibl><bibl>RIB 517<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/517</idno></bibl>
                   <bibl>Malone III.7, 7</bibl></listBibl>
-                   <idno></idno>
+                   <idno/>
                </person>
                
                <person xml:id="vv179" role="person">
@@ -2735,7 +2723,7 @@
                
                <person xml:id="vv191" role="person">
                   <persName xml:lang="en">T. Carsius Certinus</persName>
-                  <floruit></floruit>
+                  <floruit/>
                   <affiliation ref="http://pleiades.stoa.org/places/20419">Britannia</affiliation>
                   <affiliation ref="http://pleiades.stoa.org/places/148739">Arlelate</affiliation>
                   <occupation>soldier</occupation>
@@ -2743,7 +2731,7 @@
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>CIL XII 679</bibl>
                   <bibl>Malone III.7, 20</bibl>
-                     <relation ref="snap:FatherOf" active="#vv191" ><desc>father of Carsia Tttia</desc></relation>  
+                     <relation ref="snap:FatherOf" active="#vv191"><desc>father of Carsia Tttia</desc></relation>  
                   </listBibl>
                </person>
                
@@ -2948,7 +2936,7 @@
                   <listBibl><bibl>CIL III 2030</bibl>
                   <bibl>Malone III.7, 37</bibl>
                      <relation ref="snap:SonOf" active="#vv208"><desc>son of Gaius</desc></relation>
-                     <relation  ref="snap:FreedmanOf" active="#vv208"><desc>Privatus libertus, Fuficia Prima, Fuficia Prisca liberta</desc></relation>
+                     <relation ref="snap:FreedmanOf" active="#vv208"><desc>Privatus libertus, Fuficia Prima, Fuficia Prisca liberta</desc></relation>
                   </listBibl>
                </person>
                
@@ -3290,7 +3278,7 @@
                   <listBibl><bibl>CIL XIII 8288</bibl>
                   <bibl>Malone III.7, 65</bibl>
                      <relation ref="snap:SonOf" active="#vv236"><desc>son of Publius</desc></relation>
-                     <relation  ref="snap:HasHeir" active="#vv236"><desc>Sex. Marcianus heres</desc></relation>
+                     <relation ref="snap:HasHeir" active="#vv236"><desc>Sex. Marcianus heres</desc></relation>
                   </listBibl>
                </person>
                
@@ -3348,7 +3336,7 @@
                   <listBibl><bibl>CIL III 7452</bibl>
                   <bibl>Malone III.7, 70</bibl>
                      <relation ref="snap:SonOf" active="#vv241"><desc>son of Sextus</desc></relation>
-                     <relation  ref="snap:FreedmanOf" active="#vv241"><desc>Secundus libertus</desc></relation>
+                     <relation ref="snap:FreedmanOf" active="#vv241"><desc>Secundus libertus</desc></relation>
                   </listBibl>
                </person>
                
@@ -3423,8 +3411,8 @@
                   <occupation>veteranus</occupation>
                   <listBibl><bibl>CIL V 2838</bibl>
                   <bibl>Malone III.7, 76</bibl>
-                     <relation  ref="snap:HusbandOf" active="#vv247"><desc>husband of Tullia Secunda</desc></relation>
-                     <relation  ref="snap:FatherOf" active="#vv247"><desc>father of S. Saufeius</desc></relation>
+                     <relation ref="snap:HusbandOf" active="#vv247"><desc>husband of Tullia Secunda</desc></relation>
+                     <relation ref="snap:FatherOf" active="#vv247"><desc>father of S. Saufeius</desc></relation>
                   </listBibl>
                </person>
                
@@ -3438,7 +3426,7 @@
                   <bibl>CIL VI 3358</bibl>
                   <bibl>CIL VI 3359</bibl>
                   <bibl>Malone III.7, 77</bibl>
-                     <relation  ref="snap:HasHeir" active="#vv248"><desc>Pupius Vernianus heres</desc></relation>
+                     <relation ref="snap:HasHeir" active="#vv248"><desc>Pupius Vernianus heres</desc></relation>
                   </listBibl>
                </person>
                
@@ -3497,8 +3485,8 @@
                   <occupation>beneficiarius legati</occupation>
                    <listBibl><bibl>RIB 505<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/505</idno></bibl>
                   <bibl>Malone III.7, 82</bibl>
-                     <relation  ref="snap:HusbandOf" active="#vv253"><desc>husband of Iulia Similina</desc></relation>
-                     <relation  ref="snap:HasHeir" active="#vv253"><desc>Iulia Similina heres</desc></relation>
+                     <relation ref="snap:HusbandOf" active="#vv253"><desc>husband of Iulia Similina</desc></relation>
+                     <relation ref="snap:HasHeir" active="#vv253"><desc>Iulia Similina heres</desc></relation>
                   </listBibl>
                    <idno type="rib">http://romaninscriptionsofbritain.org/person/4540</idno>
                </person>
@@ -4072,7 +4060,7 @@
                     <occupation>miles</occupation>
                     <listBibl><bibl>RIB 560<idno type="rib">http://romaninscriptionsofbritain.org/inscriptions/560</idno></bibl>
                         <bibl>Malone III.7, Incerti 8</bibl>
-                       <relation  ref="snap:SlaveOf" active="#vv304" passive="#vv307"><desc>Pompeius Optatus</desc></relation>
+                       <relation ref="snap:SlaveOf" active="#vv304" passive="#vv307"><desc>Pompeius Optatus</desc></relation>
                     </listBibl>
                     <idno type="rib">http://romaninscriptionsofbritain.org/person/3184</idno>
                 </person>
@@ -4139,6 +4127,7 @@
       </profileDesc>
       <revisionDesc>
          <listChange>
+            <change when="2016-05-12" who="#gb">added Wikidata URIs</change>
             <change when="2015-04-17" who="#gb">created file</change>
             <change when="2015-04-17" who="#pa">added legati</change>
       </listChange>
