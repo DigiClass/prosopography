@@ -3,12 +3,14 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Wikipedia articles on characters in Homer</title>
+             <title type="full">Persons and groups named in the Homeric poems</title>
+             <author xml:id="GB">Gabriel Bodard</author>
+             <author xml:id="AM">Argyro Moulavasili</author>
          </titleStmt>
          <publicationStmt>
             <authority>http://orcid.org/0000-0002-8566-6666</authority>
             <publisher>http://snapdrgn.net/</publisher>
-            <idno>http://digiclass.github.io/prosopography/wikipedia-homer/</idno>
+             <idno>http://www.prosopography.org.uk/Iliad/</idno>
          </publicationStmt>
          <sourceDesc>
             <p><ref>http://en.wikipedia.org/wiki/List_of_Homeric_characters</ref>,
@@ -34,6 +36,7 @@
                         <desc>son of Thetis</desc>
                      </relation>
                   </listBibl>
+                   <note>hero of the Iliad, leader of the Myrmidons (part of Achaeans army), son of Peleus and Thetis</note>
                </person>
                
                <person xml:id="Agamemnon">
@@ -49,9 +52,10 @@
                         <desc>elder brother of King Menelaus</desc>
                      </relation>
                   </listBibl>
+                   <note>king of Mycenae, son of Atreus, leader of Achaean forces, brother of Menelaus</note>
                </person>
                
-               <person xml:id="Ajax">
+               <person xml:id="Ajax1">
                    <idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_(mythology)</idno>
                    <idno type="smith"> http://data.perseus.org/people/smith:ajax-bio-1</idno>
                    <idno type="wikidata">https://www.wikidata.org/wiki/Q172725</idno>
@@ -63,10 +67,12 @@
                   <listBibl><bibl/>
                      <relation active="#Ajax" ref="snap:SonOf" passive="http://en.wikipedia.org/wiki/Telamon">
                         <desc>son of Telamon</desc>
-                     </relation></listBibl>
+                     </relation>
+                  </listBibl>
+                   <note>son of Telamon, leader of forces from Salamis, greatest Achaean warrior after Achilles, known as the Great Ajax or the Greater Ajax</note>
                </person>
                
-               <person xml:id="Ajax_the_Lesser">
+               <person xml:id="Ajax2">
                    <idno type="wikipedia">http://en.wikipedia.org/wiki/Ajax_the_Lesser</idno>
                    <idno type="smith"> http://data.perseus.org/people/smith:ajax-bio-2</idno>
                    <idno type="wikidata">https://www.wikidata.org/wiki/Q242319</idno>
@@ -78,6 +84,7 @@
                      <relation active="#Ajax_the_Lesser" ref="snap:SonOf" passive="http://en.wikipedia.org/wiki/Oileus">
                         <desc>son of Oileus</desc></relation>
                   </listBibl>
+                   <note>son of Oleus, leader of Locrian troops</note>
                </person>
 
                <person xml:id="Calchas">
@@ -87,6 +94,7 @@
                   <persName type="citable" xml:lang="en">Calchas</persName>
                   <persName xml:lang="grc">Κάλχας</persName>
                   <occupation>priest</occupation>
+                   <note>son of Thestor, priest and interpreter of omens for Achaean army: responds to Achilles in assembly (1.73 ff); interprets Apollo's anger (1.98); abused by Agamemnon (1.110); Odysseus tells of C.'s original prophecy about how long the war would last (2.350); Poseidon takes on his form to rally Achaeans (13.48).</note>
                </person>
 
                <person xml:id="Diomedes">
@@ -95,6 +103,7 @@
                    <idno type="wikidata">https://www.wikidata.org/wiki/Q208256</idno>
                   <persName type="citable" xml:lang="en">Diomedes</persName>
                   <persName xml:lang="grc">Διομήδης</persName>
+                   <note>son of Tydeus, king of Argos, a younger (but major) warrior with Achaeans</note>
                </person>
 
                <person xml:id="Helen">
@@ -108,6 +117,7 @@
                      <bibl/>
                      <relation active="#Helen" ref="snap:WifeOf" passive="#Menelaus"><desc>wife of Menelaus</desc></relation>
                   </listBibl>
+                   <note>mortal child of Zeus, wife of Menelaus and later of Paris (Alexander): mentioned by Hera (2.187); mentioned in catalogue of ships (2.667); visited by Iris in form of Laodice, while she is weaving (3.135); Helen visits the walls of Troy, talks to Priam (3.153 ff); observed by Trojan elders (3.168); looks for her brothers (3.260); forced by Aphrodite to go home to Paris (3.434 ff); returns home to Paris, talks to him (3.468 ff); at home with Paris, speaks to Hector (6.396 ff); Antenor proposes giving her back (7.404); Achilles detests her (19.397); laments over Hector's body (24.936).</note>
                </person>
 
                <person xml:id="Idomeneus">
@@ -118,6 +128,7 @@
                   <persName xml:lang="grc">Ιδομενέας</persName>
                   <occupation>King</occupation>
                   <affiliation ref="http://pleiades.stoa.org/places/589748">Crete</affiliation>
+                   <note>son of Deucalion, leader of Cretan forces, a major senior commander in the Achaean forces</note>
                   </person>
 
                <person xml:id="Menelaus">
@@ -135,6 +146,7 @@
                      <relation active="#Menelaus" ref="snap:BrotherOf" passive="#Agamemnon">
                         <desc>younger brother of Agamemnon</desc></relation>
                   </listBibl>
+                   <note>son of Atreus, brother of Agamemnon, first husband of Helen of Troy, king of Sparta, major figure in Achaean leadership</note>
                 </person>
 
                <person xml:id="Nestor">
@@ -146,7 +158,9 @@
                   <affiliation ref="http://pleiades.stoa.org/places/570261">Gerênia</affiliation> 
                   <listBibl>
                      <bibl/>
-                     <relation active="#Nestor" ref="snap:SonOf"><desc>the son of Neleus</desc></relation></listBibl>
+                     <relation active="#Nestor" ref="snap:SonOf"><desc>the son of Neleus</desc></relation>
+                  </listBibl>
+                   <note>king of Pylos, senior warrior among Achaeans, called the Geranian horseman</note>
                </person>
 
                <person xml:id="Odysseus">
@@ -157,6 +171,7 @@
                   <persName xml:lang="grc">Ὀδυσσεύς</persName>
                   <occupation>King</occupation>
                   <affiliation ref="http://pleiades.stoa.org/places/530906">Ithaca</affiliation>
+                   <note>son of Laertes, father of Telemachus, king of Ithaca, major warrior for the Achaean forces, commonly called resilient and resourceful and cunning</note>
                </person>
 
                <person xml:id="Patroclus">
@@ -172,6 +187,7 @@
                    <idno type="smith"> http://data.perseus.org/people/smith:phoenix-bio-1</idno>
                   <idno type="wikidata">https://www.wikidata.org/wiki/Q1061747</idno>
                   <persName type="citable" xml:lang="en">Phoenix</persName>
+                   <note>son of Menoetius, an Achaean warrior, special comrade of Achilles</note>
                 </person>
 
                <person xml:id="Teucer">
@@ -467,24 +483,26 @@
                      <relation active="#Zeus" ref="snap:FatherOf" passive="#Aphrodite"><desc>father of Aphrodite</desc></relation>
                      <relation active="#Zeus" ref="snap:FatherOf" passive="#Helen"><desc>father of Helen</desc></relation>
                   </listBibl>
+                   <note>most powerful of the gods, common called &quot;the son of Cronos,&quot; &quot;cloud gatherer,&quot; &quot;lord of the lightning bolt,&quot; &quot;aegis bearing,&quot; brother and husband of Hera, father of numerous gods: mentioned in the invocation (1.6); Agamemnon claims a special relationship with Z. (1.194); story of Zeus' being saved by Thetis from other gods (1.439); returns from Ethiopians, visited by Thetis, agrees to grant her request to help Achilles (1.549 ff); threatens Hera if she keeps pestering him (1.627); goes to sleep with Hera beside him (1.685); worried about how to deal with Thetis' request, sends Dream to Agamemnon (2.1 ff); receives royal staff from Hephaestus, passes it on to Hermes (2.118); Agamemnon blames Zeus for their lack of success (2.130); Odysseus tells of his serpent omen eating birds and being turned to stone (2.362 ff); omens when Achaeans set out to sea (2.415); refuses Agamemnon's prayer (2.494); special favours for people of Rhodes (2.743); sends Iris to organize Trojans (2.865); declines sacrifice of Achaeans and Trojans for a truce (3.340); in assembly of gods, provokes Hera (4.2 ff); agrees to break truce, instructs Athena to see to it (4.83); tells Aphrodite to stay away from battle (5.508); tells Athena to chase Ares from the battle (5.874); appealed to by wounded Ares, chastises him, blaming Hera (5.994 ff); steals Glaucus' wits (6.298); answers Poseidon's objection about Achaean wall (7.530); plots bad things for troops (7.555); tells gods not to intervene in the war, boasts of his strength (8.4); responds to Athena, leaves Olympus for Ida (7.44 ff); holds up his golden scales, result favours the Trojans, sends thunderclap (8.77); sends a lightning bolt to stop Diomedes (8.153); peals thunder three times to stop Diomedes (8.195); gives glory to Hector (8.250); pities Agamemnon, sends bird omen to the Achaeans (8.287); puts renewed force into Trojans (8.391); Athena complains about his favours to Thetis (8.430); angry and Zeus and Hera, sends Iris to stop their visit to the battle (8.463 ff); returns to Olympus from Ida (8.510); reveals his plan to glorify Hector and Achilles (8.549); Agamemnon complains of his deceit (9.19); punishes Phoenix (9.574); sends Strife to Achaean ships (11.3); send down rain of blood (11.54); gazes at the battle (11.85); pulls Hector back (11.186); goes to Ida, send Iris with order for Hector (11.208 ff); looks from Ida onto battle, makes the contest equal (11.382); makes Telamonian Ajax afraid (11.615); put power into Pylians (11.864); helps to destroy Achaean wall in future (12.27); desires to give Hector glory (12.181); omen sent to soldiers (12.209); Zeus sends winds from Ida to disorient Achaeans (12.270); stirs Sarpedon to action (12.315); gives glory to Hector (12.482); turns away from the battles (13.3); aat cross purposes with Poseidon (13.418); reaction to being deceived by Sleep over Hercules (14.292); seduced by Hera on Mount Ida (14.345 ff); list of his various sexual encounters (14.377); wakes up on Ida, sees wounded Hector, berates Hera, reminds her of her earlier punishment, tells her the future of the war (15.4 ff); sends Iris with orders for Poseidon to leave the battle, boasts of his strength (15.186 ff); division of power in his family (15.224); instructs Apollo to restore wounded Hector (15.266); hears Nestor's prayer, sends a thunder clap (15.446); breaks Teucer's bow string (15.541); strengths Trojans, weakens Achaeans (15.694); neutralizing Ajax's strength (16.147); hears Achilles' prayer (16.298); pities Sarpedon, agrees he must die, sends blood rain (16.504); spreads darkness over the battle (16.661); ponders options, takes Hector's courage (16.750 ff); tells Apollo to take Sarpedon's body to Lycia (16.775); gives Patroclus desire to fight (16.802); gives Hector Patroclus' (Achilles') helmet (16.927); responsible for a warrior's courage (17.227); observes Hector putting on Achilles' armour, fits armour to Hector, fills him with strength (17.256); helps Achaeans defend Patroclus' body (17.348); makes battle over Patroclus destructive (17.502); pities Achilles' horses in mourning for Patroclus, refuses to let Hector have them, gives horses strength (17.546 ff); shakes aegis, peals thunder, awarding victory to Trojans (17.723); responds to Ajax's prayer, removes mist from Achaeans (17.790); conversation with Hera about Achilles' return (18.443); Agamemnon blames him for quarrel (19.107); once deceived by Ate (19.117 ff); threw Ate from Olympus (19.156); Agamemnon prays to him, swears he has not had sex with Briseis (19.315); pities Achilles, tells Athena to give him strength (19.414); asks Themis to call assembly of gods, lets gods join the war (20.6 ff); thunders in the battle (20.67); once rescued Aeneas from Achilles (20.110); his love for Dardanus and hatred for Priam (20.364); Achilles appeals to him for help to escape the river Scamander (21.327); laughs to see the gods fighting amongst themselves (21.467); consoles Artemis after Hera beats her (21.610); watches Achilles chasing Hector, considers sparing Hector, sends Athena to intervene (22.206); raises his scales, determining Hector's fate (22.260); refuses to permit Hermes to steal the body of Hector, sets up a compromise, calls for someone to summon Thetis (24.78); instructs Thetis to tell Achilles to compromise over Hector's body (24.127); instructs Iris to visit Priam, tell him to go to Achilles to get Hector (24.177); hears Priam's prayer, sends an omen, instructs Hermes to guide Priam (24.392 ff); description of his two jars of gifts (24.650); turned people to stone (24.758).</note>
                </person>
                
                
                <!-- NEW BY ARGYRO -->
 
 
-               <person xml:id="Acamas">
+               <person xml:id="Acamas1">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Acamas</idno>
                    <idno type="smith">http://data.perseus.org/people/smith:acamas-1</idno>
                    <idno type="wikidata">https://www.wikidata.org/wiki/Q342286</idno>
                 <persName type="citable" xml:lang="en">Acamas</persName>
                   <persName xml:lang="grc">Ἀκάμας</persName>
                    <affiliation ref="http://pleiades.stoa.org/places/1001889">Thrace</affiliation>
+                   <note>son of Eussorus, leader of the Thracians: in Trojan display of forces (2.925); Ares takes on his form (5.548); killed by Telamonian Ajax (6.109).</note>
                 </person>
                
 
 
-                <person xml:id="Acamas2" role="Son of Antenor">
+                <person xml:id="Acamas2">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Acamas_%28son_of_Antenor%29</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:acamas-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1782641</idno>
@@ -497,10 +515,11 @@
                         <relation active="#Acamas2" ref="snap:BrotherOf" passive="#Archelochus"><desc>Brother of Archelochus</desc></relation>
                         <relation active="#Acamas2" ref="snap:CousinOf" passive="#Aeneas"><desc>cousin of Aeneas</desc></relation>
                     </listBibl>
+                    <note>son of Antenor, Trojan warrior: in display of Trojan forces (2.905); helps prepare troops for battle (11.62); one of the leaders in the assault on the wall (12.104); kills Promachus, boasts aloud, withdraws (14.553); killed by Meriones (16.400).</note>
                 </person>
                 
                 
-                <person xml:id="Actor">
+                <person xml:id="Actor1">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Actor_%28mythology%29</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:actor-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q557214</idno>
@@ -509,8 +528,8 @@
                     <listBibl>
                         <bibl/>
                         <relation active="#Actor" ref="snap:GrandfatherOf" passive="#Patroclus"><desc>grandfather of Patroclus</desc></relation>
-
                     </listBibl>
+                    <note>father of Menoetius, grandfather of Patroclus.</note>
                 </person>
                 
                 <person xml:id="Adrastus">
@@ -520,8 +539,8 @@
                     <occupation>king</occupation>
                     <affiliation>Argos</affiliation>
                     <persName type="citable" xml:lang="en">Adrastus</persName>
-                   <persName type="citable" xml:lang="grc">Ἄδραστος</persName>
-
+                    <persName type="citable" xml:lang="grc">Ἄδραστος</persName>
+                    <persName type="citable" xml:lang="grc">Ἄδρηστος</persName>
                 </person>
                 
                 <person xml:id="Aesepus">
@@ -550,7 +569,7 @@
                 </person>
                 
                 
-                <person xml:id="Agenor2" role="SonofAntenor">
+                <person xml:id="Agenor2">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Agenor,_son_of_Antenor</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:agenor-6</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2547185</idno>
@@ -645,11 +664,12 @@
                
                
                <!-- !! -->
-               <person xml:id="Antenorides" role="patronymic">
+               <person xml:id="Antenorides">
                   <idno type="wikipedia">https://en.wikipedia.org/wiki/Antenorides</idno>
                    <idno type="wikidata">https://www.wikidata.org/wiki/Q11905707</idno>
                   <persName type="citable" xml:lang="en">Antenorides</persName>
                   <persName type="citable" xml:lang="grc">Ἀντηνορίδης </persName>
+                   <note>PATRONYMIC</note>
                </person>
                 
                 
@@ -797,7 +817,7 @@
                     
                 </person>
                 
-                <person xml:id="Asius2" role="SonofHyrtacus">
+                <person xml:id="Asius2">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Asius_(son_of_Hyrtacus)</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:ascalaphus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2647181</idno>
@@ -941,12 +961,11 @@
                     <listBibl>
                         <bibl/>
                         <relation active="#Balius" ref="snap:Bond" passive="#Achilles"><desc>horse of Achilles (with Xanthus)</desc></relation>
-                        
                     </listBibl>
                 </person>
                 
                 
-                <person xml:id="Xanthus" role="animal">
+                <person xml:id="Xanthus1" role="animal">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Balius_and_Xanthus</idno>
                     
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1062608</idno>
@@ -955,10 +974,25 @@
                     <listBibl>
                         <bibl/>
                         <relation active="#Xanthus" ref="snap:Bond" passive="#Achilles"><desc>horse of Achilles (with Balius)</desc></relation>
-                        
                     </listBibl>
+                    <note> one of Achilles horses (16.180); talks to Achilles (19.486).</note>
                 </person>
                 
+                <person xml:id="Xanthus2" role="animal"><persName xml:lang="en">Xanthus</persName>
+                    <note> one of Hector's horses (8.213).</note>
+                </person>
+                
+                <person xml:id="Xanthus3"><persName xml:lang="en">Xanthus</persName>
+                    <note> son of Phaenops, Trojan warrior: killed by Diomedes (5.174).</note>
+                </person>
+                
+                <person xml:id="Xanthus4" role="deity">
+                    <persName xml:lang="en">Xanthus</persName>
+                    <persName xml:lang="en">Xanthos</persName>
+                    <persName xml:lang="en">Scamander</persName>
+                    <persName xml:lang="en">Skamandros</persName>
+                    <note>river outside Troy, also called the Scamander, also the god of the river: leaves Olympus to help the Trojans (20.49); opposes Hephaestus in battle (20.86); Achilles kills men in the river (21.20 ff); river gets angry at Achilles' slaughter of Trojans (21.164 ff); calls to Achilles to stop the slaughter (21.252); cries out to Apollo about Achilles' conduct (21.275); attacks Achilles (21.284); calls to his brother to help against Achilles (21.371); burned by Hephaestus, agrees to stop fighting Achilles, appeals to Hera (21.427 ff); springs feeding the river (22.184).</note>
+                </person>
                 
                 <person xml:id="Bias">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Bias_(mythology)</idno>
@@ -1060,7 +1094,7 @@
                 </person>
                 
                 
-                <person xml:id="Calypso" role="nymph">
+                <person xml:id="Calypso" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Calypso_(mythology)</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:calypso-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48961</idno>
@@ -1270,7 +1304,8 @@
                     <idno type="smith">http://data.perseus.org/people/smith:eris-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q140001</idno>
                     <persName type="citable" xml:lang="en">Eris (mythology) </persName>
-                   <persName type="citable" xml:lang="grc">Ἔρις </persName>
+                    <persName type="citable" xml:lang="grc">Ἔρις</persName>
+                    <note> goddess active in war, sister of Ares: accompanies Ares and Athena into battle (4.513); active on the battle field (5.612); leads Trojans, helping Hector (5.696); depicted on the aegis (5.845); sent by Zeus to Achaean ships, stands by Odysseus' ship, lets out a yell (11.3 ff); pleased at the killing (11.77); depicted on Achilles' shield (18.659); in action in the battle (20.57).</note>
                 </person>
                 
                 <person xml:id="Eteoneus">
@@ -1295,7 +1330,8 @@
                     <idno type="smith">http://data.perseus.org/people/smith:eudorus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1331224</idno>
                     <occupation>commander</occupation>
-                    <persName type="citable" xml:lang="en">Eudoros / Eudorus</persName>
+                    <persName type="citable" xml:lang="en">Eudoros</persName>
+                    <persName type="citable" xml:lang="en">Eudorus</persName>
                    <persName type="citable" xml:lang="grc">Εὔδωρος </persName>
                 </person>
                 
@@ -1635,7 +1671,7 @@
                     </listBibl>
                 </person>
                 
-                <person xml:id="Khione" role="nymph">
+                <person xml:id="Khione" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Chione_%28daughter_of_Boreas%29</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:chione-1</idno>
                     <!-- ? -->
@@ -1644,7 +1680,7 @@
                     <persName type="citable" xml:lang="grc">Xιών</persName>
                 </person>
                 
-                <person xml:id="Laodice" role="DaughterofPriam">
+                <person xml:id="Laodice">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Laodice_(daughter_of_Priam)</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:laodice-4</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1178583</idno>
@@ -1707,7 +1743,7 @@
                     </listBibl>
                 </person>
                 
-                <person xml:id="Lycomedes2" role="Son of Creon">
+                <person xml:id="Lycomedes2">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycomedes_(son_of_Creon)</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:lycomedes-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q15262316</idno>
@@ -1737,7 +1773,7 @@
                     <persName type="citable" xml:lang="grc"> Λειώδης </persName>
                 </person>
                 
-                <person xml:id="Leucothea" role="nymph">
+                <person xml:id="Leucothea" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Leucothea</idno>
                     
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1821610</idno>
@@ -2450,7 +2486,7 @@
                     <persName type="citable" xml:lang="grc">Θεοκλύμενος </persName>
                 </person>
                 
-                <person xml:id="Thalia" role="Nereid">
+                <person xml:id="Thalia" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thalia_%28Nereid%29</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:thaleia-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1241338</idno>
@@ -2458,7 +2494,7 @@
                     <persName type="citable" xml:lang="grc">Θάλεια </persName>
                 </person>
                 
-                <person xml:id="Thetis" role="nereid">
+                <person xml:id="Thetis" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thetis</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:thetis-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q184437</idno>
@@ -2481,7 +2517,7 @@
 
 <!-- extra names  not from wikiledia:category Iliad/Odyssey characters-->
                 
-                <person xml:id="Abarbarea" role="naiad">
+                <person xml:id="Abarbarea" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Abarbarea</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:abarbarea-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q279782</idno>
@@ -2493,6 +2529,7 @@
                         <relation active="#Abarbarea" ref="snap:MotherOf" passive="#Aesepus"><desc>mother of Aesepus</desc></relation>
                         <relation active="#Abarbarea" ref="snap:MotherOf" passive="#Pedasus"><desc>mother of Pedasus</desc></relation>
                     </listBibl>
+                    <note>a nymph: mother of Aesepus and Pedasus (Trojan warriors); sex with Bucolion (6.25 ff).</note>
                 </person>
                 
                 
@@ -2506,8 +2543,8 @@
                     <listBibl>
                         <bibl></bibl>
                         <relation active="#Abas" ref="snap:SonOf" passive="#Eurydamas"><desc>son of Eurydamas</desc></relation>
-                        
                     </listBibl>
+                    <note>a son of Eurydamas, a Trojan warrior: killed by Diomedes (5.170).</note>
                 </person>
                 
                 
@@ -2517,20 +2554,19 @@
                    
                     <persName type="citable" xml:lang="en">Ableros</persName>
                     <persName type="citable" xml:lang="grc">Ἄβληρος</persName>
-                    
+                    <note>Trojan warrior: killed by Antilochus (6.36).</note>
                 </person>
                 
                 
                 <person xml:id="Acessamenus">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Acessamenus</idno>
-                    
                     <persName type="citable" xml:lang="en">Acessamenus</persName>
                     <persName type="citable" xml:lang="grc">Ἀκεσσαμενός</persName>
                     <listBibl>
                         <bibl></bibl>
                         <relation active="#Acessamenus" ref="snap:GrandfatherOf" passive="#Pelagon"><desc>grandfather of Pelagon</desc></relation>
-                        
                     </listBibl>
+                    <note>father of Periboea (mother of Asteropaeus, Trojan warrior) (21.170).</note>
                 </person>
                 
                 
@@ -2557,15 +2593,16 @@
                         <relation active="#Acrisius" ref="snap:SonOf" passive="#Abas"><desc>son of Abas</desc></relation>
                         <relation active="#Acrisius" ref="snap:FatherOf" passive="https://en.wikipedia.org/wiki/Dana%C3%AB"><desc>mother of Pedasus</desc></relation>
                     </listBibl>
+                    <note>father of Danae (a woman loved by Zeus).</note>
                 </person>
                 
                 
-                <person xml:id="Actaia" role="nereid">
+                <person xml:id="Actaia" role="deity">
                     <!-- only as a name in wikipedia -->
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
                     <persName type="citable" xml:lang="en">Actaia</persName>
                     <persName type="citable" xml:lang="grc">Ἀκταίη</persName>
-                    
+                    <note>a Nereid (daughter of Nereus): laments with her sisters (18.50).</note>
                 </person>
                 
                 
@@ -2578,8 +2615,8 @@
                     <listBibl>
                         <bibl/>
                         <relation active="#Actor" ref="snap:GrandfatherOf" passive="#Ascalaphus"><desc>grandfather of Ascalaphus</desc></relation>
-                        
                     </listBibl>
+                    <note>son of Azeus, father of Astyoche: mentioned (2.589).</note>
                 </person>
                 
                 
@@ -2604,8 +2641,8 @@
                     <listBibl>
                         <bibl/>
                         <relation active="#Actor" ref="snap:FatherOf" passive="https://en.wikipedia.org/wiki/Eurytus_and_Cteatus"><desc>father of Eurytus and Cteatus</desc></relation>
-                        
                     </listBibl>
+                    <note>alleged father of Cteatus and Eurytus, grandfather of Amphimachus: father of two men who beat Nestor in the chariot race (23.789).</note>
                 </person>
                 
                 
@@ -2733,10 +2770,10 @@
                     </listBibl>
                 </person>
                 
-                <person xml:id="Agamede" role="physician">
+                <person xml:id="Agamede">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Agamede</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:agamede-1</idno>
-                    
+                    <occupation>physician</occupation>
                     <persName type="citable" xml:lang="en">Agamede</persName>
                     <persName type="citable" xml:lang="grc">Ἀγαμήδη</persName>
                     
@@ -2775,7 +2812,7 @@
                 </person>
                 
                 
-                <person xml:id="Agave" role="nereid">
+                <person xml:id="Agave" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Agave_%28mythology%29</idno>
                     <persName type="citable" xml:lang="en">Agave</persName>
                     <persName type="citable" xml:lang="grc">Ἀγαύη</persName>
@@ -2791,14 +2828,26 @@
                     
                 </person>
                 
+
                 
+                <!-- end BY ARGYRO -->
+                <!-- start from Iliad-index.htm -->
+
+
+                <!-- end BY ARGYRO -->
+                <!-- start from Iliad-index.htm -->
                 
-<!-- end BY ARGYRO -->
+
+                <!-- end from Iliad-index.htm -->
 
 
             </listPerson>
          </particDesc>
       </profileDesc>
+       <revisionDesc>
+           <change who="#AM" when="2016-05-09">added more names from Wikipedia</change>
+           <change who="#GB" when="2015-03-23">Created file with a few pages from Wikipedia</change>
+       </revisionDesc>
    </teiHeader>
    <text>
       <body>
