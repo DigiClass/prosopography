@@ -34,7 +34,7 @@
                                         </xsl:when>
                                     </xsl:choose>
                                     <xsl:text>. </xsl:text>
-                                    <xsl:value-of select="./tei:persName[@xml:lang='en']"/></xsl:element>
+                                    <xsl:value-of select="./tei:persName[1]"/></xsl:element>
                             </li>
                         </xsl:for-each>
                     </ul>

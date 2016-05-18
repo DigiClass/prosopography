@@ -34,6 +34,7 @@
                         <desc>son of Thetis</desc>
                      </relation>
                   </listBibl>
+                   <note>hero of the Iliad, leader of the Myrmidons (part of Achaeans army), son of Peleus and Thetis</note>
                </person>
                
                <person xml:id="Agamemnon">
@@ -467,6 +468,7 @@
                      <relation active="#Zeus" ref="snap:FatherOf" passive="#Aphrodite"><desc>father of Aphrodite</desc></relation>
                      <relation active="#Zeus" ref="snap:FatherOf" passive="#Helen"><desc>father of Helen</desc></relation>
                   </listBibl>
+                   <note>most powerful of the gods, common called &quot;the son of Cronos,&quot; &quot;cloud gatherer,&quot; &quot;lord of the lightning bolt,&quot; &quot;aegis bearing,&quot; brother and husband of Hera, father of numerous gods: mentioned in the invocation (1.6); Agamemnon claims a special relationship with Z. (1.194); story of Zeus' being saved by Thetis from other gods (1.439); returns from Ethiopians, visited by Thetis, agrees to grant her request to help Achilles (1.549 ff); threatens Hera if she keeps pestering him (1.627); goes to sleep with Hera beside him (1.685); worried about how to deal with Thetis' request, sends Dream to Agamemnon (2.1 ff); receives royal staff from Hephaestus, passes it on to Hermes (2.118); Agamemnon blames Zeus for their lack of success (2.130); Odysseus tells of his serpent omen eating birds and being turned to stone (2.362 ff); omens when Achaeans set out to sea (2.415); refuses Agamemnon's prayer (2.494); special favours for people of Rhodes (2.743); sends Iris to organize Trojans (2.865); declines sacrifice of Achaeans and Trojans for a truce (3.340); in assembly of gods, provokes Hera (4.2 ff); agrees to break truce, instructs Athena to see to it (4.83); tells Aphrodite to stay away from battle (5.508); tells Athena to chase Ares from the battle (5.874); appealed to by wounded Ares, chastises him, blaming Hera (5.994 ff); steals Glaucus' wits (6.298); answers Poseidon's objection about Achaean wall (7.530); plots bad things for troops (7.555); tells gods not to intervene in the war, boasts of his strength (8.4); responds to Athena, leaves Olympus for Ida (7.44 ff); holds up his golden scales, result favours the Trojans, sends thunderclap (8.77); sends a lightning bolt to stop Diomedes (8.153); peals thunder three times to stop Diomedes (8.195); gives glory to Hector (8.250); pities Agamemnon, sends bird omen to the Achaeans (8.287); puts renewed force into Trojans (8.391); Athena complains about his favours to Thetis (8.430); angry and Zeus and Hera, sends Iris to stop their visit to the battle (8.463 ff); returns to Olympus from Ida (8.510); reveals his plan to glorify Hector and Achilles (8.549); Agamemnon complains of his deceit (9.19); punishes Phoenix (9.574); sends Strife to Achaean ships (11.3); send down rain of blood (11.54); gazes at the battle (11.85); pulls Hector back (11.186); goes to Ida, send Iris with order for Hector (11.208 ff); looks from Ida onto battle, makes the contest equal (11.382); makes Telamonian Ajax afraid (11.615); put power into Pylians (11.864); helps to destroy Achaean wall in future (12.27); desires to give Hector glory (12.181); omen sent to soldiers (12.209); Zeus sends winds from Ida to disorient Achaeans (12.270); stirs Sarpedon to action (12.315); gives glory to Hector (12.482); turns away from the battles (13.3); aat cross purposes with Poseidon (13.418); reaction to being deceived by Sleep over Hercules (14.292); seduced by Hera on Mount Ida (14.345 ff); list of his various sexual encounters (14.377); wakes up on Ida, sees wounded Hector, berates Hera, reminds her of her earlier punishment, tells her the future of the war (15.4 ff); sends Iris with orders for Poseidon to leave the battle, boasts of his strength (15.186 ff); division of power in his family (15.224); instructs Apollo to restore wounded Hector (15.266); hears Nestor's prayer, sends a thunder clap (15.446); breaks Teucer's bow string (15.541); strengths Trojans, weakens Achaeans (15.694); neutralizing Ajax's strength (16.147); hears Achilles' prayer (16.298); pities Sarpedon, agrees he must die, sends blood rain (16.504); spreads darkness over the battle (16.661); ponders options, takes Hector's courage (16.750 ff); tells Apollo to take Sarpedon's body to Lycia (16.775); gives Patroclus desire to fight (16.802); gives Hector Patroclus' (Achilles') helmet (16.927); responsible for a warrior's courage (17.227); observes Hector putting on Achilles' armour, fits armour to Hector, fills him with strength (17.256); helps Achaeans defend Patroclus' body (17.348); makes battle over Patroclus destructive (17.502); pities Achilles' horses in mourning for Patroclus, refuses to let Hector have them, gives horses strength (17.546 ff); shakes aegis, peals thunder, awarding victory to Trojans (17.723); responds to Ajax's prayer, removes mist from Achaeans (17.790); conversation with Hera about Achilles' return (18.443); Agamemnon blames him for quarrel (19.107); once deceived by Ate (19.117 ff); threw Ate from Olympus (19.156); Agamemnon prays to him, swears he has not had sex with Briseis (19.315); pities Achilles, tells Athena to give him strength (19.414); asks Themis to call assembly of gods, lets gods join the war (20.6 ff); thunders in the battle (20.67); once rescued Aeneas from Achilles (20.110); his love for Dardanus and hatred for Priam (20.364); Achilles appeals to him for help to escape the river Scamander (21.327); laughs to see the gods fighting amongst themselves (21.467); consoles Artemis after Hera beats her (21.610); watches Achilles chasing Hector, considers sparing Hector, sends Athena to intervene (22.206); raises his scales, determining Hector's fate (22.260); refuses to permit Hermes to steal the body of Hector, sets up a compromise, calls for someone to summon Thetis (24.78); instructs Thetis to tell Achilles to compromise over Hector's body (24.127); instructs Iris to visit Priam, tell him to go to Achilles to get Hector (24.177); hears Priam's prayer, sends an omen, instructs Hermes to guide Priam (24.392 ff); description of his two jars of gifts (24.650); turned people to stone (24.758).</note>
                </person>
                
                
@@ -484,7 +486,7 @@
                
 
 
-                <person xml:id="Acamas2" role="Son of Antenor">
+                <person xml:id="Acamas2">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Acamas_%28son_of_Antenor%29</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:acamas-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1782641</idno>
@@ -520,8 +522,8 @@
                     <occupation>king</occupation>
                     <affiliation>Argos</affiliation>
                     <persName type="citable" xml:lang="en">Adrastus</persName>
-                   <persName type="citable" xml:lang="grc">Ἄδραστος</persName>
-
+                    <persName type="citable" xml:lang="grc">Ἄδραστος</persName>
+                    <persName type="citable" xml:lang="grc">Ἄδρηστος</persName>
                 </person>
                 
                 <person xml:id="Aesepus">
@@ -941,12 +943,11 @@
                     <listBibl>
                         <bibl/>
                         <relation active="#Balius" ref="snap:Bond" passive="#Achilles"><desc>horse of Achilles (with Xanthus)</desc></relation>
-                        
                     </listBibl>
                 </person>
                 
                 
-                <person xml:id="Xanthus" role="animal">
+                <person xml:id="Xanthus1" role="animal">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Balius_and_Xanthus</idno>
                     
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1062608</idno>
@@ -955,10 +956,25 @@
                     <listBibl>
                         <bibl/>
                         <relation active="#Xanthus" ref="snap:Bond" passive="#Achilles"><desc>horse of Achilles (with Balius)</desc></relation>
-                        
                     </listBibl>
+                    <note> one of Achilles horses (16.180); talks to Achilles (19.486).</note>
                 </person>
                 
+                <person xml:id="Xanthus2" role="animal"><persName xml:lang="en">Xanthus</persName>
+                    <note> one of Hector's horses (8.213).</note>
+                </person>
+                
+                <person xml:id="Xanthus3"><persName xml:lang="en">Xanthus</persName>
+                    <note> son of Phaenops, Trojan warrior: killed by Diomedes (5.174).</note>
+                </person>
+                
+                <person xml:id="Xanthus4" role="deity">
+                    <persName xml:lang="en">Xanthus</persName>
+                    <persName xml:lang="en">Xanthos</persName>
+                    <persName xml:lang="en">Scamander</persName>
+                    <persName xml:lang="en">Skamandros</persName>
+                    <note>river outside Troy, also called the Scamander, also the god of the river: leaves Olympus to help the Trojans (20.49); opposes Hephaestus in battle (20.86); Achilles kills men in the river (21.20 ff); river gets angry at Achilles' slaughter of Trojans (21.164 ff); calls to Achilles to stop the slaughter (21.252); cries out to Apollo about Achilles' conduct (21.275); attacks Achilles (21.284); calls to his brother to help against Achilles (21.371); burned by Hephaestus, agrees to stop fighting Achilles, appeals to Hera (21.427 ff); springs feeding the river (22.184).</note>
+                </person>
                 
                 <person xml:id="Bias">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Bias_(mythology)</idno>
@@ -1270,7 +1286,8 @@
                     <idno type="smith">http://data.perseus.org/people/smith:eris-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q140001</idno>
                     <persName type="citable" xml:lang="en">Eris (mythology) </persName>
-                   <persName type="citable" xml:lang="grc">Ἔρις </persName>
+                    <persName type="citable" xml:lang="grc">Ἔρις</persName>
+                    <note> goddess active in war, sister of Ares: accompanies Ares and Athena into battle (4.513); active on the battle field (5.612); leads Trojans, helping Hector (5.696); depicted on the aegis (5.845); sent by Zeus to Achaean ships, stands by Odysseus' ship, lets out a yell (11.3 ff); pleased at the killing (11.77); depicted on Achilles' shield (18.659); in action in the battle (20.57).</note>
                 </person>
                 
                 <person xml:id="Eteoneus">
@@ -1295,7 +1312,8 @@
                     <idno type="smith">http://data.perseus.org/people/smith:eudorus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1331224</idno>
                     <occupation>commander</occupation>
-                    <persName type="citable" xml:lang="en">Eudoros / Eudorus</persName>
+                    <persName type="citable" xml:lang="en">Eudoros</persName>
+                    <persName type="citable" xml:lang="en">Eudorus</persName>
                    <persName type="citable" xml:lang="grc">Εὔδωρος </persName>
                 </person>
                 
