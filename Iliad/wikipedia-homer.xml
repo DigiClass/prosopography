@@ -52,7 +52,7 @@
                         <desc>elder brother of King Menelaus</desc>
                      </relation>
                   </listBibl>
-                   <note>king of Mycenae, son of Atreus, leader of Achaean forces, brother of Menelaus</note>
+                   <note>king of Mycenae, son of Atreus, leader of Achaean forces, brother of Menelauscommonly called wide ruling, mighty</note>
                </person>
                
                <person xml:id="Ajax1">
@@ -215,6 +215,7 @@
                      <relation active="#Aeneas" ref="snap:SonOf" passive="#Aphrodite">
                         <desc>son of Aphrodite</desc></relation>
                   </listBibl>
+                   <note>major Trojan warrior, leader of Dardanians, son of Anchises and Aphrodite</note>
                </person>
 
                <person xml:id="Agenor">
@@ -532,7 +533,7 @@
                     <note>father of Menoetius, grandfather of Patroclus.</note>
                 </person>
                 
-                <person xml:id="Adrastus">
+                <person xml:id="Adrastus1">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Adrastus</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:adrastus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q223152</idno>
@@ -542,9 +543,11 @@
                     <persName type="citable" xml:lang="en">Adrestus</persName>
                     <persName type="citable" xml:lang="grc">Ἄδραστος</persName>
                     <persName type="citable" xml:lang="grc">Ἄδρηστος</persName>
+                    <note>king of Sicyon: in catalogue of ships (2.648); father of Aegialeia (5.490); his fine race horse Arion (23.423).</note>
                 </person>
                 
-                <person xml:id="Aesepus">
+                
+                <person xml:id="Aesepus1">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Aesepus</idno>
 
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2441792</idno>
@@ -554,8 +557,16 @@
                     <listBibl>
                         <bibl/>
                         <relation active="#Aesepus" ref="snap:BrotherOf" passive="#Pedasus"><desc>twin brother of Pedasus</desc></relation>
-                        
+                        <relation active="#Aesepus" ref="snap:SonOf" passive="#Abarbarea"><desc>son of Abarbarea</desc></relation>
                     </listBibl>
+                    <note>son of Bucolion and Abarbarea: killed by Euryalus (6.30).</note>
+                </person>
+                
+                
+                <person xml:id="Aesepus2" role="deity">
+                    <persName type="citable" xml:lang="en">Aesepus</persName>
+                    <persName type="citable" xml:lang="grc">Αἴσηπος</persName>
+                    <note>river flowing near Troy from Mt. Ida to the sea: (2.908); stirred up by Apollo and Poseidon to destroy the wall (12.22).</note>
                 </person>
                 
                 
@@ -567,6 +578,7 @@
                    <persName type="citable" xml:lang="grc">Ἀγαπήνωρ</persName>
                     <occupation>king of the Arcadians</occupation>
                     <affiliation ref="http://pleiades.stoa.org/places/570102">Arcadia</affiliation>
+                    <note>son of Ancaeus, leader of Arcadian troops (part of Achaean forces): in catalogue of ships (2.686).</note>
                 </person>
                 
                 
@@ -869,6 +881,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q172549</idno>
                     <persName type="citable" xml:lang="en">Aeolus</persName>
                    <persName type="citable" xml:lang="grc">Αἴολος</persName>
+                    <note>father of Sisyphus.</note>
                 </person>
                 
                 <person xml:id="Agelaus">
@@ -2690,6 +2703,25 @@
                         <relation active="#Adrastus2" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Merops_%28mythology%29"><desc>son of Merops</desc></relation>
                         <relation active="#Adrastus2" ref="snap:BrotherOf" passive="#Amphius"><desc>brother of Amphius</desc></relation>
                     </listBibl>
+                    <note>Trojan warrior, son of Merops, leader of troops from the Troad: in list of Trojan forces (2.912), killed by Diomedes (11.375).</note>
+                </person>
+                
+                
+                <person xml:id="Adrestus3">
+                    <persName type="citable" xml:lang="en">Adrastus</persName>
+                    <persName type="citable" xml:lang="en">Adrestus</persName>
+                    <persName type="citable" xml:lang="grc">Ἄδραστος</persName>
+                    <persName type="citable" xml:lang="grc">Ἄδρηστος</persName>
+                    <note>Trojan warrior: captured alive by Menelaus, pleads for ransom, killed by Agamemnon (6.43 ff).</note>
+                </person>
+                
+                
+                <person xml:id="Adrestus4">
+                    <persName type="citable" xml:lang="en">Adrastus</persName>
+                    <persName type="citable" xml:lang="en">Adrestus</persName>
+                    <persName type="citable" xml:lang="grc">Ἄδραστος</persName>
+                    <persName type="citable" xml:lang="grc">Ἄδρηστος</persName>
+                    <note>Trojan warrior, killed by Patroclus (16.808).</note>
                 </person>
                 
                 
@@ -2703,6 +2735,7 @@
                         <bibl></bibl>
                         <relation active="#Aeacus" ref="snap:GrandfatherOf" passive="#Achilles"><desc>grandfather of Achilles</desc></relation>
                     </listBibl>
+                    <note>father of Peleus, grandfather of Achilles, son of Zeus: Achilles boasts of him as an ancestor (21.226).</note>
                 </person>
                 
                 
@@ -2716,8 +2749,8 @@
                     <listBibl>
                         <bibl></bibl>
                         <relation active="#Aegeus" ref="snap:FatherOf" passive="https://en.wikipedia.org/wiki/Theseus"><desc>father of Theseus</desc></relation>
-                        
                     </listBibl>
+                    <note>father of Theseus, mentioned by Nestor (1.294).</note>
                 </person>
                 
                 
@@ -2732,29 +2765,29 @@
                         <relation active="#Aegialeia" ref="snap:DaughterOf" passive="#Adrastus"><desc>daughter of Adrastus</desc></relation>
                         <relation active="#Aegialeia" ref="snap:WifeOf" passive="#Diomedes"><desc>wife of Diomedes</desc></relation>
                     </listBibl>
+                    <note>daughter of Adrestus, wife of Diomedes: (5.490).</note>
                 </person>
                 
                 
                 <person xml:id="Aenius">
                     
                     <persName type="citable" xml:lang="en">Aenius</persName>
-                    <persName type="citable" xml:lang="grc">Αίνειος</persName>
+                    <persName type="citable" xml:lang="grc">Αἲνειος</persName>
                    <affiliation>Troy</affiliation>
+                    <note>Trojan warrior from Paeonia: killed by Achilles (21.250).</note>
                 </person>
                 
                 
                 <person xml:id="Aesyetes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Aesyetes</idno>
-                    
-                    
                     <persName type="citable" xml:lang="en">Aesyetes</persName>
                     <persName type="citable" xml:lang="grc"></persName>
                     <affiliation>Troy</affiliation>
                     <listBibl>
                         <bibl></bibl>
                         <relation active="#Aesyetes" ref="snap:FatherOf" passive="#Alcathous"><desc>father of Alcathous</desc></relation>
-                        
                     </listBibl>
+                    <note>father of Alcathous: his tomb as lookout (2.870); father of Alcathous (Trojan warrior) (13.515).</note>
                 </person>
                 
                 
@@ -2762,24 +2795,18 @@
                     
                     <persName type="citable" xml:lang="en">Aesymnus</persName>
                     <persName type="citable" xml:lang="grc"></persName>
-                    <listBibl>
-                        <bibl></bibl>
-                        <relation active="#Aesymnus" ref="snap:EmnityOf" passive="#Hector"><desc>killed by Hector</desc></relation>
-                        
-                    </listBibl>
+                    <note>Achaean warrior: killed by Hector (11.343).</note>
                 </person>
                 
                 
                 <person xml:id="Aethrae">
-                    
-                    
                     <persName type="citable" xml:lang="en">Aethrae</persName>
                     <persName type="citable" xml:lang="grc"></persName>
                     <listBibl>
                         <bibl></bibl>
-                        <relation active="#Aethrae" ref="snap:Bond" passive="#Helen"><desc>servant of Helen</desc></relation>
-                        
+                        <relation active="#Aethrae" ref="snap:Bond" passive="#Helen"><desc>servant of Helen</desc></relation> 
                     </listBibl>
+                    <note>daughter of Pittheus, a servant attending on Helen: goes with her to the walls of Troy (3.158).</note>
                 </person>
                 
                 
@@ -2790,8 +2817,8 @@
                     <listBibl>
                         <bibl></bibl>
                         <relation active="#Agacles" ref="snap:FatherOf" passive="#Epeigeus"><desc>father of Epeigeus</desc></relation>
-                        
                     </listBibl>
+                    <note>father of Epeigeus (Achaean warrior).</note>
                 </person>
                 
                 <person xml:id="Agamede">
@@ -2800,7 +2827,12 @@
                     <occupation>physician</occupation>
                     <persName type="citable" xml:lang="en">Agamede</persName>
                     <persName type="citable" xml:lang="grc">Ἀγαμήδη</persName>
-                    
+                    <listBibl>
+                        <bibl></bibl>
+                        <relation active="#Agamede" ref="snap:WifeOf" passive="#Mulius1"><desc>wife of Mulius</desc></relation>
+                        <relation active="#Agamede" ref="snap:DaughterOf" passive="#Augeias"><desc>daughter of Augeias</desc></relation>
+                    </listBibl>
+                    <note>daughter of Augeias, wife of Mulius: knowledge of medicine (11.848).</note>
                 </person>
                 
                 
@@ -2808,10 +2840,9 @@
                 <person xml:id="Agasthenes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Agasthenes</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:agasthenes-1</idno>
-                    
                     <persName type="citable" xml:lang="en">Agasthenes</persName>
                     <persName type="citable" xml:lang="grc">Ἀγασθένης</persName>
-                    
+                    <note>son of Augeas, father of Polyxenus (a leader of Epeians).</note>
                 </person>
                 
                 
@@ -2820,7 +2851,7 @@
                     <persName type="citable" xml:lang="en">Agastrophus</persName>
                     <persName type="citable" xml:lang="grc">Ἀγάστροφος</persName>
                     <affiliation>Troy</affiliation>
-                    
+                    <note>son of Paeon, Trojan warrior: wounded and killed by Diomedes (11.384).</note>
                 </person>
                 
                 
@@ -2855,11 +2886,7 @@
 
                 
                 <!-- end BY ARGYRO -->
-                <!-- FROM INDEX -->
                 
-               
-                
-<!-- END OF INDEX -->
 
 
 
