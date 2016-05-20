@@ -3173,6 +3173,41 @@
                 <!-- FROM INDEX -->
                 
                 
+                <person xml:id="Abantes" role="group">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Abantes</idno>
+                    <persName type="citable" xml:lang="en">Abantes</persName>
+                    <persName type="citable" xml:lang="en">Abantians</persName>
+                    <persName type="citable" xml:lang="grc">Ἅβαντες</persName>
+<note>people from Euboea (island near Athens), fighting with the Achaeans: in catalogue of ships (2.614).</note>
+</person>
+
+
+
+<person xml:id="Abii" role="group">
+    <persName type="citable" xml:lang="en">Abii</persName>
+    <persName type="citable" xml:lang="grc"></persName>
+<note>a tribe from the north of Hellas: Zeus looks away from battle to their land (13.8).</note>
+</person>
+
+
+<person xml:id="Achaeans" role="group">
+    <persName type="citable" xml:lang="en">Achaeans</persName>
+    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
+<note>collective name for the forces from Hellas under Agamemnon, used interchangeably with the term Argives or Danaans</note>
+</person>
+
+
+<person xml:id="Adamas">
+    <persName type="citable" xml:lang="en">Adamas</persName>
+    <persName type="citable" xml:lang="grc">Ἀδάμας</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Adamas" ref="snap:SonOf" passive="#Asius"><desc>son of Asius</desc></relation>
+    </listBibl>
+<note>Trojan warrior, son of Asius: moves up with Asius against the wall (12.147); attacks Antilochus (13.669); killed by Meriones (13.678).</note>
+</person>
+
+
                 
 <!-- END OF INDEX -->
 
