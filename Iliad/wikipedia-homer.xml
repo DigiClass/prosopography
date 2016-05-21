@@ -3229,7 +3229,7 @@
 <!-- ?   as what? -->
 <person xml:id="Aethe">
     <persName type="citable" xml:lang="en">Aethe</persName>
-    <persName type="citable" xml:lang="grc">Ἀίθη</persName>
+    <persName type="citable" xml:lang="grc">Αἵθη</persName>
 <note>a mare owned by Agamemnon: one of Menelaus' horses in the chariot race (23.354); strength in the race (23.640).</note>
 </person>
 
@@ -3278,7 +3278,7 @@
 
 <person xml:id="Aithos" role="animal">
     <persName type="citable" xml:lang="en">Aithos</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Αἶθος</persName>
     <listBibl>
         <bibl></bibl>
         <relation active="#Aithos" ref="snap:Bond" passive="#Hector"><desc>horse of Hector</desc></relation>
@@ -3286,38 +3286,35 @@
 <note>one of Hector's horses (8.213).</note>
 </person>
 
-
-
-
-
-
-
 <person xml:id="Alastor1">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alastor</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alastor</idno>
+    <persName type="citable" xml:lang="en">Alastor</persName>
+    <persName type="citable" xml:lang="grc">Ἀλάστωρ</persName>
 <note>one of the Achaean warrior leaders serving under Nestor: receives his orders (4.346); helps wounded Teucer (8.388); helps take Hypsenor from the battle (13.509).</note>
 </person>
 
 <person xml:id="Alastor2">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alastor</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alastor</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:alastor-3</idno>
+    <persName type="citable" xml:lang="en">Alastor</persName>
+    <persName type="citable" xml:lang="grc">Ἀλάστωρ</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.784).</note>
 </person>
 
 <person xml:id="Alastor3">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alastor</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alastor</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:alastorides-1</idno>
+    <persName type="citable" xml:lang="en">Alastor</persName>
+    <persName type="citable" xml:lang="grc">Ἀλάστωρ</persName>
     <affiliation>Troy</affiliation>
 <note>father of Tros (a Trojan warrior).</note>
 </person>
 
+
 <person xml:id="Alcandrus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
+    <persName type="citable" xml:lang="en">Alcandrus</persName>
+    <persName type="citable" xml:lang="grc">Ἅλκανδρος</persName>
     <persName>Alcandrus</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.785).</note>
@@ -3325,43 +3322,55 @@
 
 
 <person xml:id="Alcestis">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alcestis</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alcestis</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:alcestis-1</idno>
+    <persName type="citable" xml:lang="en">Alcestis</persName>
+    <persName type="citable" xml:lang="grc">Ἄλκηστις</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Alcestis" ref="snap:DaughterOf" passive="https://en.wikipedia.org/wiki/Pelias"><desc>daughter of Pelias</desc></relation>
+        <relation active="#Alcestis" ref="snap:MotherOf" passive="#Eumelus"><desc>mother of Eumelus</desc></relation>
+    </listBibl>
 <note>daughter of Pelias, mother of Eumelus. (2.787).</note>
 </person>
 
 <person xml:id="Alcimedon">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alcimedon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alcimedon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:alcimedon-3</idno>
+    <persName type="citable" xml:lang="en">Alcimedon</persName>
+    <persName type="citable" xml:lang="grc">Ἀλκιμέδων</persName>
 <note>son of Laerces, Achaean warrior, leader of one contingent of Myrmidons (16.233); joins Automedon in Achilles' chariot (17.579 ff); gets instructions from Automedon (17.617).</note>
 </person>
 
 
 <person xml:id="Alcmaon">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alcmaon</persName>
+    <persName type="citable" xml:lang="en">Alcmaon</persName>
+    <persName type="citable" xml:lang="grc">Ἀλκμάων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Alcmaon" ref="snap:SonOf" passive="#Thestor"><desc>son of Thestor</desc></relation>
+    </listBibl>
 <note>son of Thestor, Achaean warrior: killed by Sarpedon (12.434).</note>
 </person>
 
 <person xml:id="Alcmene">
-    <persName>Alcmene</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alcmene</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:alcmene-1</idno>
+    <persName type="citable" xml:lang="en">Alcmene</persName>
+    <persName type="citable" xml:lang="en">Alcmena</persName>
+    <persName type="citable" xml:lang="grc">Ἀλκμήνη</persName>
+    <persName type="citable" xml:lang="grc">Ἀλκμάνα</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Alcmene" ref="snap:MotherOf" passive="#Heracles"><desc>mother of Hercules</desc></relation>
+    </listBibl>
 <note>a woman loved by Zeus, mother of Hercules (14.384); birth of Hercules (19.121).</note>
 </person>
 
-<person xml:id="Alcyone">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alcyone</persName>
-<note>what her parents called Cleopatra (9.707).</note>
-</person>
-
 <person xml:id="Alectryon">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alectryon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alectryon_%28mythology%29</idno>
+    <persName type="citable" xml:lang="en">Alectryon</persName>
+    <persName type="citable" xml:lang="grc">Ἀλεκτρυών</persName>
 <note>father of Leitus (Achaean warrior).</note>
 </person>
 
@@ -4130,8 +4139,17 @@
 </person>
 
 <person xml:id="Cleopatra">
-    <persName>Cleopatra</persName>
-<note>daughter of Maripessa and Ides, wife of Meleager (9.699); begs Meleager to defend the city (9.744).</note>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cleopatra_Alcyone</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:cleopatra-1</idno>
+    <persName type="citable" xml:lang="en">Cleopatra</persName>
+    <persName type="citable" xml:lang="en">Alcyone</persName>
+    <persName type="citable" xml:lang="grc">Κλεοπάτρη</persName>
+    <persName type="citable" xml:lang="grc">Ἀλκυόνη</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Cleopatra" ref="snap:WifeOf" passive="#Meleager"><desc>wife of Meleager</desc></relation>
+    </listBibl>
+    <note>daughter of Maripessa and Ides, wife of Meleager (9.699); Alcyone: what her parents called Cleopatra (9.707); begs Meleager to defend the city (9.744).</note>
 </person>
 
 
