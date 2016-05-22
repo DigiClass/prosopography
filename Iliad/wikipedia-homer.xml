@@ -4144,202 +4144,345 @@
 
 
 <person xml:id="Cadmeians" role="group">
-    <persName>Cadmeians</persName>
+    <persName type="citable" xml:lang="en">Cadmeians</persName>
+    <persName type="citable" xml:lang="grc">Κάδμειοι</persName>
 <note>citizens of Thebes in Boeotia: Tydeus visits them and competes against them, they try to ambush him (4.451 ff); Tydeus beats them with Athena's help (5.919).</note>
 </person>
 
 <person xml:id="Cadmus">
-    <persName>Cadmus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cadmus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:cadmus-1</idno>
+    <persName type="citable" xml:lang="en">Cadmus</persName>
+    <persName type="citable" xml:lang="grc">Κάδμος</persName>
+    <occupation>king</occupation>
+    <affiliation>Thebes</affiliation>
 <note>king of Thebes: his sons beaten at the funeral games of Oedipus (23.840).</note>
 </person>
 
 <person xml:id="Caeneus">
-    <persName>Caeneus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Caeneus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:caeneus-1</idno>
+    <persName type="citable" xml:lang="en">Caeneus</persName>
+    <persName type="citable" xml:lang="grc">Καινεύς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Caeneus" ref="snap:FatherOf" passive="#Coronus"><desc>father of Coronus</desc></relation>
+        <relation active="#Caeneus" ref="snap:GrandfatherOf" passive="#Leonteus"><desc>grandfather of Leonteus</desc></relation>
+    </listBibl>
 <note>father of Coronus, grandfather of Leonteus (an Achaean warrior): mentioned by Nestor as an old comrade (1.291).</note>
 </person>
 
 
-<person xml:id="Calianassa" role="deity">
-    <persName>Calianassa</persName>
+<person xml:id="Callianassa" role="deity">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Callianassa</persName>
+    <persName type="citable" xml:lang="grc">Καλλιάνασσα</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.55).</note>
 </person>
 
 <person xml:id="Callianeira" role="deity">
-    <persName>Callianeira</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Callianeira</persName>
+    <persName type="citable" xml:lang="grc">Καλλιάνειρα</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.53).</note>
 </person>
 
 <person xml:id="Capaneus">
-    <persName>Capaneus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Capaneus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:capaneus-1</idno>
+    <persName type="citable" xml:lang="en">Capaneus</persName>
+    <persName type="citable" xml:lang="grc">Καπανεύς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Capaneus" ref="snap:FatherOf" passive="#Sthenelus"><desc>father of Sthenelus</desc></relation>
+    </listBibl>
 <note>father of Sthenelus (Achaean warrior).</note>
 </person>
 
 <person xml:id="Capys">
-    <persName>Capys</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Capys</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:capys-1</idno>
+    <persName type="citable" xml:lang="en">Capys</persName>
+    <persName type="citable" xml:lang="grc">Κάπυς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Capys" ref="snap:FatherOf" passive="#Anchises"><desc>father of Anchises</desc></relation>
+        <relation active="#Capys" ref="snap:SonOf" passive="#Assaracus"><desc>son of Assaracus</desc></relation>
+    </listBibl>
 <note>son of Assaracus, father of Anchises (father of Aeneas): his family (20.285).</note>
 </person>
 
 <person xml:id="Caresus" role="deity">
-    <persName>Caresus</persName>
+    <persName type="citable" xml:lang="en">Caresus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>river from Mount Ida to the sea: stirred up by Apollo or Poseidon to destroy the wall (12.21).</note>
 </person>
 
 <person xml:id="Carians" role="group">
-    <persName>Carians</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Carians</idno>
+    <persName type="citable" xml:lang="en">Carians</persName>
+    <persName type="citable" xml:lang="grc">Κᾶρες</persName>
 <note>inhabitants of Caria (a region of Asia Minor), allies of the Trojans: in display of Trojan forces (2.951); (4.166); camped beside the sea (10.512).</note>
 </person>
 
 
 <person xml:id="Castianeira">
-    <persName>Castianeira</persName>
+    <persName type="citable" xml:lang="en">Castianeira</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>mother of Gorgythion (son of Priam).</note>
 </person>
 
 <person xml:id="Castor">
-    <persName>Castor</persName>
-<note>brother of Helen, Achaean warrior: already dead at home (3.261).</note>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Castor_and_Pollux</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:castor-1</idno>
+    <persName type="citable" xml:lang="en">Castor</persName>
+    <persName type="citable" xml:lang="grc">Κάστωρ </persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Castor" ref="snap:BrotherOf" passive="#Helen"><desc>brother of Helen</desc></relation>
+    </listBibl>
+    <note>brother of Helen, Achaean warrior: already dead at home (3.261), one of the Dioscouri (with his twin brother, Pollux or Polydeuces).</note>
 </person>
 
 <person xml:id="Caucones" role="group">
-    <persName>Caucones</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Caucones</idno>
+    <persName type="citable" xml:lang="en">Caucones</persName>
+    <persName type="citable" xml:lang="grc">Καύκωνες</persName>
 <note>people of Asia Minor, Trojan allies: encamped by the sea: (10.513); preparing to fight (20.391).</note>
 </person>
 
 <!-- ???  see also Chiron -->
-<person xml:id="Centaurs">
-    <persName>Centaurs</persName>
+<person xml:id="Centaurs" role="group">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Centaur</idno>
+    <persName type="citable" xml:lang="en">Centaurs</persName>
+    <persName type="citable" xml:lang="grc">Κένταυροι</persName>
 <note>wild creatures, half human, half horse, living on Mt. Pelion: beaten away from Pelion by Peirithos (1.298, 2.816).</note>
 </person>
 
 <person xml:id="Ceos">
-    <persName>Ceos</persName>
+    <persName type="citable" xml:lang="en">Ceos</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Ceos" ref="snap:GrandfatherOf" passive="#Euphemus"><desc>grandfather of Euphemus</desc></relation>
+    </listBibl>
 <note>father of Troezenus, grandfather of Euphemus (Trojan ally).</note>
 </person>
 
 <person xml:id="Cephallenians">
-    <persName>Cephallenians</persName>
+    <persName type="citable" xml:lang="en">Cephallenians</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>troops in Odysseus' contingent (part of Achaean army): in catalogue of ships (2.707).</note>
 </person>
 
 <person xml:id="Chalcodon">
-    <persName>Chalcodon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Chalcodon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:chalcodon-2</idno>
+    <!-- at the end -->
+    <persName type="citable" xml:lang="en">Chalcodon</persName>
+    <persName type="citable" xml:lang="grc">Χαλκώδων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Chalcodon" ref="snap:FatherOf" passive="#Elephenor"><desc>father of Elephenor</desc></relation>
+    </listBibl>
 <note>father of Elephenor (an Achaean warrior) in catalogue of ships (2.613).</note>
 </person>
 
 <person xml:id="Chalcon">
-    <persName>Chalcon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Briseus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:chalcon-2</idno>
+    <persName type="citable" xml:lang="en">Chalcon</persName>
+    <persName type="citable" xml:lang="grc">Χάλκων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Chalcon" ref="snap:FatherOf" passive="#Bathycles"><desc>father of Bathycles</desc></relation>
+    </listBibl>
 <note>father of Bathycles (Achaean warrior).</note>
 </person>
 
 <person xml:id="Charis" role="deity">
-    <persName>Charis</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Charites</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:charis-1</idno>
+    <persName type="citable" xml:lang="en">Charis</persName>
+    <persName type="citable" xml:lang="grc">Χάρις</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Charis" ref="snap:WifeOf" passive="#Hephaestus"><desc>wife of Hephaestus</desc></relation>
+    </listBibl>
 <note>goddess, wife of Hephaestus: meets Thetis, welcomes her (18.474).</note>
 </person>
 
 <person xml:id="Charops">
-    <persName>Charops</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Charops_(mythology)</idno>
+    <persName type="citable" xml:lang="en">Charops</persName>
+    <persName type="citable" xml:lang="grc">Χάρωψ</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Charops" ref="snap:SonOf" passive="#Hippasus"><desc>son of Hippasus</desc></relation>
+    </listBibl>
 <note>son of Hippasus, brother of Socus, Trojan warrior: killed by Odysseus (11.485).</note>
 </person>
 
 <person xml:id="Charopus">
-    <persName>Charopus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Charops_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:charopus-1</idno>
+    <persName type="citable" xml:lang="en">Charopus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Charopus" ref="snap:FatherOf" passive="#Nireus"><desc>Father of Nireus</desc></relation>
+    </listBibl>
 <note>father of Nireus (Achaean warrior).</note>
 </person>
 
 <person xml:id="Chersidamas">
-    <persName>Chersidamas</persName>
+    <persName type="citable" xml:lang="en">Chersidamas</persName>
+    <persName type="citable" xml:lang="grc">Χερσιδάμας</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (11.481).</note>
 </person>
 
 <person xml:id="Chimera" role="monster">
-    <persName>Chimera</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Chimera_(mythology)</idno>
+    <persName type="citable" xml:lang="en">Chimera</persName>
+    <persName type="citable" xml:lang="en">Chimaera</persName>
+    <persName type="citable" xml:lang="grc">Χίμαιρα</persName>
 <note>legendary monster: killed by Bellerophon (6.230); raised by Amisodarus (16.385).</note>
 </person>
 
 
 <!-- ?? -->
 <person xml:id="Chiron" role="animal">
-    <persName>Chiron</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Chiron</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:cheiron-1</idno>
+    <persName type="citable" xml:lang="en">Chiron</persName>
+    <persName type="citable" xml:lang="en">Cheiron</persName>
+    <persName type="citable" xml:lang="grc">Χείρων</persName>
 <note>a centaur: gave medicines to Asclepius (4.256); gave spear to Peleus (16.174; 19.471).</note>
 </person>
 
 <person xml:id="Chromius1">
-    <persName>Chromius</persName>
+    <persName type="citable" xml:lang="en">Chromius</persName>
+    <persName type="citable" xml:lang="grc">Χρόμιος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.784).</note>
 </person>
 
 <person xml:id="Chromius2">
-    <persName>Chromius</persName>
+    <persName type="citable" xml:lang="en">Chromius</persName>
+    <persName type="citable" xml:lang="grc">Χρόμιος</persName>
 <note>one of the leaders of troops from Pylos: receives orders from Nestor (4.346).</note>
 </person>
 
 <person xml:id="Chromius3">
-    <persName>Chromius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Chromius</idno>
+    <persName type="citable" xml:lang="en">Chromius</persName>
+    <persName type="citable" xml:lang="grc">Χρόμιος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Chromius" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+    </listBibl>
 <note>son of Priam: killed by Diomedes (5.184).</note>
 </person>
 
 <person xml:id="Chromius4">
-    <persName>Chromius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Chromius</idno>
+    <persName type="citable" xml:lang="en">Chromius</persName>
+    <persName type="citable" xml:lang="grc">Χρόμιος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.322).</note>
 </person>
 
 <person xml:id="Chromius5">
-    <persName>Chromius</persName>
+    <persName type="citable" xml:lang="en">Chromius</persName>
+    <persName type="citable" xml:lang="grc">Χρόμιος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: goes with Aeneas and Hector to attack Automedon (17.610); withdraws (17.654).</note>
 </person>
 
 <person xml:id="Chromis">
-    <persName>Chromis</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Chromis_(mythology)</idno>
+    <persName type="citable" xml:lang="en">Chromis</persName>
+    <persName type="citable" xml:lang="grc">Χρόμις</persName>
 <note>Trojan ally, leader of Mysians: in Trojan display of forces (2.940).</note>
 </person>
 
 <person xml:id="Chroraius">
-    <persName>Chroraius</persName>
+    <persName type="citable" xml:lang="en">Chroraius</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: encouraged by Hector (17.281).</note>
 </person>
 
 
 <person xml:id="Chrysothemis">
-    <persName>Chrysothemis</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Chrysothemis</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:chrysothemis-1</idno>
+    <persName type="citable" xml:lang="en">Chrysothemis</persName>
+    <persName type="citable" xml:lang="grc">Χρυσόθεμις</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Chrysothemis" ref="snap:DaughterOf" passive="#Agamemnon"><desc>daughter of Agamemnon</desc></relation>
+    </listBibl>
 <note>daughter of Agamemnon (9.175).</note>
 </person>
 
 <person xml:id="Cicones" role="group">
-    <persName>Cicones</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cicones</idno>
+    <persName type="citable" xml:lang="en">Cicones</persName>
+    <persName type="citable" xml:lang="grc">Κίκονες</persName>
 <note>Trojan allies from Thrace: in Trojan display of forces (2.928).</note>
 </person>
 
 <person xml:id="Cilicians" role="group">
-    <persName>Cilicians</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cilicia</idno>
+    <persName type="citable" xml:lang="en">Cilicians</persName>
+    <persName type="citable" xml:lang="grc">Κίλικες</persName>
 <note>people ruled by Etion: (6.484).</note>
 </person>
 
 <person xml:id="Cinyras">
-    <persName>Cinyras</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cinyras</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:cinyras-1</idno>
+    <persName type="citable" xml:lang="en">Cinyras</persName>
+    <persName type="citable" xml:lang="grc">Κινύρας</persName>
+    <affiliation ref="http://pleiades.stoa.org/places/707498">Cyprus</affiliation>
 <note>man in Cyprus: gave breast plate to Agamemnon (11.21).</note>
 </person>
 
 <person xml:id="Cisseus">
-    <persName>Cisseus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cisseus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:cisseus-1</idno>
+    <persName type="citable" xml:lang="en">Cisseus</persName>
+    <persName type="citable" xml:lang="grc">Κισσεύς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Cisseus" ref="snap:FatherOf" passive="#Theano"><desc>father of Theano</desc></relation>
+    </listBibl>
 <note>father of Theano: raised Iphidamas, tries to stop Iphidamas going to war (11.255).</note>
 </person>
 
 <person xml:id="Cleitus">
-    <persName>Cleitus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cleitus_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:cleitus-3</idno>
+    <persName type="citable" xml:lang="en">Cleitus</persName>
+    <persName type="citable" xml:lang="en">Clitus</persName>
+    <persName type="citable" xml:lang="grc">Κλεῖτος</persName>
+    <persName type="citable" xml:lang="grc">Κλειτός</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Cleitus" ref="snap:SonOf" passive="#Peisenor"><desc>son of Peisenor</desc></relation>
+    </listBibl>
 <note>son of Peisenor, Trojan warrior: killed by Teucer (15.521).</note>
 </person>
 
 <person xml:id="Cleobulus">
-    <persName>Cleobulus</persName>
+    <persName type="citable" xml:lang="en">Cleobulus</persName>
+    <persName type="citable" xml:lang="grc">Κλεόβουλος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Olean Ajax (16.386).</note>
 </person>
@@ -4360,93 +4503,186 @@
 
 
 <person xml:id="Clymene1">
-    <persName>Clymene</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Clymene_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:clymene-3</idno>
+    <persName type="citable" xml:lang="en">Clymene</persName>
+    <persName type="citable" xml:lang="grc">Κλυμένη</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Clymene" ref="snap:Bond" passive="#Helen"><desc>one of Helen's attendants</desc></relation>
+    </listBibl>
 <note>one of Helen's attendants: goes with her to the walls of Troy (3.158).</note>
 </person>
 
 <person xml:id="Clymene2" role="deity">
-    <persName>Clymene</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Clymene_(mythology)</idno>
+    <persName type="citable" xml:lang="en">Clymene</persName>
+    <persName type="citable" xml:lang="grc">Κλυμένη</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.55).</note>
 </person>
 
 <person xml:id="Clytaemnestra">
-    <persName>Clytaemnestra</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Clytaemnestra</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:clytaemnestra-1</idno>
+    <persName type="citable" xml:lang="en">Clytaemnestra</persName>
+    <persName type="citable" xml:lang="en">Clytemnestra</persName>
+    <persName type="citable" xml:lang="grc">Κλυταιμνήστρα</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Clytaemnestra" ref="snap:WifeOf" passive="#Agamemnon"><desc>wife of Agamemnon</desc></relation>
+    </listBibl>
 <note>wife of Agamemnon: Agamemnon mentions her (1.121).</note>
 </person>
 
 
 <person xml:id="Clytomedes">
-    <persName>Clytomedes</persName>
+    <persName type="citable" xml:lang="en">Clytomedes</persName>
+    <persName type="citable" xml:lang="grc"></persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Clytomedes" ref="snap:SonOf" passive="#Enops"><desc>son of Enops</desc></relation>
+    </listBibl>
 <note>son of Enops: defeated in boxing by Nestor (23.782).</note>
 </person>
 
 
 <person xml:id="Confusion" role="deity">
-    <persName>Confusion</persName>
+    <persName type="citable" xml:lang="en">Confusion</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>deity: depicted on Achilles' shield (18.659).</note>
 </person>
 
 <person xml:id="Con">
-    <persName>Con</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Coön</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:coon-1</idno>
+    <persName type="citable" xml:lang="en">Con</persName>
+    <persName type="citable" xml:lang="en">Coon</persName>
+    <persName type="citable" xml:lang="en">Cynon</persName>
+    <persName type="citable" xml:lang="grc">Κόων</persName>
+    <persName type="citable" xml:lang="grc">Κύνων</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Con" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
+    </listBibl>
 <note>eldest son of Antenor, Trojan warrior: attacks Agamemnon, wounds him, is killed (11.284).</note>
 </person>
 
 <person xml:id="Copreus">
-    <persName>Copreus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Copreus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:copreus-1</idno>
+    <persName type="citable" xml:lang="en">Copreus</persName>
+    <persName type="citable" xml:lang="grc">Κοπρεύς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Copreus" ref="snap:FatherOf" passive="#Periphetes"><desc>father of Periphetes</desc></relation>
+    </listBibl>
 <note>father of Periphetes (Achaean warrior): took messages to Hercules (15.744).</note>
 </person>
 
 <person xml:id="Coronus">
-    <persName>Coronus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Coronus_(Greek_mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:coronus-3</idno>
+    <persName type="citable" xml:lang="en">Coronus</persName>
+    <persName type="citable" xml:lang="grc">Κόρωνος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Coronus" ref="snap:SonOf" passive="#Caeneus"><desc>son of Caeneus</desc></relation>
+        <relation active="#Coronus" ref="snap:FatherOf" passive="#Leonteus"><desc>father of Leonteus</desc></relation>
+    </listBibl>
 <note>son of Caeneus, father of Leonteus (an Achaean warrior).</note>
 </person>
 
 <person xml:id="Creon">
-    <persName>Creon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Creon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:creon-2</idno>
+    <persName type="citable" xml:lang="en">Creon</persName>
+    <persName type="citable" xml:lang="grc">Κρέων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Creon" ref="snap:FatherOf" passive="#Lycomedes"><desc>father of Lycomedes</desc></relation>
+    </listBibl>
 <note>father of Lycomedes (Achaean warrior).</note>
 </person>
 
 <person xml:id="Cretans" role="group">
-    <persName>Cretans</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Crete</idno>
+    <persName type="citable" xml:lang="en">Cretans</persName>
+    <persName type="citable" xml:lang="grc">Κρῆτες</persName>
 <note>inhabitants of the island of Crete, led by Idomeneus: in catalogue of ships (2.720).</note>
 </person>
 
 <person xml:id="Crethon">
-    <persName>Crethon</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:briseus-1</idno>
+    <persName type="citable" xml:lang="en">Crethon</persName>
+    <persName type="citable" xml:lang="grc"></persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Crethon" ref="snap:SonOf" passive="#Diocles"><desc>son of Diocles</desc></relation>
+    </listBibl>
 <note>son of Diocles, Achaean warrior: killed by Aeneas (5.640).</note>
 </person>
 
 <person xml:id="Croesmus">
-    <persName>Croesmus</persName>
+    <persName type="citable" xml:lang="en">Croesmus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Meges (15.616).</note>
 </person>
 
 <person xml:id="Cronos">
-    <persName>Cronos</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Cronus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:cronus-1</idno>
+    <persName type="citable" xml:lang="en">Cronos</persName>
+    <persName type="citable" xml:lang="en">Cronus</persName>
+    <persName type="citable" xml:lang="en">Kronos</persName>
+    <persName type="citable" xml:lang="grc">Κρόνος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Cronos" ref="snap:FatherOf" passive="#Zeus"><desc>father of Zeus</desc></relation>
+        <relation active="#Cronos" ref="snap:FatherOf" passive="#Hera"><desc>father of Hera</desc></relation>
+    </listBibl>
 <note>father of Zeus and Hera, husband of Rhea: imprisoned in Tartarus (8.563); forced underground by Zeus (14.244); his three sons (15.223).</note>
 </person>
 
 <person xml:id="Cteatus">
-    <persName>Cteatus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurytus_and_Cteatus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:moliones-1</idno>
+    <persName type="citable" xml:lang="en">Cteatus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Cteatus" ref="snap:SonOf" passive="#Actor"><desc>son of Actor or Poseidon</desc></relation>
+        <relation active="#Cteatus" ref="snap:BrotherOf" passive="#Amphimachus"><desc>father of Hera</desc></relation>
+    </listBibl>
 <note>alleged son of Actor, son of Poseidon, father of Amphimachus (leader of Epeians, part of Achaean contingent).</note>
 </person>
 
 <person xml:id="Curetes" role="group">
-    <persName>Curetes</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Curetes_(tribe)</idno>
+    <persName type="citable" xml:lang="en">Curetes</persName>
+    <persName type="citable" xml:lang="grc">Κουρῆτες</persName>
+    <affiliation ref="http://pleiades.stoa.org/places/540591">Aetolia</affiliation>
 <note>people living in Aetolia: their battle with Aetolians over Calydon (9.662).</note>
 </person>
 
 <person xml:id="Cymodoce" role="deity">
-    <persName>Cymodoce</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Cymodoce</persName>
+    <persName type="citable" xml:lang="grc">Κυμοδόκη</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.48).</note>
 </person>
 
 <person xml:id="Cymotho" role="deity">
-    <persName>Cymotho</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Cymotho</persName>
+    <persName type="citable" xml:lang="en">Cymothoe</persName>
+    <persName type="citable" xml:lang="grc">Κυμοθόη</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.49).</note>
 </person>
+
+
+
 
 <person xml:id="Daedalus">
     <persName>Daedalus</persName>
