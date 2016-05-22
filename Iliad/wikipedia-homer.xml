@@ -3375,515 +3375,671 @@
 </person>
 
 <person xml:id="Alegenor">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alegenor</persName>
+    <idno type="wikipedia">https://de.wikipedia.org/wiki/Alegenor</idno>
+    <!-- in deutch -->
+    <persName type="citable" xml:lang="en">Alegenor</persName>
+    <persName type="citable" xml:lang="grc">Ἀλεγήνωρ</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Alegenor" ref="snap:FatherOf" passive="#Promachus"><desc>father of Promachus</desc></relation>
+    </listBibl>
 <note>father of Promachus (Trojan warrior).</note>
 </person>
 
 <person xml:id="Alous">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alous</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aloeus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:aloeus-1</idno>
+    <persName type="citable" xml:lang="en">Alous</persName>
+    <persName type="citable" xml:lang="en">Aloeus</persName>
+    <persName type="citable" xml:lang="grc">Ἀλωεύς</persName>
 <note>father of Otus and Ephialtes.</note>
 </person>
 
 <person xml:id="Alpheius" role="deity">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Alpheius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Alpheus_%28deity%29</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:alpheius-1</idno>
+    <persName type="citable" xml:lang="en">Alpheius</persName>
+    <persName type="citable" xml:lang="en">Alpheios</persName>
+    <persName type="citable" xml:lang="grc">Ἀλφειός</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Alpheius" ref="snap:FatherOf" passive="#Orsilochus"><desc>father of Orsilochus</desc></relation>
+    </listBibl>
 <note>river in the Peloponnese: father of Orsilochus: near Thryoessa (11.811); site of battle between Epeians and Pylians (11.831); father of Orsilochus (5.644).</note>
 </person>
+                
+                
 
 <person xml:id="Altes">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Altes</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Altes</idno>
+    <persName type="citable" xml:lang="en">Altes</persName>
+    <persName type="citable" xml:lang="grc"></persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Altes" ref="snap:GrandfatherOf" passive="#Lycaon"><desc>grandfather of Lycaon</desc></relation>
+    </listBibl>
 <note>father of Laothoe, grandfather of Lycaon, ruler of the Leleges: gave rich dowry with Laothoe (22.65).</note>
 </person>
 
 <person xml:id="Althaea">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Althaea</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Althaea_%28mythology%29</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:althaea-1</idno>
+    <persName type="citable" xml:lang="en">Althaea</persName>
+    <persName type="citable" xml:lang="grc">Ἀλθαία</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Althaea" ref="snap:MotherOf" passive="#Meleager"><desc>mother of Meleager</desc></relation>
+    </listBibl>
 <note>mother of Meleager (9.697); begs the gods to kill her son (9.713).</note>
 </person>
 
 <person xml:id="Amarynces">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amarynces</persName>
+    <persName type="citable" xml:lang="en">Amarynces</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>father of Diores (a leader of Epeians); Nestor's achievements at his funeral games (23.777).</note>
 </person>
 
 <person xml:id="Amatheia" role="deity">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amatheia</persName>
+    <persName type="citable" xml:lang="en">Amatheia</persName>
+    <persName type="citable" xml:lang="grc">Ἀμάθεια</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.57).</note>
 </person>
 
-<person xml:id="Amazons">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amazons</persName>
+<person xml:id="Amazons" role="group">
+    <persName type="citable" xml:lang="en">Amazons</persName>
+    <persName type="citable" xml:lang="grc">Ἀμαζόνες</persName>
 <note>female warriors: in Phrygia (3.206); massacred by Bellerophon (6.239).</note>
 </person>
 
 <person xml:id="Amisodarus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amisodarus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Chimera_%28mythology%29</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:amisodarus-1</idno>
+    <persName type="citable" xml:lang="en">Amisodarus</persName>
+    <persName type="citable" xml:lang="en">Amisodorus</persName>
+    <persName type="citable" xml:lang="grc">Ἀμισώδαρος</persName>
 <note>father of Atymnius and Maris: reared the Chimera (16.384).</note>
 </person>
 
 <person xml:id="Amopaon">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amopaon</persName>
+    <persName type="citable" xml:lang="en">Amopaon</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>son of Polyaimon, Trojan warrior: killed by Teucer (8.323)</note>
 </person>
 
 <person xml:id="Amphiclus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amphiclus</persName>
+    <persName type="citable" xml:lang="en">Amphiclus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Meges (16.368).</note>
 </person>
 
 <person xml:id="Amphidamas1">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amphidamas</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphidamas</idno>
+    <persName type="citable" xml:lang="en">Amphidamas</persName>
+    <persName type="citable" xml:lang="grc">Ἀμφιδάμας</persName>
 <note>man from Cythera: receives cap from Autocylus, gives it to Molus (10.317).</note>
 </person>
 
 <person xml:id="Amphidamas2">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amphidamas</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphidamas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:amphidamas-3</idno>
+    <persName type="citable" xml:lang="en">Amphidamas</persName>
+    <persName type="citable" xml:lang="grc">Ἀμφιδάμας</persName>
 <note>father of man killed by Patroclus long ago (23.105).</note>
 </person>
 
 <person xml:id="Amphimachus1">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amphimachus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphimachus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:amphimachus-1</idno>
+    <persName type="citable" xml:lang="en">Amphimachus</persName>
+    <persName type="citable" xml:lang="grc">Ἀμφίμαχος</persName>
 <note>leader of Epeians, part of the Achaean contingent, son of Cteatus: in catalogue of ships (2.697); killed by Hector (13.227).</note>
 </person>
 
 <person xml:id="Amphimachus2">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amphimachus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphimachus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:amphimachus-2</idno>
+    <persName type="citable" xml:lang="en">Amphimachus</persName>
+    <persName type="citable" xml:lang="grc">Ἀμφίμαχος</persName>
 <note>son of Nomion, leader of the Carians (Trojan allies): in the Trojan display of forces: (2.954).</note>
 </person>
 
 <person xml:id="Amphinome" role="deity">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amphinome</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphinome</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:amphinome-1</idno>
+    <persName type="citable" xml:lang="en">Amphinome</persName>
+    <persName type="citable" xml:lang="grc">Ἀμφινόμη</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.53).</note>
 </person>
 
 <person xml:id="Amphion">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amphion</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphion</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:amphion-2</idno>
+    <persName type="citable" xml:lang="en">Amphion</persName>
+    <persName type="citable" xml:lang="grc">Ἀμφίων</persName>
 <note>leader of Epeians (Achaean warrior): (13.826).</note>
 </person>
 
 
 <person xml:id="Amphithoe" role="deity">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Amphithoe</persName>
+    <persName type="citable" xml:lang="grc">Ἀμφιθόη</persName>
     <persName>Amphithoe</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.51).</note>
 </person>
 
 <person xml:id="Amphitryon">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amphitryon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphitryon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:amphitryon-1</idno>
+    <persName type="citable" xml:lang="en">Amphitryon</persName>
+    <persName type="citable" xml:lang="grc">Ἀμφιτρύων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Amphitryon" ref="snap:FatherOf" passive="#Heracles"><desc>father of Hercules</desc></relation>
+    </listBibl>
 <note>mortal father of Hercules.</note>
 </person>
 
 <person xml:id="Amphoterus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amphoterus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amphoterus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:amphoterus-1</idno>
+    <persName type="citable" xml:lang="en">Amphoterus</persName>
+    <persName type="citable" xml:lang="en">Amphoteros</persName>
+    <persName type="citable" xml:lang="grc">Ἀμφότερος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.484).</note>
 </person>
 
 <person xml:id="Amyntor">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Amyntor</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amyntor</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:amyntor-1</idno>
+    <persName type="citable" xml:lang="en">Amyntor</persName>
+    <persName type="citable" xml:lang="grc">Ἀμύντωρ</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Amyntor" ref="snap:FatherOf" passive="#Phoenix"><desc>father of Hercules</desc></relation>
+    </listBibl>
 <note>son of Ormenus, father of Phoenix (Achaean warrior): Autolycos stole his cap (10.315).</note>
 </person>
 
 <person xml:id="Ancaeus1">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Ancaeus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ancaeus_%28son_of_Lycurgus%29</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ancaeus-1</idno>
+    <persName type="citable" xml:lang="en">Ancaeus</persName>
+    <persName type="citable" xml:lang="en">Ankaios</persName>
+    <persName type="citable" xml:lang="grc">Ἀγκαῖος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Ancaeus" ref="snap:FatherOf" passive="#Agapenor"><desc>father of Agapenor</desc></relation>
+    </listBibl>
 <note>father of Agapenor, an Achaean leader.</note>
 </person>
 
 <person xml:id="Ancaeus2">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Ancaeus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:ancaeus-2</idno>
+    <persName type="citable" xml:lang="en">Ancaeus</persName>
+    <persName type="citable" xml:lang="en">Ankaios</persName>
+    <persName type="citable" xml:lang="grc">Ἀγκαῖος</persName>
 <note>an opponent defeated in wrestling by Nestor (23.783).</note>
 </person>
 
 <person xml:id="Andraemon">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Andraemon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Andraemon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:andraemonides-1</idno>
+    <persName type="citable" xml:lang="en">Andraemon</persName>
+    <persName type="citable" xml:lang="grc">Ἁνδραίμων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Andraemon" ref="snap:FatherOf" passive="#Thoas"><desc>father of Thoas</desc></relation>
+    </listBibl>
 <note>father of Thoas (leader of Aetolians): home in Pleuron (13.263).</note>
 </person>
 
 
 <person xml:id="Antea">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Antea</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Stheneboea</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:stheneboea-1</idno>
+    <persName type="citable" xml:lang="en">Antea</persName>
+    <persName type="citable" xml:lang="en">Antaea</persName>
+    <persName type="citable" xml:lang="en">Stheneboea</persName>
+    <persName type="citable" xml:lang="en">Stheneboia</persName>
+    <persName type="citable" xml:lang="grc">Ἀνταία</persName>
+    <persName type="citable" xml:lang="grc">Σθενέβοια</persName>
 <note>wife of Proetus: hostility to Bellerophon (6.199)</note>
 </person>
 
 
 <person xml:id="Anthemion">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Anthemion</persName>
+    <persName type="citable" xml:lang="en">Anthemion</persName>
+    <persName type="citable" xml:lang="grc">Ἀνθεμίων</persName>
     <affiliation>Troy</affiliation>
 <note>father of Simoeisius (Trojan warrior).</note>
 </person>
 
 
 <person xml:id="Antiphonus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Antiphonus</persName>
+    <persName type="citable" xml:lang="en">Antiphonus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Antiphonus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+    </listBibl>
 <note>son of Priam: cursed by Priam (24.311).</note>
 </person>
 
 <person xml:id="Antiphus1">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Antiphus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Antiphus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:antiphus-2</idno>
+    <persName type="citable" xml:lang="en">Antiphus</persName>
+    <persName type="citable" xml:lang="en">Antiphos</persName>
+    <persName type="citable" xml:lang="grc">Ἄντιφος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Antiphus" ref="snap:GrandsononOf" passive="#Heracles"><desc>grandson of Hercules</desc></relation>
+        <relation active="#Antiphus" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Thessalus"><desc>son of Thessalus</desc></relation>
+    </listBibl>
 <note>son of Thessalus, grandson of Hercules, leader of men from many Aegean Islands (part of Achaean army): in catalogue of ships (2.751).</note>
 </person>
 
 <person xml:id="Antiphus2">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Antiphus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Antiphus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:antiphus-2</idno>
+    <persName type="citable" xml:lang="en">Antiphus</persName>
+    <persName type="citable" xml:lang="en">Antiphos</persName>
+    <persName type="citable" xml:lang="grc">Ἄντιφος</persName>
 <note>son of Talaemenes and Gygaea, leader of Meonians (allies of the Trojans): in Trojan display of forces (2.947).</note>
 </person>
 
 <person xml:id="Antiphus3">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Antiphus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Antiphus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:antiphus-1</idno>
+    <persName type="citable" xml:lang="en">Antiphus</persName>
+    <persName type="citable" xml:lang="en">Antiphos</persName>
+    <persName type="citable" xml:lang="grc">Ἄντιφος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Antiphus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+    </listBibl>
 <note>son of Priam: kills Leucus (4.567); killed by Agamemnon (11.110).</note>
 </person>
 
+
 <person xml:id="Aphareus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Aphareus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aphareus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:aphareus-1</idno>
+    <!-- mentioned at the end -->
+    <persName type="citable" xml:lang="en">Aphareus</persName>
+    <persName type="citable" xml:lang="grc">Ἀφαρεύς</persName>
 <note>son of Caletor, Achaean warrior: leads out sentinels (9.102); Idomeneus calls him for assistance (13.575); killed by Aeneas (13.647).</note>
 </person>
 
 
 <person xml:id="Apisaon1">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Apisaon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Apisaon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:apisaon-1</idno>
+    <persName type="citable" xml:lang="en">Apisaon</persName>
+    <persName type="citable" xml:lang="grc">Ἀπισάων</persName>
     <affiliation>Troy</affiliation>
 <note>son of Phausius, Trojan warrior: killed by Eurypylus (11.651).</note>
 </person>
 
 <person xml:id="Apisaon2">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Apisaon;</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Apisaon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:apisaon-1</idno>
+    <persName type="citable" xml:lang="en">Apisaon</persName>
+    <persName type="citable" xml:lang="grc">Ἀπισάων</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Apisaon" ref="snap:SonOf" passive="#Hippasus"><desc>son of Hippasus</desc></relation>
+    </listBibl>
 <note>son of Hippasus, Trojan warrior: killed by Lycomedes (17.444).</note>
 </person>
 
 
 <person xml:id="Apseudes" role="deity">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Apseudes</persName>
+    <persName type="citable" xml:lang="grc">Ἀψευδὴς</persName>
     <persName>Apseudes</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.54).</note>
 </person>
 
 <person xml:id="Arcadians" role="group">
-    <persName type="citable" xml:lang="en">Argives</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Arcadians</idno>
+    <persName type="citable" xml:lang="en">Arcadians</persName>
     <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Arcadians</persName>
 <note>inhabitans of Arcadia: their battle with Pylians (7.157).</note>
 </person>
 
 
 <person xml:id="Archeptolemos">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Archeptolemos</persName>
+    <persName type="citable" xml:lang="en">Archeptolemos</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>son of Iphitus, Trojan warrior: Hector makes him his charioteer (8.147); killed by Teucer (8.363).</note>
 </person>
 
 <person xml:id="Areilycus1">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Areilycus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:areilycus-1</idno>
+    <persName type="citable" xml:lang="en">Areilycus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>father of Prothonor (Achaean warrior).</note>
 </person>
 
 <person xml:id="Areilycus2">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Areilycus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:areilycus-1</idno>
+    <persName type="citable" xml:lang="en">Areilycus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.362).</note>
 </person>
 
 
 <person xml:id="Aretaon">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Aretaon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aretaon</idno>
+    <persName type="citable" xml:lang="en">Aretaon</persName>
+    <persName type="citable" xml:lang="grc">Ἀρετάων</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (6.36).</note>
 </person>
 
 
 <person xml:id="Argeas">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Argeas</persName>
+    <persName type="citable" xml:lang="en">Argeas</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>father of Polymelus (Trojan warrior).</note>
 </person>
 
 
 <person xml:id="Argus" role="monster">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Argus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Argus_Panoptes</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:argus-2</idno>
+    <persName type="citable" xml:lang="en">Argus</persName>
+    <persName type="citable" xml:lang="en">Argos</persName>
+    <persName type="citable" xml:lang="grc">Ἄργος</persName>
 <note>monster killed by Hermes</note>
 </person>
 
 <person xml:id="Ariadne">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Ariadne</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ariadne</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ariadne-1</idno>
+    <persName type="citable" xml:lang="en">Ariadne</persName>
+    <persName type="citable" xml:lang="grc">Ἀριάδνη</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Ariadne" ref="snap:DaughterOf" passive="#Minos"><desc>daughter of Minos</desc></relation>
+    </listBibl>
 <note>daughter of Minos: a dancing floor constructed for her (18.724).</note>
 </person>
 
 <person xml:id="Arimi" role="group">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Arimi</persName>
+    <persName type="citable" xml:lang="en">Arimi</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>people living in the region where the monster Typhoeus lies underground (2.861).</note>
 </person>
 
 <person xml:id="Arion" role="animal">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Arion</persName>
+    <persName type="citable" xml:lang="en">Arion</persName>
+    <persName type="citable" xml:lang="grc">Ἀρίων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Arion" ref="snap:Bond" passive="#Adrestus"><desc>horse of Adrestus</desc></relation>
+    </listBibl>
 <note>a horse belonging to Adrestus (23.423).</note>
 </person>
 
 <person xml:id="Arisbas">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Arisbas</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Arisbas</idno>
+    <persName type="citable" xml:lang="en">Arisbas</persName>
+    <persName type="citable" xml:lang="grc">Ἁρίσβας</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Arisbas" ref="snap:FatherOf" passive="#Leocritus"><desc>father of Leocritus</desc></relation>
+    </listBibl>
 <note>father of Leocritus (Achaean warrior).</note>
 </person>
 
 <person xml:id="Arsinous">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Arsinous</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Arsinoos</idno>
+    <persName type="citable" xml:lang="en">Arsinous</persName>
+    <persName type="citable" xml:lang="en">Arsinoos</persName>
+    <persName type="citable" xml:lang="grc">Ἀρσίνοος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Arsinous" ref="snap:FatherOf" passive="#Hecamede"><desc>father of Hecamede</desc></relation>
+    </listBibl>
 <note>father of Hecamede.</note>
 </person>
 
 
 <person xml:id="Asaeus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Asaeus</persName>
+    <persName type="citable" xml:lang="en">Asaeus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>Achaean warrior: killed by Hector (11.341).</note>
 </person>
 
 <person xml:id="Ascanius">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Ascanius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ascanius</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ascanius-1</idno>
+    <persName type="citable" xml:lang="en">Ascanius</persName>
+    <persName type="citable" xml:lang="grc">Ἀσκάνιος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to centre of the battle (13.938).</note>
 </person>
 
 <person xml:id="Asclepius">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Asclepius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Asclepius</idno>
+    <persName type="citable" xml:lang="en">Asclepius</persName>
+    <persName type="citable" xml:lang="grc">Ἀσκληπιός</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Asclepius" ref="snap:FatherOf" passive="#Machaon"><desc>father of Machaon and Podaleirus</desc></relation>
+    </listBibl>
 <note>father of Podaleirus and Machaon.</note>
 </person>
 
 
 <person xml:id="Assaracus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Assaracus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Assaracus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:assaracus-1</idno>
+    <persName type="citable" xml:lang="en">Assaracus</persName>
+    <persName type="citable" xml:lang="grc">Ἀσσάρακος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Assaracus" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Tros_%28mythology%29"><desc>son of Tros</desc></relation>
+    </listBibl>
 <note>son of Tros, father of Capys (father of Anchises): his family line (20.277).</note>
 </person>
 
 <person xml:id="Asteropaeus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Asteropaeus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Asteropaios</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:asteropaeus-1</idno>
+    <persName type="citable" xml:lang="en">Asteropaeus</persName>
+    <persName type="citable" xml:lang="grc">Ἀστεροπαῖος</persName>
 <note>alleged son of Pelagon, son of the river Axius and Periboea, Trojan warrior: one of the leaders of the assault on the wall (12.107); encouraged by Hector (17.280); best of the Paeonians (17.448); tries to assault the Achaeans (17.449); his family line, fights Achilles and is killed (21.168 ff); his breastplate given as consolation prize in the chariot race (23.686); his sword offered as a prize in the hand to hand combat (23.991).</note>
 </person>
 
 <person xml:id="Astyalus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Astyalus</persName>
+    <persName type="citable" xml:lang="en">Astyalus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Polypoetes (6.34).</note>
 </person>
 
 
 <person xml:id="Astynous1">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Astynous</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Astynous</idno>
+    <persName type="citable" xml:lang="en">Astynous</persName>
+    <persName type="citable" xml:lang="en">Astynoos</persName>
+    <persName type="citable" xml:lang="grc">Ἀστύνοος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Diomedes (5.164).</note>
 </person>
 
 <person xml:id="Astynous2">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Astynous</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Astynous</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:astynous-1</idno>
+    <persName type="citable" xml:lang="en">Astynous</persName>
+    <persName type="citable" xml:lang="en">Astynoos</persName>
+    <persName type="citable" xml:lang="grc">Ἀστύνοος</persName>
     <affiliation>Troy</affiliation>
 <note>son of Protiaon, Trojan warrior: takes horses for Polydamas (15.534).</note>
 </person>
 
 <person xml:id="Astyoche">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Astyoche</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Astyoche</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:astyoche-1</idno>
+    <persName type="citable" xml:lang="en">Astyoche</persName>
+    <persName type="citable" xml:lang="en">Astyocheia </persName>
+    <persName type="citable" xml:lang="grc">Ἀστυόχη</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Astyoche" ref="snap:MotherOf" passive="#Iamenus"><desc>mother of Ialmenus</desc></relation>
+        <relation active="#Astyoche" ref="snap:MotherOf" passive="#Ascalaphus"><desc>mother of Ascalaphus</desc></relation>
+        <relation active="#Astyoche" ref="snap:IntimateRelationship" passive="#Ares"><desc>seduced by Ares</desc></relation>
+    </listBibl>
 <note>mother of Ialmenus and Ascalaphus (Achaean warriors), sons of Ares: her seduction mentioned (2.589).</note>
 </person>
 
 <person xml:id="Astyocheia">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Astyocheia</persName>
+    <persName type="citable" xml:lang="en">Astyocheia</persName>
+    <persName type="citable" xml:lang="grc">Ἀστυόχεια</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Astyocheia" ref="snap:MotherOf" passive="#Tlepolemus"><desc>mother of Tlepolemus</desc></relation>
+        <relation active="#Astyocheia" ref="snap:IntimateRelationship" passive="#Heracles"></relation>
+    </listBibl>
 <note>mother of Tlepolemus (with Hercules): (2.732).</note>
 </person>
 
 <person xml:id="Astypylus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Astypylus</persName>
+    <persName type="citable" xml:lang="en">Astypylus</persName>
+    <persName type="citable" xml:lang="grc">Ἀστύπυλος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior from Paeonia: killed by Achilles (21.250).</note>
 </person>
 
 <person xml:id="Ate" role="deity">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Ate</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Atë</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ate-1</idno>
+    <persName type="citable" xml:lang="en">Ate</persName>
+    <persName type="citable" xml:lang="grc">Ἄτη</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Ate" ref="snap:DaughterOf" passive="#Zeus"><desc>daughter of Zeus</desc></relation>
+    </listBibl>
 <note>divine daughter of Zeus, responsible for human and divine folly: Agamemnon blames her, tells how she deceived Zeus (19.113 ff); thrown out of Olympus (19.156).</note>
 </person>
 
 
 <person xml:id="Atreus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Atreus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Atreus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:atreus-1</idno>
+    <persName type="citable" xml:lang="en">Atreus</persName>
+    <persName type="citable" xml:lang="grc">Ἀτρεύς</persName>
+    <occupation>king</occupation>
+    <affiliation>Argos</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Atreus" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Pelops"><desc>son of Pelops</desc></relation>
+        <relation active="#Atreus" ref="snap:FatherOf" passive="#Agamemnon"><desc>father of Agamemnon</desc></relation>
+        <relation active="#Atreus" ref="snap:FatherOf" passive="#Menelaus"><desc>father of Menelaus</desc></relation>
+        <relation active="#Atreus" ref="snap:BrotherOf" passive="https://en.wikipedia.org/wiki/Thyestes"><desc>brother of Thyestes</desc></relation>
+    </listBibl>
 <note>king of Argos, son of Pelops, father of Agamemnon and Menelaus (known as the &quot;sons of Atreus&quot;): receives royal staff from Pelops, passes it on to his brother Thyestes (2.122).</note>
 </person>
 
 <person xml:id="Atymnius1">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Atymnius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Atymnius</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:atymnius-1</idno>
+    <!-- at the end -->
+    <persName type="citable" xml:lang="en">Atymnius</persName>
+    <persName type="citable" xml:lang="grc">Ἀτύμνιος</persName>
     <affiliation>Troy</affiliation>
 <note>father of Mydon (Trojan warrior).</note>
 </person>
 
 <person xml:id="Atymnius2">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Atymnius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Atymnius</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:atymnius-1</idno>
+    <persName type="citable" xml:lang="en">Atymnius</persName>
+    <persName type="citable" xml:lang="grc">Ἀτύμνιος</persName>
     <affiliation>Troy</affiliation>
 <note>son of Amisodarus, Trojan warrior: killed by Antilochus (16.373).</note>
 </person>
 
 <person xml:id="Augeias">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Augeias</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Augeas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:augeas-1</idno>
+    <persName type="citable" xml:lang="en">Augeias</persName>
+    <persName type="citable" xml:lang="en">Augeas</persName>
+    <persName type="citable" xml:lang="grc">Αὐγείας</persName>
+    <persName type="citable" xml:lang="grc">Αὐγέας</persName>
+    <occupation>king</occupation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Augeias" ref="snap:FatherOf" passive="#Agamede"><desc>father of Agamede</desc></relation>
+    </listBibl>
 <note>king of Elis, father of Agamede, Agasthenes, grandfather of Polyxenus (leader of Epeians): keeps Neleus' horses (11.795); father in law of Mulius (11.847).</note>
 </person>
 
 <person xml:id="Autolycus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Autolycus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Autolycus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:autolycus-1</idno>
+    <persName type="citable" xml:lang="en">Autolycus</persName>
+    <persName type="citable" xml:lang="grc">Αὐτόλυκος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Autolycus" ref="snap:FatherOf" passive="#Anticlea"><desc>father of Anticlea</desc></relation>
+    </listBibl>
 <note>stole cap from Amyntor (10.314).</note>
 </person>
 
 <person xml:id="Autonous1">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Autonous</persName>
+    <persName type="citable" xml:lang="en">Autonous</persName>
+    <persName type="citable" xml:lang="grc">Αὐτόνοος</persName>
 <note>Achaean warrior: killed by Hector (11.341).</note>
 </person>
 
 <person xml:id="Autonous2">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Autonous</persName>
+    <persName type="citable" xml:lang="en">Autonous</persName>
+    <persName type="citable" xml:lang="grc">Αὐτόνοος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.809).</note>
 </person>
 
 <person xml:id="Autophonus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Autophonus</persName>
+    <persName type="citable" xml:lang="en">Autophonus</persName>
+    <persName type="citable" xml:lang="grc">Αὐτόφωνος</persName>
 <note>father of Polyphontes.</note>
 </person>
 
 <person xml:id="Axius" role="deity">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Axius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Axius_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:axius-1</idno>
+    <persName type="citable" xml:lang="en">Axius</persName>
+    <persName type="citable" xml:lang="grc">Ἀξιός</persName>
 <note>river in Paeonia (in north-eastern Greece), also the river god: in Trojan list of forces (2.930); (16.341); father of Asteropaeus (with Periboea) (21.169).</note>
 </person>
 
 <person xml:id="Azeus">
-    <persName type="citable" xml:lang="en">Argives</persName>
-    <persName type="citable" xml:lang="grc">Ἀχαιοί</persName>
-    <persName>Azeus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:azeus-1</idno>
+    <persName type="citable" xml:lang="en">Azeus</persName>
+    <persName type="citable" xml:lang="grc">Ἀζεύς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Azeus" ref="snap:FatherOf" passive="#Actor"><desc>father of Actor</desc></relation>
+    </listBibl>
 <note>father of Actor.</note>
 </person>
+
 
 
 <person xml:id="Bathycles">
