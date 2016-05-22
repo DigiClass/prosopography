@@ -3099,7 +3099,7 @@
                 <person xml:id="Agacles">
                     
                     <persName type="citable" xml:lang="en">Agacles</persName>
-                    <persName type="citable" xml:lang="grc"></persName>
+                    <persName type="citable" xml:lang="grc">Ἀγακλῆς</persName>
                     <listBibl>
                         <bibl></bibl>
                         <relation active="#Agacles" ref="snap:FatherOf" passive="#Epeigeus"><desc>father of Epeigeus</desc></relation>
@@ -3414,7 +3414,7 @@
 <person xml:id="Altes">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Altes</idno>
     <persName type="citable" xml:lang="en">Altes</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Ἄλτης</persName>
     <listBibl>
         <bibl></bibl>
         <relation active="#Altes" ref="snap:GrandfatherOf" passive="#Lycaon"><desc>grandfather of Lycaon</desc></relation>
@@ -3435,8 +3435,11 @@
 </person>
 
 <person xml:id="Amarynces">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Amarynceus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:amarynceus-1</idno>
     <persName type="citable" xml:lang="en">Amarynces</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="en">Amarynceus</persName>
+    <persName type="citable" xml:lang="grc">Ἀμαρυγκεύς</persName>
 <note>father of Diores (a leader of Epeians); Nestor's achievements at his funeral games (23.777).</note>
 </person>
 
@@ -3728,14 +3731,14 @@
 <person xml:id="Areilycus1">
     <idno type="smith">http://data.perseus.org/people/smith:areilycus-1</idno>
     <persName type="citable" xml:lang="en">Areilycus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">ΑΡΗΙΛΥΚΟΣ</persName>
 <note>father of Prothonor (Achaean warrior).</note>
 </person>
 
 <person xml:id="Areilycus2">
     <idno type="smith">http://data.perseus.org/people/smith:areilycus-1</idno>
     <persName type="citable" xml:lang="en">Areilycus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">ΑΡΗΙΛΥΚΟΣ</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.362).</note>
 </person>
@@ -4042,56 +4045,103 @@
 
 
 
+
 <person xml:id="Bathycles">
-    <persName>Bathycles</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Bathycles_(warrior)</idno>
+    <persName type="citable" xml:lang="en">Bathycles</persName>
+    <persName type="citable" xml:lang="grc">Βαθυκλῆς</persName>
 <note>son of Chalcon, Achaean warrior: killed by Glaucus (16.691).</note>
 </person>
 
 
 <person xml:id="Bellerophon">
-    <persName>Bellerophon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Bellerophon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:bellerophon-1</idno>
+    <persName type="citable" xml:lang="en">Bellerophon</persName>
+    <persName type="citable" xml:lang="en">Bellerophontes</persName>
+    <persName type="citable" xml:lang="grc">Βελλεροφῶν</persName>
+    <persName type="citable" xml:lang="grc">Βελλεροφόντης</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Bellerophon" ref="snap:SonOf" passive="#Glaucus"><desc>son of Glaucus</desc></relation>
+    </listBibl>
 <note>son of Glaucus: his story told by descendant Glaucus (his grandson) (6.193).</note>
 </person>
 
 
 <person xml:id="Bienor">
-    <persName>Bienor</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Bienor_(mythology)</idno>
+    <persName type="citable" xml:lang="en">Bienor</persName>
+    <persName type="citable" xml:lang="en">Bianor</persName>
+    <persName type="citable" xml:lang="grc">Βιήνωρ</persName>
+    <persName type="citable" xml:lang="grc">Βιάνωρ</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Agamemnon (11.99).</note>
 </person>
 
 <person xml:id="Boreas" role="deity">
-    <persName>Boreas</persName><persName>North Wind</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Anemoi#Boreas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:boreas-1</idno>
+    <persName type="citable" xml:lang="en">Boreas</persName>
+    <persName type="citable" xml:lang="en">North Wind</persName>
+    <persName type="citable" xml:lang="grc">Βορέας</persName>
+    <persName type="citable" xml:lang="grc">Βορρᾶς</persName>
     <note>the north wind: Achilles prays to it, Iris delivers the prayer, the wind answers the request (23.234 ff); a god: revives Sarpedon (5.803); (9.5); (14.463); blew Hercules off course (15.31); copulates with horses of Erichthonius (20.266).</note>
 </person>
 
 <person xml:id="Borus1">
-    <persName>Borus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Borus</idno>
+    <persName type="citable" xml:lang="en">Borus</persName>
+    <persName type="citable" xml:lang="grc">Βῶρος</persName>
     <affiliation>Troy</affiliation>
 <note>father of Phaestus (a Trojan warrior).</note>
 </person>
 
 <person xml:id="Borus2">
-    <persName>Borus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Borus</idno>
+    <persName type="citable" xml:lang="en">Borus</persName>
+    <persName type="citable" xml:lang="grc">Βῶρος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Borus" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Perieres"><desc>son of Perieres</desc></relation>
+    </listBibl>
 <note>son of Perieres, husband of Polydora, passes as father of Menesthius (16.210).</note>
 </person>
 
 <person xml:id="Boucolion">
-    <persName>Boucolion</persName>
+    <persName type="citable" xml:lang="en">Boucolion</persName>
+    <persName type="citable" xml:lang="grc">Βουκολίων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Borus" ref="snap:SonOf" passive="#Laomedon"><desc>son of Laomedon</desc></relation>
+        <relation active="#Borus" ref="snap:FatherOf" passive="#Pedasus"><desc>father of Pedasus</desc></relation>
+        <relation active="#Borus" ref="snap:FatherOf" passive="#Aesepus"><desc>father of Aesepus</desc></relation>
+    </listBibl>
 <note>son of Laomedon, father of Pedasus and Aesepus (Trojan warriors): sex with Abarbarea (6.28).</note>
 </person>
 
 <person xml:id="Boucolus">
-    <persName>Boucolus</persName>
+    <persName type="citable" xml:lang="en">Boucolus</persName>
+    <persName type="citable" xml:lang="grc">Βουκόλος</persName>
 <note>father of Sphelus.</note>
 </person>
 
 
-
 <person xml:id="Briseus">
-    <persName>Briseus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Briseus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:briseus-1</idno>
+    <persName type="citable" xml:lang="en">Briseus</persName>
+    <persName type="citable" xml:lang="en">Brises</persName>
+    <persName type="citable" xml:lang="grc">Βρισεύς</persName>
+    <persName type="citable" xml:lang="grc">Βρίσης</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Briseus" ref="snap:FatherOf" passive="#Briseis"><desc>father of Briseis</desc></relation></listBibl>
 <note>father of Briseis.</note>
 </person>
+
+
+
 
 <person xml:id="Cadmeians" role="group">
     <persName>Cadmeians</persName>
