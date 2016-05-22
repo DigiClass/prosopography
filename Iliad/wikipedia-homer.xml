@@ -4214,7 +4214,7 @@
 
 <person xml:id="Caresus" role="deity">
     <persName type="citable" xml:lang="en">Caresus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Κάρησος</persName>
 <note>river from Mount Ida to the sea: stirred up by Apollo or Poseidon to destroy the wall (12.21).</note>
 </person>
 
@@ -4228,7 +4228,11 @@
 
 <person xml:id="Castianeira">
     <persName type="citable" xml:lang="en">Castianeira</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Καστιάνειρα</persName>
+    <listBibl>
+    <bibl></bibl>
+    <relation active="#Castianeira" ref="snap:MotherOf" passive="#Gorgythion"><desc>mother of Gorgythion</desc></relation>
+    </listBibl>
 <note>mother of Gorgythion (son of Priam).</note>
 </person>
 
@@ -4261,7 +4265,7 @@
 
 <person xml:id="Ceos">
     <persName type="citable" xml:lang="en">Ceos</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Κέος</persName>
     <affiliation>Troy</affiliation>
     <listBibl>
         <bibl></bibl>
@@ -4272,7 +4276,7 @@
 
 <person xml:id="Cephallenians">
     <persName type="citable" xml:lang="en">Cephallenians</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Καφαλλήνες</persName>
 <note>troops in Odysseus' contingent (part of Achaean army): in catalogue of ships (2.707).</note>
 </person>
 
@@ -4329,7 +4333,8 @@
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Charops_(mythology)</idno>
     <idno type="smith">http://data.perseus.org/people/smith:charopus-1</idno>
     <persName type="citable" xml:lang="en">Charopus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Χάρωψ</persName>
+    <!-- ? -->
     <listBibl>
         <bibl></bibl>
         <relation active="#Charopus" ref="snap:FatherOf" passive="#Nireus"><desc>Father of Nireus</desc></relation>
@@ -4537,7 +4542,7 @@
 
 <person xml:id="Clytomedes">
     <persName type="citable" xml:lang="en">Clytomedes</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Κλυτομήδης</persName>
     <listBibl>
         <bibl></bibl>
         <relation active="#Clytomedes" ref="snap:SonOf" passive="#Enops"><desc>son of Enops</desc></relation>
@@ -4548,7 +4553,8 @@
 
 <person xml:id="Confusion" role="deity">
     <persName type="citable" xml:lang="en">Confusion</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Κύδοιμος</persName>
+    <!-- ? -->
 <note>deity: depicted on Achilles' shield (18.659).</note>
 </person>
 
@@ -4615,7 +4621,7 @@
 <person xml:id="Crethon">
     <idno type="smith">http://data.perseus.org/people/smith:briseus-1</idno>
     <persName type="citable" xml:lang="en">Crethon</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Κρήθων</persName>
     <listBibl>
         <bibl></bibl>
         <relation active="#Crethon" ref="snap:SonOf" passive="#Diocles"><desc>son of Diocles</desc></relation>
@@ -4625,7 +4631,7 @@
 
 <person xml:id="Croesmus">
     <persName type="citable" xml:lang="en">Croesmus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Κροίσμος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Meges (15.616).</note>
 </person>
@@ -4649,7 +4655,7 @@
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurytus_and_Cteatus</idno>
     <idno type="smith">http://data.perseus.org/people/smith:moliones-1</idno>
     <persName type="citable" xml:lang="en">Cteatus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Κτέατος</persName>
     <listBibl>
         <bibl></bibl>
         <relation active="#Cteatus" ref="snap:SonOf" passive="#Actor"><desc>son of Actor or Poseidon</desc></relation>
