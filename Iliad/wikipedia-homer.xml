@@ -3067,7 +3067,7 @@
                 <person xml:id="Aesyetes">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Aesyetes</idno>
                     <persName type="citable" xml:lang="en">Aesyetes</persName>
-                    <persName type="citable" xml:lang="grc"></persName>
+                    <persName type="citable" xml:lang="grc">Αἰσυήτης</persName>
                     <affiliation>Troy</affiliation>
                     <listBibl>
                         <bibl></bibl>
@@ -3078,16 +3078,15 @@
                 
                 
                 <person xml:id="Aesymnus">
-                    
                     <persName type="citable" xml:lang="en">Aesymnus</persName>
-                    <persName type="citable" xml:lang="grc"></persName>
+                    <persName type="citable" xml:lang="grc">Αἴσυμνος</persName>
                     <note>Achaean warrior: killed by Hector (11.343).</note>
                 </person>
                 
                 
                 <person xml:id="Aethrae">
                     <persName type="citable" xml:lang="en">Aethrae</persName>
-                    <persName type="citable" xml:lang="grc"></persName>
+                    <persName type="citable" xml:lang="grc">Αἴθρα</persName>
                     <listBibl>
                         <bibl></bibl>
                         <relation active="#Aethrae" ref="snap:Bond" passive="#Helen"><desc>servant of Helen</desc></relation> 
@@ -3265,13 +3264,12 @@
     <persName type="citable" xml:lang="en">Aegaeon</persName>
     <persName type="citable" xml:lang="en">Briareos</persName>
     <persName type="citable" xml:lang="grc">Αἰγαίων</persName>
-    <persName type="citable" xml:lang="grc">Aegaeon </persName>
 <note>monster with a hundred hands: summoned by Thetis to save Zeus (1.446).</note>
 </person>
 
 <person xml:id="Aithices" role="group">
     <persName type="citable" xml:lang="en">Aithices</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Αἴθικες</persName>
     <affiliation>Thessaly</affiliation>
 <note>inhabitants of a region of Thessaly: centaurs beaten there (2.817).</note>
 </person>
@@ -3466,14 +3464,14 @@
 
 <person xml:id="Amopaon">
     <persName type="citable" xml:lang="en">Amopaon</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Ἀμοπάων</persName>
     <affiliation>Troy</affiliation>
 <note>son of Polyaimon, Trojan warrior: killed by Teucer (8.323)</note>
 </person>
 
 <person xml:id="Amphiclus">
     <persName type="citable" xml:lang="en">Amphiclus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Ἄμφικλος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Meges (16.368).</note>
 </person>
@@ -3625,7 +3623,7 @@
 
 <person xml:id="Antiphonus">
     <persName type="citable" xml:lang="en">Antiphonus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Ἀντίφονος</persName>
     <affiliation>Troy</affiliation>
     <listBibl>
         <bibl></bibl>
@@ -3723,7 +3721,7 @@
 
 <person xml:id="Archeptolemos">
     <persName type="citable" xml:lang="en">Archeptolemos</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Ἀρχεπτόλεμος</persName>
     <affiliation>Troy</affiliation>
 <note>son of Iphitus, Trojan warrior: Hector makes him his charioteer (8.147); killed by Teucer (8.363).</note>
 </person>
@@ -3755,7 +3753,7 @@
 
 <person xml:id="Argeas">
     <persName type="citable" xml:lang="en">Argeas</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Ἀργέας</persName>
     <affiliation>Troy</affiliation>
 <note>father of Polymelus (Trojan warrior).</note>
 </person>
@@ -3784,7 +3782,7 @@
 
 <person xml:id="Arimi" role="group">
     <persName type="citable" xml:lang="en">Arimi</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Ἀριμοι</persName>
 <note>people living in the region where the monster Typhoeus lies underground (2.861).</note>
 </person>
 
@@ -3824,7 +3822,7 @@
 
 <person xml:id="Asaeus">
     <persName type="citable" xml:lang="en">Asaeus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Ἀσαῖος</persName>
 <note>Achaean warrior: killed by Hector (11.341).</note>
 </person>
 
@@ -3871,7 +3869,7 @@
 
 <person xml:id="Astyalus">
     <persName type="citable" xml:lang="en">Astyalus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="grc">Ἀστύαλος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Polypoetes (6.34).</note>
 </person>
