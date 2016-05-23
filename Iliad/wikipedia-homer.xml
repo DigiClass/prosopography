@@ -1329,9 +1329,8 @@
                         <bibl/>
                         <relation active="#Deiphobus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
                         <relation active="#Deiphobus" ref="snap:SonOf" passive="#Hecuba"><desc>son of Hecuba</desc></relation>
-                            
-                        
                     </listBibl>
+                    <note>son of Priam, Trojan warrior: one of the leaders for the assault on the wall (12.97); steps forward to challenge Achaeans, struck by Meriones, withdraws (13.182 ff); challenges Idomeneus, kills Hypsenor (13.488); seeks out Aeneas to fight Idomeneus (13.546 ff); Aeneas calls to him for assistance (13.591); throws spear at Idomeneus, hits Ascalaphus (13.621); strips helmet from Ascalaphus, wounded by Meriones in the arm, withdraws from battle (13.633 ff); Athena takes on his shape to trick Hector (22.281); cursed by Priam (24.312).</note>
                 </person>
                 
                 <person xml:id="Diomede">
@@ -4689,146 +4688,217 @@
 
 
 <person xml:id="Daedalus">
-    <persName>Daedalus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Daedalus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:daedalus-1</idno>
+    <persName type="citable" xml:lang="en">Daedalus</persName>
+    <persName type="citable" xml:lang="grc">Δαίδαλος </persName>
 <note>architect of labyrinth at Cnossus (18.723).</note>
 </person>
 
 <person xml:id="Daitor">
-    <persName>Daitor</persName>
+    <persName type="citable" xml:lang="en">Daitor</persName>
+    <persName type="citable" xml:lang="grc">Διαίτορ</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.322).</note>
 </person>
 
 <person xml:id="Damasus">
-    <persName>Damasus</persName>
+    <persName type="citable" xml:lang="en">Damasus</persName>
+    <persName type="citable" xml:lang="grc">Δάμασος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Polypoetes (12.190).</note>
 </person>
 
 <person xml:id="Damastor">
-    <persName>Damastor</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Damastor</idno>
+    <persName type="citable" xml:lang="en">Damastor</persName>
+    <persName type="citable" xml:lang="grc">Δαμάστωρ </persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Damastor" ref="snap:FatherOf" passive="#Tlepolemus"><desc>father of Tlepolemus</desc></relation>
+    </listBibl>
 <note>father of Trojan warrior Tlepolemus.</note>
 </person>
 
 
 
 <person xml:id="Danae">
-    <persName>Danae</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Danaë</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:danae-1</idno>
+    <persName type="citable" xml:lang="en">Danae</persName>
+    <persName type="citable" xml:lang="grc">Δανάη</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Danae" ref="snap:DaughterOf" passive="#Acrisius"><desc>daughter of Acrisius</desc></relation>
+        <relation active="#Danae" ref="snap:MotherOf" passive="https://en.wikipedia.org/wiki/Perseus"><desc>mother of Perseus</desc></relation>
+        <relation active="#Danae" ref="snap:IntimateRelationship" passive="#Zeus"><desc>lover of Zeus</desc></relation>
+    </listBibl>
 <note>daughter of Acrisius: mother of Perseus after sex with Zeus (14.379).</note>
 </person>
 
 <person xml:id="Dardanians">
-    <persName>Dardanians</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dardanians_(Trojan)</idno>
+    <persName type="citable" xml:lang="en">Dardanians</persName>
+    <persName type="citable" xml:lang="en">Dardans</persName>
+    <persName type="citable" xml:lang="grc">Δάρδανοι</persName>
 <note>people from around Troy, led by Aeneas.</note>
 </person>
 
 <person xml:id="Dardanus1">
-    <persName>Dardanus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dardanus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:dardanus-1</idno>
+    <persName type="citable" xml:lang="en">Dardanus</persName>
+    <persName type="citable" xml:lang="grc">Δάρδανος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dardanus" ref="snap:SonOf" passive="#Zeus"><desc>son of Zeus</desc></relation>
+    </listBibl>
 <note>son of Zeus, founder of Dardania (Trojan settlement before Troy); father of Erichthonius: his story told by Aenaes (20.257 ff); especially loved by Zeus (20.364).</note>
 </person>
 
 <person xml:id="Dardanus2">
-    <persName>Dardanus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:dardanus-1</idno>
+    <!-- at the end -->
+    <persName type="citable" xml:lang="en">Cymothoe</persName>
+    <persName type="citable" xml:lang="grc">Κυμοθόη</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dardanus" ref="snap:SonOf" passive="#Bias"><desc>son of Bias</desc></relation>
+    </listBibl>
 <note>son of Bias, Trojan warrior: killed by Achilles (20.551).</note>
 </person>
 
-<person xml:id="Dardans" role="group">
-    <persName>Dardans (Dardanians)</persName>
-<note>a group of Trojan people led by Aeneas (sometimes used almost interchangeably with the term Trojans): in Trojan display of forces (2.900); fated to survive (20.362).</note>
-</person>
-
-<person xml:id="Dardanus">
-    <persName>Dardanus</persName>
-    <affiliation>Troy</affiliation>
-<note>son of Bias, Trojan warrior: killed by Achilles (20.551).</note>
-</person>
 
 <person xml:id="Dawn" role="deity">
-    <persName>Dawn</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eos</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:eos-1</idno>
+    <persName type="citable" xml:lang="en">Eos</persName>
+    <persName type="citable" xml:lang="en">Dawn</persName>
+    <persName type="citable" xml:lang="grc">Ἠώς</persName>
 <note>goddess: (1.532); (2.56); (8.1); sleeps beside Tithonus (11.1); (19.1); (23.131); appears just after the morning star (23.270); (24.856).</note>
 </person>
 
 <person xml:id="Death1" role="deity">
-    <persName>Death</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Thanatos</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:thanatos-1</idno>
+    <persName type="citable" xml:lang="en">Thanatos</persName>
+    <persName type="citable" xml:lang="en">Death</persName>
+    <persName type="citable" xml:lang="grc">Θάνατος</persName>
 <note>brother of Sleep: deals with Sarpedon's body (16.794).</note>
 </person>
 
+
+
+
 <person xml:id="Death2" role="deity">
-    <persName>Death</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurytus_and_Cteatus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:moliones-1</idno>
+    <persName type="citable" xml:lang="en">Cymothoe</persName>
+    <persName type="citable" xml:lang="grc">Κυμοθόη</persName>
 <note>goddess: depicted on Achilles' shield (18.660).</note>
 </person>
+                
+                
+                
+                
 
 <person xml:id="Decon">
-    <persName>Decon</persName>
+    <persName type="citable" xml:lang="en">Decon</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>son of Pergasus, Trojan warrior: killed by Agamemnon (5.631).</note>
 </person>
 
 <person xml:id="Deochus">
-    <persName>Deochus</persName>
+    <persName type="citable" xml:lang="en">Deochus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>Achaean warrior: killed by Paris (15.402).</note>
 </person>
 
 <person xml:id="Deopites">
-    <persName>Deopites</persName>
+    <persName type="citable" xml:lang="en">Deopites</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (11.479).</note>
 </person>
 
-<person xml:id="DEPHOBUS">
-    <persName>DEPHOBUS</persName>
-    <affiliation>Troy</affiliation>
-<note>son of Priam, Trojan warrior: one of the leaders for the assault on the wall (12.97); steps forward to challenge Achaeans, struck by Meriones, withdraws (13.182 ff); challenges Idomeneus, kills Hypsenor (13.488); seeks out Aeneas to fight Idomeneus (13.546 ff); Aeneas calls to him for assistance (13.591); throws spear at Idomeneus, hits Ascalaphus (13.621); strips helmet from Ascalaphus, wounded by Meriones in the arm, withdraws from battle (13.633 ff); Athena takes on his shape to trick Hector (22.281); cursed by Priam (24.312).</note>
-</person>
-
 <person xml:id="Depylus">
-    <persName>Depylus</persName>
+    <persName type="citable" xml:lang="en">Depylus</persName>
+    <persName type="citable" xml:lang="grc">Δίπυλος</persName>
 <note>companion of Sthenelus, Achaean warrior: takes horses of Aeneas back to the camp (5.384).</note>
 </person>
 
 <person xml:id="Depyrus">
-    <persName>Depyrus</persName>
+    <persName type="citable" xml:lang="en">Depyrus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>Achaean warrior: leads out sentinels (9.102); encouraged by Poseidon in the form of Calchas (13.105); Idomeneus calls to him for assistance (13.576); killed by Helenus (13.687).</note>
 </person>
 
 <person xml:id="Deisenor">
-    <persName>Deisenor</persName>
+    <persName type="citable" xml:lang="en">Deisenor</persName>
+    <persName type="citable" xml:lang="grc">Δεισήνωρ</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: encouraged by Hector (17.280).</note>
 </person>
 
+
 <person xml:id="Demeter" role="deity">
-    <persName>Demeter</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Demeter</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:demeter-1</idno>
+    <persName type="citable" xml:lang="en">Demeter</persName>
+    <persName type="citable" xml:lang="grc">Δημήτηρ</persName>
+    <persName type="citable" xml:lang="grc">Δαμάτηρ</persName>
 <note>goddess of grain and food generally: her shrine (2.769); Zeus' love for her (14.388); Lycaon appeals to her name (21.89).</note>
 </person>
 
-<person xml:id="Democon">
-    <persName>Democon</persName>
+                <person xml:id="Democoon">
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Democoon</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:democoon-1</idno>
+    <persName type="citable" xml:lang="en">Democoon</persName>
+    <persName type="citable" xml:lang="grc">Δεμοκόων</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+    <bibl></bibl>
+        <relation active="#Democoon" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+     </listBibl>               
 <note>illegitimate son of Priam: killed by Odysseus (4.577).</note>
 </person>
 
 <person xml:id="Demoleon">
-    <persName>Demoleon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Demoleon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:demoleon-1</idno>
+    <persName type="citable" xml:lang="en">Demoleon</persName>
+    <persName type="citable" xml:lang="grc">Δημολέων</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Demoleon" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
+    </listBibl>   
 <note>son of Antenor, Trojan warrior: killed by Achilles (20.475).</note>
 </person>
 
 <person xml:id="Demouchus">
-    <persName>Demouchus</persName>
+    <persName type="citable" xml:lang="en">Demouchus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>son of Philetor, Trojan warrior: killed by Achilles (20.548).</note>
 </person>
 
 <person xml:id="Dexamene" role="deity">
-    <persName>Dexamene</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Dexamene</persName>
+    <persName type="citable" xml:lang="grc">Δεξαμένη</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.52).</note>
 </person>
+                
+                
+                
 
 <person xml:id="Dexios">
-    <persName>Dexios</persName>
+    <persName type="citable" xml:lang="en">Deochus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>father of Iphinous (Achaean warrior).</note>
 </person>
 
