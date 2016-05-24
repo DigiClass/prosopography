@@ -3390,6 +3390,10 @@
     <persName type="citable" xml:lang="en">Alous</persName>
     <persName type="citable" xml:lang="en">Aloeus</persName>
     <persName type="citable" xml:lang="grc">Ἀλωεύς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Alous" ref="snap:FatherOf" passive="#Ephialtes"><desc>father of Otus and Ephialtes</desc></relation>
+    </listBibl>
 <note>father of Otus and Ephialtes.</note>
 </person>
 
@@ -3930,12 +3934,13 @@
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Atë</idno>
     <idno type="smith">http://data.perseus.org/people/smith:ate-1</idno>
     <persName type="citable" xml:lang="en">Ate</persName>
+    <persName type="citable" xml:lang="en">Folly</persName>
     <persName type="citable" xml:lang="grc">Ἄτη</persName>
     <listBibl>
         <bibl></bibl>
         <relation active="#Ate" ref="snap:DaughterOf" passive="#Zeus"><desc>daughter of Zeus</desc></relation>
     </listBibl>
-<note>divine daughter of Zeus, responsible for human and divine folly: Agamemnon blames her, tells how she deceived Zeus (19.113 ff); thrown out of Olympus (19.156).</note>
+    <note>divine daughter of Zeus, responsible for human and divine folly: daughter of Zeus, deluder of gods and men: followed by Prayers (9.630), Agamemnon blames her, tells how she deceived Zeus (19.113 ff); thrown out of Olympus (19.156).</note>
 </person>
 
 
@@ -5111,390 +5116,653 @@
 
 
 <person xml:id="Echecles">
-    <persName>Echecles</persName>
+    <persName type="citable" xml:lang="en">Echecles</persName>
+    <persName type="citable" xml:lang="grc">Ἐχεκλῆς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Echecles" ref="snap:SonOf" passive="#Actor"><desc>son of Actor</desc></relation>
+        <relation active="#Echecles" ref="snap:HusbandOf" passive="#Polymele"><desc>husband of Polymele</desc></relation>
+    </listBibl>
 <note>son of Actor: marries Polymele, looks after Eudorus (16.225).</note>
 </person>
 
 <person xml:id="Echeclus1">
-    <persName>Echeclus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dymas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:echeclus-1</idno>
+    <persName type="citable" xml:lang="en">Echeclus</persName>
+    <persName type="citable" xml:lang="grc">Ἔχεκλος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.809).</note>
 </person>
 
 <person xml:id="Echeclus2">
-    <persName>Echeclus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dymas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:echeclus-1</idno>
+    <persName type="citable" xml:lang="en">Echeclus</persName>
+    <persName type="citable" xml:lang="grc">Ἔχεκλος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Echeclus" ref="snap:SonOf" passive="#Agenor"><desc>son of Agenor</desc></relation>
+    </listBibl>
 <note>son of Agenor, Trojan warrior: killed by Achilles (20.569).</note>
 </person>
 
 <person xml:id="Echemmon">
-    <persName>Echemmon</persName>
+    <persName type="citable" xml:lang="en">Echemmon</persName>
+    <persName type="citable" xml:lang="grc">Ἐχέμμων</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Echemmon" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+    </listBibl>
 <note>son of Priam, Trojan warrior: killed by Diomedes (5.184).</note>
 </person>
 
 <person xml:id="Echepolus1">
-    <persName>Echepolus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:echepolus-1</idno>
+    <persName type="citable" xml:lang="en">Echepolus</persName>
+    <persName type="citable" xml:lang="grc">Ἐχέπωλος</persName>
     <affiliation>Troy</affiliation>
 <note>son of Thalysius, Trojan warrior: killed by Antilochus (4.530).</note>
 </person>
 
 <person xml:id="Echepolus2">
-    <persName>Echepolus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:echepolus-1</idno>
+    <persName type="citable" xml:lang="en">Echepolus</persName>
+    <persName type="citable" xml:lang="grc">Δύμας</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Echepolus" ref="snap:SonOf" passive="#Anchises"><desc>son of Anchises</desc></relation>
+    </listBibl>
 <note>son of Anchises: gave mare to Agamemnon so as to avoid coming to Troy (23.354).</note>
 </person>
 
 <person xml:id="Echius1">
-    <persName>Echius</persName>
-<note>father of Mecisteus (Achaean warrior).</note>
+    <idno type="smith">http://data.perseus.org/people/smith:echius-1</idno>
+    <persName type="citable" xml:lang="en">Echius</persName>
+    <persName type="citable" xml:lang="grc">Ἐχίος</persName>
+    <note>father of Mecisteus (Achaean warrior),  killed by Polites (15.400)</note>
 </person>
+
 
 <person xml:id="Echius2">
-    <persName>Echius</persName>
-<note>Achaean warrior: killed by Polites (15.400).</note>
-</person>
-
-<person xml:id="Echius3">
-    <persName>Echius</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:echius-1</idno>
+    <persName type="citable" xml:lang="en">Echius</persName>
+    <persName type="citable" xml:lang="grc">Ἐχίος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.485).</note>
 </person>
 
 <person xml:id="Eriboea">
-    <persName>Eriboea</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eriboea</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:eriboea-1</idno>
+    <persName type="citable" xml:lang="en">Eriboea</persName>
+    <persName type="citable" xml:lang="grc">Ἐρίβοια</persName>
 <note>step mother of Otus and Ephialtes: tells Hermes of Ares' imprisonment (5.460).</note>
 </person>
 
 <person xml:id="Etion1">
-    <persName>Etion</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eetion</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:dymas-1</idno>
+    <persName type="citable" xml:lang="en">Eetion</persName>
+    <persName type="citable" xml:lang="en">Etion</persName>
+    <persName type="citable" xml:lang="grc">Ἠετίων</persName>
+    <occupation>king</occupation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Etion" ref="snap:FatherOf" passive="#Andromache"><desc>father of Andromache</desc></relation>
+    </listBibl>
 <note>father of Andromache, king of Cilices in Thebe: mentioned by Achilles (1.405); dowry for his daughter Andromache (6.481); killed by Achilles (6.487); (9.230); where Achilles captured one of his horses (16.186).</note>
 </person>
 
 <person xml:id="Etion2">
-    <persName>Etion</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:eetion-1</idno>
+    <!-- at the end -->
+    <persName type="citable" xml:lang="en">Eetion</persName>
+    <persName type="citable" xml:lang="en">Etion</persName>
+    <persName type="citable" xml:lang="grc">Ἠετίων</persName>
     <affiliation>Troy</affiliation>
 <note>father of Podes (a Trojan warrior).</note>
 </person>
 
 <person xml:id="Etion3">
-    <persName>Etion</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:eetion-1</idno>
+    <!-- at the end -->
+    <persName type="citable" xml:lang="en">Eetion</persName>
+    <persName type="citable" xml:lang="en">Etion</persName>
+    <persName type="citable" xml:lang="grc">Ἠετίων</persName>
 <note>friend of Priam in Imbros: ransomed Lycaon from Lemnos (21.48).</note>
 </person>
 
 <person xml:id="Eileithyia" role="deity">
-    <persName>Eileithyia</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eileithyia</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:eileithyia-1</idno>
+    <persName type="citable" xml:lang="en">Eileithyia</persName>
+    <persName type="citable" xml:lang="en">Ilithyia</persName>
+    <persName type="citable" xml:lang="en">Eleithyia</persName>
+    <persName type="citable" xml:lang="en">Eilethyia</persName>
+    <persName type="citable" xml:lang="en">Eleutho</persName>
+    <persName type="citable" xml:lang="grc">Εἰλείθυια</persName>
+    <persName type="citable" xml:lang="grc">Ἐλευθία</persName>
+    <persName type="citable" xml:lang="grc">Ἐλευθώ</persName>
 <note>goddess of birth pains and labour pangs: (11.308); (16.223); at birth of Hercules and Eurystheus, held back by Hera (19.127 ff).</note>
 </person>
 
 
 <person xml:id="Elasus">
-    <persName>Elasus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dymas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:elasus-1</idno>
+    <persName type="citable" xml:lang="en">Elasus</persName>
+    <persName type="citable" xml:lang="grc">Ἔλασος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.811).</note>
 </person>
 
 
 <person xml:id="Eleans" role="group">
-    <persName>Eleans</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Elis</idno>
+    <persName type="citable" xml:lang="en">Eleans</persName>
+    <persName type="citable" xml:lang="grc">Ἦλειοι</persName>
 <note>people inhabiting the Peloponnese: Nestor tells of their war with Pylians (11.759 ff).</note>
 </person>
 
+                <!-- wikipedia: eleans = epeians  ?? https://el.wikipedia.org/wiki/%CE%89%CE%BB%CE%B9%CE%B4%CE%B1 -->
+                <person xml:id="Epeians" role="group">
+                    <persName type="citable" xml:lang="en">Epeians</persName>
+                    <persName type="citable" xml:lang="grc"> Ἐπειοί</persName>
+                    <note>part of the Achaean contingent, inhabitants of northern Peloponnese: in catalogue of ships (2.696); conflict with the Pylians (11.805 ff); fighting Hector by the ships (13.818).</note>
+                </person>
 
 <person xml:id="Enienes" role="group">
-    <persName>Enienes</persName>
+    <persName type="citable" xml:lang="en">Enienes</persName>
+    <persName type="citable" xml:lang="grc">Ἐνιῆνες</persName>
 <note>inhabitants of a region in northern Greece: in catalogue of ships (2.823).</note>
 </person>
 
 <person xml:id="Eniopeus">
-    <persName>Eniopeus</persName>
+    <persName type="citable" xml:lang="en">Eniopeus</persName>
+    <persName type="citable" xml:lang="grc">Ἠνιοπεύς</persName>
     <affiliation>Troy</affiliation>
 <note>son of Thebaios, Trojan warrior: killed by Diomedes (8.138).</note>
 </person>
 
 
     <person xml:id="Enops1">
-        <persName>Enops</persName>
+        <persName type="citable" xml:lang="en">Enops</persName>
+        <persName type="citable" xml:lang="grc">Ἦνοψ</persName>
         <affiliation>Troy</affiliation>
 <note>father of Satnius and Thestor (Trojan warriors).</note>
 </person>
 
 <person xml:id="Enops2">
-    <persName>Enops</persName>
+    <persName type="citable" xml:lang="en">Enops</persName>
+    <persName type="citable" xml:lang="grc">Ἦνοψ</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Enops" ref="snap:FatherOf" passive="#Clytomedes"><desc>father of Clytomedes</desc></relation>
+    </listBibl>
 <note>father of Clytomedes.</note>
 </person>
 
 
 <person xml:id="Enyeus">
-    <persName>Enyeus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Enyeus</idno>
+    <persName type="citable" xml:lang="en">Enyeus</persName>
+    <persName type="citable" xml:lang="grc">Ἐνυεύς</persName>
+    <occupation>king</occupation>
+    <affiliation ref="http://pleiades.stoa.org/places/541108">Skyros</affiliation>
 <note>king of Scyros (9.843).</note>
 </person>
 
 <person xml:id="Epaltes">
-    <persName>Epaltes</persName>
+    <persName type="citable" xml:lang="en">Epaltes</persName>
+    <persName type="citable" xml:lang="grc">Ἐπάλτης</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.484).</note>
 </person>
 
-<person xml:id="Epeians" role="group">
-    <persName>Epeians</persName>
-<note>part of the Achaean contingent, inhabitants of northern Peloponnese: in catalogue of ships (2.696); conflict with the Pylians (11.805 ff); fighting Hector by the ships (13.818).</note>
-</person>
 
 
 <person xml:id="Ephialtes" role="monster">
-    <persName>Ephialtes</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aloadae</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ephialtes-1</idno>
+    <persName type="citable" xml:lang="en">Ephialtes</persName>
+    <persName type="citable" xml:lang="grc">Ἐφιάλτης</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Ephialtes" ref="snap:SonOf" passive="#Alous"><desc>son of Alous</desc></relation>
+    </listBibl>
 <note>son of Alous, a monster: imprisoned Ares (5.455).</note>
 </person>
 
 
 <person xml:id="Ephyrians" role="group">
-    <persName>Ephyrians</persName>
+    <persName type="citable" xml:lang="en">Ephyrians</persName>
+    <persName type="citable" xml:lang="grc">Ἔφυροι</persName>
 <note>people in Thessaly (13.366).</note>
 </person>
 
 <person xml:id="Epicles">
-    <persName>Epicles</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Epicles</idno>
+    <persName type="citable" xml:lang="en">Epicles</persName>
+    <persName type="citable" xml:lang="grc">Ἐπικλῆς</persName>
 <note>Lycian warrior, part of Trojan forces: killed by Telamonian Ajax (12.416).</note>
 </person>
 
 <person xml:id="Epistor">
-    <persName>Epistor</persName>
+    <persName type="citable" xml:lang="en">Epistor</persName>
+    <persName type="citable" xml:lang="grc">Ἐπίστωρ</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.810).</note>
 </person>
 
 <person xml:id="Epistrophus1">
-    <persName>Epistrophus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Epistrophus_(Greek_mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:epistrophus-1</idno>
+    <persName type="citable" xml:lang="en">Epistrophus</persName>
+    <persName type="citable" xml:lang="grc">Ἐπίστροφος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Epistrophus" ref="snap:SonOf" passive="#Iphitus"><desc>son of Iphitus</desc></relation>
+    </listBibl>
 <note>son of Iphitus, Achaean warrior, leader of Phoceans: in catalogue of ships (2.592).</note>
 </person>
 
 <person xml:id="Epistrophus2">
-    <persName>Epistrophus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Epistrophus_(Greek_mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:epistrophus-1</idno>
+    <persName type="citable" xml:lang="en">Epistrophus</persName>
+    <persName type="citable" xml:lang="grc">Ἐπίστροφος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Epistrophus" ref="snap:SonOf" passive="#Euenus"><desc>son of Euenus</desc></relation>
+    </listBibl>
 <note>son of Euenus, killed by Achilles at capture of Lyrnessus (2.764).</note>
 </person>
 
 <person xml:id="Epistrophus3">
-    <persName>Epistrophus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Epistrophus_(Greek_mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:epistrophus-1</idno>
+    <persName type="citable" xml:lang="en">Epistrophus</persName>
+    <persName type="citable" xml:lang="grc">Ἐπίστροφος</persName>
 <note>leader of the Halizoni, allies of Trojans: in Trojan display of forces (2.938).</note>
 </person>
 
 <person xml:id="Epytos">
-    <persName>Epytos</persName>
+    <persName type="citable" xml:lang="en">Epytos</persName>
+    <persName type="citable" xml:lang="grc">Ἤπυτος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Epytos" ref="snap:FatherOf" passive="#Periphas"><desc>father of Periphas</desc></relation>
+    </listBibl>
 <note>father of Periphas (Trojan herald).</note>
 </person>
                 
-                
-                
-  <!-- ??? -->
-<person xml:id="Erebus">
-    <persName>Erebus</persName>
-<note>the darkeness associated with Hades: Hercules goes to fetch Hades' hound (8.427); Maris and Atymnius go there (16.382).</note>
-</person>
 
 <person xml:id="Erechtheus">
-    <persName>Erechtheus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Erechtheus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:erichthonius-1</idno>
+    <persName type="citable" xml:lang="en">Erechtheus</persName>
+    <persName type="citable" xml:lang="grc">Ἐρεχθεύς</persName>
+    <occupation>king</occupation>
+    <affiliation ref="http://pleiades.stoa.org/places/579885">Athens</affiliation>
 <note>legendary king of Athens: his birth and treatment by Athena (2.6.24).</note>
 </person>
 
 <person xml:id="Ereuthalion">
-    <persName>Ereuthalion</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ereuthalion</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ereuthalion-1</idno>
+    <persName type="citable" xml:lang="en">Ereuthalion</persName>
+    <persName type="citable" xml:lang="grc">Ἐρευθαλίων</persName>
 <note>a warrior killed by Nestor when he was young: (4.375); steps out as champion of Arcadians, killed by Nestor (7.160 ff).</note>
 </person>
 
 <person xml:id="Erichthonius">
-    <persName>Erichthonius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Erichthonius_of_Dardania</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:erichthonius-2</idno>
+    <persName type="citable" xml:lang="en">Erichthonius</persName>
+    <persName type="citable" xml:lang="grc">Ἐριχθόνιος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Erichthonius" ref="snap:FatherOf" passive="https://en.wikipedia.org/wiki/Tros_%28mythology%29"><desc>father of Tros</desc></relation>
+        <relation active="#Erichthonius" ref="snap:SonOf" passive="#Dardanus"><desc>son of Dardanus</desc></relation>
+    </listBibl>
 <note>son of Dardanus, father of Tros: his story told by Aeneas (20.263).</note>
 </person>
 
 <person xml:id="Erinyes" role="deity">
-    <persName>Erinyes</persName>
-    <persName>Furies</persName> 
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Erinyes</idno>
+    <persName type="citable" xml:lang="en">Erinyes</persName>
+    <persName type="citable" xml:lang="en">Erinys</persName>
+    <persName type="citable" xml:lang="en">Furies</persName>
+    <persName type="citable" xml:lang="grc">Ἐρινύες</persName>
     <note>goddesses of revenge within the family, also called Erinyes: invoked by Amyntor against his son Phoenix (9.571); listen to prayers of Althea to kill her son (9.719); Agamemnon blames them for the quarrel (19.107); Agamemnon invokes them to swear he has not had sex with Briseis (19.317); take away the speaking voice of Achilles' horse (19.504).</note>
 </person>
 
 <person xml:id="Eriopis">
-    <persName>Eriopis</persName>
-<note>wife of Oleus, step mother of Medon (15.396).</note>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eriopis</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:eriopis-1</idno>
+    <persName type="citable" xml:lang="en">Eriopis</persName>
+    <persName type="citable" xml:lang="grc">Ἐριῶπις</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Eriopis" ref="snap:WifeOf" passive="https://en.wikipedia.org/wiki/Oileus"><desc>wife of Oileus</desc></relation>
+        <relation active="#Eriopis" ref="snap:MotherOf" passive="#Ajax2"><desc>mother of Ajax the Lesser</desc></relation>
+    </listBibl>
+<note>wife of Oileus, step mother of Medon and mother of Ajax the Lesser (15.396).</note>
 </person>
 
 <person xml:id="Erylaus">
-    <persName>Erylaus</persName>
+    <persName type="citable" xml:lang="en">Erylaus</persName>
+    <persName type="citable" xml:lang="grc">Ἐρύλαος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.479).</note>
 </person>
 
 <person xml:id="Erymas1">
-    <persName>Erymas</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:erymas-1</idno>
+    <persName type="citable" xml:lang="en">Erymas</persName>
+    <persName type="citable" xml:lang="grc">Ἐρύμας</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Idomeneus (16.403).</note>
 </person>
 
 <person xml:id="Erymas2">
-    <persName>Erymas</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:erymas-1</idno>
+    <persName type="citable" xml:lang="en">Erymas</persName>
+    <persName type="citable" xml:lang="grc">Ἐρύμας</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.484).</note>
 </person>
 
 <person xml:id="Eteocles">
-    <persName>Eteocles</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eteocles</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:eteocles-2</idno>
+    <persName type="citable" xml:lang="en">Eteocles</persName>
+    <persName type="citable" xml:lang="grc">Ἐτεοκλῆς</persName>
+    <occupation>king</occupation>
+    <affiliation>Thebes</affiliation>
 <note>king of Thebes: (4.453).</note>
 </person>
 
-<person xml:id="Ethiopians">
-    <persName>Ethiopians</persName>
+<person xml:id="Ethiopians" role="group">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aethiopia</idno>
+    <persName type="citable" xml:lang="en">Ethiopians</persName>
+    <persName type="citable" xml:lang="grc">Αἰθίοπες</persName>
 <note>news of Zeus' visit to them (1.472).</note>
 </person>
 
 <person xml:id="Euaemon">
-    <persName>Euaemon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dymas</idno>
+    <persName type="citable" xml:lang="en">Euaemon</persName>
+    <persName type="citable" xml:lang="en">Euaimon</persName>
+    <persName type="citable" xml:lang="grc">Εὐαίμων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Euaemon" ref="snap:FatherOf" passive="#Eurypylus"><desc>father of Eurypylus</desc></relation>
+    </listBibl>
 <note>father of Eurypylus.</note>
 </person>
 
 <person xml:id="Eudorus">
-    <persName>Eudorus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eudorus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:eudorus-1</idno>
+    <persName type="citable" xml:lang="en">Eudorus</persName>
+    <persName type="citable" xml:lang="en">Eudoros</persName>
+    <persName type="citable" xml:lang="grc">Εὔδωρος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Eudorus" ref="snap:SonOf" passive="#Hermes"><desc>son of Hermes</desc></relation>
+        <relation active="#Eudorus" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Polymele"><desc>son of Polymele</desc></relation>
+    </listBibl>
 <note>bastard son of Polymele and Hermes: leader of a contingent of Myrmidons, his family and upbringing (16.213).</note>
 </person>
 
 <person xml:id="Euenus1">
-    <persName>Euenus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Evenus_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:evenus-1</idno>
+    <persName type="citable" xml:lang="en">Euenus</persName>
+    <persName type="citable" xml:lang="en">Evenus</persName>
+    <persName type="citable" xml:lang="grc">Εὐηνός</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Euenus" ref="snap:FatherOf" passive="#Mynes"><desc>father of Mynes</desc></relation>
+        <relation active="#Euenus" ref="snap:FatherOf" passive="#Epistrophus"><desc>father of Epistrophus</desc></relation>
+    </listBibl>
 <note>son of Selepius, father of Mynes and Epistrophus (Trojan warriors).</note>
 </person>
 
 <person xml:id="Euenus2">
-    <persName>Euenus</persName>
-<note>father of Marpissa.</note>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Evenus_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:evenus-1</idno>
+    <persName type="citable" xml:lang="en">Euenus</persName>
+    <persName type="citable" xml:lang="en">Evenus</persName>
+    <persName type="citable" xml:lang="grc">Εὐηνός</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Euenus" ref="snap:FatherOf" passive="https://en.wikipedia.org/wiki/Marpessa"><desc>father of Marpessa</desc></relation>
+    </listBibl>
+<note>father of Marpessa.</note>
 </person>
 
 <person xml:id="Euippus">
-    <persName>Euippus</persName>
+    <persName type="citable" xml:lang="en">Euippus</persName>
+    <persName type="citable" xml:lang="grc">Εὔιππος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
 
 <person xml:id="Eumedes">
-    <persName>Eumedes</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eumedes</idno>
+    <persName type="citable" xml:lang="en">Eumedes</persName>
+    <persName type="citable" xml:lang="grc">Εὐμήδης</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Eumedes" ref="snap:FatherOf" passive="#Dolon"><desc>father of Dolon</desc></relation>
+    </listBibl>
 <note>father of Dolon (Trojan warrior).</note>
 </person>
 
 <person xml:id="Eumelus">
-    <persName>Eumelus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eumelus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:eumelus-1</idno>
+    <persName type="citable" xml:lang="en">Eumelus</persName>
+    <persName type="citable" xml:lang="grc">Εὔμηλος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Eumelus" ref="snap:SonOf" passive="#Admetus"><desc>son of Admetus</desc></relation>
+        <relation active="#Eumelus" ref="snap:SonOf" passive="#Alcestis"><desc>son of Alcestis</desc></relation>
+    </listBibl>
 <note>son of Admetus and Alcestis, leader of Thessalian troops (part of Achaean army): in catalogue of ships (2.786); his father's horses the best among Achaeans (2.840); volunteers for chariot race (23.345); leading in chariot race, Athena makes him crash (23.457 ff); last in the race (23.648).</note>
 </person>
 
 
 <person xml:id="Euphetes">
-    <persName>Euphetes</persName>
+    <persName type="citable" xml:lang="en">Euphetes</persName>
+    <persName type="citable" xml:lang="grc">Εὐφήτης</persName>
 <note>guest of Phyleus, gave him armour (15.626).</note>
 </person>
 
 
 <person xml:id="Eurymedon">
-    <persName>Eurymedon</persName>
-<note>son of Ptolemaeus, Achaean warror, attandant on Agamemnon: holds back Agamemnon's horses (4.265); takes Nestor's horses (8.131); unharnesses Nestor's horses (11.698).</note>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurymedon_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:eurymedon-3</idno>
+    <persName type="citable" xml:lang="en">Eurymedon</persName>
+    <persName type="citable" xml:lang="grc">Εὐρυμέδων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Eurymedon" ref="snap:Bond" passive="#Agamemnon"><desc>attandant on Agamemnon</desc></relation>
+    </listBibl>
+<note>son of Ptolemaeus, Achaean warrior, attandant on Agamemnon: holds back Agamemnon's horses (4.265); takes Nestor's horses (8.131); unharnesses Nestor's horses (11.698).</note>
 </person>
 
 
 <person xml:id="Eurystheus">
-    <persName>Eurystheus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurystheus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:heracles-1</idno>
+    <persName type="citable" xml:lang="en">Eurystheus</persName>
+    <persName type="citable" xml:lang="grc">Εὐρυσθεύς</persName>
+    <occupation>king</occupation>
+    <affiliation ref="http://pleiades.stoa.org/places/570491">Mycenae</affiliation>
 <note>king of Mycenae: gave Hercules his labours (8.423); Copreus delivered his messages (15.755); his birth part of a trick Hera played on Zeus (19.140 ff).</note>
 </person>
 
 <person xml:id="Eurytus1">
-    <persName>Eurytus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurytus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:eurytus-1</idno>
+    <persName type="citable" xml:lang="en">Eurytus</persName>
+    <persName type="citable" xml:lang="en">Eurytos</persName>
+    <persName type="citable" xml:lang="en">Erytus</persName>
+    <persName type="citable" xml:lang="grc">Εὔρυτος</persName>
+    <persName type="citable" xml:lang="grc">Ἔρυτος</persName>
+    <occupation>king</occupation>
+    <affiliation>Oechalia</affiliation>
 <note>king of Oechalia, in Thessaly (2.802).</note>
 </person>
 
 <person xml:id="Eurytus2">
-    <persName>Eurytus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurytus_and_Cteatus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:eurytus-2</idno>
+    <persName type="citable" xml:lang="en">Eurytus</persName>
+    <persName type="citable" xml:lang="en">Eurytos</persName>
+    <persName type="citable" xml:lang="en">Erytus</persName>
+    <persName type="citable" xml:lang="grc">Εὔρυτος</persName>
+    <persName type="citable" xml:lang="grc">Ἔρυτος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Eurytus" ref="snap:SonOf" passive="#Actor"><desc>son of Actor</desc></relation>
+    </listBibl>
 <note>son of Actor, father of Thalpius, a leader of Epeian forces.</note>
 </person>
 
 <person xml:id="Eussorus">
-    <persName>Eussorus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dymas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:dymas-1</idno>
+    <persName type="citable" xml:lang="en">Dymas</persName>
+    <persName type="citable" xml:lang="grc">Ἐῢσσωρος</persName>
     <affiliation>Troy</affiliation>
 <note>father of Acamas (Trojan warrior).</note>
 </person>
 
 <person xml:id="Exadios">
-    <persName>Exadios</persName>
+    <persName type="citable" xml:lang="en">Exadios</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>mentioned by Nestor as an old comrade (1.294).</note>
 </person>
+                
+                
 
-<person xml:id="Fate">
-    <persName>Fate</persName>
+<person xml:id="Fates">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Moirai</idno>
+    <persName type="citable" xml:lang="en">Fates</persName>
+    <persName type="citable" xml:lang="en">Moirai</persName>
+    <persName type="citable" xml:lang="grc">Μοῖραι</persName>
 <note>Agamemnon blames fate for the quarrel (19.107); ordains the survival of Aeneas (20.361).</note>
 </person>
 
 <person xml:id="Fear" role="deity">
-    <persName>Fear</persName>
+    <!-- ?? female / male ?? 
+    
+    http://www.theoi.com/Ther/HippoiAreioi.html-->
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Deimos_(deity)</idno>
+    <persName type="citable" xml:lang="en">Fear</persName>
+    <persName type="citable" xml:lang="en">Deimos</persName>
+    <persName type="citable" xml:lang="grc">Δεῖμος</persName>
 <note>goddess: accompanies Ares and Athena into battle (4.513); on the aegis (5.845).</note>
 </person>
 
+
+<!-- ? -->
 <person xml:id="Flight" role="deity">
-    <persName>Flight</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Phobos_(mythology)</idno>
+    <persName type="citable" xml:lang="en">Flight</persName>
+    <persName type="citable" xml:lang="en">Phobos</persName>
+    <persName type="citable" xml:lang="grc">Φόβος</persName>
 <note>god: told to get Ares' horses ready (15.143).</note>
 </person>
 
-<person xml:id="Folly">
-    <persName>Folly</persName>
-<note>daughter of Zeus, deluder of gods and men: followed by Prayers (9.630) (see also Ate).</note>
-</person>
-
-<person xml:id="Furies" role="deity">
-    <persName>Furies</persName>
-
-</person>
 
 <person xml:id="Galatea" role="deity">
-    <persName>Galatea</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Galatea</persName>
+    <persName type="citable" xml:lang="grc">Γαλάτεια</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.54).</note>
 </person>
 
 <person xml:id="Ganymede">
-    <persName>Ganymede</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ganymede_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ganymedes-1</idno>
+    <persName type="citable" xml:lang="en">Ganymede</persName>
+    <persName type="citable" xml:lang="en">Ganymedes</persName>
+    <persName type="citable" xml:lang="grc">Γανυμήδης</persName>
 <note>son of Tros: taken into heaven to be Zeus' cup bearer (5.316); kidnapped by the gods (20.278).</note>
 </person>
 
 
 <person xml:id="Glauce" role="deity">
-    <persName>Glauce</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Glauce</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:glauce-1</idno>
+    <persName type="citable" xml:lang="en">Glauce</persName>
+    <persName type="citable" xml:lang="grc">Γλαύκη</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.48).</note>
 </person>
 
 
 <person xml:id="Gorgon" role="monster">
-    <persName>Gorgon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Gorgon</idno>
+    <persName type="citable" xml:lang="en">Gorgon</persName>
+    <persName type="citable" xml:lang="grc">Γοργών</persName>
+    <persName type="citable" xml:lang="grc">Γοργώ</persName>
 <note>monster: depicted on the aegis (5.845); on Agamemnon's shield (11.36).</note>
 </person>
 
 
 <person xml:id="Graces" role="deity">
-    <persName>Graces</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Charites</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:charis-1</idno>
+    <persName type="citable" xml:lang="en">Graces</persName>
+    <persName type="citable" xml:lang="en">Charites</persName>
+    <persName type="citable" xml:lang="grc">Χάριτες</persName>
 <note>goddesses: gave Aphrodite her robe (5.400).</note>
 </person>
 
 <person xml:id="Granicus" role="deity">
-    <persName>Granicus</persName>
+    <persName type="citable" xml:lang="en">Granicus</persName>
+    <persName type="citable" xml:lang="grc">Γρανικὸς</persName>
+    <persName type="citable" xml:lang="grc">Γρήνικος</persName>
 <note>river flowing from Mount Ida to the sea: stirred up by Poseidon and Apollo to destroy the wall (12.21).</note>
 </person>
 
 <person xml:id="Guneus">
-    <persName>Guneus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Guneus</idno>
+    <persName type="citable" xml:lang="en">Guneus</persName>
+    <persName type="citable" xml:lang="grc">Γουνεὐς</persName>
 <note>leader of troops from Cyphus (part of Achaean army): in catalogue of ships (2.822).</note>
 </person>
 
 <person xml:id="Gygaea" role="deity">
-    <persName>Gygaea</persName>
+    <persName type="citable" xml:lang="en">Gygaea</persName>
+    <persName type="citable" xml:lang="grc">Γυγαίη</persName>
 <note>a water nymph: mother of Mesthles and Ascanius (allies of the Trojans).</note>
 </person>
 
 <person xml:id="Gyrtius">
-    <persName>Gyrtius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ganymede_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ganymedes-1</idno>
+    <persName type="citable" xml:lang="en">Gyrtius</persName>
+    <persName type="citable" xml:lang="grc">Γύρτιος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Gyrtius" ref="snap:FatherOf" passive="#Hyrtius"><desc>father of Hyrtius</desc></relation>
+    </listBibl>
 <note>father of Hyrtius (Trojan warrior).</note>
 </person>
+                
+                
 
 
 <person xml:id="Haemon1">
