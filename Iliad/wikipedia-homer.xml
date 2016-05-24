@@ -4893,119 +4893,221 @@
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.52).</note>
 </person>
                 
-                
-                
+                     
 
 <person xml:id="Dexios">
-    <persName type="citable" xml:lang="en">Deochus</persName>
-    <persName type="citable" xml:lang="grc"></persName>
+    <persName type="citable" xml:lang="en">Dexios</persName>
+    <persName type="citable" xml:lang="grc">Δέξιος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dexios" ref="snap:FatherOf" passive="#Iphinous"><desc>father of Iphinous</desc></relation>
+    </listBibl>  
 <note>father of Iphinous (Achaean warrior).</note>
 </person>
 
 <person xml:id="Diocles">
-    <persName>Diocles</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Diocles_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:diocles-1</idno>
+    <persName type="citable" xml:lang="en">Diocles</persName>
+    <persName type="citable" xml:lang="grc">Διοκλῆς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Diocles" ref="snap:SonOf" passive="#Orsilochus"><desc>son of Orsilochus</desc></relation>
+    </listBibl>  
 <note>son of Orsilochus, father of Crethon and Orsilochus (Achaean warriors).</note>
 </person>
 
 
 <person xml:id="Dione" role="deity">
-    <persName>Dione</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dione_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:dione-1</idno>
+    <persName type="citable" xml:lang="en">Dione</persName>
+    <persName type="citable" xml:lang="grc">Διώνη</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dione" ref="snap:MotherOf" passive="#Aphrodite"><desc>mother of Aphrodite</desc></relation>
+    </listBibl>  
 <note>goddess mother of Aphrodite: consoles and heals wounded Aphrodite (5.437); tells of gods who have been injured by human beings (5.449).</note>
 </person>
 
 <person xml:id="Dionysus" role="deity">
-    <persName>Dionysus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dionysus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:dionysus-1</idno>
+    <persName type="citable" xml:lang="en">Dionysus</persName>
+    <persName type="citable" xml:lang="grc">Διόνυσος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dionysus" ref="snap:SonOf" passive="#Zeus"><desc>son of Zeus</desc></relation>
+        <relation active="#Dionysus" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Semele"><desc>son of Semele</desc></relation>
+    </listBibl>  
 <note>divine son of Zeus and Semele: abused by Lycurgus (6.162); son of Zeus and Semele (14.386).</note>
 </person>
 
 <person xml:id="Diores1">
-    <persName>Diores</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Diores</idno>
+    <persName type="citable" xml:lang="en">Diores</persName>
+    <persName type="citable" xml:lang="grc">Διώρης</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Diores" ref="snap:SonOf" passive="#Amarynces"><desc>son of Amarynces</desc></relation>
+    </listBibl>
 <note>son of Amarynces, a leader of Epeians (part of Achaean forces): in catalogue of ships (2.699): killed by Peirous (4.598).</note>
 </person>
 
 <person xml:id="Diores2">
-    <persName>Diores</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Diores</idno>
+    <persName type="citable" xml:lang="en">Diores</persName>
+    <persName type="citable" xml:lang="grc">Διώρης</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Diores" ref="snap:SonOf" passive="#Automedon"><desc>son of Automedon</desc></relation>
+    </listBibl>
 <note>father of Automedon (an Achaean warrior).</note>
 </person>
 
 <person xml:id="Dios">
-    <persName>Dios</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dius</idno>
+    <persName type="citable" xml:lang="en">Dios</persName>
+    <persName type="citable" xml:lang="en">Dius</persName>
+    <persName type="citable" xml:lang="grc">Δῖος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dios" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+    </listBibl>
 <note>son of Priam: cursed by Priam (24.312).</note>
 </person>
 
-<person xml:id="Dolopes">
-    <persName>Dolopes</persName>
+<person xml:id="Dolopes" role="group">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dolopia</idno>
+    <persName type="citable" xml:lang="en">Dolopes</persName>
+    <persName type="citable" xml:lang="grc">Δόλοπες</persName>
 <note>people given to Phoenix to rule by Peleus (9.605).</note>
 </person>
 
-<person xml:id="Dolopion">
-    <persName>Dolopion</persName>
+<person xml:id="Dolopion" role="priest">
+    <persName type="citable" xml:lang="en">Dolopion</persName>
+    <persName type="citable" xml:lang="grc">Δολοπίων</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dolopion" ref="snap:FatherOf" passive="#Hypsenor"><desc>father of Hypsenor</desc></relation>
+    </listBibl>
 <note>priest of Scamander, father of Hypsenor (Trojan warrior).</note>
 </person>
 
 <person xml:id="Dolops1">
-    <persName>Dolops</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dolops</idno>
+    <persName type="citable" xml:lang="en">Dolops</persName>
+    <persName type="citable" xml:lang="grc">Δόλοψ</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dolops" ref="snap:SonOf" passive="#Clytius"><desc>son of Clytius</desc></relation>
+    </listBibl>
 <note>son of Clytius, Achaean warrior: killed by Hector (11.342).</note>
 </person>
 
 <person xml:id="Dolops2">
-    <persName>Dolops</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dolops</idno>
+    <persName type="citable" xml:lang="en">Dolops</persName>
+    <persName type="citable" xml:lang="grc">Δόλοψ</persName>
+    <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dolops" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Lampus"><desc>son of Lampus</desc></relation>
+    </listBibl>
 <note>son of Lampus, Trojan warrior: charges Meges, killed by Menelaus (15.618).</note>
 </person>
 
 <person xml:id="Doris" role="deity">
-    <persName>Doris</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Doris</persName>
+    <persName type="citable" xml:lang="grc">Δωρίς</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.53).</note>
 </person>
 
 <person xml:id="Doryclus">
-    <persName>Doryclus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Doryclus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:doryclus-1</idno>
+    <persName type="citable" xml:lang="en">Doryclus</persName>
+    <persName type="citable" xml:lang="grc">Δόρυκλος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Doryclus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+    </listBibl>
 <note>bastard son of Priam, Trojan warrior: killed by Telamonian Ajax (11.552).</note>
 </person>
 
 <person xml:id="Doto" role="deity">
-    <persName>Doto</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Doto</persName>
+    <persName type="citable" xml:lang="grc">Δωτώ</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.51).</note>
 </person>
 
 <person xml:id="Dracius">
-    <persName>Dracius</persName>
+    <persName type="citable" xml:lang="en">Dracius</persName>
+    <persName type="citable" xml:lang="grc">Δρακίος</persName>
 <note>a leader of Epeians, Achaean warrior: fighting against Hector by the ships (13.826).</note>
 </person>
 
 <person xml:id="Dresus">
-    <persName>Dresus</persName>
+    <persName type="citable" xml:lang="en">Dresus</persName>
+    <persName type="citable" xml:lang="grc">Δρῆσος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Euryalus (6.23).</note>
 </person>
 
 <person xml:id="Dryas1">
-    <persName>Dryas</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dryas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:dryas-1</idno>
+    <!-- at the end -->
+    <persName type="citable" xml:lang="en">Dryas</persName>
+    <persName type="citable" xml:lang="grc">Δρύας</persName>
 <note>a Lapith: mentioned as an old comrade by Nestor (1.290).</note>
 </person>
 
 <person xml:id="Dryas2">
-    <persName>Dryas</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dryas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:dryas-1</idno>
+    <!-- at the end -->
+    <persName type="citable" xml:lang="en">Dryas</persName>
+    <persName type="citable" xml:lang="grc">Δρύας</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dryas" ref="snap:FatherOf" passive="#Lycurgus"><desc>father of Lycurgus</desc></relation>
+    </listBibl>
 <note>father of Lycurgus.</note>
 </person>
 
 <person xml:id="Dryops">
-    <persName>Dryops</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:dryops-1</idno>
+    <!-- at the end -->
+    <persName type="citable" xml:lang="en">Dryops</persName>
+    <persName type="citable" xml:lang="grc">Δρύοψ</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Achilles (20.546).</note>
 </person>
 
 <person xml:id="Dymas">
-    <persName>Dymas</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dymas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:dymas-1a</idno>
+    <persName type="citable" xml:lang="en">Dymas</persName>
+    <persName type="citable" xml:lang="grc">Δύμας</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Dymas" ref="snap:FatherOf" passive="#Hecuba"><desc>father of Hecuba</desc></relation>
+    </listBibl>
 <note>father of Hecuba and Asius.</note>
 </person>
 
 <person xml:id="Dynamene" role="deity">
-    <persName>Dynamene</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Dynamene</idno>
+    <persName type="citable" xml:lang="en">Dynamene</persName>
+    <persName type="citable" xml:lang="grc">Δυναμένη</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.52).</note>
 </person>
+
 
 
 <person xml:id="Echecles">
