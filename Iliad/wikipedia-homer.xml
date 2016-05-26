@@ -1472,13 +1472,6 @@
                     <note>son of Panopeus: enters the boxing contest and wins (23.822 ff); enters the iron-throwing contest (23.1032).</note>
                 </person>
                 
-                <person xml:id="Epistrophus">
-                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Epistrophus_(Greek_mythology)</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:epistrophus-1</idno>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2567493</idno>
-                    <persName type="citable" xml:lang="en">Epistrophus</persName>
-                   <persName type="citable" xml:lang="grc">Ἐπίστροφος </persName>
-                </person>
                 
                 <person xml:id="Eris" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eris_%28mythology%29</idno>
@@ -6318,160 +6311,300 @@
 
 
 <person xml:id="Iaera" role="deity">
-    <persName>Iaera</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Iaera</persName>
+    <persName type="citable" xml:lang="grc">Ἴαιρα</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.50).</note>
 </person>
 
 <person xml:id="Ialmenus">
-    <persName>Ialmenus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ialmenus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ialmenus-1</idno>
+    <persName type="citable" xml:lang="en">Ialmenus</persName>
+    <persName type="citable" xml:lang="grc">Ἰάλμενος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Ialmenus" ref="snap:SonOf" passive="#Ares"><desc>son of Ares</desc></relation>
+    </listBibl>
 <note>Achaean warrior, leader of Minyans, son of Ares: in catalogue of ships (2.587); leads out the sentinels (9.101).</note>
 </person>
 
 
 <person xml:id="Ianassa" role="deity">
-    <persName>Ianassa</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:hyrtacus-1</idno>
+    <persName type="citable" xml:lang="en">Ianassa</persName>
+    <persName type="citable" xml:lang="grc">Ἰάνασσα</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.56).</note>
 </person>
 
 <person xml:id="Ianeira" role="deity">
-    <persName>Ianeira</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ianira</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ianeira-1</idno>
+    <persName type="citable" xml:lang="en">Ianeira</persName>
+    <persName type="citable" xml:lang="en">Ianira</persName>
+    <persName type="citable" xml:lang="grc">Ἴαιρα</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.56).</note>
 </person>
 
 <person xml:id="Iapetus" role="deity">
-    <persName>Iapetus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Iapetus_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:iapetus-1</idno>
+    <persName type="citable" xml:lang="en">Iapetus</persName>
+    <persName type="citable" xml:lang="en">Japetus</persName>
+    <persName type="citable" xml:lang="grc">Ἰαπετός</persName>
 <note>one of the Titans imprisoned in Tartarus by Zeus: (8.562).</note>
 </person>
 
 <person xml:id="Iasus">
-    <persName>Iasus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Iasus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:iasus-10</idno>
+    <persName type="citable" xml:lang="en">Iasus</persName>
+    <persName type="citable" xml:lang="en">Iasius</persName>
+    <persName type="citable" xml:lang="grc">Ἴασος</persName>
+    <persName type="citable" xml:lang="grc">Ἰάσιος</persName>
 <note>son of Sphelus, one of the Athenian leaders: killed by Aeneas (15.392).</note>
 </person>
 
-<person xml:id="IDAIOS1">
-    <persName>IDAIOS</persName>
+    <person xml:id="Idaios1">
+        <persName type="citable" xml:lang="en">Idaios</persName>
+        <persName type="citable" xml:lang="grc">Ἰδαῖος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan herald: speaks to Priam about Paris-Menelaus duel (3.274); stops the duel between Hector and Ajax (7.323); goes to Achaeans with Paris' offer to return all property (7.457); reports back to Trojans (7.485); sees Hermes, speaks to Priam (24.436); gets back to Troy with Priam (24.857).</note>
 </person>
 
 <person xml:id="Idaios2">
-    <persName>Idaios</persName>
+    <persName type="citable" xml:lang="en">Idaios</persName>
+    <persName type="citable" xml:lang="grc">Ἰδαῖος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior, son of Dares: confronts Diomedes, saved by Hephaestus (5.13 ff).</note>
 </person>
 
 <person xml:id="Ides">
-    <persName>Ides</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Idas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:idas-4</idno>
+    <persName type="citable" xml:lang="en">Ides</persName>
+    <persName type="citable" xml:lang="en">Idas</persName>
+    <persName type="citable" xml:lang="grc">Ἴδας</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Ides" ref="snap:FatherOf" passive="#Cleopatra"><desc>father of Cleopatra</desc></relation>
+    </listBibl>
 <note>father of Cleopatra (wife of Meleager): fought Apollo for Marpessa (9.702).</note>
 </person>
 
 
 <person xml:id="Ilus">
-    <persName>Ilus</persName>
-<note>son of Erichthonius, father of Laomedon: his tomb as a landmark outside Troy (11.190); Paris hides behind the tomb (11.423); his family (20.277).</note>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ilus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ilus-2</idno>
+    <persName type="citable" xml:lang="en">Ilus</persName>
+    <persName type="citable" xml:lang="grc">Ἶλος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Ilus" ref="snap:FatherOf" passive="#Laomedon"><desc>father of Laomedon</desc></relation>
+        <relation active="#Ilus" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Tros_%28mythology%29"><desc>son of Tros</desc></relation>
+    </listBibl>
+<note>son of Tros, father of Laomedon: his tomb as a landmark outside Troy (11.190); Paris hides behind the tomb (11.423); his family (20.277).</note>
 </person>
 
 <person xml:id="Imbrasus">
-    <persName>Imbrasus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:imbrasus-1</idno>
+    <persName type="citable" xml:lang="en">Imbrasus</persName>
+    <persName type="citable" xml:lang="grc">Ἶμβρασος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Imbrasus" ref="snap:FatherOf" passive="#Peirous"><desc>father of Peirous</desc></relation>
+    </listBibl>
 <note>father of Peirous (Trojan warrior).</note>
 </person>
 
 <person xml:id="Imbrius">
-    <persName>Imbrius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Imbrius</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:imbrius-1</idno>
+    <persName type="citable" xml:lang="en">Imbrius</persName>
+    <persName type="citable" xml:lang="grc">Ἵμβριος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Imbrius" ref="snap:SonOf" passive="#Mentor"><desc>son of Mentor</desc></relation>
+    </listBibl>
 <note>son of Mentor, husband of Medesicate: killed by Teucer (13.199).</note>
 </person>
 
 <person xml:id="Ionians" role="group">
-    <persName>Ionians</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ionians</idno>
+    <persName type="citable" xml:lang="en">Ionians</persName>
+    <persName type="citable" xml:lang="grc">Ἴωνες</persName>
 <note>people of Ionia: fight against Hector by the ships (13.817).</note>
 </person>
 
 <person xml:id="Ipheus">
-    <persName>Ipheus</persName>
+    <persName type="citable" xml:lang="en">Ipheus</persName>
+    <persName type="citable" xml:lang="grc">Ἰφεύς</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
 
 <person xml:id="Iphicles">
-    <persName>Iphicles</persName>
-<note>son of Phylaces, father of Protesilaus and Podarcus (Achaean warriors).</note>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Iphicles</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:iphicles-3</idno>
+    <persName type="citable" xml:lang="en">Iphicles</persName>
+    <persName type="citable" xml:lang="grc">Ἰφικλῆς</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Iphicles" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Phylacus"><desc>son of Phylaces</desc></relation>
+        <relation active="#Iphicles" ref="snap:FatherOf" passive="#Protesilaus"><desc>father of Protesilaus</desc></relation>
+        <relation active="#Iphicles" ref="snap:FatherOf" passive="#Podarces"><desc>father of Podarces</desc></relation>
+    </listBibl>
+<note>son of Phylaces, father of Protesilaus and Podarces (Achaean warriors).</note>
 </person>
 
 <person xml:id="Iphiclus">
-    <persName>Iphiclus</persName>
+    <persName type="citable" xml:lang="en">Iphiclus</persName>
+    <persName type="citable" xml:lang="grc">Ἴφικλος</persName>
 <note>opponent defeated in a footrace by Nestor (23.785).</note>
 </person>
 
 <person xml:id="Iphianessa">
-    <persName>Iphianessa</persName>
+    <persName type="citable" xml:lang="en">Iphianessa</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>daughter of Agamemnon (9.176).</note>
 </person>
 
 <person xml:id="Iphidamas">
-    <persName>Iphidamas</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Iphidamas</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:iphidamas-2</idno>
+    <persName type="citable" xml:lang="en">Iphidamas</persName>
+    <persName type="citable" xml:lang="grc">Ἰφιδάμας</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Iphidamas" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
+    </listBibl>
 <note>son of Antenor, Trojan warrior challenges Agamemnon and is killed (11.252 ff).</note>
 </person>
 
 <person xml:id="Iphinous">
-    <persName>Iphinous</persName>
+    <persName type="citable" xml:lang="en">Iphinous</persName>
+    <persName type="citable" xml:lang="grc">Ἰφίνοος</persName>
+    
 <note>son of Dexius, Achaean warrior: killed by Glaucus (7.15).</note>
 </person>
 
 <person xml:id="Iphis">
-    <persName>Iphis</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Iphis</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:iphis-5</idno>
+    <persName type="citable" xml:lang="en">Iphis</persName>
+    <persName type="citable" xml:lang="grc">Ἶφις</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Iphis" ref="snap:IntimateRelationship" passive="#Patroclus"><desc>sleeps with Patroclus</desc></relation>
+    </listBibl>
 <note>woman from Scyros: captured by Achilles, sleeps with Patroclus (9.842).</note>
 </person>
 
 <person xml:id="Iphition">
-    <persName>Iphition</persName>
+    <persName type="citable" xml:lang="en">Iphition</persName>
+    <persName type="citable" xml:lang="grc">Ἰφιτίων</persName>
 <note>son of Otrynteus and a Naiad nymph: killed by Achilles (20.459).</note>
 </person>
 
 <person xml:id="Iphitus1">
-    <persName>Iphitus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Iphitos</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:iphitus-2</idno>
+    <persName type="citable" xml:lang="en">Iphitus</persName>
+    <persName type="citable" xml:lang="en">Iphitos</persName>
+    <persName type="citable" xml:lang="grc">Ἴφιτος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Iphitus" ref="snap:FatherOf" passive="#Schedius"><desc>father of Schedius</desc></relation>
+        <relation active="#Iphitus" ref="snap:FatherOf" passive="#Epistrophus"><desc>father of Epistrophus</desc></relation>
+    </listBibl>
 <note>father of Schedius and Epistrophus (Achaean warriors).</note>
 </person>
 
 <person xml:id="Iphitus2">
-    <persName>Iphitus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Iphitos</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:iphitus-2</idno>
+    <persName type="citable" xml:lang="en">Iphitus</persName>
+    <persName type="citable" xml:lang="en">Iphitos</persName>
+    <persName type="citable" xml:lang="grc">Ἴφιτος</persName>
     <affiliation>Troy</affiliation>
-<note>father of Arkheptolemos (a Trojan warrior).</note>
+    <note>father of Archeptolemus (a Trojan warrior).</note>
 </person>
 
 
 <person xml:id="Isander">
-    <persName>Isander</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:isander-1</idno>
+    <persName type="citable" xml:lang="en">Isander</persName>
+    <persName type="citable" xml:lang="grc">Ἴσανδρος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Isander" ref="snap:SonOf" passive="#Bellerophon"><desc>son of Bellerophon</desc></relation>
+    </listBibl>
 <note>son of Bellerophon (6.254); killed by Ares (6.260).</note>
 </person>
 
 <person xml:id="Isus">
-    <persName>Isus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Isus_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:hyrtacus-1</idno>
+    <persName type="citable" xml:lang="en">Isus</persName>
+    <persName type="citable" xml:lang="grc">Ἶσος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Isus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+    </listBibl>
 <note>bastard son of Priam, Trojan warrior: killed by Agamemnon (11.110).</note>
 </person>
 
 <person xml:id="Ithaemenes">
-    <persName>Ithaemenes</persName>
+    <persName type="citable" xml:lang="en">Ithaemenes</persName>
+    <persName type="citable" xml:lang="grc">Ἰθαιμένης</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Ithaemenes" ref="snap:FatherOf" passive="#Sthenelus"><desc>father of Sthenelaus</desc></relation>
+    </listBibl>
 <note>father of Sthenelaus (Trojan warrior).</note>
 </person>
 
 <person xml:id="Itymoneus">
-    <persName>Itymoneus</persName>
+    <persName type="citable" xml:lang="en">Itymoneus</persName>
+    <persName type="citable" xml:lang="grc">Ἰτυμονεύς</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Itymoneus" ref="snap:SonOf" passive="#Hypeirochus"><desc>son of Hypeirochus</desc></relation>
+    </listBibl>
 <note>son of Hypeirochus, from Elis: killed by Nestor (11.761).</note>
 </person>
 
 <person xml:id="Ixion">
-    <persName>Ixion</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ixion</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ixion-1</idno>
+    <persName type="citable" xml:lang="en">Hyrtacus</persName>
+    <persName type="citable" xml:lang="grc">Ἰξίων</persName>
 <note>husband of a woman loved by Zeus (14.378).</note>
 </person>
 
+
+
 <person xml:id="Jason">
-    <persName>Jason</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Jason</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:jason-1</idno>
+    <persName type="citable" xml:lang="en">Jason</persName>
+    <persName type="citable" xml:lang="grc">Ἰάσων</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Jason" ref="snap:FatherOf" passive="#Euneus"><desc>father of Euneos</desc></relation>
+    </listBibl>
 <note>father of Euneos.</note>
 </person>
+
+
+
+
+
 
 <person xml:id="Laerces">
     <persName>Laerces</persName>
