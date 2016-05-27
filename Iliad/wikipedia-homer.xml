@@ -182,7 +182,7 @@
                   <persName xml:lang="grc">Πάτροκλος</persName>
                 </person>
 
-               <person xml:id="Phoenix">
+               <person xml:id="Phoenix1">
                    <idno type="wikipedia">http://en.wikipedia.org/wiki/Phoenix_(son_of_Amyntor)</idno>
                    <idno type="smith"> http://data.perseus.org/people/smith:phoenix-bio-1</idno>
                   <idno type="wikidata">https://www.wikidata.org/wiki/Q1061747</idno>
@@ -199,6 +199,7 @@
                      <bibl/>
                      <relation active="#Teucer" ref="snap:BrotherOf snap:HalfFamilyRelationship" passive="#Ajax">
                      <desc>half-brother of Ajax</desc></relation></listBibl>
+                   <note>bastard son of Telamon, an Achaean warrior: kills Aretaon (6.36); returns to battle, kills Orsilochos, Ormenus, Ophelestes, Daitor, Chromius, Lycophontes, Amopaon, Melanippus, praised by Agamemnon (8.312 ff); complains how hard Hector is to hit (8.341); kills Gorgythion (8.353); kills Arkheptolemos (8.363); wounded by Hector (8.380); goes with Telamonian Ajax to help Menestheus (12.407); wounds Glaucus with an arrow (12.425); moves to attack Sarpedon, hits him with an arrow (12.441 ff); encouraged by Poseidon as Calchas (13.104); kills Imbrius (13.198 ff); kills Prothon and Periphetes (14.602); collects the best troops to fight Hector (15.359); kills Cleitus (15.519); Zeus breaks his bow string, he complains to Ajax (15.541 ff); enters the archery contest (23.1058).</note>
                </person>
 
                <person xml:id="Aeneas">
@@ -292,7 +293,13 @@
                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1205276</idno>
                   <persName type="citable" xml:lang="en">Polydamas</persName>
                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+                   <listBibl>
+                       <bibl/>
+                       <relation active="#Polydamas" ref="snap:SonOf" passive="#Panthous"><desc>son of Panthous</desc></relation>
+                   </listBibl>
+                   <note>son of Panthous, Trojan warrior: preparing for battle (11.59); advises Hector on tactics to assault the ditch (12.61); one of the leaders in the attack on the wall (12.92); with troops in perplexity by the ditch (12.204); advice to Hector to withdraw in face of Zeus' omen (12.220); advises Hector to attack with best men (13.861); goes with Hector and others to the centre of the fight (13.936); rallies around wounded Hector (14.497); kills Prothonor, boasts about it (14.523 ff); stops horses of dead Cleitus (15.531); kills Mecistus (15.399); kills Otus (15.610); attacked by Meges, saved by Apollo (15.611); wounds Peneleus (17.731); advises returning to the city, warns what happens if Achilles returns to fight, criticized by Hector (18.305 ff).</note>
                </person>
+
 
                <person xml:id="Priam">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Priam</idno>
@@ -310,6 +317,7 @@
                      <relation active="#Priam" ref="snap:FatherOf" passive="#Hector"><desc>father of Hector</desc></relation>
                      <relation active="#Priam" ref="snap:FatherOf" passive="#Paris"><desc>father of Paris</desc></relation>
                   </listBibl>
+                   <note>king of Troy, husband of Hecuba, father of Hector and numerous others</note>
                </person>
 
                <person xml:id="Sarpedon">
@@ -322,6 +330,7 @@
                      <bibl/>
                      <relation active="#Sarpedon" ref="snap:SonOf" passive="#Zeus"><desc>Son of Zeus</desc></relation>
                   </listBibl>
+                   <note>son of Zeus and Laaodamia, leader of the Lycians, Trojan allies: in Trojan display of forces: (2.960); complains of Hector's treatment of allies (5.558); challenged by Tlepolemos, kills him (5.733 ff); wounded in the thigh (5.767); appeals to Hector (5.788); has spear removed (5.800); story of his birth (6.255); leads allies in assault on the wall (12.106); stirred to action by Zeus (12.315); speech to Glaucus on the warrior ethic (12.332); upset at wounding of Glaucus, keeps fighting, kills Alcmaon, pulls down a section of the parapet (12.431 ff); hit by an arrow from Teucer, withdraws, calls to his Lycians (12.441); helps defend wounded Hector (14.498); Zeus foretells his death (15.82); rallies Lycians against Patroclus, goes against him, gods decide he must die, fights, hits one of Patroclus' horses, and dies (16.489 ff); dying words to Glaucus (16.571 ff); struggle over his body (16.657 ff); condition of his body in the fight (16.744); body taken by Apollo, given to Sleep and Death, put in Lycia (16.790 ff); his armour set up as prize for hand to hand fighting (23.985).</note>
                </person>
 
                <person xml:id="Laertes">
@@ -358,7 +367,7 @@
                      <relation active="#Telemachus" ref="snap:SonOf" passive="#Odysseus"><desc>son of Odysseus</desc></relation>
                      <relation active="#Telemachus" ref="snap:SonOf" passive="#Penelope"><desc>son of Penelope</desc></relation>
                   </listBibl>
-                  
+                   <note>son of Odysseus: mentioned by Odysseus (2.307).</note>
                </person>
 
                <person xml:id="Amphinomus">
@@ -492,6 +501,7 @@
                      <bibl/>
                      <relation active="#Poseidon" ref="snap:BrotherOf" passive="#Zeus"><desc>brother of Zeus</desc></relation>
                   </listBibl>
+                   <note>major Olympian god, brother of Zeus</note>
                </person>
 
                <person xml:id="Zeus" role="deity">
@@ -2317,6 +2327,7 @@
                     <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Panthous</persName>
                     <persName type="citable" xml:lang="grc">Πάνθοος</persName>
+                    <note>a Trojan senior statesman: with Priam at the Scaean Gates, observes Helen (3.161); father of Polydamas (15.522); father of Euphorbus (16.937).</note>
                 </person>
                 
                 <person xml:id="Pedasus">
@@ -2333,11 +2344,13 @@
                 
                 <person xml:id="Peirous">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Peirous</idno>
-                    
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3905648</idno>
                     <persName type="citable" xml:lang="en">Peirous</persName>
                     <persName type="citable" xml:lang="grc">Πείροος</persName>
+                    <note>son of Imbrasus, leader of Thracians, part of Achaean forces: kills Diores (4.598); killed by Thoas (4.608).</note>
                 </person>
+                
+                
                 
                 <person xml:id="Pelagon">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pelagon</idno>
@@ -2349,6 +2362,7 @@
                         <bibl/>
                         <relation active="#Pelagon" ref="FatherOf" passive="#Asteropaios"><desc>father of Asteropaios</desc></relation>
                     </listBibl>
+                    <note>alleged father of Asteropaeus (21.169).</note>
                 </person>
                 
                 <person xml:id="Peneleos">
@@ -2393,11 +2407,11 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q212827</idno>
                     <persName type="citable" xml:lang="en">Philoctetes</persName>
                     <persName type="citable" xml:lang="grc">Φιλοκτήτης</persName>
+                    <note>leader of troops from parts of Thessaly: left on Lemnos before reaching Troy (2.790).</note>
                 </person>
                 
                 <person xml:id="Phorcys" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phorcys</idno>
-                    
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q200382</idno>
                     <persName type="citable" xml:lang="en">Phorcys</persName>
                     <persName type="citable" xml:lang="grc">Φόρκυς</persName>
@@ -2413,6 +2427,7 @@
                         <bibl/>
                         <relation active="#Phorcys2" ref="SonOf" passive="#Phaenops"><desc>son of Phaenops</desc></relation>
                     </listBibl>
+                    <note>son of Phaenops, leader of Phrygians (Trojan allies): in Trojan display of forces (2.945); encouraged by Hector (17.281); killed by Telamonian Ajax (17.399).</note>
                 </person>
                 
                 <person xml:id="Phylas">
@@ -2453,6 +2468,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q871361</idno>
                     <persName type="citable" xml:lang="en">Protesilaus</persName>
                     <persName type="citable" xml:lang="grc">Πρωτεσίλαος</persName>
+                    <note>leader of troops from Thessaly (part of Achaean forces): killed while landing at Troy before anyone else (2.771).</note>
                 </person>
                 
                 <person xml:id="Polites">
@@ -2478,6 +2494,7 @@
                         <relation active="#Polites2" ref="SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
                         <relation active="#Polites2" ref="SonOf" passive="#Hecuba"><desc>son of Hecuba</desc></relation>
                     </listBibl>
+                    <note>son of Priam: Iris takes on his form (2.868); his excellence in running (2.870); helps Dephobus away from the battle (13.640); kills Echius (15.400); cursed by Priam (24.311).</note>
                 </person>
                 
                 <person xml:id="Polybus">
@@ -2491,6 +2508,7 @@
                         <relation active="#Polybus" ref="SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
                         <relation active="#Polybus" ref="SonOf" passive="#Theano"><desc>son of Theano</desc></relation>
                     </listBibl>
+                    <note>son of Antentor, Trojan warrior: preparing troops for battle (11.61).</note>
                 </person>
                 
                 <person xml:id="Promachus">
@@ -2500,6 +2518,7 @@
                     <affiliation ref="http://pleiades.stoa.org/places/540689">Boeotia</affiliation>
                     <persName type="citable" xml:lang="en">Promachus</persName>
                     <persName type="citable" xml:lang="grc">Πρόμαχος</persName>
+                    <note>a Boeotian warrior with Achaean forces: killed by Acamas (14.555).</note>
                 </person>
                 
                 <person xml:id="Prothoenor">
@@ -2516,6 +2535,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1241841</idno>
                     <persName type="citable" xml:lang="en">Pylaemenes</persName>
                     <persName type="citable" xml:lang="grc">Πυλαιμένης</persName>
+                    <note>leader of Paphlagonian troops (part of Trojan forces): in display of Trojan forces (2.932); killed by Menelaus (5.675).</note>
                 </person>
                 
                 <person xml:id="Pyraechmes">
@@ -2524,6 +2544,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1199200</idno>
                     <persName type="citable" xml:lang="en">Pyraechmes</persName>
                     <persName type="citable" xml:lang="grc">Πυραίχμης </persName>
+                    <note>leader of troops from Paeonia (Trojan allies): in Trojan display of forces (2.929); killed by Patroclus (16.340).</note>
                 </person>
                 
                 <person xml:id="Peisenor">
@@ -2535,7 +2556,9 @@
                     <listBibl>
                         <bibl/>
                         <relation active="#Peisenor" ref="GrandfatherOf" passive="#Eurycleia"><desc>grandfather of Eurycleia</desc></relation>
+                        <relation active="#Peisenor" ref="FatherOf" passive="#Cleitus"><desc>father of Cleitus</desc></relation>
                     </listBibl>
+                    <note>father of Cleitus (Trojan warrior).</note>
                 </person>
                 
                 <person xml:id="Peisistratus">
@@ -2561,6 +2584,13 @@
                         <relation active="#Perimedes" ref="Bond" passive="#Odysseus"><desc>shipmate of Odysseus</desc></relation>
                     </listBibl>
                 </person>
+                
+                <person xml:id="Perimedes">
+                    <persName>Perimedes</persName>
+                    <note>father of Schedius (Achaean warrior).</note>
+                </person>
+                
+                
                 
                 <person xml:id="Phemius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phemius</idno>
@@ -2601,6 +2631,7 @@
                         <bibl/>
                         <relation active="#Polyphemus" ref="SonOf" passive="#Poseidon"><desc>son of Poseidon</desc></relation>
                     </listBibl>
+                    <note>mentioned as an old comrade by Nestor (1.294).</note>
                 </person>
                 
                 <person xml:id="Pontonous">
@@ -2643,6 +2674,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q748100</idno>
                     <persName type="citable" xml:lang="en">Stentor</persName>
                     <persName type="citable" xml:lang="grc">Στέντωρ </persName>
+                    <note>Achaean warrior, famous for his loud voice: Hera takes on his shape (5.896).</note>
                 </person>
                 
                 <person xml:id="Sthenelus">
@@ -2651,6 +2683,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1300254</idno>
                     <persName type="citable" xml:lang="en">Sthenelus</persName>
                     <persName type="citable" xml:lang="grc">Σθένελος</persName>
+                    <note>son of Capaneus, one of leaders of troops from the Argolid, special comrade of Diomedes: in catalogue of ships (2.641); upbraided by Agamemnon before battle, replies to Agamemnon (4.434 ff); pulls arrow from Diomedes (5.127); advises Diomedes to draw back (5.285); captures Aeneas' horses (5.377); removed from chariot by Athena (5.956); takes Nestor's horses (8.130); Diomedes says he'll stay with him if the army returns (9.57); collects Diomedes' prize in chariot race (23.622).</note>
                 </person>
                 
                 
@@ -2685,6 +2718,7 @@
                         <bibl/>
                         <relation active="#Talthybius" ref="Bond" passive="#Agamemnon"><desc>herard and friend of Agamemnon</desc></relation>
                     </listBibl>
+                    <note>one of the Achaean heralds: sent by Agamemnon to collect Briseis (1.356 ff); sent by Agamemnon to fetch sacrifical animals (3.132); ordered by Agamemnon to fetch Machaon to heal Menelaus, does so (4.226 ff); helps Agamemnon at a sacrifice (19.327); takes a cauldron from Agamemnon (23.1103).</note>
                 </person>
                 
                 <person xml:id="Theano">
@@ -2697,6 +2731,7 @@
                         <bibl/>
                         <relation active="#Theano" ref="WifeOf" passive="#Antenor"><desc>wife of Antenor</desc></relation>
                     </listBibl>
+                    <note>daughter of Cisseus, wife of Antenor: raises a bastard son, Pedaeus, as her own (5.79); priestess of Athena in Troy (6.374); mother of Iphidamas (11.254).</note>
                 </person>
                 
                 <person xml:id="Thersites">
@@ -2705,7 +2740,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1045730</idno>
                     <persName type="citable" xml:lang="en">Thersites</persName>
                     <persName type="citable" xml:lang="grc">Θερσίτης</persName>
-                   
+                    <note>a common Achaean soldier: insults Agamemnon and is beaten by Odysseus (2.247 ff).</note>
                 </person>
                 
                 <person xml:id="Thestor">
@@ -2750,6 +2785,7 @@
                         <bibl/>
                         <relation active="#Thrasymedes" ref="SonOf" passive="#Nestor"><desc>son of Nestor</desc></relation>
                     </listBibl>
+                    <note>son of Nestor, Achaean warrior: leads out the sentinels (9.100); attends council meeting (10.234); volunteers for spy mission (10.271); gives Diomedes a sword (10.303); Nestor takes his shield (14.11); kills Maris (16.377); position in the battle (17.477); sent by Menelaus to help (17.860); helps fetch gifts for Achilles (19.295).</note>
                 </person>
                 
                 <person xml:id="Thymoetes">
@@ -2762,6 +2798,7 @@
                         <bibl/>
                         <relation active="#Thymoetes" ref="SonOf" passive="#Laomedon"><desc>son of Laomedon</desc></relation>
                     </listBibl>
+                    <note>senior Trojan statesman: with Priam at the Scaean Gates, observing Helen (3.161).</note>
                 </person>
                 
                 <person xml:id="Laomedon">
@@ -2787,6 +2824,7 @@
                         <bibl/>
                         <relation active="#Tlepolemus" ref="SonOf" passive="#Heracles"><desc>son of Heracles</desc></relation>
                     </listBibl>
+                    <note>son of Hercules and Astyocheia, leader of troops from Rhodes, part of Achaean army: in catalogue of ships (2.728); story of his murder of Licymnius (2.731); challenges Sarpedon, fights, and dies (5.733 ff).</note>
                 </person>
                 
                 <person xml:id="Theoclymenus">
@@ -2818,6 +2856,7 @@
                         <bibl/>
                         <relation active="#Thetis" ref="MotherOf" passive="#Achilles"><desc>mother of Achilles</desc></relation>
                     </listBibl>
+                    <note>divine sea nymph, mother of Achilles, daughter of the old man of the sea: responds to Achilles' prayer for help, visits him (1.396 ff); story of her saving Zeus from other gods (1.439); laments Achilles' fate, offers to seek Zeus help for him (1.460); visits Zeus, ask for help for Achilles (1.551 ff); Athena complains about Zeus' favour to her (8.431); told Achilles his fate (9.516); took in Epeigeus as a suppliant (16.670); doesn't tell Achilles of Patroclus' death (17.511); hears Achilles' cry of grief, leads the lament in the sea (18.44 ff); goes to Achilles (18.79); promises to get armour for Achilles, sends her sisters away, goes to Olympus (18.158 ff); visits Hephaestus to get weapons for Achilles (18.458 ff); helped Hephaestus (18.502); tells Hephaestus Achilles' story, asks for new weapons (18.529); leaves Olympus with armour for Achilles (18.747); gives Achilles the divine armour (19.3 ff); tells Achilles to renounce his anger (19.41); meets Iris who summons her to Zeus, goes to Olympus, hear Zeus' solution to problem of Hector's body (24.103); receives instructions from Zeus, visits Achilles, tells him to accept a ransom (24.128).</note>
                 </person>
                 
                 <person xml:id="Ucalegon">
@@ -7165,11 +7204,11 @@
 <note>divine father of Cronos.</note>
 </person>
 
-<person xml:id="Paeon" role="deity"><persName>Paeon</persName>
+<person xml:id="Paeon1" role="deity"><persName>Paeon</persName>
 <note>god of healing: cures Hades of a wound (5.475); told to cure Ares, does so (5.1031).</note>
 </person>
 
-<person xml:id="Paeon"><persName>Paeon</persName>
+<person xml:id="Paeon2"><persName>Paeon</persName>
 <note>father of Agastrophus (Trojan warrior).</note>
 </person>
 
@@ -7205,9 +7244,6 @@
 <note>father of Epeius (Achaean warrior).</note>
 </person>
 
-<person xml:id="Panthous"><persName>Panthous</persName>
-<note>a Trojan senior statesman: with Priam at the Scaean Gates, observes Helen (3.161); father of Polydamas (15.522); father of Euphorbus (16.937).</note>
-</person>
 
 <person xml:id="Paphlagonians"><persName>Paphlagonians</persName>
 <note>Trojan allies: in display of Trojan forces (2.933); take Harpalion away from battle (13.782).</note>
@@ -7249,9 +7285,6 @@
 <note>father of Polypoetes (Achaean warrior): mentioned as an old colleague by Nestor (1.290); war on the centaurs (2.815); son of Zeus and the wife of Ixion (14.378).</note>
 </person>
 
-<person xml:id="Peirous"><persName>Peirous</persName>
-<note>son of Imbrasus, leader of Thracians, part of Achaean forces: kills Diores (4.598); killed by Thoas (4.608).</note>
-</person>
 
 <person xml:id="Peisander1"><persName>Peisander</persName>
 <note>son of Antimachus, Trojan warrior: killed by Agamemnon (11.135 ff).</note>
@@ -7265,13 +7298,6 @@
 <note>son of Maemalus, Achaean warrior, one of the commanders of the Myrmidons (16.230).</note>
 </person>
 
-<person xml:id="Peisenor"><persName>Peisenor</persName>
-<note>father of Cleitus (Trojan warrior).</note>
-</person>
-
-<person xml:id="Pelagon"><persName>Pelagon</persName>
-<note>alleged father of Asteropaeus (21.169).</note>
-</person>
 
 <person xml:id="Pelegon1"><persName>Pelegon</persName>
 <note>one of the Achaean warrior leaders serving under Nestor: receives his orders (4.346).</note>
@@ -7313,9 +7339,6 @@
 <note>father of Borus.</note>
 </person>
 
-<person xml:id="Perimedes"><persName>Perimedes</persName>
-<note>father of Schedius (Achaean warrior).</note>
-</person>
 
 <person xml:id="Perimus"><persName>Perimus</persName>
 <note>son of Megas, Trojan warrior: killed by Patroclus (16.809).</note>
@@ -7401,19 +7424,18 @@
 <note>father of Demuchus (a Trojan warrior).</note>
 </person>
 
-<person xml:id="Philoctetes"><persName>Philoctetes</persName>
-<note>leader of troops from parts of Thessaly: left on Lemnos before reaching Troy (2.790).</note>
-</person>
 
 <person xml:id="Phlegyans"><persName>Phlegyans</persName>
 <note>people fighting against Ephyreans (13.366).</note>
 </person>
 
-<person xml:id="PHOENIX"><persName>PHOENIX</persName>
+<person xml:id="Phoenix2">
+    <persName>PHOENIX</persName>
 <note>son of Amyntor, old companion and tutor of Achilles, Achaean warrior: proposed as delegate to Achilles (9.206); visits Achilles with the Achaean delegation (9.222 ff); Achilles proposes he spend the night with him (9.535); responds to Achilles, tells of their special relationship, his family strife, story of Meleager (9.541 ff); stays with Achilles (9.837); leader of a contingent of Myrmidons (16.233); Athena takes on his form (17.677); stays with Achilles to mourn over Patroclus (19.379); set as umpire in the chariot race (23.440).</note>
 </person>
 
-<person xml:id="Phoenix2"><persName>Phoenix</persName>
+<person xml:id="Phoenix3">
+    <persName>Phoenix</persName>
 <note>father of woman loved by Zeus (14.383).</note>
 </person>
 
@@ -7425,9 +7447,6 @@
 <note>father of Ilioneus (Trojan warrior): rich man, loved by Hermes (14.570).</note>
 </person>
 
-<person xml:id="Phorcys"><persName>Phorcys</persName>
-<note>son of Phaenops, leader of Phrygians (Trojan allies): in Trojan display of forces (2.945); encouraged by Hector (17.281); killed by Telamonian Ajax (17.399).</note>
-</person>
 
 <person xml:id="Phradmon"><persName>Phradmon</persName>
 <note>father of Agelaos (Trojan warrior).</note>
@@ -7497,9 +7516,6 @@
 <note>son of Etion, Trojan warrior: killed by Menelaus (17.700).</note>
 </person>
 
-<person xml:id="Polites"><persName>Polites</persName>
-<note>son of Priam: Iris takes on his form (2.868); his excellence in running (2.870); helps Dephobus away from the battle (13.640); kills Echius (15.400); cursed by Priam (24.311).</note>
-</person>
 
 <person xml:id="Pollux"><persName>Pollux</persName>
 <note>brother of Helen: already dead at home (3.261).</note>
@@ -7507,10 +7523,6 @@
 
 <person xml:id="Polyaimon"><persName>Polyaimon</persName>
 <note>father of Amopaon (Trojan warrior).</note>
-</person>
-
-<person xml:id="Polybus"><persName>Polybus</persName>
-<note>son of Antentor, Trojan warrior: preparing troops for battle (11.61).</note>
 </person>
 
 <person xml:id="Polydora"><persName>Polydora</persName>
@@ -7525,9 +7537,6 @@
 <note>one of Nestor's old opponents, beaten by him in the spear throw (23.787).</note>
 </person>
 
-<person xml:id="POLYDAMAS"><persName>POLYDAMAS</persName>
-<note>son of Panthous, Trojan warrior: preparing for battle (11.59); advises Hector on tactics to assault the ditch (12.61); one of the leaders in the attack on the wall (12.92); with troops in perplexity by the ditch (12.204); advice to Hector to withdraw in face of Zeus' omen (12.220); advises Hector to attack with best men (13.861); goes with Hector and others to the centre of the fight (13.936); rallies around wounded Hector (14.497); kills Prothonor, boasts about it (14.523 ff); stops horses of dead Cleitus (15.531); kills Mecistus (15.399); kills Otus (15.610); attacked by Meges, saved by Apollo (15.611); wounds Peneleus (17.731); advises returning to the city, warns what happens if Achilles returns to fight, criticized by Hector (18.305 ff).</note>
-</person>
 
 <person xml:id="Polydorus"><persName>Polydorus</persName>
 <note>son of Priam: killed by Achilles (20.488).</note>
@@ -7549,9 +7558,6 @@
 <note>leader of an expedition against Thebes: visit to Mycenae with Tydeus to raise troops (4.441).</note>
 </person>
 
-<person xml:id="Polyphemus"><persName>Polyphemus</persName>
-<note>mentioned as an old comrade by Nestor (1.294).</note>
-</person>
 
 <person xml:id="Polyphetes"><persName>Polyphetes</persName>
 <note>Trojan warrior: goes with Hector and others to the centre of the battle (13.937).</note>
@@ -7573,33 +7579,19 @@
 <note>great-grandfather of Diomedes: his family (14.140).</note>
 </person>
 
-<person xml:id="POSEIDON" role="deity"><persName>POSEIDON</persName>
-<note>major Olympian god, brother of Zeus, commonly called &quot;Earthshaker&quot; or &quot;Encircler of the Earth&quot;: story of his attempt to tie Zeus up (1.443); his sacred grove at Onchestus mentioned (2.582); objects to the Achaeans building the wall (7.518); upbraids Hera for her suggestion that they intervene in the war (8.241); unyokes Zeus' horses (8.512); saved the two Molines (11.862); destroys Achaean wall in future (12.18 ff); Poseidon moves down to battle, first visiting his palace in the sea (13.12 ff); rallies Achaean in the form of Calchas (13.46 ff); encourages Teucer, Letus, Peneleous, Thoas, Depyrus, Meriones, Antilochus (13.103); rouses Achaeans (13.251); meets Idomeneus in form of Thoas (13.255); at cross purposes with Zeus,, works in secret (13.418); puts a spell on Alcathous (13.522); walks among the Achaeans, talks to Agamemnon in the form of an old man (14.163); lets out a roar, encouraging Achaeans (14.177); told by Sleep that Zeus is not awake, rouses Achaeans, leads them into battle (14.420 ff); Zeus sends Iris with order for him to leave the battle (15.187 ff); complains about Zeus, indicates the division of power in heaven (15.219); leaves the battle (15.263); asks Zeus his purposes in an assembly (20.14); leaves Olympus to help Achaeans (20.42); shakes the earth in the battle (20.69); balances Apollo in battle (20.78); talks with Hera about helping Achilles, takes them to sit on the wall built for him earlier (20.139 ff); saves Aeneas from Achilles, puts mist on Achilles eyes (20.346 ff); tells Aeneas not to fight Achilles (20.392); removes mist from Achilles eyes (20.405); his delight in sacrifice (20.485); pledges help to Achilles trapped by the river (21.344); tries to get Apollo to attack him, tells story of their hired labour for Laomedon (21.523 ff); objects to gods' plans to have Hermes steal Hector's body (24.27).</note>
-</person>
-
 <person xml:id="Prayers"><persName>Prayers</persName>
 <note>daughters of Zeus: walk behind Folly (9.628).</note>
 </person>
 
-<person xml:id="PRIAM"><persName>PRIAM</persName>
-<note>king of Troy, husband of Hecuba, father of Hector and numerous others: mentioned by Hera (2.189); talks to Helen about Achaean troops (3.175 ff); advised by Idaios to administer oaths, goes out to the armies (3.276 ff); speaks to both armies and returns (3.341); description of his palace (6.307); tells Trojans he's send Paris' offer to return the goods to Agamemnon (7.427); orders Trojans not to lament while collecting the dead (7.499); honours Imbrius (13.205); promises Cassandra to Orthryoneus (13.446); his family tree (20.283); told Polydorus not to fight (20.490); observes Achilles, instructs gatekeepers (21.634); observes Hector isolated outside the wall, begs him to come inside (22.32); predicts his fate (22.77); reaction to sight of dead Hector (22.508 ff); lamenting in Troy, visited by Iris with instructions from Zeus (24.200); gives instructions to sons to prepare a cart, speaks to Hecuba about his trip (24.236 ff); picks out material for ransom to take to Achilles (24.287); chases Trojans from his courtyard, curses his sons (24.295); takes Hecuba's advice about making an offering to Zeus, prays to Zeus (24.372); afraid at meeting Hermes, talks to him (24.443 ff); enters Achilles' hut, pleads for the return of Hector (24.579 ff); his good and bad fortune (24.671); shares a meal with Achilles (24.771); asks Achilles for time to mourn Hector, collect wood (24.812); sleeps on Achilles' porch, woken up by Hermes (24.831); gets back to Troy (24.857); instructs Trojans to collect wood for Hector's pyre (24.957).</note>
-</person>
 
 <person xml:id="Proetus"><persName>Proetus</persName>
 <note>ancient king of Argos: hostility to Bellerophon (6.196).</note>
-</person>
-
-<person xml:id="Promachus"><persName>Promachus</persName>
-<note>a Boeotian warrior with Achaean forces: killed by Acamas (14.555).</note>
 </person>
 
 <person xml:id="Pronous"><persName>Pronous</persName>
 <note>Trojan warrior: killed by Patroclus (16.464).</note>
 </person>
 
-<person xml:id="Protesilaus"><persName>Protesilaus</persName>
-<note>leader of troops from Thessaly (part of Achaean forces): killed while landing at Troy before anyone else (2.771).</note>
-</person>
 
 <person xml:id="Prothonor"><persName>Prothonor</persName>
 <note>son of Areilycus, one of the Boeotian leaders in the Achaean force: in the catalogue of ships (2.571); killed by Polydamas (14.525).</note>
@@ -7629,9 +7621,6 @@
 <note>father of Eurymedon (aide to Agamemnon) (4.265).</note>
 </person>
 
-<person xml:id="Pylaemenes"><persName>Pylaemenes</persName>
-<note>leader of Paphlagonian troops (part of Trojan forces): in display of Trojan forces (2.932); killed by Menelaus (5.675).</note>
-</person>
 
 <person xml:id="Pylaeus"><persName>Pylaeus</persName>
 <note>son of Lethus, leader of troops from regions near Troy (part of Trojan army): in Trojan display of forces (2.923).</note>
@@ -7653,11 +7642,8 @@
 <note>Trojan warrior: killed by Polypoetes (12.194).</note>
 </person>
 
-<person xml:id="Pyraechmes"><persName>Pyraechmes</persName>
-<note>leader of troops from Paeonia (Trojan allies): in Trojan display of forces (2.929); killed by Patroclus (16.340).</note>
-</person>
 
-<person xml:id="Pyrasus2"><persName>Pyrasus</persName>
+<person xml:id="Pyrasus"><persName>Pyrasus</persName>
 <note>Trojan warrior: killed by Telamonian Ajax (11.554).</note>
 </person>
 
@@ -7697,9 +7683,6 @@
 <note>messenger from Zeus (2.109).</note>
 </person>
 
-<person xml:id="SARPEDON"><persName>SARPEDON</persName>
-<note>son of Zeus and Laaodamia, leader of the Lycians, Trojan allies: in Trojan display of forces: (2.960); complains of Hector's treatment of allies (5.558); challenged by Tlepolemos, kills him (5.733 ff); wounded in the thigh (5.767); appeals to Hector (5.788); has spear removed (5.800); story of his birth (6.255); leads allies in assault on the wall (12.106); stirred to action by Zeus (12.315); speech to Glaucus on the warrior ethic (12.332); upset at wounding of Glaucus, keeps fighting, kills Alcmaon, pulls down a section of the parapet (12.431 ff); hit by an arrow from Teucer, withdraws, calls to his Lycians (12.441); helps defend wounded Hector (14.498); Zeus foretells his death (15.82); rallies Lycians against Patroclus, goes against him, gods decide he must die, fights, hits one of Patroclus' horses, and dies (16.489 ff); dying words to Glaucus (16.571 ff); struggle over his body (16.657 ff); condition of his body in the fight (16.744); body taken by Apollo, given to Sleep and Death, put in Lycia (16.790 ff); his armour set up as prize for hand to hand fighting (23.985).</note>
-</person>
 
 <person xml:id="Satnius"><persName>Satnius</persName>
 <note>son of Enops and a Naiad nymph, Trojan warrior: killed by Olean Ajax (14.517).</note>
@@ -7781,17 +7764,12 @@
 <note>son of Bucolus, father of Iasus.</note>
 </person>
 
-<person xml:id="Stentor"><persName>Stentor</persName>
-<note>Achaean warrior, famous for his loud voice: Hera takes on his shape (5.896).</note>
-</person>
 
 <person xml:id="Sthenelaus"><persName>Sthenelaus</persName>
 <note>son of Ithaemenes, Trojan warrior: killed by Patroclus (16.682).</note>
 </person>
 
-<person xml:id="STHENELUS1"><persName>STHENELUS</persName>
-<note>son of Capaneus, one of leaders of troops from the Argolid, special comrade of Diomedes: in catalogue of ships (2.641); upbraided by Agamemnon before battle, replies to Agamemnon (4.434 ff); pulls arrow from Diomedes (5.127); advises Diomedes to draw back (5.285); captures Aeneas' horses (5.377); removed from chariot by Athena (5.956); takes Nestor's horses (8.130); Diomedes says he'll stay with him if the army returns (9.57); collects Diomedes' prize in chariot race (23.622).</note>
-</person>
+
 
 <person xml:id="Sthenelus2"><persName>Sthenelus</persName>
 <note>son of Perseus, father of Eurystheus (19.152).</note>
@@ -7813,9 +7791,6 @@
 <note>father of Mecisteus and grandfather of Euryalus.</note>
 </person>
 
-<person xml:id="TALTHYBIUS"><persName>TALTHYBIUS</persName>
-<note>one of the Achaean heralds: sent by Agamemnon to collect Briseis (1.356 ff); sent by Agamemnon to fetch sacrifical animals (3.132); ordered by Agamemnon to fetch Machaon to heal Menelaus, does so (4.226 ff); helps Agamemnon at a sacrifice (19.327); takes a cauldron from Agamemnon (23.1103).</note>
-</person>
 
 <person xml:id="Tecton"><persName>Tecton</persName>
 <note>son of Harmon, father of Phereclus (Trojan warrior).</note>
@@ -7825,9 +7800,7 @@
 <note>father of the Greater Ajax and Teucer, both important Achaean warriors: father who cared for Teucer (8.331).</note>
 </person>
 
-<person xml:id="Telemachus"><persName>Telemachus</persName>
-<note>son of Odysseus: mentioned by Odysseus (2.307).</note>
-</person>
+
 
 <person xml:id="Terror"><persName>Terror</persName>
 <note>son of Ares, divine presence active in battle: accompanies Ares and Athena into battle (4.513); depicted on Agamemnon's shield (11.38); (13.362); told to get Ares' horses ready (15.143).</note>
@@ -7837,9 +7810,6 @@
 <note>wife of Oceanus: raised Hera (14.242, 357).</note>
 </person>
 
-<person xml:id="TEUCER"><persName>TEUCER</persName>
-<note>bastard son of Telamon, an Achaean warrior: kills Aretaon (6.36); returns to battle, kills Orsilochos, Ormenus, Ophelestes, Daitor, Chromius, Lycophontes, Amopaon, Melanippus, praised by Agamemnon (8.312 ff); complains how hard Hector is to hit (8.341); kills Gorgythion (8.353); kills Arkheptolemos (8.363); wounded by Hector (8.380); goes with Telamonian Ajax to help Menestheus (12.407); wounds Glaucus with an arrow (12.425); moves to attack Sarpedon, hits him with an arrow (12.441 ff); encouraged by Poseidon as Calchas (13.104); kills Imbrius (13.198 ff); kills Prothon and Periphetes (14.602); collects the best troops to fight Hector (15.359); kills Cleitus (15.519); Zeus breaks his bow string, he complains to Ajax (15.541 ff); enters the archery contest (23.1058).</note>
-</person>
 
 <person xml:id="Teutamus"><persName>Teutamus</persName>
 <note>father of Lethus, grandfather of Hippothous and Pylaeus (Trojan warriors).</note>
@@ -7873,9 +7843,6 @@
 <note>singer from Thrace: punishment by the Muses (2.671).</note>
 </person>
 
-<person xml:id="Theano"><persName>Theano</persName>
-<note>daughter of Cisseus, wife of Antenor: raises a bastard son, Pedaeus, as her own (5.79); priestess of Athena in Troy (6.374); mother of Iphidamas (11.254).</note>
-</person>
 
 <person xml:id="Thebaios"><persName>Thebaios</persName>
 <note>father of Eniopeus (Trojan warrior).</note>
@@ -7889,9 +7856,6 @@
 <note>Trojan warrior from Paeonia: encouraged by Hector (17.280); killed by Achilles (21.249).</note>
 </person>
 
-<person xml:id="Thersites"><persName>Thersites</persName>
-<note>a common Achaean soldier: insults Agamemnon and is beaten by Odysseus (2.247 ff).</note>
-</person>
 
 <person xml:id="Theseus"><persName>Theseus</persName>
 <note>son of Aegeus, mentioned by Nestor as an old comrade (1.294).</note>
@@ -7913,9 +7877,6 @@
 <note>son of Enops, Trojan warrior: killed by Patroclus (16.467).</note>
 </person>
 
-<person xml:id="THETIS" role="deity"><persName>THETIS</persName>
-<note>divine sea nymph, mother of Achilles, daughter of the old man of the sea: responds to Achilles' prayer for help, visits him (1.396 ff); story of her saving Zeus from other gods (1.439); laments Achilles' fate, offers to seek Zeus help for him (1.460); visits Zeus, ask for help for Achilles (1.551 ff); Athena complains about Zeus' favour to her (8.431); told Achilles his fate (9.516); took in Epeigeus as a suppliant (16.670); doesn't tell Achilles of Patroclus' death (17.511); hears Achilles' cry of grief, leads the lament in the sea (18.44 ff); goes to Achilles (18.79); promises to get armour for Achilles, sends her sisters away, goes to Olympus (18.158 ff); visits Hephaestus to get weapons for Achilles (18.458 ff); helped Hephaestus (18.502); tells Hephaestus Achilles' story, asks for new weapons (18.529); leaves Olympus with armour for Achilles (18.747); gives Achilles the divine armour (19.3 ff); tells Achilles to renounce his anger (19.41); meets Iris who summons her to Zeus, goes to Olympus, hear Zeus' solution to problem of Hector's body (24.103); receives instructions from Zeus, visits Achilles, tells him to accept a ransom (24.128).</note>
-</person>
 
 <person xml:id="Thoas1"><persName>Thoas</persName>
 <note>son of Andraemon, leader of Aetolians (part of Achaean army): in catalogue of ships (2.714); kills Peirous ; volunteers to fight Hector (7.201); encouraged by Poseidon in form of Calchas (13.105); Poseidon takes on his form (13.262); sees restored Hector, proposes the best men remain in battle and the rest go back to the ships (15.336); helps fetch gifts for Achilles (19.296).</note>
@@ -7957,10 +7918,6 @@
 <note>Trojan warrior from Paeonia: killed by Achilles (21.250).</note>
 </person>
 
-<person xml:id="Thrasymedes"><persName>Thrasymedes</persName>
-<note>son of Nestor, Achaean warrior: leads out the sentinels (9.100); attends council meeting (10.234); volunteers for spy mission (10.271); gives Diomedes a sword (10.303); Nestor takes his shield (14.11); kills Maris (16.377); position in the battle (17.477); sent by Menelaus to help (17.860); helps fetch gifts for Achilles (19.295).</note>
-</person>
-
 <person xml:id="Thrasymelus"><persName>Thrasymelus</persName>
 <note>Trojan warrior, companion of Sarpedon: killed by Patroclus (16.542).</note>
 </person>
@@ -7973,9 +7930,6 @@
 <note>Trojan warrior: killed by Diomedes (11.364).</note>
 </person>
 
-<person xml:id="Thymoetes"><persName>Thymoetes</persName>
-<note>senior Trojan statesman: with Priam at the Scaean Gates, observing Helen (3.161).</note>
-</person>
 
 <person xml:id="Titans" role="deity group"><persName>Titans</persName>
 <note>gods imprisoned by Zeus in Tartarus (14.331).</note>
@@ -7985,9 +7939,6 @@
 <note>lover of Dawn (11.1); son of Laomedon (20.283).</note>
 </person>
 
-<person xml:id="Tlepolemus1"><persName>Tlepolemus</persName>
-<note>son of Hercules and Astyocheia, leader of troops from Rhodes, part of Achaean army: in catalogue of ships (2.728); story of his murder of Licymnius (2.731); challenges Sarpedon, fights, and dies (5.733 ff).</note>
-</person>
 
 <person xml:id="Tlepolemus2"><persName>Tlepolemus</persName>
 <note>son of Damastor, Trojan warrior: killed by Patroclus (16.485).</note>
@@ -8009,11 +7960,11 @@
 <note>son of Priam: mentioned by Priam (24.320).</note>
 </person>
 
-<person xml:id="TROJANS"><persName>TROJANS</persName>
+<person xml:id="Trojans"><persName>TROJANS</persName>
 <note>inhabitants of Troy (thus separate from their allies): march out in formation (3.2); pray that the truce will hold (3.333, 355); their hatred for Paris (3.510); sense the gods will break the truce (4.98); move to battle in a confusion of languages (4.506); rallied by Ares (5.549); go out to collect their dead (7.490); move out against Achaeans (8.63); given renewed force by Zeus (8.391); prepare a feast and sacrifice in the plain (8.639); Dolon reveals their arrangement in camp (10.499); pushed back to city by Agamemnon (11.173 ff); advanced against Odysseus (11.471); organize themselves to attack the wall (12.89); charge the Achaeans by the wall (12.110); attempts to undermine the wall (12.274); following Hector to attack the ships (13.42); advance against Achaeans inside the wall (13.160); charge Achaeans en masse (13.401); attack Achaeans in close formation (13.946); retreat from the ships (15.1); Zeus foretells the future of the war (15.74 ff); attack Achaeans (15.364); fight their way to the ships (15.453); attack the ships (15.693); driven back from the ships (16.346); response to Sarpedon's death (16.638); charge Ajax guarding the body of Patroclus (17.301); charge Achaeans again over body of Patroclus (17.339); encourage each other over Patroclus' body (17.526); terrifed by Achilles shout (18.275); hold assembly to decide what to do (18.299 ff); reject Polydamas' advice (18.388); escape Achilles into the city (21.729); reaction to sight of dead Hector (22.508); rush out to see Priam returning with Hector (24.873); collect wood for Hector's pyre, give him funeral rites (24.964).</note>
 </person>
 
-<person xml:id="Tros1"><persName>Tros</persName>
+<person xml:id="Tros"><persName>Tros</persName>
 <note>son of Alastor, Trojan warrior: killed by Achilles (20.555).</note>
 </person>
 
