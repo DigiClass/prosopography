@@ -473,7 +473,7 @@
                <person xml:id="Hermes" role="deity">
                   <idno type="wikipedia">http://en.wikipedia.org/wiki/Hermes</idno>
                    <idno type="smith"> http://data.perseus.org/people/smith:hermes-bio-1</idno>
-                   <idno type="wikidata">//www.wikidata.org/wiki/Q41484</idno>
+                   <idno type="wikidata">https://www.wikidata.org/wiki/Q41484</idno>
                   <persName type="citable" xml:lang="en">Hermes</persName>
                   <occupation>messenger of the gods</occupation>
                    <note>divine son of Zeus, called &quot;killer of Argus&quot;: receives royal staff from Zeus, passes it on to Pelops (2.119); rescued Ares (5.460); love for Phorbas (14.571); had sex with Polymele, fathered Eudorus (16.215); leaves Olympus to help the Achaeans (20.43); opposes Leto in battle (20.84); declines to fight with Leto (21.600); gods urge him to steal Hector's body (24.25); instructed by Zeus to guide Priam to Achilles, sets off to meet Priam (24.412 ff); meets Priam and Idaios, reassures them (24.446); takes over Priam's chariot, takes him to Achilles hut, putting guards to sleep (24.546); reveals his identity to Priam (24.566); wakes Priam up to take him back to Troy, leaves him (24.837).</note>
@@ -1042,7 +1042,7 @@
                 <person xml:id="Artemis" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Artemis</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:artemis-2</idno>
-                    <idno type="wikidata">//www.wikidata.org/wiki/Q39503</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q39503</idno>
                     <persName type="citable" xml:lang="en">Artemis</persName>
                    <persName type="citable" xml:lang="grc">Ἄρτεμις</persName>
                     <note>goddess, daughter of Zeus and Hera, sister of Apollo: taught Scamandrius to shoot (5.56); helps to restore Aeneas (5.530); killed Laodamia (6.262); killed Andromache's mother (6.522); incites Aetolians and Curetes to fight (9.667); invoked by Achilles (19.71); leaves Olympus to help the Trojans (20.48); opposed by Hera in battle (20.81); angry with Apollo for not fighting Poseidon, beaten by Hera (21.566); seeks consolation from Zeus (21.609); her slaughter of Niobe's daughters (24.750).</note>
@@ -1811,7 +1811,7 @@
                 <person xml:id="Heracles" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Heracles</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:heracles-1</idno>
-                    <idno type="wikidata">//www.wikidata.org/wiki/Q122248</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q122248</idno>
                     <persName type="citable" xml:lang="en">Heracles</persName>
                     <persName type="citable" xml:lang="en">Hercules</persName>
                    <persName type="citable" xml:lang="grc">Ἡρακλῆς</persName>
@@ -1825,7 +1825,7 @@
                 <person xml:id="Hades" role="deity">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Hades</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:hades-1</idno>
-                    <idno type="wikidata">//www.wikidata.org/wiki/Q41410</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q41410</idno>
                     <persName type="citable" xml:lang="en">Hades</persName>
                    <persName type="citable" xml:lang="grc">ᾍδης</persName>
                     <persName type="citable" xml:lang="en">Aidoneus</persName>
@@ -2586,7 +2586,15 @@
                 </person>
                 
                 <person xml:id="Perimedes">
-                    <persName>Perimedes</persName>
+                    <idno type="wikipedia">https://en.wikipedia.org/wiki/Perimedes</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:perimedes-1</idno>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1181060</idno>
+                    <persName type="citable" xml:lang="en">Perimedes</persName>
+                    <persName type="citable" xml:lang="grc">Περιμήδης</persName>
+                    <listBibl>
+                        <bibl/>
+                        <relation active="#Perimedes" ref="FatherOf" passive="#Schedius"><desc>father of Schedius</desc></relation>
+                    </listBibl>
                     <note>father of Schedius (Achaean warrior).</note>
                 </person>
                 
@@ -4016,7 +4024,8 @@
 </person>
 
 <person xml:id="Ate" role="deity">
-    <idno type="wikipedia">https://en.wikipedia.org/wiki/Atë</idno><idno type="wikidata">https://www.wikidata.org/wiki/Q210871</idno>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Atë</idno>
+    <idno type="wikidata">https://www.wikidata.org/wiki/Q210871</idno>
     <idno type="smith">http://data.perseus.org/people/smith:ate-1</idno>
     <persName type="citable" xml:lang="en">Ate</persName>
     <persName type="citable" xml:lang="en">Folly</persName>
@@ -4177,8 +4186,6 @@
 
 <person xml:id="Boreas" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Anemoi#Boreas</idno>
-    <!-- ? -->
-    <idno type="wikidata"/>
     <idno type="smith">http://data.perseus.org/people/smith:boreas-1</idno>
     <persName type="citable" xml:lang="en">Boreas</persName>
     <persName type="citable" xml:lang="en">North Wind</persName>
@@ -7923,7 +7930,7 @@
 </person>
 
 <person xml:id="Thyestes"><persName>Thyestes</persName>
-<note>brother of Atreus, thus uncle of Agamemnon and Menelaus, not a character in the <i>Iliad</i>: receives royal staff from Atreus, passes it on to Agamemnon (2.123).</note>
+<note>brother of Atreus, thus uncle of Agamemnon and Menelaus, not a character in the Iliad: receives royal staff from Atreus, passes it on to Agamemnon (2.123).</note>
 </person>
 
 <person xml:id="Thymbraeus"><persName>Thymbraeus</persName>
