@@ -2573,7 +2573,7 @@
                     </listBibl>
                 </person>
                 
-                <person xml:id="Perimedes">
+                <person xml:id="Perimedes1">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Perimedes</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:perimedes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1181060</idno>
@@ -2585,9 +2585,8 @@
                     </listBibl>
                 </person>
                 
-                <person xml:id="Perimedes">
+                <person xml:id="Perimedes2">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Perimedes</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:perimedes-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1181060</idno>
                     <persName type="citable" xml:lang="en">Perimedes</persName>
                     <persName type="citable" xml:lang="grc">Περιμήδης</persName>
@@ -6653,141 +6652,252 @@
 
 
 <person xml:id="Laerces">
-    <persName>Laerces</persName>
+    <persName type="citable" xml:lang="en">Laerces</persName>
+    <persName type="citable" xml:lang="grc">Λαέρκης</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Laerces" ref="snap:FatherOf" passive="#Alcimedon"><desc>father of Euneos</desc></relation>
+        <relation active="#Laerces" ref="snap:SonOf" passive="#Haemon"><desc>son of Haemon</desc></relation>
+    </listBibl>
 <note>son of Haemon, father of Alcimedon (Achaean warrior).</note>
 </person>
 
 
 <person xml:id="Lampos" role="animal">
-    <persName>Lampos</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Lampos</idno>
+    <persName type="citable" xml:lang="en">Lampos</persName>
+    <persName type="citable" xml:lang="en">Lampus</persName>
+    <persName type="citable" xml:lang="grc">Λάμπος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Lampos" ref="snap:Bond" passive="#Hector"><desc>one of Hector's horses</desc></relation>
+    </listBibl>
 <note>one of Hector's horses (8.214).</note>
 </person>
 
 <person xml:id="Lampus">
-    <persName>Lampus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Lampus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:lampus-2</idno>
+    <persName type="citable" xml:lang="en">Lampus</persName>
+    <persName type="citable" xml:lang="grc">Λάμπος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Lampus" ref="snap:SonOf" passive="#Laomedon"><desc>son of Laomedon</desc></relation>
+    </listBibl>
 <note>son of Laomedon, senior Trojan statesman: with Priam at the Scaean Gates, observing Helen: (3.162); father of Dolops (Trojan warrior) (15.620).</note>
 </person>
 
 
 <person xml:id="Laodamia">
-    <persName>Laodamia</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Laodamia</idno>
+    <persName type="citable" xml:lang="en">Laodamia</persName>
+    <persName type="citable" xml:lang="grc">Λαοδάμεια</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Laodamia" ref="snap:DaughterOf" passive="#Bellerophon"><desc>daughter of Bellerophon</desc></relation>
+        <relation active="#Laodamia" ref="snap:MotherOf" passive="#Sarpedon"><desc>mother of Sarpedon</desc></relation>
+        <relation active="#Laodamia" ref="snap:IntimateRelationship" passive="#Zeus"><desc>has sex with Zeus</desc></relation>
+    </listBibl>
 <note>daughter of Bellerophon, mother of Sarpedon: has sex with Zeus (6.253); killed by Artemis (6.262).</note>
 </person>
 
 <person xml:id="Laodocus1">
-    <persName>Laodocus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Laodocus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:laodocus-3</idno>
+    <persName type="citable" xml:lang="en">Laodocus</persName>
+    <persName type="citable" xml:lang="en">Leodocus </persName>
+    <persName type="citable" xml:lang="grc">Λαόδοκος</persName>
+    <persName type="citable" xml:lang="grc">Λαοδόκος</persName>
+    <persName type="citable" xml:lang="grc">Λεωδόκος</persName>
     <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Laodocus" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
+    </listBibl>
 <note>son of Antenor, Trojan warrior: Athena assumes his shape (4.103).</note>
 </person>
 
 <person xml:id="Laodocus2">
-    <persName>Laodocus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Laodocus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:laodocus-4</idno>
+    <persName type="citable" xml:lang="en">Laodocus</persName>
+    <persName type="citable" xml:lang="en">Leodocus </persName>
+    <persName type="citable" xml:lang="grc">Λαόδοκος</persName>
+    <persName type="citable" xml:lang="grc">Λαοδόκος</persName>
+    <persName type="citable" xml:lang="grc">Λεωδόκος</persName>
 <note>Achaean warrior: takes armour from Antilochus (17.852).</note>
 </person>
 
+<!-- .. -->
 <person xml:id="Laogonus1">
-    <persName>Laogonus</persName>
+    
     <affiliation>Troy</affiliation>
 <note>son of Onetor, Trojan warrior: killed by Meriones (16.703).</note>
 </person>
-
+                <!-- .. -->
 <person xml:id="Laogonus2">
-    <persName>Laogonus</persName>
+    
     <affiliation>Troy</affiliation>
 <note>son of Bias, Trojan warrior: killed by Achilles (20.551).</note>
 </person>
 
 
-<person xml:id="Laotho">
-    <persName>Laotho</persName>
+<person xml:id="Laothoe">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Laothoe</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:laothoe-1</idno>
+    <persName type="citable" xml:lang="en">Laothoe</persName>
+    <persName type="citable" xml:lang="grc">Λαοθόη</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Laothoe" ref="snap:MotherOf" passive="#Lycaon"><desc>mother of Lycaon</desc></relation>
+        <relation active="#Laothoe" ref="snap:MotherOf" passive="#Polydorus"><desc>mother of Polydorus</desc></relation>
+        <relation active="#Laothoe" ref="snap:DaughterOf" passive="#Altes"><desc>daughter of Altes</desc></relation>
+    </listBibl>
 <note>mother of Lycaon and Polydorus, daughter of Altes, wife of Priam: Lycaon speaks of her to Achilles (21.99).</note>
 </person>
 
-<person xml:id="Lapith" role="group">
-    <persName>Lapith</persName>
+<person xml:id="Lapiths" role="group">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Lapiths</idno>
+    <persName type="citable" xml:lang="en">Lapiths</persName>
+    <persName type="citable" xml:lang="grc">Λαπίθαι</persName>
 <note>inhabitants of a region of Thessaly: two Lapith spearmen outside the wall (12.134).</note>
 </person>
 
+
+                <!-- .. -->
 <person xml:id="Letus">
-    <persName>Letus</persName>
+    <persName type="citable" xml:lang="en">Letus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>son of Alectryon, one of the Boeotian leaders in the Achaean force; in the catalogue of ships (2.570); kills Phylacus (6.41); encouraged by Poseidon in the form of Calchas (13.104); wounded by Hector (17.734).</note>
 </person>
 
 <person xml:id="Leleges" role="group">
-    <persName>Leleges</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Leleges</idno>
+    <persName type="citable" xml:lang="en">Leleges</persName>
+    <persName type="citable" xml:lang="grc">Λέλεγες</persName>
 <note>inhabitants of a region in northern Asia Minor, Trojan allies: encamped by the sea (10.513); Athena told Achilles to kill them (20.114); ruled by Altes (21.101).</note>
 </person>
 
+                <!-- .. -->
 <person xml:id="Leocritus">
-    <persName>Leocritus</persName>
+
+    <persName type="citable" xml:lang="en">Leocritus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>son of Arisbas, Achaean warrior: killed by Aeneas (17.440).</note>
 </person>
 
-
+                <!-- .. -->
 <person xml:id="Lethus">
-    <persName>Lethus</persName>
+    <persName type="citable" xml:lang="en">Lethus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>son of Teutamus, father of Hippothous and Pylaeus (Trojan warriors).</note>
 </person>
 
 <person xml:id="Leto" role="deity">
-    <persName>Leto</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Leto</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:leto-1</idno>
+    <persName type="citable" xml:lang="en">Leto</persName>
+    <persName type="citable" xml:lang="grc">Λητώ</persName>
 <note>goddess mother of Apollo and Artemis: (1.10); (1.39); helps to restore Aeneas (5.530); Zeus' love for her (14.388); leaves Olympus to help the Trojans (20.59); opposed by Hermes in battle (20.84); Hermes refuses to fight with her, she takes Artemis weapons (21.601); Niobe's boast that she was better than Leto (24.752).</note>
 </person>
 
 <person xml:id="Leucus">
-    <persName>Leucus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Leucus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:jason-1</idno>
+    <persName type="citable" xml:lang="en">Leucus</persName>
+    <persName type="citable" xml:lang="grc">Λεῦκος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Leucus" ref="snap:Bond" passive="#Odysseus"><desc>companion of Odysseus</desc></relation>
+    </listBibl>
 <note>Achaean warrior, companion of Odysseus: killed by Antiphus (4.569).</note>
 </person>
 
 <person xml:id="Licymnius">
-    <persName>Licymnius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Licymnius</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:licymnius-1</idno>
+    <persName type="citable" xml:lang="en">Licymnius</persName>
+    <persName type="citable" xml:lang="grc">Λικύμνιος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Licymnius" ref="snap:UncleOf" passive="#Hercules"><desc>uncle of Hercules</desc></relation>
+    </listBibl>
 <note>uncle of Hercules, killed by Tlepolemus (2.738).</note>
 </person>
 
 <person xml:id="Limnoreia" role="deity">
-    <persName>Limnoreia</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <persName type="citable" xml:lang="en">Limnoreia</persName>
+    <persName type="citable" xml:lang="grc">Λιμνώρεια</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.50).</note>
 </person>
 
 <person xml:id="Locrians" role="group">
-    <persName>Locrians</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Locrians</idno>
+    <persName type="citable" xml:lang="en">Locrians</persName>
+    <persName type="citable" xml:lang="grc">Λοκροί</persName>
 <note>men from Locris in central Greece, part of the Achaean contingent: in the catalogue of ships (2.602); fight against Hector (13.818); position at the back of the battle (13.847).</note>
 </person>
 
 <person xml:id="Lycon">
-    <persName>Lycon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:lycon-1</idno>
+    <persName type="citable" xml:lang="en">Lycon</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Peneleus (16.391).</note>
 </person>
 
 
 <person xml:id="Lycophontes">
-    <persName>Lycophontes</persName>
+    <persName type="citable" xml:lang="en">Lycophontes</persName>
+    <persName type="citable" xml:lang="grc"></persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.322).</note>
 </person>
 
 <person xml:id="Lycophron">
-    <persName>Lycophron</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycophron</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:jason-1</idno>
+    <persName type="citable" xml:lang="en">Lycophron</persName>
+    <persName type="citable" xml:lang="grc">Λυκόφρων</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Lycophron" ref="snap:SonOf" passive="#Mastor"><desc>son of Mastor</desc></relation>
+    </listBibl>
 <note>son of Mastor, Achaean warrior: killed by Hector (15.503).</note>
 </person>
 
 <person xml:id="Lycurgus1">
-    <persName>Lycurgus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycurgus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:lycurgus-1</idno>
+    <persName type="citable" xml:lang="en">Lycurgus</persName>
+    <persName type="citable" xml:lang="grc">Λυκούργος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Lycurgus" ref="snap:SonOf" passive="#Dryas"><desc>son of Dryas</desc></relation>
+    </listBibl>
 <note>son of Dryas: story of his treatment of Dionysus, and his punishment from Zeus (6.159).</note>
 </person>
 
 <person xml:id="Lycurgus2">
-    <persName>Lycurgus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycurgus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:lycurgus-2</idno>
+    <persName type="citable" xml:lang="en">Lycurgus</persName>
+    <persName type="citable" xml:lang="grc">Λυκούργος</persName>
 <note>killer of Areithous (7.168).</note>
 </person>
 
 <person xml:id="Lysander">
-    <persName>Lysander</persName>
+    <persName type="citable" xml:lang="en">Lysander</persName>
+    <persName type="citable" xml:lang="grc">Λύσανδρος</persName>
     <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.554).</note>
 </person>
+
+
+
 
 <person xml:id="Macar">
     <persName>Macar</persName>
