@@ -2876,6 +2876,7 @@
                     <affiliation>Troy</affiliation>
                     <persName type="citable" xml:lang="en">Ucalegon</persName>
                     <persName type="citable" xml:lang="grc">Οὐκαλέγων</persName>
+                    <note>a Trojan elder: sitting with Priam and the Scaean Gates, comment on Helen (3.159).</note>
                 </person>
 
 
@@ -7396,200 +7397,325 @@
         <relation active="#Nomion" ref="snap:FatherOf" passive="#Nastes"><desc>father of Nastes</desc></relation>
         <relation active="#Nomion" ref="snap:FatherOf" passive="#Amphimachus"><desc>father of Amphimachus</desc></relation>
     </listBibl>
+    <affiliation>Troy</affiliation>
 <note>father of Nastes and Amphimachus (Trojan warriors).</note>
 </person>
 
 
 
-<person xml:id="OceanusOcean" role="deity">
-    <idno type="wikipedia">https://en.wikipedia.org/wiki/Lycurgus</idno>
-    <idno type="smith">http://data.perseus.org/people/smith:molion-2</idno>
-    <persName type="citable" xml:lang="en">Molion</persName>
-    <persName type="citable" xml:lang="grc">Μολίων</persName>
+<person xml:id="Oceanus" role="deity">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Oceanus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:oceanus-1</idno>
+    <persName type="citable" xml:lang="en">Oceanus</persName>
+    <persName type="citable" xml:lang="grc">Ὠκεανός</persName>
 <note>god of the river surrounding the earth: 2.246; Hera tells story of proposed visit to him (14.240, 356); depicted on the shield of Achilles (18.738); left out of assembly of gods (20.8); mentioned by Achilles (21.235).</note>
 </person>
               
               
 <person xml:id="Ochesius">
-    <persName>Ochesius</persName>
+    <persName type="citable" xml:lang="en">Ochesius</persName>
+    <persName type="citable" xml:lang="grc">Ὀχήσιος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Ochesius" ref="snap:FatherOf" passive="#Periphas"><desc>father of Periphas</desc></relation>
+    </listBibl>
 <note>father of Periphas (an Achaean warrior).</note>
 </person>
 
 <person xml:id="Odius1">
-    <persName>Odius</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:odius-1</idno>
+    <persName type="citable" xml:lang="en">Odius</persName>
+    <persName type="citable" xml:lang="grc">Ὀδίος</persName>
 <note>leader of the Halizoni, allies of the Trojans: in Trojan display of forces (2.938); killed by Agamemnon (5.42).</note>
 </person>
 
 <person xml:id="Odius2">
-    <persName>Odius</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:odius-2</idno>
+    <persName type="citable" xml:lang="en">Odius</persName>
+    <persName type="citable" xml:lang="grc">Ὀδίος</persName>
 <note>an Achaean herald: proposed for delegation to Achilles (9.208).</note>
 </person>
 
 
 <person xml:id="Oedipus">
-    <persName>Oedipus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Oedipus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:oedipus-1</idno>
+    <persName type="citable" xml:lang="en">Oedipus</persName>
+    <persName type="citable" xml:lang="grc">Οἰδίπους</persName>
 <note>his funeral games (23.839).</note>
 </person>
 
 <person xml:id="Oeneus">
-    <persName>Oeneus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Oeneus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:oeneus-3</idno>
+    <persName type="citable" xml:lang="en">Oeneus</persName>
+    <persName type="citable" xml:lang="grc">Οἰνεύς</persName>
+    <occupation>king</occupation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Oeneus" ref="snap:GrandfatherOf" passive="#Diomedes"><desc>grandfather of Diomedes</desc></relation>
+        <relation active="#Oeneus" ref="snap:SonOf" passive="#Portheus"><desc>son of Portheus</desc></relation>
+        <relation active="#Oeneus" ref="snap:FatherOf" passive="#Meleager"><desc>father of Meleager</desc></relation>
+        <relation active="#Oeneus" ref="snap:FatherOf" passive="#Tydeus"><desc>father of Tydeus</desc></relation>
+    </listBibl>
 <note>king of Calydon, son of Portheus, father of Meleager and Tydeus, grandfather of Diomedes: in catalogue of ships (2.717); entertained Bellerophon (6.276); offends Artemis (9.668); son of Portheus, father of Tydeus (14.142).</note>
 </person>
 
 <person xml:id="Oenomaus1">
-    <persName>Oenomaus</persName>
+    <persName type="citable" xml:lang="en">Oenomaus</persName>
+    <persName type="citable" xml:lang="grc">Οἱνόμαος</persName>
 <note>Achaean warrior: killed by Hector (5.812).</note>
 </person>
-
+                <!-- I believe this is a diff.Oenomaus: https://en.wikipedia.org/wiki/Oenomaus, http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aentry%3Doenomaus-bio-1 -->
 <person xml:id="Oenomaus2">
-    <persName>Oenomaus</persName>
+    <persName type="citable" xml:lang="en">Oenomaus</persName>
+    <persName type="citable" xml:lang="grc">Οἱνόμαος</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: moves up with Asius to assault the wall (12.148); killed by Idomeneus (13.608).</note>
 </person>
 
 <person xml:id="Oenops">
-    <persName>Oenops</persName>
+    <persName type="citable" xml:lang="en">Oenops</persName>
+    <persName type="citable" xml:lang="grc"></persName>
 <note>father of Helenus (an Achaean warrior).</note>
 </person>
 
-<person xml:id="Oleus1">
-    <persName>Oleus</persName>
+<person xml:id="Oileus1">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Oileus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:oileus-2</idno>
+    <persName type="citable" xml:lang="en">Oileus</persName>
+    <persName type="citable" xml:lang="grc">Ὀϊλεύς</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Oileus" ref="snap:FatherOf" passive="#Ajax"><desc>father of Ajax the Lesser</desc></relation>
+        <relation active="#Oileus" ref="snap:FatherOf" passive="#Medon"><desc>father of Medon</desc></relation>
+    </listBibl>
 <note>father of the Lesser or Olean Ajax, father of Medon (a bastard).</note>
 </person>
 
 <person xml:id="Oileus2">
-    <persName>Oileus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Oileus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:oileus-1</idno>
+    <persName type="citable" xml:lang="en">Oileus</persName>
+    <persName type="citable" xml:lang="grc">Ὀϊλεύς</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Agamemnon (11.100).</note>
 </person>
 
-<person xml:id="Olene">
-    <persName>Olene</persName>
-<note>a large rock in Elis: in catalogue of ships (2.694); Pylians chase Epeians there (11.868).</note>
-</person>
-
 <person xml:id="Onetor">
-    <persName>Onetor</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:onetor-1</idno>
+    <persName type="citable" xml:lang="en">Onetor</persName>
+    <persName type="citable" xml:lang="grc">Ὀνήτωρ</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Laogonus (Trojan warrior): priest of Zeus at Ida (16.703).</note>
 </person>
 
 <person xml:id="Ophelestes1">
-    <persName>Ophelestes</persName>
+    <persName type="citable" xml:lang="en">Ophelestes</persName>
+    <persName type="citable" xml:lang="grc">Ὀφελέστης</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.321).</note>
 </person>
 
 <person xml:id="Ophelestes2">
-    <persName>Ophelestes</persName>
+    <persName type="citable" xml:lang="en">Ophelestes</persName>
+    <persName type="citable" xml:lang="grc">Ὀφελέστης</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior from Paeonia: killed by Achilles (21.251).</note>
 </person>
 
 <person xml:id="Opheltius1">
-    <persName>Opheltius</persName>
+    <persName type="citable" xml:lang="en">Opheltius</persName>
+    <persName type="citable" xml:lang="grc">Ὀφέλτιος</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Euryalus (6.23).</note>
 </person>
 
 <person xml:id="Opheltius2">
-    <persName>Opheltius</persName>
+    <persName type="citable" xml:lang="en">Opheltius</persName>
+    <persName type="citable" xml:lang="grc">Ὀφέλτιος</persName>
 <note>Achaean warrior: killed by Hector (11.342).</note>
 </person>
 
 <person xml:id="Opites">
-    <persName>Opites</persName>
+    <persName type="citable" xml:lang="en">Opites</persName>
+    <persName type="citable" xml:lang="grc">Ὀπίτης</persName>
 <note>Achaean warrior: killed by Hector (11.341).</note>
 </person>
 
 <person xml:id="Orestes1">
-    <persName>Orestes</persName>
+    <persName type="citable" xml:lang="en">Orestes</persName>
+    <persName type="citable" xml:lang="grc">Ὀρέστης</persName>
 <note>Achaean warrior: killed by Hector (5.811).</note>
 </person>
 
 <person xml:id="Orestes2">
-    <persName>Orestes</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Orestes</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:orestes-1</idno>
+    <persName type="citable" xml:lang="en">Orestes</persName>
+    <persName type="citable" xml:lang="grc">Ὀρέστης</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Orestes" ref="snap:SonOf" passive="#Agamemnon"><desc>son of Agamemnon </desc></relation>
+    </listBibl>
 <note>son of Agamemnon (9.172).</note>
 </person>
 
 <person xml:id="Orestes3">
-    <persName>Orestes</persName>
+    <persName type="citable" xml:lang="en">Orestes</persName>
+    <persName type="citable" xml:lang="grc">Ὀρέστης</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior, moves up with Asius against the wall (12.145); killed by Leonteus (12.201).</note>
 </person>
 
 <person xml:id="Orithyia" role="deity">
-    <persName>Orithyia</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:oreithyia-1</idno>
+    <persName type="citable" xml:lang="en">Oreithyia</persName>
+    <persName type="citable" xml:lang="grc">Ὠρείθυια</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.56).</note>
 </person>
 
 <person xml:id="Ormenus1">
-    <persName>Ormenus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ormenus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ormenus-2</idno>
+    <persName type="citable" xml:lang="en">Ormenus</persName>
+    <persName type="citable" xml:lang="grc">Ὄρμενος</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.321).</note>
 </person>
 
 <person xml:id="Ormenus2">
-    <persName>Ormenus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ormenus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ormenus-1</idno>
+    <persName type="citable" xml:lang="en">Ormenus</persName>
+    <persName type="citable" xml:lang="grc">Ὄρμενος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Ormenus" ref="snap:FatherOf" passive="#Amyntor"><desc>father of Amyntor</desc></relation>
+    </listBibl>
 <note>father of Amyntor.</note>
 </person>
 
 <person xml:id="Ormenus3">
-    <persName>Ormenus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Ormenus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:ormenus-2</idno>
+    <persName type="citable" xml:lang="en">Ormenus</persName>
+    <persName type="citable" xml:lang="grc">Ὄρμενος</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Polypoetes (12.194).</note>
 </person>
 
-<person xml:id="Ormeus">
-    <persName>Ormeus</persName>
-<note>father of Amyntor, grandfather of Phoenix.</note>
-</person>
 
 <person xml:id="Orsilochus1">
-    <persName>Orsilochus</persName>
-<note>son of Diocles, Achaean warrior: killed by Aeneas (5.641).</note>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Orsilochus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:orsilochus-2</idno>
+    <persName type="citable" xml:lang="en">Orsilochus</persName>
+    <persName type="citable" xml:lang="en">Ortilochus</persName>
+    <persName type="citable" xml:lang="grc">Ὁρσίλοχος</persName>
+    <persName type="citable" xml:lang="grc">Ὁρτίλοχος</persName>
+    <note>grandson of Orsilochus2 through Diocles, Achaean warrior: killed by Aeneas (5.641).</note>
 </person>
 
 <person xml:id="Orsilochus2">
-    <persName>Orsilochus</persName>
-<note>son of river Alpheus, father of Diocles. (3) Trojan warrior: killed by Teucer (8.321).</note>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Orsilochus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:orsilochus-1</idno>
+    <persName type="citable" xml:lang="en">Orsilochus</persName>
+    <persName type="citable" xml:lang="en">Ortilochus</persName>
+    <persName type="citable" xml:lang="grc">Ὁρσίλοχος</persName>
+    <persName type="citable" xml:lang="grc">Ὁρτίλοχος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Orsilochus" ref="snap:GrandfatherOf" passive="#Orsilochus1"><desc>grandfather of Orsilochus1</desc></relation>
+        <relation active="#Orsilochus" ref="snap:FatherOf" passive="#Diocles"><desc>father of Diocles</desc></relation>
+        <relation active="#Orsilochus" ref="snap:SonOf" passive="#Alpheus"><desc>son of river Alpheus</desc></relation>
+    </listBibl>
+<note>son of river Alpheus, father of Diocles.</note>
+</person>
+                               
+<person xml:id="Orsilochus3">
+<idno type="wikipedia">https://en.wikipedia.org/wiki/Orsilochus</idno>
+<persName type="citable" xml:lang="en">Orsilochus</persName>
+<persName type="citable" xml:lang="en">Ortilochus</persName>
+<persName type="citable" xml:lang="grc">Ὁρσίλοχος</persName>
+<persName type="citable" xml:lang="grc">Ὁρτίλοχος</persName>
+<affiliation>Troy</affiliation>
+<note>Trojan warrior: killed by Teucer (8.321).</note>
 </person>
 
 <person xml:id="Orthaeus">
-    <persName>Orthaeus</persName>
+    <persName type="citable" xml:lang="en">Orthaeus</persName>
+    <persName type="citable" xml:lang="grc">Ὀρθαῖος</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to the centre of the battle (13.937).</note>
 </person>
 
 <person xml:id="Orthryoneus">
-    <persName>Orthryoneus</persName>
+    <persName type="citable" xml:lang="en">Orthryoneus</persName>
+    <persName type="citable" xml:lang="grc"></persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Orthryoneus" ref="snap:HusbandOf" passive="#Cassandra"><desc>husband of Cassandra</desc></relation>
+    </listBibl>
 <note>warrior from Cabesus, husband of Cassandra: killed by Idomeneus: (13.439 ff).</note>
 </person>
 
 <person xml:id="Orus">
-    <persName>Orus</persName>
+    <persName type="citable" xml:lang="en">Orus</persName>
+    <persName type="citable" xml:lang="grc">Ὦρος</persName>
 <note>Achaean warrior: killed by Hector (11.343).</note>
 </person>
 
 <person xml:id="Otreus">
-    <persName>Otreus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:otreus-1</idno>
+    <persName type="citable" xml:lang="en">Otreus</persName>
+    <persName type="citable" xml:lang="grc">Ὀτρεύς</persName>
 <note>leader of Phrygians: (3.203).</note>
 </person>
 
 <person xml:id="Otrynteus">
-    <persName>Otrynteus</persName>
+    <persName type="citable" xml:lang="en">Otrynteus</persName>
+    <persName type="citable" xml:lang="grc">Ὀτρυντεύς</persName>
+    <affiliation>Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Otrynteus" ref="snap:FatherOf" passive="#Iphition"><desc>father of Iphition</desc></relation>
+    </listBibl>
 <note>father of Iphition (Trojan warrior): lives in Hyde (20.461).</note>
 </person>
 
-<person xml:id="Otus1">
-    <persName>Otus</persName>
+<person xml:id="Otus1" role="monster">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Aloadae</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:otus-1</idno>
+    <persName type="citable" xml:lang="en">Otus</persName>
+    <persName type="citable" xml:lang="en">Otos</persName>
+    <persName type="citable" xml:lang="grc">Ὦτος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Otus" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Aloeus"><desc>son of Aloeus</desc></relation>
+    </listBibl>
 <note>son of Aloeus, a monster: imprisoned Ares (5.454).</note>
 </person>
 
 <person xml:id="Otus2">
-    <persName>Otus</persName>
+    <persName type="citable" xml:lang="en">Otus</persName>
+    <persName type="citable" xml:lang="grc">Ὦτος</persName>
 <note>Achaean warrior from Cyllene: killed by Polydamas (15.610).</note>
 </person>
 
-<person xml:id="Oucalegaon">
-    <persName>Oucalegaon</persName>
-<note>a Trojan elder: sitting with Priam and the Scaean Gates, comment on Helen (3.159).</note>
-</person>
 
-<person xml:id="Ouranos">
-    <persName>Ouranos</persName>
+<person xml:id="Ouranos" role="deity">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Uranus_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:uranus-1</idno>
+    <persName type="citable" xml:lang="en">Ouranos</persName>
+    <persName type="citable" xml:lang="en">Uranus</persName>
+    <persName type="citable" xml:lang="grc">Οὐρανός</persName>
 <note>divine father of Cronos.</note>
 </person>
+                
+                
+                
+                
 
 <person xml:id="Paeon1" role="deity">
     <persName>Paeon</persName>
@@ -7603,11 +7729,13 @@
 
 <person xml:id="Palmys">
     <persName>Palmys</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to centre of the battle (13.938).</note>
 </person>
 
 <person xml:id="Pammon">
     <persName>Pammon</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Priam: cursed by Priam (24.310).</note>
 </person>
 
@@ -7619,6 +7747,7 @@
 
 <person xml:id="Pandocus">
     <persName>Pandocus</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.553).</note>
 </person>
 
@@ -7640,6 +7769,7 @@
 
 <person xml:id="Paphlagonians">
     <persName>Paphlagonians</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan allies: in display of Trojan forces (2.933); take Harpalion away from battle (13.782).</note>
 </person>
 
@@ -7657,6 +7787,7 @@
 
 <person xml:id="Pedasus1">
     <persName>Pedasus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Bucolion and Abarbarea, Trojan warrior: killed by Euryalus (6.31).</note>
 </person>
 
@@ -7672,6 +7803,7 @@
 
 <person xml:id="Peires">
     <persName>Peires</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Rhigmus (Trojan warrior).</note>
 </person>
 
@@ -7683,11 +7815,13 @@
 
 <person xml:id="Peisander1">
     <persName>Peisander</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Antimachus, Trojan warrior: killed by Agamemnon (11.135 ff).</note>
 </person>
 
 <person xml:id="Peisander2">
     <persName>Peisander</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warior: killed by Menelaus (13.715 ff).</note>
 </person>
 
@@ -7704,6 +7838,7 @@
 
 <person xml:id="Pelegon2">
     <persName>Pelegon</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior, attendant on Sarpedon: removes the spear from Sarpedon's thigh (5.800)</note>
 </person>
 
@@ -7734,6 +7869,7 @@
 
 <person xml:id="Pergasus">
     <persName>Pergasus</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Deicon (Trojan warrior).</note>
 </person>
 
@@ -7750,6 +7886,7 @@
 
 <person xml:id="Perimus">
     <persName>Perimus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Megas, Trojan warrior: killed by Patroclus (16.809).</note>
 </person>
 
@@ -7760,11 +7897,13 @@
 
 <person xml:id="Periphas2">
     <persName>Periphas</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Epytos, Trojan herald: Apollo takes his form (17.412).</note>
 </person>
 
 <person xml:id="Periphetes1">
     <persName>Periphetes</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (14.602).</note>
 </person>
 
@@ -7790,16 +7929,19 @@
 
 <person xml:id="Phaenops1">
     <persName>Phaenops</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Xanthus and Thon (Trojan warriors): loses his heirs (5.176).</note>
 </person>
 
 <person xml:id="Phaenops2">
     <persName>Phaenops</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Phorcys (Trojan warrior).</note>
 </person>
 
 <person xml:id="Phaenops3">
     <persName>Phaenops</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Asius, Trojan warrior: Apollo takes on his form (17.710).</note>
 </person>
 
@@ -7810,16 +7952,19 @@
 
 <person xml:id="Phalces">
     <persName>Phalces</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to centre of the battle (13.937); armour stripped by Antilochus (14.600).</note>
 </person>
 
 <person xml:id="Phausius">
     <persName>Phausius</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Apisaon (Trojan warrior).</note>
 </person>
 
 <person xml:id="Phegeus">
     <persName>Phegeus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Dares, Trojan warrior: killed by Diomedes (5.12 ff).</note>
 </person>
 
@@ -7835,6 +7980,7 @@
 
 <person xml:id="Phereclus">
     <persName>Phereclus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Tecton, Trojan warrior: killed by Meriones (5.66); made ships for Paris (5.69).</note>
 </person>
 
@@ -7850,6 +7996,7 @@
 
 <person xml:id="Philetor">
     <persName>Philetor</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Demuchus (a Trojan warrior).</note>
 </person>
 
@@ -7876,12 +8023,14 @@
 
 <person xml:id="Phorbas2">
     <persName>Phorbas</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Ilioneus (Trojan warrior): rich man, loved by Hermes (14.570).</note>
 </person>
 
 
 <person xml:id="Phradmon">
     <persName>Phradmon</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Agelaos (Trojan warrior).</note>
 </person>
 
@@ -7892,6 +8041,7 @@
 
 <person xml:id="Phylaces1">
     <persName>Phylaces</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Leitus (6.41).</note>
 </person>
 
@@ -7917,6 +8067,7 @@
 
 <person xml:id="Pidytes">
     <persName>Pidytes</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (6.35).</note>
 </person>
 
@@ -7950,18 +8101,19 @@
 <note>a harpy, mother of Achilles' horses (16.181; 19.481).</note>
 </person>
 
-<person xml:id="Podargos">
+<person xml:id="Podargos" role="animal">
     <persName>Podargos</persName>
 <note>one of Hector's horses (8.213).</note>
 </person>
 
-<person xml:id="Podargus">
+<person xml:id="Podargus" role="animal">
     <persName>Podargus</persName>
 <note>one of Menelaus' horses (23.353).</note>
 </person>
 
 <person xml:id="Podes">
     <persName>Podes</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Etion, Trojan warrior: killed by Menelaus (17.700).</note>
 </person>
 
@@ -7973,6 +8125,7 @@
 
 <person xml:id="Polyaimon">
     <persName>Polyaimon</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Amopaon (Trojan warrior).</note>
 </person>
 
@@ -7983,6 +8136,7 @@
 
 <person xml:id="Polydorus1">
     <persName>Polydorus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Priam and Laothoe, brother of Lycaon: Lycaon tells of his death at hands of Achilles (21.106).</note>
 </person>
 
@@ -7994,11 +8148,13 @@
 
 <person xml:id="Polydorus">
     <persName>Polydorus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Priam: killed by Achilles (20.488).</note>
 </person>
 
 <person xml:id="Polyidus">
     <persName>Polyidus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Eurydamas, Trojan warrior: killed by Diomedes (5.170).</note>
 </person>
 
@@ -8009,6 +8165,7 @@
 
 <person xml:id="Polymelus">
     <persName>Polymelus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Argeas, Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
 
@@ -8020,6 +8177,7 @@
 
 <person xml:id="Polyphetes">
     <persName>Polyphetes</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to the centre of the battle (13.937).</note>
 </person>
 
@@ -8056,6 +8214,7 @@
 
 <person xml:id="Pronous">
     <persName>Pronous</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.464).</note>
 </person>
 
@@ -8067,6 +8226,7 @@
 
 <person xml:id="Prothon">
     <persName>Prothon</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (14.602).</note>
 </person>
 
@@ -8077,6 +8237,7 @@
 
 <person xml:id="Protiaon">
     <persName>Protiaon</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Astynous (Trojan warrior).</note>
 </person>
 
@@ -8087,6 +8248,7 @@
 
 <person xml:id="Prytanis">
     <persName>Prytanis</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.785).</note>
 </person>
 
@@ -8103,11 +8265,13 @@
 
 <person xml:id="Pylantes1">
     <persName>Pylantes</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.554).</note>
 </person>
 
 <person xml:id="Pylantes2">
     <persName>Pylantes</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.811).</note>
 </person>
 
@@ -8118,17 +8282,20 @@
 
 <person xml:id="Pylon">
     <persName>Pylon</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Polypoetes (12.194).</note>
 </person>
 
 
 <person xml:id="Pyrasus">
     <persName>Pyrasus</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.554).</note>
 </person>
 
 <person xml:id="Pyris">
     <persName>Pyris</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
 
@@ -8144,7 +8311,7 @@
 
 <person xml:id="Rhene">
     <persName>Rhene</persName>
-<note>mother of Medon (illegitimate son of Oleus).</note>
+<note>mother of Medon (illegitimate son of Oileus).</note>
 </person>
 
 <person xml:id="Rhesus1">
@@ -8159,6 +8326,7 @@
 
 <person xml:id="Rhigmus">
     <persName>Rhigmus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Peires, Trojan warrior: killed by Achilles (20.582).</note>
 </person>
 
@@ -8205,6 +8373,7 @@
 
 <person xml:id="Selagus">
     <persName>Selagus</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Amphius (Trojan warrior).</note>
 </person>
 
@@ -8213,7 +8382,7 @@
 <note>king of Lyrnessus, father of Euneus, grandfather of Mynes and Epistrophus.</note>
 </person>
 
-<person xml:id="Selli" role="group">
+<person xml:id="Selli" role="priests - group">
     <persName>Selli</persName>
 <note>priests of Zeus at Dodona (16.279).</note>
 </person>
@@ -8230,6 +8399,7 @@
 
 <person xml:id="Simoeisius">
     <persName>Simoeisius</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Anthemion, Trojan warrior: killed by Telamonian Ajax (4.549 ff).</note>
 </person>
 
@@ -8245,6 +8415,7 @@
 
 <person xml:id="Socus">
     <persName>Socus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Hippasus, Trojan warrior: challenges Odysseus, fights him, is killed (11.486).</note>
 </person>
 
@@ -8253,7 +8424,7 @@
 <note>tribe in Lycia: attacked by Bellerophon (6.237).</note>
 </person>
 
-<person xml:id="SouthWind">
+<person xml:id="SouthWind" role="deity">
     <persName>South Wind</persName><persName>Notus</persName>
 <note>(2.470); (3.9).</note>
 </person>
@@ -8276,6 +8447,7 @@
 
 <person xml:id="Sthenelaus">
     <persName>Sthenelaus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Ithaemenes, Trojan warrior: killed by Patroclus (16.682).</note>
 </person>
 
@@ -8293,6 +8465,7 @@
 
 <person xml:id="Strophius">
     <persName>Strophius</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Scamandrius (a Trojan warrior).</note>
 </person>
 
@@ -8309,6 +8482,7 @@
 
 <person xml:id="Tecton">
     <persName>Tecton</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Harmon, father of Phereclus (Trojan warrior).</note>
 </person>
 
@@ -8362,6 +8536,7 @@
 
 <person xml:id="Thalysius">
     <persName>Thalysius</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Echepolus (Trojan warrior).</note>
 </person>
 
@@ -8373,6 +8548,7 @@
 
 <person xml:id="Thebaios">
     <persName>Thebaios</persName>
+    <affiliation>Troy</affiliation>
 <note>father of Eniopeus (Trojan warrior).</note>
 </person>
 
@@ -8383,6 +8559,7 @@
 
 <person xml:id="Thersilochus">
     <persName>Thersilochus</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior from Paeonia: encouraged by Hector (17.280); killed by Achilles (21.249).</note>
 </person>
 
@@ -8409,6 +8586,7 @@
 
 <person xml:id="Thestor3">
     <persName>Thestor</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Enops, Trojan warrior: killed by Patroclus (16.467).</note>
 </person>
 
@@ -8425,6 +8603,7 @@
 
 <person xml:id="Thoas3">
     <persName>Thoas</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Menelaus (16.365).</note>
 </person>
 
@@ -8435,16 +8614,19 @@
 
 <person xml:id="Thon1">
     <persName>Thon</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Phaenops, Trojan warrior: killed by Diomedes (5.174).</note>
 </person>
 
 <person xml:id="Thon2">
     <persName>Thon</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (11.481).</note>
 </person>
 
 <person xml:id="Thon3">
     <persName>Thon</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: comes up with Asius to assault the wall (12.146); killed by Antilochus (13.652).</note>
 </person>
 
@@ -8460,11 +8642,13 @@
 
 <person xml:id="Thrasius">
     <persName>Thrasius</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior from Paeonia: killed by Achilles (21.250).</note>
 </person>
 
 <person xml:id="Thrasymelus">
     <persName>Thrasymelus</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior, companion of Sarpedon: killed by Patroclus (16.542).</note>
 </person>
 
@@ -8475,6 +8659,7 @@
 
 <person xml:id="Thymbraeus">
     <persName>Thymbraeus</persName>
+    <affiliation>Troy</affiliation>
 <note>Trojan warrior: killed by Diomedes (11.364).</note>
 </person>
 
@@ -8492,17 +8677,13 @@
 
 <person xml:id="Tlepolemus2">
     <persName>Tlepolemus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Damastor, Trojan warrior: killed by Patroclus (16.485).</note>
 </person>
 
 <person xml:id="Trechus">
     <persName>Trechus</persName>
 <note>Achaean warrior: killed by Hector (5.812).</note>
-</person>
-
-<person xml:id="Tritogeneia">
-    <persName>Tritogeneia</persName>
-<note>a name associated with Athena.</note>
 </person>
 
 <person xml:id="Troezenus">
@@ -8512,6 +8693,7 @@
 
 <person xml:id="Troilus">
     <persName>Troilus</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Priam: mentioned by Priam (24.320).</note>
 </person>
 
@@ -8522,11 +8704,13 @@
 
 <person xml:id="Tros">
     <persName>Tros</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Alastor, Trojan warrior: killed by Achilles (20.555).</note>
 </person>
 
 <person xml:id="Tros2">
     <persName>Tros</persName>
+    <affiliation>Troy</affiliation>
 <note>son of Erichthonius, father of Ilus, Assaracus, Ganymede, earlier king of Troy, ancestor of Priam, father of Ganymede: quality of his horses giiven as payment from Zeus for Ganymede (5.314); his story told by Aeneas (20.275).</note>
 </person>
 
@@ -8540,11 +8724,11 @@
         <note>father of Diomedes: story of his achievements (4.436); achieves retold by Athena (5.913); killed at Thebes (6.282); Diomedes invokes him in prayer to Athena (10.339); Diomedes speaks of him (14.138 ff).</note>
     </person>
     
-    <person xml:id="Typhoeus">
+    <person xml:id="Typhoeus" role="monster">
         <persName>Typhoeus</persName>
         <note>fabulous monster held captive underground by Zeus: Achaean army compared to T. (2.861).</note>
     </person>
-    <person xml:id="Zephyrus">
+    <person xml:id="Zephyrus" role="deity">
         <persName>Zephyrus</persName><persName>West Wind</persName>
     <note>the west wind: Achilles prays to it for help, Iris delivers his message, he complies (23.235 ff); (2.173); whips up the sea (9.5); conceived Achilles' horses with Podarge (16.182); Iris delivers a message to the winds at his home (23.241).</note>
 </person>
