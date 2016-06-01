@@ -4,11 +4,11 @@
       <fileDesc>
          <titleStmt>
              <title type="full">Persons and groups named in the Homeric poems</title>
-             <author xml:id="GB">Gabriel Bodard</author>
+             <title type="abbrev">Homer</title>
+             <author xml:id="GB" ref="http://orcid.org/0000-0002-8566-6666">Gabriel Bodard</author>
              <author xml:id="AM">Argyro Moulavasili</author>
          </titleStmt>
          <publicationStmt>
-            <authority>http://orcid.org/0000-0002-8566-6666</authority>
             <publisher>http://snapdrgn.net/</publisher>
              <idno>http://www.prosopography.org.uk/Iliad/</idno>
          </publicationStmt>
@@ -589,7 +589,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2441792</idno>
                     <persName type="citable" xml:lang="en">Aesepus</persName>
                    <persName type="citable" xml:lang="grc">Αἴσηπος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <listBibl>
                         <bibl/>
                         <relation active="#Aesepus" ref="snap:BrotherOf" passive="#Pedasus"><desc>twin brother of Pedasus</desc></relation>
@@ -638,7 +638,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q246622</idno>
                     <persName type="citable" xml:lang="en">Alcathous</persName>
                    <persName type="citable" xml:lang="grc">Ἀλκάθοος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>son of Aesyetes and Hippodamia, Trojan warrior: one of the leaders of the assault on the wall (12.97); killed by Idomeneus (13.514).</note>
                 </person>
                 
@@ -675,14 +675,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3616664</idno>
                     <persName type="citable" xml:lang="en">Amphius</persName>
                    <persName type="citable" xml:lang="grc">Ἅμφιος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>Trojan warrior, son of Merops, leader of troops from the Troad: in list of Trojan forces (2.912); killed by Diomedes (11.375).</note>
                 </person>
                 
                 <person xml:id="Amphius2">
                     <persName type="citable" xml:lang="en">Amphius</persName>
                     <persName type="citable" xml:lang="grc">Ἅμφιος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>son of Selagus, Trojan warrior: killed by Telamonian Ajax (5.717).</note>
                     
                 </person>
@@ -764,7 +764,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2721173</idno>
                     <persName type="citable" xml:lang="en">Antimachus</persName>
                    <persName type="citable" xml:lang="grc">Ἄντίμαχος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>father of Hippolochus and Peisander: advised Trojans to kill Menelaus (11.153).</note>
                 </person>
                 
@@ -775,7 +775,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q427171</idno>
                     <persName type="citable" xml:lang="en">Antiphates</persName>
                    <persName type="citable" xml:lang="grc">Ἀντιφάτης</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>Trojan warrior: killed by Leonteus (12.198).</note>
                 </person>
                 
@@ -786,7 +786,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q4775127</idno>
                     <persName type="citable" xml:lang="en">Antiphus</persName>
                    <persName type="citable" xml:lang="grc">Ἄντιφος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <listBibl>
                         <bibl/>
                         <relation active="#Antiphates" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -811,7 +811,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1330702</idno>
                     <persName type="citable" xml:lang="en">Archelochus</persName>
                    <persName type="citable" xml:lang="grc">Ἀρχέλοχος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <listBibl>
                         <bibl/>
                         <relation active="#Archelochus" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
@@ -953,7 +953,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1422535</idno>
                     <persName type="citable" xml:lang="en">Axylus</persName>
                    <persName type="citable" xml:lang="grc">Ἄξυλος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>son of Teuthranus, Trojan warrior: killed by Diomedes (6.14).</note>
                 </person>
                 
@@ -972,7 +972,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q25574</idno>
                     <persName type="citable" xml:lang="en">Agelaus</persName>
                    <persName type="citable" xml:lang="grc">Ἀγέλαος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>son of Phradmon, Trojan warrior: killed by Diomedes (8.301).</note>
                 </person>
                 
@@ -1550,7 +1550,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Euphorbus</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:euphorbus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q599489</idno>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <persName type="citable" xml:lang="en">Euphorbus</persName>
                    <persName type="citable" xml:lang="grc">Εὔφορβος </persName>
                     <note>son of Panthous, Trojan warrior: his skills as a soldier, wounds Patroclus (16.936); calls to Menelaus, is killed by him (17.11).</note>
@@ -1578,7 +1578,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Eurydamas</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:eurydamas-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5413997</idno>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <persName type="citable" xml:lang="en">Eurydamas</persName>
                    <persName type="citable" xml:lang="grc">Εὐρυδάμας</persName>
                     <note>Trojan priest, father of Abus and Polyidus (Trojan warriors): (5.171).</note>
@@ -1753,7 +1753,7 @@
                     <idno type="smith">http://data.perseus.org/people/smith:hecabe-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q193433</idno>
                     <occupation>queen</occupation>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <persName type="citable" xml:lang="en">Hecuba</persName>
                     <persName type="citable" xml:lang="en">Hecabe</persName>
                    <persName type="citable" xml:lang="grc">Ἑκάβη </persName>
@@ -1848,7 +1848,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Iamenus</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:iamenus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5980703</idno>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <persName type="citable" xml:lang="en">Iamenus</persName>
                     <persName type="citable" xml:lang="grc">Ἰαμενός </persName>
                     <note>Trojan warrior: moves up with Asius against the wall (12.146); killed by Leonteus (12.201).</note>
@@ -1858,7 +1858,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Ilioneus</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:ilioneus-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q13566442</idno>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <persName type="citable" xml:lang="en">Ilioneus</persName>
                     <persName type="citable" xml:lang="grc">Ἰλιονέας</persName>
                     <persName type="citable" xml:lang="grc">Ἰλιονεύς</persName>
@@ -2115,7 +2115,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q20202254</idno>
                     <persName type="citable" xml:lang="en">Melanippus</persName>
                     <persName type="citable" xml:lang="grc">Μελάνιππος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>son of Hicataon, Trojan warrior: criticized by Hector (15.641); killed by Antilochus (15.675).</note>
                 </person>
                 
@@ -2139,7 +2139,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q20202254</idno>
                     <persName type="citable" xml:lang="en">Melanippus</persName>
                     <persName type="citable" xml:lang="grc">Μελάνιππος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>Trojan warrior: killed by Patroclus (16.810).</note>
                 </person>
                 
@@ -2189,7 +2189,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Mydon</idno>
                     
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q848014</idno>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <persName type="citable" xml:lang="en">Mydon</persName>
                     <persName type="citable" xml:lang="grc">Μύδων</persName>
                     <note>son of Atymnius, Trojan warrior: killed by Antilochus (5.680).</note>
@@ -2198,7 +2198,7 @@
                 <person xml:id="Mydon2">
                     <persName type="citable" xml:lang="en">Mydon</persName>
                     <persName type="citable" xml:lang="grc">Μύδων</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>Trojan warrior from Paeonia: killed by Achilles (21.249).</note>
                 </person>
                 
@@ -2266,7 +2266,7 @@
                 <person xml:id="Mentor2">
                     <persName type="citable" xml:lang="en">Mentor</persName>
                     <persName type="citable" xml:lang="grc">Μέντωρ</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>father of Imbrius (Trojan warrior).</note>
                 </person>
                 
@@ -2297,7 +2297,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Othryoneus</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:othryoneus-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2305436</idno>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <persName type="citable" xml:lang="en">Othryoneus</persName>
                     <persName type="citable" xml:lang="grc">Ὀθρυονεύς</persName>
                 </person>
@@ -2327,7 +2327,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Panthous</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:panthous-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q119919</idno>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <persName type="citable" xml:lang="en">Panthous</persName>
                     <persName type="citable" xml:lang="grc">Πάνθοος</persName>
                     <note>a Trojan senior statesman: with Priam at the Scaean Gates, observes Helen (3.161); father of Polydamas (15.522); father of Euphorbus (16.937).</note>
@@ -2873,7 +2873,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Ucalegon</idno>
                     <idno type="smith">http://data.perseus.org/people/smith:ucalegon-1</idno>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q4002524</idno>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <persName type="citable" xml:lang="en">Ucalegon</persName>
                     <persName type="citable" xml:lang="grc">Οὐκαλέγων</persName>
                     <note>a Trojan elder: sitting with Priam and the Scaean Gates, comment on Helen (3.159).</note>
@@ -2900,7 +2900,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Abas_%28mythology%29</idno>
                     
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q4663542</idno>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <persName type="citable" xml:lang="en">Abas</persName>
                     <persName type="citable" xml:lang="grc">Ἄβας</persName>
                     <listBibl>
@@ -3103,7 +3103,7 @@
                     
                     <persName type="citable" xml:lang="en">Aenius</persName>
                     <persName type="citable" xml:lang="grc">Αἲνειος</persName>
-                   <affiliation>Troy</affiliation>
+                   <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>Trojan warrior from Paeonia: killed by Achilles (21.250).</note>
                 </person>
                 
@@ -3112,7 +3112,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Aesyetes</idno>
                     <persName type="citable" xml:lang="en">Aesyetes</persName>
                     <persName type="citable" xml:lang="grc">Αἰσυήτης</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <listBibl>
                         <bibl></bibl>
                         <relation active="#Aesyetes" ref="snap:FatherOf" passive="#Alcathous"><desc>father of Alcathous</desc></relation>
@@ -3179,7 +3179,7 @@
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Agastrophus</idno>
                     <persName type="citable" xml:lang="en">Agastrophus</persName>
                     <persName type="citable" xml:lang="grc">Ἀγάστροφος</persName>
-                    <affiliation>Troy</affiliation>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <note>son of Paeon, Trojan warrior: wounded and killed by Diomedes (11.384).</note>
                 </person>
                 
@@ -3259,7 +3259,7 @@
         <bibl/>
         <relation active="#Adamas" ref="snap:SonOf" passive="#Asius"><desc>son of Asius</desc></relation>
     </listBibl>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior, son of Asius: moves up with Asius against the wall (12.147); attacks Antilochus (13.669); killed by Meriones (13.678).</note>
 </person>
 
@@ -3346,7 +3346,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:alastor-3</idno>
     <persName type="citable" xml:lang="en">Alastor</persName>
     <persName type="citable" xml:lang="grc">Ἀλάστωρ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.784).</note>
 </person>
 
@@ -3356,7 +3356,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:alastorides-1</idno>
     <persName type="citable" xml:lang="en">Alastor</persName>
     <persName type="citable" xml:lang="grc">Ἀλάστωρ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Tros (a Trojan warrior).</note>
 </person>
 
@@ -3365,7 +3365,7 @@
     <persName type="citable" xml:lang="en">Alcandrus</persName>
     <persName type="citable" xml:lang="grc">Ἅλκανδρος</persName>
     <persName>Alcandrus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.785).</note>
 </person>
 
@@ -3433,7 +3433,7 @@
     <!-- in deutch -->
     <persName type="citable" xml:lang="en">Alegenor</persName>
     <persName type="citable" xml:lang="grc">Ἀλεγήνωρ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Alegenor" ref="snap:FatherOf" passive="#Promachus"><desc>father of Promachus</desc></relation>
@@ -3531,14 +3531,14 @@
 <person xml:id="Amopaon">
     <persName type="citable" xml:lang="en">Amopaon</persName>
     <persName type="citable" xml:lang="grc">Ἀμοπάων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Polyaimon, Trojan warrior: killed by Teucer (8.323)</note>
 </person>
 
 <person xml:id="Amphiclus">
     <persName type="citable" xml:lang="en">Amphiclus</persName>
     <persName type="citable" xml:lang="grc">Ἄμφικλος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Meges (16.368).</note>
 </person>
 
@@ -3625,7 +3625,7 @@
     <persName type="citable" xml:lang="en">Amphoterus</persName>
     <persName type="citable" xml:lang="en">Amphoteros</persName>
     <persName type="citable" xml:lang="grc">Ἀμφότερος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.484).</note>
 </person>
 
@@ -3695,7 +3695,7 @@
 <person xml:id="Anthemion">
     <persName type="citable" xml:lang="en">Anthemion</persName>
     <persName type="citable" xml:lang="grc">Ἀνθεμίων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Simoeisius (Trojan warrior).</note>
 </person>
 
@@ -3703,7 +3703,7 @@
 <person xml:id="Antiphonus">
     <persName type="citable" xml:lang="en">Antiphonus</persName>
     <persName type="citable" xml:lang="grc">Ἀντίφονος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Antiphonus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -3743,7 +3743,7 @@
     <persName type="citable" xml:lang="en">Antiphus</persName>
     <persName type="citable" xml:lang="en">Antiphos</persName>
     <persName type="citable" xml:lang="grc">Ἄντιφος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Antiphus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -3769,7 +3769,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:apisaon-1</idno>
     <persName type="citable" xml:lang="en">Apisaon</persName>
     <persName type="citable" xml:lang="grc">Ἀπισάων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Phausius, Trojan warrior: killed by Eurypylus (11.651).</note>
 </person>
 
@@ -3779,7 +3779,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:apisaon-1</idno>
     <persName type="citable" xml:lang="en">Apisaon</persName>
     <persName type="citable" xml:lang="grc">Ἀπισάων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Apisaon" ref="snap:SonOf" passive="#Hippasus"><desc>son of Hippasus</desc></relation>
@@ -3809,7 +3809,7 @@
 <person xml:id="Archeptolemos">
     <persName type="citable" xml:lang="en">Archeptolemos</persName>
     <persName type="citable" xml:lang="grc">Ἀρχεπτόλεμος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Iphitus, Trojan warrior: Hector makes him his charioteer (8.147); killed by Teucer (8.363).</note>
 </person>
 
@@ -3824,7 +3824,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:areilycus-1</idno>
     <persName type="citable" xml:lang="en">Areilycus</persName>
     <persName type="citable" xml:lang="grc">ΑΡΗΙΛΥΚΟΣ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.362).</note>
 </person>
 
@@ -3834,7 +3834,7 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q4789090</idno>
     <persName type="citable" xml:lang="en">Aretaon</persName>
     <persName type="citable" xml:lang="grc">Ἀρετάων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (6.36).</note>
 </person>
 
@@ -3842,7 +3842,7 @@
 <person xml:id="Argeas">
     <persName type="citable" xml:lang="en">Argeas</persName>
     <persName type="citable" xml:lang="grc">Ἀργέας</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Polymelus (Trojan warrior).</note>
 </person>
 
@@ -3924,7 +3924,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:ascanius-1</idno>
     <persName type="citable" xml:lang="en">Ascanius</persName>
     <persName type="citable" xml:lang="grc">Ἀσκάνιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to centre of the battle (13.938).</note>
 </person>
 
@@ -3966,7 +3966,7 @@
 <person xml:id="Astyalus">
     <persName type="citable" xml:lang="en">Astyalus</persName>
     <persName type="citable" xml:lang="grc">Ἀστύαλος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Polypoetes (6.34).</note>
 </person>
 
@@ -3977,7 +3977,7 @@
     <persName type="citable" xml:lang="en">Astynous</persName>
     <persName type="citable" xml:lang="en">Astynoos</persName>
     <persName type="citable" xml:lang="grc">Ἀστύνοος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Diomedes (5.164).</note>
 </person>
 
@@ -3988,7 +3988,7 @@
     <persName type="citable" xml:lang="en">Astynous</persName>
     <persName type="citable" xml:lang="en">Astynoos</persName>
     <persName type="citable" xml:lang="grc">Ἀστύνοος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Protiaon, Trojan warrior: takes horses for Polydamas (15.534).</note>
 </person>
 
@@ -4022,7 +4022,7 @@
 <person xml:id="Astypylus">
     <persName type="citable" xml:lang="en">Astypylus</persName>
     <persName type="citable" xml:lang="grc">Ἀστύπυλος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior from Paeonia: killed by Achilles (21.250).</note>
 </person>
 
@@ -4066,7 +4066,7 @@
     <!-- at the end -->
     <persName type="citable" xml:lang="en">Atymnius</persName>
     <persName type="citable" xml:lang="grc">Ἀτύμνιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Mydon (Trojan warrior).</note>
 </person>
 
@@ -4076,7 +4076,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:atymnius-1</idno>
     <persName type="citable" xml:lang="en">Atymnius</persName>
     <persName type="citable" xml:lang="grc">Ἀτύμνιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Amisodarus, Trojan warrior: killed by Antilochus (16.373).</note>
 </person>
 
@@ -4118,7 +4118,7 @@
 <person xml:id="Autonous2">
     <persName type="citable" xml:lang="en">Autonous</persName>
     <persName type="citable" xml:lang="grc">Αὐτόνοος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.809).</note>
 </person>
 
@@ -4183,7 +4183,7 @@
     <persName type="citable" xml:lang="en">Bianor</persName>
     <persName type="citable" xml:lang="grc">Βιήνωρ</persName>
     <persName type="citable" xml:lang="grc">Βιάνωρ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Agamemnon (11.99).</note>
 </person>
 
@@ -4202,7 +4202,7 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q4946820</idno>
     <persName type="citable" xml:lang="en">Borus</persName>
     <persName type="citable" xml:lang="grc">Βῶρος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Phaestus (a Trojan warrior).</note>
 </person>
 
@@ -4387,7 +4387,7 @@
 <person xml:id="Ceos">
     <persName type="citable" xml:lang="en">Ceos</persName>
     <persName type="citable" xml:lang="grc">Κέος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Ceos" ref="snap:GrandfatherOf" passive="#Euphemus"><desc>grandfather of Euphemus</desc></relation>
@@ -4446,7 +4446,7 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q1067673</idno>
     <persName type="citable" xml:lang="en">Charops</persName>
     <persName type="citable" xml:lang="grc">Χάρωψ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Charops" ref="snap:SonOf" passive="#Hippasus"><desc>son of Hippasus</desc></relation>
@@ -4471,7 +4471,7 @@
 <person xml:id="Chersidamas">
     <persName type="citable" xml:lang="en">Chersidamas</persName>
     <persName type="citable" xml:lang="grc">Χερσιδάμας</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (11.481).</note>
 </person>
 
@@ -4499,7 +4499,7 @@
 <person xml:id="Chromius1">
     <persName type="citable" xml:lang="en">Chromius</persName>
     <persName type="citable" xml:lang="grc">Χρόμιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.784).</note>
 </person>
 
@@ -4514,7 +4514,7 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q1087708</idno>
     <persName type="citable" xml:lang="en">Chromius</persName>
     <persName type="citable" xml:lang="grc">Χρόμιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Chromius" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -4527,14 +4527,14 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q1087708</idno>
     <persName type="citable" xml:lang="en">Chromius</persName>
     <persName type="citable" xml:lang="grc">Χρόμιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.322).</note>
 </person>
 
 <person xml:id="Chromius5">
     <persName type="citable" xml:lang="en">Chromius</persName>
     <persName type="citable" xml:lang="grc">Χρόμιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: goes with Aeneas and Hector to attack Automedon (17.610); withdraws (17.654).</note>
 </person>
 
@@ -4549,7 +4549,7 @@
 <person xml:id="Chroraius">
     <persName type="citable" xml:lang="en">Chroraius</persName>
     <persName type="citable" xml:lang="grc">Χρόμιος</persName> <!-- Perseus -->
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: encouraged by Hector (17.281).</note>
 </person>
 
@@ -4614,7 +4614,7 @@
     <persName type="citable" xml:lang="en">Clitus</persName>
     <persName type="citable" xml:lang="grc">Κλεῖτος</persName>
     <persName type="citable" xml:lang="grc">Κλειτός</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Cleitus" ref="snap:SonOf" passive="#Peisenor"><desc>son of Peisenor</desc></relation>
@@ -4625,7 +4625,7 @@
 <person xml:id="Cleobulus">
     <persName type="citable" xml:lang="en">Cleobulus</persName>
     <persName type="citable" xml:lang="grc">Κλεόβουλος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Olean Ajax (16.386).</note>
 </person>
 
@@ -4703,12 +4703,13 @@
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Coön</idno>
     <idno type="wikidata">https://www.wikidata.org/wiki/Q1173681</idno>
     <idno type="smith">http://data.perseus.org/people/smith:coon-1</idno>
-    <persName type="citable" xml:lang="en">Con</persName>
-    <persName type="citable" xml:lang="en">Coon</persName>
-    <persName type="citable" xml:lang="en">Cynon</persName>
-    <persName type="citable" xml:lang="grc">Κόων</persName>
-    <persName type="citable" xml:lang="grc">Κύνων</persName>
-    <affiliation>Troy</affiliation>
+    <persName type="citable" xml:lang="en">Coön</persName>
+    <persName xml:lang="en">Con</persName>
+    <persName xml:lang="en">Coon</persName>
+    <persName xml:lang="en">Cynon</persName>
+    <persName xml:lang="grc">Κόων</persName>
+    <persName xml:lang="grc">Κύνων</persName>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#kon" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
@@ -4778,7 +4779,7 @@
 <person xml:id="Croesmus">
     <persName type="citable" xml:lang="en">Croesmus</persName>
     <persName type="citable" xml:lang="grc">Κροίσμος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Meges (15.616).</note>
 </person>
 
@@ -4853,14 +4854,14 @@
 <person xml:id="Daitor">
     <persName type="citable" xml:lang="en">Daitor</persName>
     <persName type="citable" xml:lang="grc">Διαίτορ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.322).</note>
 </person>
 
 <person xml:id="Damasus">
     <persName type="citable" xml:lang="en">Damasus</persName>
     <persName type="citable" xml:lang="grc">Δάμασος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Polypoetes (12.190).</note>
 </person>
 
@@ -4869,7 +4870,7 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q5212056</idno>
     <persName type="citable" xml:lang="en">Damastor</persName>
     <persName type="citable" xml:lang="grc">Δαμάστωρ </persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Damastor" ref="snap:FatherOf" passive="#Tlepolemus"><desc>father of Tlepolemus</desc></relation>
@@ -4921,7 +4922,7 @@
     <!-- at the end -->
     <persName type="citable" xml:lang="en">Dardanus</persName>
     <persName type="citable" xml:lang="grc">Δάρδανος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Dardanus" ref="snap:SonOf" passive="#Bias"><desc>son of Bias</desc></relation>
@@ -4969,7 +4970,7 @@
 <person xml:id="Decon">
     <persName type="citable" xml:lang="en">Decon</persName>
     <persName type="citable" xml:lang="grc"/>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Pergasus, Trojan warrior: killed by Agamemnon (5.631).</note>
 </person>
 
@@ -4982,7 +4983,7 @@
 <person xml:id="Deopites">
     <persName type="citable" xml:lang="en">Deopites</persName>
     <persName type="citable" xml:lang="grc"/>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (11.479).</note>
 </person>
 
@@ -5001,7 +5002,7 @@
 <person xml:id="Deisenor">
     <persName type="citable" xml:lang="en">Deisenor</persName>
     <persName type="citable" xml:lang="grc">Δεισήνωρ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: encouraged by Hector (17.280).</note>
 </person>
 
@@ -5022,7 +5023,7 @@
                     <idno type="smith">http://data.perseus.org/people/smith:democoon-1</idno>
     <persName type="citable" xml:lang="en">Democoon</persName>
     <persName type="citable" xml:lang="grc">Δεμοκόων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
     <bibl/>
         <relation active="#Democoon" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -5036,7 +5037,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:demoleon-1</idno>
     <persName type="citable" xml:lang="en">Demoleon</persName>
     <persName type="citable" xml:lang="grc">Δημολέων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Demoleon" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
@@ -5047,7 +5048,7 @@
 <person xml:id="Demouchus">
     <persName type="citable" xml:lang="en">Demouchus</persName>
     <persName type="citable" xml:lang="grc"/>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Philetor, Trojan warrior: killed by Achilles (20.548).</note>
 </person>
 
@@ -5142,7 +5143,7 @@
     <persName type="citable" xml:lang="en">Dios</persName>
     <persName type="citable" xml:lang="en">Dius</persName>
     <persName type="citable" xml:lang="grc">Δῖος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Dios" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -5185,7 +5186,7 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q12876507</idno>
     <persName type="citable" xml:lang="en">Dolops</persName>
     <persName type="citable" xml:lang="grc">Δόλοψ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Dolops" ref="snap:SonOf" passive="https://en.wikipedia.org/wiki/Lampus"><desc>son of Lampus</desc></relation>
@@ -5207,7 +5208,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:doryclus-1</idno>
     <persName type="citable" xml:lang="en">Doryclus</persName>
     <persName type="citable" xml:lang="grc">Δόρυκλος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Doryclus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -5232,7 +5233,7 @@
 <person xml:id="Dresus">
     <persName type="citable" xml:lang="en">Dresus</persName>
     <persName type="citable" xml:lang="grc">Δρῆσος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Euryalus (6.23).</note>
 </person>
 
@@ -5265,7 +5266,7 @@
     <!-- at the end -->
     <persName type="citable" xml:lang="en">Dryops</persName>
     <persName type="citable" xml:lang="grc">Δρύοψ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Achilles (20.546).</note>
 </person>
 
@@ -5309,7 +5310,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:echeclus-1</idno>
     <persName type="citable" xml:lang="en">Echeclus</persName>
     <persName type="citable" xml:lang="grc">Ἔχεκλος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.809).</note>
 </person>
 
@@ -5319,7 +5320,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:echeclus-1</idno>
     <persName type="citable" xml:lang="en">Echeclus</persName>
     <persName type="citable" xml:lang="grc">Ἔχεκλος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Echeclus" ref="snap:SonOf" passive="#Agenor"><desc>son of Agenor</desc></relation>
@@ -5330,7 +5331,7 @@
 <person xml:id="Echemmon">
     <persName type="citable" xml:lang="en">Echemmon</persName>
     <persName type="citable" xml:lang="grc">Ἐχέμμων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Echemmon" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -5342,7 +5343,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:echepolus-1</idno>
     <persName type="citable" xml:lang="en">Echepolus</persName>
     <persName type="citable" xml:lang="grc">Ἐχέπωλος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Thalysius, Trojan warrior: killed by Antilochus (4.530).</note>
 </person>
 
@@ -5369,7 +5370,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:echius-1</idno>
     <persName type="citable" xml:lang="en">Echius</persName>
     <persName type="citable" xml:lang="grc">Ἐχίος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.485).</note>
 </person>
 
@@ -5403,7 +5404,7 @@
     <persName type="citable" xml:lang="en">Eetion</persName>
     <persName type="citable" xml:lang="en">Etion</persName>
     <persName type="citable" xml:lang="grc">Ἠετίων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Podes (a Trojan warrior).</note>
 </person>
 
@@ -5438,7 +5439,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:elasus-1</idno>
     <persName type="citable" xml:lang="en">Elasus</persName>
     <persName type="citable" xml:lang="grc">Ἔλασος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.811).</note>
 </person>
 
@@ -5467,7 +5468,7 @@
 <person xml:id="Eniopeus">
     <persName type="citable" xml:lang="en">Eniopeus</persName>
     <persName type="citable" xml:lang="grc">Ἠνιοπεύς</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Thebaios, Trojan warrior: killed by Diomedes (8.138).</note>
 </person>
 
@@ -5475,7 +5476,7 @@
     <person xml:id="Enops1">
         <persName type="citable" xml:lang="en">Enops</persName>
         <persName type="citable" xml:lang="grc">Ἦνοψ</persName>
-        <affiliation>Troy</affiliation>
+        <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Satnius and Thestor (Trojan warriors).</note>
 </person>
 
@@ -5503,7 +5504,7 @@
 <person xml:id="Epaltes">
     <persName type="citable" xml:lang="en">Epaltes</persName>
     <persName type="citable" xml:lang="grc">Ἐπάλτης</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.484).</note>
 </person>
 
@@ -5540,7 +5541,7 @@
 <person xml:id="Epistor">
     <persName type="citable" xml:lang="en">Epistor</persName>
     <persName type="citable" xml:lang="grc">Ἐπίστωρ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.810).</note>
 </person>
 
@@ -5582,7 +5583,7 @@
 <person xml:id="Epytos">
     <persName type="citable" xml:lang="en">Epytos</persName>
     <persName type="citable" xml:lang="grc">Ἤπυτος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Epytos" ref="snap:FatherOf" passive="#Periphas"><desc>father of Periphas</desc></relation>
@@ -5652,7 +5653,7 @@
 <person xml:id="Erylaus">
     <persName type="citable" xml:lang="en">Erylaus</persName>
     <persName type="citable" xml:lang="grc">Ἐρύλαος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.479).</note>
 </person>
 
@@ -5660,7 +5661,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:erymas-1</idno>
     <persName type="citable" xml:lang="en">Erymas</persName>
     <persName type="citable" xml:lang="grc">Ἐρύμας</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Idomeneus (16.403).</note>
 </person>
 
@@ -5668,7 +5669,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:erymas-1</idno>
     <persName type="citable" xml:lang="en">Erymas</persName>
     <persName type="citable" xml:lang="grc">Ἐρύμας</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.484).</note>
 </person>
 
@@ -5751,7 +5752,7 @@
 <person xml:id="Euippus">
     <persName type="citable" xml:lang="en">Euippus</persName>
     <persName type="citable" xml:lang="grc">Εὔιππος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
 
@@ -5760,7 +5761,7 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q3565003</idno>
     <persName type="citable" xml:lang="en">Eumedes</persName>
     <persName type="citable" xml:lang="grc">Εὐμήδης</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Eumedes" ref="snap:FatherOf" passive="#Dolon"><desc>father of Dolon</desc></relation>
@@ -5851,7 +5852,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:dymas-1</idno>
     <persName type="citable" xml:lang="en">Dymas</persName>
     <persName type="citable" xml:lang="grc">Ἐῢσσωρος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Acamas (Trojan warrior).</note>
 </person>
 
@@ -5972,7 +5973,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:ganymedes-1</idno>
     <persName type="citable" xml:lang="en">Gyrtius</persName>
     <persName type="citable" xml:lang="grc">Γύρτιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Gyrtius" ref="snap:FatherOf" passive="#Hyrtius"><desc>father of Hyrtius</desc></relation>
@@ -6028,7 +6029,7 @@
 <person xml:id="Halius">
     <persName type="citable" xml:lang="en">Halius</persName>
     <persName type="citable" xml:lang="grc">Ἅλιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.785).</note>
 </person>
 
@@ -6072,7 +6073,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:ganymedes-1</idno>
     <persName type="citable" xml:lang="en">Helicaon</persName>
     <persName type="citable" xml:lang="grc">Ἑλικάων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Helicaon" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
@@ -6120,7 +6121,7 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q1619952</idno>
     <persName type="citable" xml:lang="en">Hippasus</persName>
     <persName type="citable" xml:lang="grc">Ἴππασος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Hippasus" ref="snap:FatherOf" passive="#Laomedon"><desc>son of Laomedon</desc></relation>
@@ -6170,7 +6171,7 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q372105</idno>
     <persName type="citable" xml:lang="en">Hippodamas</persName>
     <persName type="citable" xml:lang="grc">Ἱπποδάμας</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Achilles (20.480).</note>
 </person>
 
@@ -6178,7 +6179,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:hippodamus-1</idno>
     <persName type="citable" xml:lang="en">Hippodamus</persName>
     <persName type="citable" xml:lang="grc">Ἱππόδαμος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (11.381).</note>
 </person>
 
@@ -6196,7 +6197,7 @@
     <persName type="citable" xml:lang="en">Hippodamea</persName>
     <persName type="citable" xml:lang="en">Hippodamia</persName>
     <persName type="citable" xml:lang="grc">Ἱπποδάμεια</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Hippodamia" ref="snap:DaughterOf" passive="#Anchises"><desc>daughter of Anchises</desc></relation>
@@ -6220,14 +6221,14 @@
     <idno type="smith">http://data.perseus.org/people/smith:hippolochus-2</idno>
     <persName type="citable" xml:lang="en">Hippolochus</persName>
     <persName type="citable" xml:lang="grc">Ἱππόλοχος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Antimachus, Trojan warrior: killed by Agamemnon (11.134 ff).</note>
 </person>
 
 <person xml:id="Hippomachus">
     <persName type="citable" xml:lang="en">Hippomachus</persName>
     <persName type="citable" xml:lang="grc">Ἱππόμαχος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Antimachus, Trojan warrior: killed by Leonteus (12.196).</note>
 </person>
 
@@ -6255,7 +6256,7 @@
     <idno type="wikidata">https://www.wikidata.org/wiki/Q3136185</idno>
     <persName type="citable" xml:lang="en">Hippothous</persName>
     <persName type="citable" xml:lang="grc">Ἱππόθους</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Hippothous" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -6266,7 +6267,7 @@
 <person xml:id="Hippotion1">
     <persName type="citable" xml:lang="en">Hippotion</persName>
     <persName type="citable" xml:lang="grc">Ἱπποτίων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Hippotion" ref="snap:FatherOf" passive="#Morus"><desc>father of Morus</desc></relation>
@@ -6277,7 +6278,7 @@
 <person xml:id="Hippotion2">
     <persName type="citable" xml:lang="en">Hippotion</persName>
     <persName type="citable" xml:lang="grc">Ἱπποτίων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Meriones (14.601).</note>
 </person>
 
@@ -6287,7 +6288,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:hypeirochus-1</idno>
     <persName type="citable" xml:lang="en">Hypeirochus</persName>
     <persName type="citable" xml:lang="grc">Ὑπείροχος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (11.381).</note>
 </person>
 
@@ -6307,7 +6308,7 @@
 <person xml:id="Hypeiron">
     <persName type="citable" xml:lang="en">Hypeiron</persName>
     <persName type="citable" xml:lang="grc">Ὑπείρων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Diomedes (5.165).</note>
 </person>
 
@@ -6318,7 +6319,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:hypsenor-1</idno>
     <persName type="citable" xml:lang="en">Hypsenor</persName>
     <persName type="citable" xml:lang="grc">Ὑψήνωρ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Hypsenor" ref="snap:SonOf" passive="#Dolopion"><desc>son of Dolopion</desc></relation>
@@ -6359,7 +6360,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:hyrtacus-1</idno>
     <persName type="citable" xml:lang="en">Hyrtacus</persName>
     <persName type="citable" xml:lang="grc">Ὕρτακος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Hyrtacus" ref="snap:FatherOf" passive="#Asius"><desc>father of Asius</desc></relation>
@@ -6370,7 +6371,7 @@
 <person xml:id="Hyrtius">
     <persName type="citable" xml:lang="en">Hyrtius</persName>
     <persName type="citable" xml:lang="grc">Ὕρτιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Hyrtius" ref="snap:SonOf" passive="#Gyrtius"><desc>son of Gyrtius</desc></relation>
@@ -6447,14 +6448,14 @@
     <person xml:id="Idaios1">
         <persName type="citable" xml:lang="en">Idaios</persName>
         <persName type="citable" xml:lang="grc">Ἰδαῖος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan herald: speaks to Priam about Paris-Menelaus duel (3.274); stops the duel between Hector and Ajax (7.323); goes to Achaeans with Paris' offer to return all property (7.457); reports back to Trojans (7.485); sees Hermes, speaks to Priam (24.436); gets back to Troy with Priam (24.857).</note>
 </person>
 
 <person xml:id="Idaios2">
     <persName type="citable" xml:lang="en">Idaios</persName>
     <persName type="citable" xml:lang="grc">Ἰδαῖος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior, son of Dares: confronts Diomedes, saved by Hephaestus (5.13 ff).</note>
 </person>
 
@@ -6491,7 +6492,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:imbrasus-1</idno>
     <persName type="citable" xml:lang="en">Imbrasus</persName>
     <persName type="citable" xml:lang="grc">Ἶμβρασος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Imbrasus" ref="snap:FatherOf" passive="#Peirous"><desc>father of Peirous</desc></relation>
@@ -6523,7 +6524,7 @@
 <person xml:id="Ipheus">
     <persName type="citable" xml:lang="en">Ipheus</persName>
     <persName type="citable" xml:lang="grc">Ἰφεύς</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
 
@@ -6560,7 +6561,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:iphidamas-2</idno>
     <persName type="citable" xml:lang="en">Iphidamas</persName>
     <persName type="citable" xml:lang="grc">Ἰφιδάμας</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Iphidamas" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
@@ -6616,7 +6617,7 @@
     <persName type="citable" xml:lang="en">Iphitus</persName>
     <persName type="citable" xml:lang="en">Iphitos</persName>
     <persName type="citable" xml:lang="grc">Ἴφιτος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <note>father of Archeptolemus (a Trojan warrior).</note>
 </person>
 
@@ -6638,7 +6639,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:hyrtacus-1</idno>
     <persName type="citable" xml:lang="en">Isus</persName>
     <persName type="citable" xml:lang="grc">Ἶσος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Isus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -6649,7 +6650,7 @@
 <person xml:id="Ithaemenes">
     <persName type="citable" xml:lang="en">Ithaemenes</persName>
     <persName type="citable" xml:lang="grc">Ἰθαιμένης</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Ithaemenes" ref="snap:FatherOf" passive="#Sthenelus"><desc>father of Sthenelaus</desc></relation>
@@ -6727,7 +6728,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:lampus-2</idno>
     <persName type="citable" xml:lang="en">Lampus</persName>
     <persName type="citable" xml:lang="grc">Λάμπος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Lampus" ref="snap:SonOf" passive="#Laomedon"><desc>son of Laomedon</desc></relation>
@@ -6759,7 +6760,7 @@
     <persName type="citable" xml:lang="grc">Λαόδοκος</persName>
     <persName type="citable" xml:lang="grc">Λαοδόκος</persName>
     <persName type="citable" xml:lang="grc">Λεωδόκος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Laodocus" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
@@ -6783,14 +6784,14 @@
 <person xml:id="Laogonus1">
     <persName type="citable" xml:lang="en">Laogonus </persName>
     <persName type="citable" xml:lang="grc">Λαόγονος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Onetor, Trojan warrior: killed by Meriones (16.703).</note>
 </person>
                 <!-- .. -->
 <person xml:id="Laogonus2">
     <persName type="citable" xml:lang="en">Laogonus </persName>
     <persName type="citable" xml:lang="grc">Λαόγονος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Bias, Trojan warrior: killed by Achilles (20.551).</note>
 </person>
 
@@ -6903,7 +6904,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:lycon-1</idno>
     <persName type="citable" xml:lang="en">Lycon</persName>
     <persName type="citable" xml:lang="grc"/>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Peneleus (16.391).</note>
 </person>
 
@@ -6911,7 +6912,7 @@
 <person xml:id="Lycophontes">
     <persName type="citable" xml:lang="en">Lycophontes</persName>
     <persName type="citable" xml:lang="grc">Λυκοφόντης</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.322).</note>
 </person>
 
@@ -6953,7 +6954,7 @@
 <person xml:id="Lysander">
     <persName type="citable" xml:lang="en">Lysander</persName>
     <persName type="citable" xml:lang="grc">Λύσανδρος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.554).</note>
 </person>
 
@@ -7028,7 +7029,7 @@
 <person xml:id="Maris">
     <persName type="citable" xml:lang="en">Maris</persName>
     <persName type="citable" xml:lang="grc">Μάρις</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Araisodarus, Trojan warrior: attacks Antilochus, killed by Thrasymedes (16.374).</note>
 </person>
 
@@ -7080,7 +7081,7 @@
 <person xml:id="Melanthus">
     <persName type="citable" xml:lang="en">Melanthus</persName>
     <persName type="citable" xml:lang="grc">Μέλανθος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Eurypylus (6.42).</note>
 </person>
 
@@ -7166,7 +7167,7 @@
 <person xml:id="Menon">
     <persName type="citable" xml:lang="en">Menon</persName>
     <persName type="citable" xml:lang="grc">Μένων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Leonteus (12.201).</note>
 </person>
 
@@ -7176,7 +7177,7 @@
                   <idno type="wikidata">http:https://www.wikidata.org/wiki/Q2991414</idno>
     <persName type="citable" xml:lang="en">Mermerus</persName>
     <persName type="citable" xml:lang="grc">Μέρμερος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: armour stripped by Antilochus (14.600).</note>
 </person>
 
@@ -7186,7 +7187,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:merops-3</idno>
     <persName type="citable" xml:lang="en">Merops</persName>
     <persName type="citable" xml:lang="grc">Μέροψ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Merops" ref="snap:FatherOf" passive="#Adrestus"><desc>father of Adrestus</desc></relation>
@@ -7208,7 +7209,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:mestor-1</idno>
     <persName type="citable" xml:lang="en">Mestor</persName>
     <persName type="citable" xml:lang="grc">Μήστωρ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Mestor" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
@@ -7235,7 +7236,7 @@
 <person xml:id="Mnesus">
     <persName type="citable" xml:lang="en">Mnesus</persName>
     <persName type="citable" xml:lang="grc">Μνῆσος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior from Paeonia: killed by Achilles (21.250).</note>
 </person>
 
@@ -7245,7 +7246,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:molion-2</idno>
     <persName type="citable" xml:lang="en">Molion</persName>
     <persName type="citable" xml:lang="grc">Μολίων</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (11.366).</note>
 </person>
 
@@ -7271,7 +7272,7 @@
 <person xml:id="Morus">
     <persName type="citable" xml:lang="en">Morus</persName>
     <persName type="citable" xml:lang="grc">Μόρυς</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Morus" ref="snap:SonOf" passive="#Hippotion"><desc>son of Hippotion</desc></relation>
@@ -7290,7 +7291,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:mulius-2</idno>
     <persName type="citable" xml:lang="en">Mulius</persName>
     <persName type="citable" xml:lang="grc">Μούλιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.811).</note>
 </person>
 
@@ -7298,7 +7299,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:mulius-2</idno>
     <persName type="citable" xml:lang="en">Mulius</persName>
     <persName type="citable" xml:lang="grc">Μούλιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Achilles (20.567).</note>
 </person>
 
@@ -7469,7 +7470,7 @@
 <person xml:id="Nomon1">
     <persName type="citable" xml:lang="en">Nomon</persName>
     <persName type="citable" xml:lang="grc"/>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.785).</note>
 </person>
 
@@ -7487,7 +7488,7 @@
         <relation active="#Nomion" ref="snap:FatherOf" passive="#Nastes"><desc>father of Nastes</desc></relation>
         <relation active="#Nomion" ref="snap:FatherOf" passive="#Amphimachus"><desc>father of Amphimachus</desc></relation>
     </listBibl>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Nastes and Amphimachus (Trojan warriors).</note>
 </person>
 
@@ -7563,7 +7564,7 @@
 <person xml:id="Oenomaus2">
     <persName type="citable" xml:lang="en">Oenomaus</persName>
     <persName type="citable" xml:lang="grc">Οἱνόμαος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: moves up with Asius to assault the wall (12.148); killed by Idomeneus (13.608).</note>
 </person>
 
@@ -7593,7 +7594,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:oileus-1</idno>
     <persName type="citable" xml:lang="en">Oileus</persName>
     <persName type="citable" xml:lang="grc">Ὀϊλεύς</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Agamemnon (11.100).</note>
 </person>
 
@@ -7601,28 +7602,28 @@
     <idno type="smith">http://data.perseus.org/people/smith:onetor-1</idno>
     <persName type="citable" xml:lang="en">Onetor</persName>
     <persName type="citable" xml:lang="grc">Ὀνήτωρ</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Laogonus (Trojan warrior): priest of Zeus at Ida (16.703).</note>
 </person>
 
 <person xml:id="Ophelestes1">
     <persName type="citable" xml:lang="en">Ophelestes</persName>
     <persName type="citable" xml:lang="grc">Ὀφελέστης</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.321).</note>
 </person>
 
 <person xml:id="Ophelestes2">
     <persName type="citable" xml:lang="en">Ophelestes</persName>
     <persName type="citable" xml:lang="grc">Ὀφελέστης</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior from Paeonia: killed by Achilles (21.251).</note>
 </person>
 
 <person xml:id="Opheltius1">
     <persName type="citable" xml:lang="en">Opheltius</persName>
     <persName type="citable" xml:lang="grc">Ὀφέλτιος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Euryalus (6.23).</note>
 </person>
 
@@ -7660,7 +7661,7 @@
 <person xml:id="Orestes3">
     <persName type="citable" xml:lang="en">Orestes</persName>
     <persName type="citable" xml:lang="grc">Ὀρέστης</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior, moves up with Asius against the wall (12.145); killed by Leonteus (12.201).</note>
 </person>
 
@@ -7679,7 +7680,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:ormenus-2</idno>
     <persName type="citable" xml:lang="en">Ormenus</persName>
     <persName type="citable" xml:lang="grc">Ὄρμενος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.321).</note>
 </person>
 
@@ -7702,7 +7703,7 @@
     <idno type="smith">http://data.perseus.org/people/smith:ormenus-2</idno>
     <persName type="citable" xml:lang="en">Ormenus</persName>
     <persName type="citable" xml:lang="grc">Ὄρμενος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Polypoetes (12.194).</note>
 </person>
 
@@ -7742,14 +7743,14 @@
 <persName type="citable" xml:lang="en">Ortilochus</persName>
 <persName type="citable" xml:lang="grc">Ὁρσίλοχος</persName>
 <persName type="citable" xml:lang="grc">Ὁρτίλοχος</persName>
-<affiliation>Troy</affiliation>
+<affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (8.321).</note>
 </person>
 
 <person xml:id="Orthaeus">
     <persName type="citable" xml:lang="en">Orthaeus</persName>
     <persName type="citable" xml:lang="grc">Ὀρθαῖος</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to the centre of the battle (13.937).</note>
 </person>
 
@@ -7779,7 +7780,7 @@
 <person xml:id="Otrynteus">
     <persName type="citable" xml:lang="en">Otrynteus</persName>
     <persName type="citable" xml:lang="grc">Ὀτρυντεύς</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
         <relation active="#Otrynteus" ref="snap:FatherOf" passive="#Iphition"><desc>father of Iphition</desc></relation>
@@ -7834,13 +7835,13 @@
 
 <person xml:id="Palmys">
     <persName>Palmys</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to centre of the battle (13.938).</note>
 </person>
 
 <person xml:id="Pammon">
     <persName>Pammon</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Priam: cursed by Priam (24.310).</note>
 </person>
 
@@ -7852,7 +7853,7 @@
 
 <person xml:id="Pandocus">
     <persName>Pandocus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.553).</note>
 </person>
 
@@ -7874,7 +7875,7 @@
 
 <person xml:id="Paphlagonians">
     <persName>Paphlagonians</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan allies: in display of Trojan forces (2.933); take Harpalion away from battle (13.782).</note>
 </person>
 
@@ -7892,7 +7893,7 @@
 
 <person xml:id="Pedasus1">
     <persName>Pedasus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Bucolion and Abarbarea, Trojan warrior: killed by Euryalus (6.31).</note>
 </person>
 
@@ -7908,7 +7909,7 @@
 
 <person xml:id="Peires">
     <persName>Peires</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Rhigmus (Trojan warrior).</note>
 </person>
 
@@ -7920,13 +7921,13 @@
 
 <person xml:id="Peisander1">
     <persName>Peisander</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Antimachus, Trojan warrior: killed by Agamemnon (11.135 ff).</note>
 </person>
 
 <person xml:id="Peisander2">
     <persName>Peisander</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warior: killed by Menelaus (13.715 ff).</note>
 </person>
 
@@ -7943,7 +7944,7 @@
 
 <person xml:id="Pelegon2">
     <persName>Pelegon</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior, attendant on Sarpedon: removes the spear from Sarpedon's thigh (5.800)</note>
 </person>
 
@@ -7974,7 +7975,7 @@
 
 <person xml:id="Pergasus">
     <persName>Pergasus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Deicon (Trojan warrior).</note>
 </person>
 
@@ -7991,7 +7992,7 @@
 
 <person xml:id="Perimus">
     <persName>Perimus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Megas, Trojan warrior: killed by Patroclus (16.809).</note>
 </person>
 
@@ -8002,13 +8003,13 @@
 
 <person xml:id="Periphas2">
     <persName>Periphas</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Epytos, Trojan herald: Apollo takes his form (17.412).</note>
 </person>
 
 <person xml:id="Periphetes1">
     <persName>Periphetes</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (14.602).</note>
 </person>
 
@@ -8034,19 +8035,19 @@
 
 <person xml:id="Phaenops1">
     <persName>Phaenops</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Xanthus and Thon (Trojan warriors): loses his heirs (5.176).</note>
 </person>
 
 <person xml:id="Phaenops2">
     <persName>Phaenops</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Phorcys (Trojan warrior).</note>
 </person>
 
 <person xml:id="Phaenops3">
     <persName>Phaenops</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Asius, Trojan warrior: Apollo takes on his form (17.710).</note>
 </person>
 
@@ -8057,19 +8058,19 @@
 
 <person xml:id="Phalces">
     <persName>Phalces</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to centre of the battle (13.937); armour stripped by Antilochus (14.600).</note>
 </person>
 
 <person xml:id="Phausius">
     <persName>Phausius</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Apisaon (Trojan warrior).</note>
 </person>
 
 <person xml:id="Phegeus">
     <persName>Phegeus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Dares, Trojan warrior: killed by Diomedes (5.12 ff).</note>
 </person>
 
@@ -8085,7 +8086,7 @@
 
 <person xml:id="Phereclus">
     <persName>Phereclus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Tecton, Trojan warrior: killed by Meriones (5.66); made ships for Paris (5.69).</note>
 </person>
 
@@ -8101,7 +8102,7 @@
 
 <person xml:id="Philetor">
     <persName>Philetor</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Demuchus (a Trojan warrior).</note>
 </person>
 
@@ -8128,14 +8129,14 @@
 
 <person xml:id="Phorbas2">
     <persName>Phorbas</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Ilioneus (Trojan warrior): rich man, loved by Hermes (14.570).</note>
 </person>
 
 
 <person xml:id="Phradmon">
     <persName>Phradmon</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Agelaos (Trojan warrior).</note>
 </person>
 
@@ -8146,7 +8147,7 @@
 
 <person xml:id="Phylaces1">
     <persName>Phylaces</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Leitus (6.41).</note>
 </person>
 
@@ -8172,7 +8173,7 @@
 
 <person xml:id="Pidytes">
     <persName>Pidytes</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (6.35).</note>
 </person>
 
@@ -8218,7 +8219,7 @@
 
 <person xml:id="Podes">
     <persName>Podes</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Etion, Trojan warrior: killed by Menelaus (17.700).</note>
 </person>
 
@@ -8230,7 +8231,7 @@
 
 <person xml:id="Polyaimon">
     <persName>Polyaimon</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Amopaon (Trojan warrior).</note>
 </person>
 
@@ -8241,7 +8242,7 @@
 
 <person xml:id="Polydorus1">
     <persName>Polydorus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Priam and Laothoe, brother of Lycaon: Lycaon tells of his death at hands of Achilles (21.106).</note>
 </person>
 
@@ -8253,13 +8254,13 @@
 
 <person xml:id="Polydorus">
     <persName>Polydorus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Priam: killed by Achilles (20.488).</note>
 </person>
 
 <person xml:id="Polyidus">
     <persName>Polyidus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Eurydamas, Trojan warrior: killed by Diomedes (5.170).</note>
 </person>
 
@@ -8270,7 +8271,7 @@
 
 <person xml:id="Polymelus">
     <persName>Polymelus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Argeas, Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
 
@@ -8282,7 +8283,7 @@
 
 <person xml:id="Polyphetes">
     <persName>Polyphetes</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to the centre of the battle (13.937).</note>
 </person>
 
@@ -8319,7 +8320,7 @@
 
 <person xml:id="Pronous">
     <persName>Pronous</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.464).</note>
 </person>
 
@@ -8331,7 +8332,7 @@
 
 <person xml:id="Prothon">
     <persName>Prothon</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (14.602).</note>
 </person>
 
@@ -8342,7 +8343,7 @@
 
 <person xml:id="Protiaon">
     <persName>Protiaon</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Astynous (Trojan warrior).</note>
 </person>
 
@@ -8353,7 +8354,7 @@
 
 <person xml:id="Prytanis">
     <persName>Prytanis</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.785).</note>
 </person>
 
@@ -8370,13 +8371,13 @@
 
 <person xml:id="Pylantes1">
     <persName>Pylantes</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.554).</note>
 </person>
 
 <person xml:id="Pylantes2">
     <persName>Pylantes</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.811).</note>
 </person>
 
@@ -8387,20 +8388,20 @@
 
 <person xml:id="Pylon">
     <persName>Pylon</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Polypoetes (12.194).</note>
 </person>
 
 
 <person xml:id="Pyrasus">
     <persName>Pyrasus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.554).</note>
 </person>
 
 <person xml:id="Pyris">
     <persName>Pyris</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
 
@@ -8431,7 +8432,7 @@
 
 <person xml:id="Rhigmus">
     <persName>Rhigmus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Peires, Trojan warrior: killed by Achilles (20.582).</note>
 </person>
 
@@ -8478,7 +8479,7 @@
 
 <person xml:id="Selagus">
     <persName>Selagus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Amphius (Trojan warrior).</note>
 </person>
 
@@ -8504,7 +8505,7 @@
 
 <person xml:id="Simoeisius">
     <persName>Simoeisius</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Anthemion, Trojan warrior: killed by Telamonian Ajax (4.549 ff).</note>
 </person>
 
@@ -8520,7 +8521,7 @@
 
 <person xml:id="Socus">
     <persName>Socus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Hippasus, Trojan warrior: challenges Odysseus, fights him, is killed (11.486).</note>
 </person>
 
@@ -8552,7 +8553,7 @@
 
 <person xml:id="Sthenelaus">
     <persName>Sthenelaus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Ithaemenes, Trojan warrior: killed by Patroclus (16.682).</note>
 </person>
 
@@ -8570,7 +8571,7 @@
 
 <person xml:id="Strophius">
     <persName>Strophius</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Scamandrius (a Trojan warrior).</note>
 </person>
 
@@ -8587,7 +8588,7 @@
 
 <person xml:id="Tecton">
     <persName>Tecton</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Harmon, father of Phereclus (Trojan warrior).</note>
 </person>
 
@@ -8641,7 +8642,7 @@
 
 <person xml:id="Thalysius">
     <persName>Thalysius</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Echepolus (Trojan warrior).</note>
 </person>
 
@@ -8653,7 +8654,7 @@
 
 <person xml:id="Thebaios">
     <persName>Thebaios</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Eniopeus (Trojan warrior).</note>
 </person>
 
@@ -8664,7 +8665,7 @@
 
 <person xml:id="Thersilochus">
     <persName>Thersilochus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior from Paeonia: encouraged by Hector (17.280); killed by Achilles (21.249).</note>
 </person>
 
@@ -8691,7 +8692,7 @@
 
 <person xml:id="Thestor3">
     <persName>Thestor</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Enops, Trojan warrior: killed by Patroclus (16.467).</note>
 </person>
 
@@ -8708,7 +8709,7 @@
 
 <person xml:id="Thoas3">
     <persName>Thoas</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Menelaus (16.365).</note>
 </person>
 
@@ -8719,19 +8720,19 @@
 
 <person xml:id="Thon1">
     <persName>Thon</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Phaenops, Trojan warrior: killed by Diomedes (5.174).</note>
 </person>
 
 <person xml:id="Thon2">
     <persName>Thon</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (11.481).</note>
 </person>
 
 <person xml:id="Thon3">
     <persName>Thon</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: comes up with Asius to assault the wall (12.146); killed by Antilochus (13.652).</note>
 </person>
 
@@ -8747,13 +8748,13 @@
 
 <person xml:id="Thrasius">
     <persName>Thrasius</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior from Paeonia: killed by Achilles (21.250).</note>
 </person>
 
 <person xml:id="Thrasymelus">
     <persName>Thrasymelus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior, companion of Sarpedon: killed by Patroclus (16.542).</note>
 </person>
 
@@ -8764,7 +8765,7 @@
 
 <person xml:id="Thymbraeus">
     <persName>Thymbraeus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Diomedes (11.364).</note>
 </person>
 
@@ -8782,7 +8783,7 @@
 
 <person xml:id="Tlepolemus2">
     <persName>Tlepolemus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Damastor, Trojan warrior: killed by Patroclus (16.485).</note>
 </person>
 
@@ -8798,7 +8799,7 @@
 
 <person xml:id="Troilus">
     <persName>Troilus</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Priam: mentioned by Priam (24.320).</note>
 </person>
 
@@ -8809,13 +8810,13 @@
 
 <person xml:id="Tros">
     <persName>Tros</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Alastor, Trojan warrior: killed by Achilles (20.555).</note>
 </person>
 
 <person xml:id="Tros2">
     <persName>Tros</persName>
-    <affiliation>Troy</affiliation>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Erichthonius, father of Ilus, Assaracus, Ganymede, earlier king of Troy, ancestor of Priam, father of Ganymede: quality of his horses giiven as payment from Zeus for Ganymede (5.314); his story told by Aeneas (20.275).</note>
 </person>
 
