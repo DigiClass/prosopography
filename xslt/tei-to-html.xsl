@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
     xpath-default-namespace="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/xhtml">
     <xsl:output method="html" doctype-public="-//W3C//DTD HTML 4.01//EN"
-        doctype-system="http://www.w3.org/TR/html4/strict.dtd"/>
+        doctype-system="http://www.w3.org/TR/html4/strict.dtd" indent="no"/>
     <xsl:template match="/">
         <xsl:result-document method="html" href="html/index.html">
             <html>
@@ -81,7 +81,8 @@
                             <xsl:value-of select="//tei:titleStmt/tei:title[1]"/>
                         </h1>
                         <h2>
-                            <xsl:choose>
+                            <xsl:if test="/tei:TEI/@xml:id='FPAph'">
+                                <xsl:choose>
                                 <xsl:when test="starts-with(@xml:id,'fas')">
                                     <xsl:text>Fasti </xsl:text>
                                     <xsl:number value="substring-after(@xml:id,'fas')" format="1"/>
@@ -92,8 +93,11 @@
                                 </xsl:when>
                             </xsl:choose>
                             <xsl:text>. </xsl:text>
+                            </xsl:if>
                             <xsl:value-of select="tei:persName[@xml:lang = 'en'][1]"/>
                         </h2>
+                        
+                        
                         <dl>
                             <dt>Citation:</dt>
                             <dd>
@@ -112,34 +116,55 @@
                                             </xsl:when>
                                         </xsl:choose>
                                     </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:value-of select="tei:persName[@type='citable'][1]"/>
+                                    </xsl:otherwise>
                                 </xsl:choose>                                
                             </dd>
+                            
+                            
                             <dt>Permalink:</dt>
                             <dd>
                                 <a href="">http://digiclass.github.io/prosopography/Aphrodisias/html/<xsl:value-of
                                     select="./@xml:id"/>.html</a>
                             </dd>
+                            
+                            
                             <dt>Type:</dt>
-                            <dd>person</dd>
+                            <dd>
+                                <xsl:choose>
+                                    <xsl:when test="@role"><xsl:value-of select="@role"/></xsl:when>
+                                    <xsl:otherwise><xsl:text>person</xsl:text></xsl:otherwise>
+                                </xsl:choose>
+                            </dd>
+                            
+                            
                             <dt>Name(s):</dt>
                             <xsl:for-each select="tei:persName">
                                 <dd>
                                     <xsl:value-of select="normalize-space(text())"/>
                                     <xsl:if test="following-sibling::tei:persName">
-                                    <xsl:text>; </xsl:text>
+                                        <xsl:text>; 
+                                        </xsl:text>
                                     </xsl:if>
                                 </dd>    
                             </xsl:for-each>
+                            
+                            
                             <dt>Associated date(s):</dt>
                             <dd>
                                 <xsl:value-of select="tei:floruit"/>
                             </dd>
+                            
+                            
                             <dt>Associated place(s):</dt>
                             <dd>
                                 <a href="{tei:affiliation/@ref}">
                                     <xsl:value-of select="tei:affiliation"/>
                                 </a>
                             </dd>
+                            
+                            
                             <dt>Occupation/title(s):</dt>
                             <dd>
                                 <xsl:for-each select="tei:occupation">
@@ -149,40 +174,47 @@
                                     </xsl:if>
                                 </xsl:for-each>
                             </dd>
-                                <dt>Attestation(s):</dt>
-                                <dd>
-                                    <xsl:for-each select="tei:listBibl/tei:bibl[text()]">
-                                        <xsl:choose>
-                                            <xsl:when test="@corresp">
+                            
+                            
+                            <dt>Attestation(s):</dt>
+                            <dd>
+                                <xsl:for-each select="tei:listBibl/tei:bibl[text()]">
+                                    <xsl:choose>
+                                        <xsl:when test="@corresp">
                                             <xsl:element name="a">
-                                                    <xsl:attribute name="href" select="@corresp"/>
-                                                    <xsl:value-of select="normalize-space(.)"/>
-                                             </xsl:element>     
-                                            </xsl:when>
-                                            <!-- write exceptions for known URLs here -->
-                                            <xsl:when test="starts-with(.,'http')">
-                                            <xsl:element name="a">
-                                                    <xsl:attribute name="href" select="normalize-space(.)"/>
-                                                    <xsl:value-of select="normalize-space(.)"/>
-                                             </xsl:element>     
-                                            </xsl:when>
-                                            <xsl:otherwise>
+                                                <xsl:attribute name="href" select="@corresp"/>
                                                 <xsl:value-of select="normalize-space(.)"/>
-                                            </xsl:otherwise>
-                                        </xsl:choose>
-                                        <xsl:if test="following-sibling::tei:bibl[text()]">
-                                            <xsl:element name="br"/>
-                                        </xsl:if>
-                                    </xsl:for-each>
-                                </dd>
-                                <xsl:if test="tei:idno">
+                                            </xsl:element>     
+                                        </xsl:when>
+                                        <!-- write exceptions for known URLs here -->
+                                        <xsl:when test="starts-with(.,'http')">
+                                            <xsl:element name="a">
+                                                <xsl:attribute name="href" select="normalize-space(.)"/>
+                                                <xsl:value-of select="normalize-space(.)"/>
+                                            </xsl:element>     
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="normalize-space(.)"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                    <xsl:if test="following-sibling::tei:bibl[text()]">
+                                        <xsl:element name="br"/>
+                                    </xsl:if>
+                                </xsl:for-each>
+                            </dd>
+                            
+                            
+                            <xsl:if test="tei:idno">
                                 <dt>Other identifier(s):</dt>
                                 <dd>
                                     <xsl:for-each select="tei:idno">
-                                        <xsl:value-of select="text()"/>
-                                        <xsl:if test="following-sibling::tei:bibl">
-                                            <xsl:text>; </xsl:text>
-                                        </xsl:if>
+                                       <xsl:element name="a">
+                                           <xsl:attribute name="href" select="normalize-space(.)"/>
+                                                <xsl:value-of select="normalize-space(.)"/>
+                                            </xsl:element> 
+                                            <xsl:if test="following-sibling::tei:idno">
+                                               <br />
+                                            </xsl:if>
                                     </xsl:for-each>
                                 </dd>
                             </xsl:if>
