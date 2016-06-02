@@ -2355,10 +2355,14 @@
                     <idno type="wikidata">https://www.wikidata.org/entity/Q1197983</idno>
                     <persName type="citable" xml:lang="en">Pedasus</persName>
                     <persName xml:lang="grc">Πήδασος</persName>
+                    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
                     <listBibl>
                         <bibl/>
                         <relation active="#Pedasus" ref="BrotherOf" passive="#Aesepus"><desc>twin brother of Aesepus</desc></relation>
+                        <relation active="#Pedasus" ref="SonOf" passive="#Abarbarea"><desc>son of Abarbarea</desc></relation>
+                        <relation active="#Pedasus" ref="SonOf" passive="https://en.wikipedia.org/wiki/Bucolion"><desc>son of Bucolion</desc></relation>
                     </listBibl>
+                    <note>son of Bucolion and Abarbarea, Trojan warrior: killed by Euryalus (6.31).</note>
                 </person>
                 
                 <person xml:id="Peirous">
@@ -7846,99 +7850,165 @@
                 
 
 <person xml:id="Paeon1" role="deity">
-    <persName>Paeon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Paean_(god)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:paean-1</idno>
+    <persName type="citable" xml:lang="en">Paean</persName>
+    <persName xml:lang="en">Paeëon</persName>
+    <persName xml:lang="en">Paieon</persName>
+    <persName xml:lang="en">Paeon</persName>
+    <persName xml:lang="en">Paion</persName>
+    <persName xml:lang="grc">Παιάν</persName>
+    <persName xml:lang="grc">Παιήων</persName>
+    <persName xml:lang="grc">Παιών</persName>
 <note>god of healing: cures Hades of a wound (5.475); told to cure Ares, does so (5.1031).</note>
 </person>
 
 <person xml:id="Paeon2">
-    <persName>Paeon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Paeon_(father_of_Agastrophus)</idno>
+    <persName type="citable" xml:lang="en">Paeon</persName>
+    <persName xml:lang="en">Paion</persName>
+    <persName xml:lang="grc">Παιών</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Paeon" ref="snap:SonOf" passive="#Agastrophus"><desc>son of Agastrophus</desc></relation>
+    </listBibl>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>father of Agastrophus (Trojan warrior).</note>
 </person>
 
 <person xml:id="Palmys">
-    <persName>Palmys</persName>
+    <persName type="citable" xml:lang="en">Palmys</persName>
+    <persName xml:lang="grc">Πάλμυς</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to centre of the battle (13.938).</note>
 </person>
 
 <person xml:id="Pammon">
-    <persName>Pammon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Pammon</idno>
+    <persName type="citable" xml:lang="en">Pammon</persName>
+    <persName xml:lang="grc">Πάμμων</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Pammon" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+    </listBibl>
 <note>son of Priam: cursed by Priam (24.310).</note>
 </person>
 
 
 <person xml:id="Pandion">
-    <persName>Pandion</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Pandion</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:pandion-3</idno>
+    <persName type="citable" xml:lang="en">Pandion</persName>
+    <persName xml:lang="grc">Πανδίων</persName>
 <note>Achaean warrior: goes to help Menestheus (12.408).</note>
 </person>
 
 <person xml:id="Pandocus">
-    <persName>Pandocus</persName>
+    <persName type="citable" xml:lang="en">Pandocus</persName>
+    <persName xml:lang="grc">Πάνδοκος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.553).</note>
 </person>
 
-<person xml:id="Panic">
-    <persName>Panic</persName>
-<note>depicted on the aegis (5.845); grips Achaeans (9.2); on Agamemnon's shield (11.38).</note>
-</person>
 
 <person xml:id="Panope" role="deity">
-    <persName>Panope</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Panopea</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:panope-1</idno>
+    <persName type="citable" xml:lang="en">Panopea</persName>
+    <persName xml:lang="en">Panopaea</persName>
+    <persName xml:lang="en">Panope</persName>
+    <persName xml:lang="grc">Πανόπεια</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.53).</note>
 </person>
 
-<person xml:id="Panopeus2">
-    <persName>Panopeus</persName>
+<person xml:id="Panopeus">
+    <idno type="smith">http://data.perseus.org/people/smith:panopeus-1</idno>
+    <persName type="citable" xml:lang="en">Panopeus</persName>
+    <persName xml:lang="grc">Πανοπεύς</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Panopeus" ref="snap:FatherOf" passive="#Epeius"><desc>father of Epeius</desc></relation>
+    </listBibl>
 <note>father of Epeius (Achaean warrior).</note>
 </person>
 
 
-<person xml:id="Paphlagonians">
-    <persName>Paphlagonians</persName>
-    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+<person xml:id="Paphlagonians" role="group">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Paphlagonia</idno>
+    <persName type="citable" xml:lang="en">Paphlagonians</persName>
+    <persName xml:lang="grc">Παφλαγόνες</persName>
 <note>Trojan allies: in display of Trojan forces (2.933); take Harpalion away from battle (13.782).</note>
 </person>
 
 
 <person xml:id="Pasithea">
-    <persName>Pasithea</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Pasithea</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:pasithea-1</idno>
+    <persName type="citable" xml:lang="en">Pasithea</persName>
+    <persName xml:lang="en">Pasithee</persName>
+    <persName xml:lang="grc">Πασιθέα</persName>
 <note>one of the Graces: Hera promises her to Sleep as a bride (14.328).</note>
 </person>
 
 
 <person xml:id="Pedaeus">
-    <persName>Pedaeus</persName>
+    <persName type="citable" xml:lang="en">Pedaeus</persName>
+    <persName xml:lang="grc">Πήδαιος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Pedaeus" ref="snap:SonOf" passive="#Antenor"><desc>son of Antenor</desc></relation>
+    </listBibl>
 <note>bastard son of Antenor: killed by Meges (5.78).</note>
 </person>
 
-<person xml:id="Pedasus1">
-    <persName>Pedasus</persName>
-    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
-<note>son of Bucolion and Abarbarea, Trojan warrior: killed by Euryalus (6.31).</note>
-</person>
 
-<person xml:id="Pedasus4">
-    <persName>Pedasus</persName>
+<person xml:id="Pedasus2" role="animal">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Pedasus</idno>
+    <persName type="citable" xml:lang="en">Pedasus</persName>
+    <persName xml:lang="grc">Πήδασος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Pedasus" ref="snap:Bond" passive="#Achilles"><desc>one of Achilles' horses</desc></relation>
+    </listBibl>
 <note>one of Achilles' horses (16.184): hit by Sarpedon's spear (16.545).</note>
 </person>
 
 <person xml:id="Peiraus">
-    <persName>Peiraus</persName>
+    <persName type="citable" xml:lang="en">Peiraus</persName>
+    <persName xml:lang="grc"></persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Peiraus" ref="snap:FatherOf" passive="#Ptolemaeus"><desc>father of Ptolemaeus</desc></relation>
+    </listBibl>
 <note>father of Ptolemaeus.</note>
 </person>
 
 <person xml:id="Peires">
-    <persName>Peires</persName>
+    <persName type="citable" xml:lang="en">Peires</persName>
+    <persName xml:lang="grc"></persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Peires" ref="snap:FatherOf" passive="#Rhigmus"><desc>father of Rhigmus</desc></relation>
+    </listBibl>
 <note>father of Rhigmus (Trojan warrior).</note>
 </person>
 
 <person xml:id="Peirithos">
-    <persName>Peirithos</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Pirithous</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:otus-1</idno>
+    <persName type="citable" xml:lang="en">Pirithous</persName>
+    <persName xml:lang="en">Perithous</persName>
+    <persName xml:lang="grc">Πειρίθοος</persName>
+    <persName xml:lang="grc">Πειρίθους</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Peirithos" ref="snap:FatherOf" passive="#Polypoetes"><desc>father of Polypoetes</desc></relation>
+    </listBibl>
 <note>father of Polypoetes (Achaean warrior): mentioned as an old colleague by Nestor (1.290); war on the centaurs (2.815); son of Zeus and the wife of Ixion (14.378).</note>
 </person>
+
 
 
 <person xml:id="Peisander1">
