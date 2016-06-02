@@ -140,15 +140,26 @@
                             
                             
                             <dt>Name(s):</dt>
-                            <xsl:for-each select="tei:persName">
+                            
                                 <dd>
-                                    <xsl:value-of select="normalize-space(text())"/>
-                                    <xsl:if test="following-sibling::tei:persName">
-                                        <xsl:text>; 
-                                        </xsl:text>
+                                    <xsl:for-each select="tei:persName[@xml:lang = 'en']">
+                                    English:<xsl:value-of select="normalize-space(text())"/>
+                                        <xsl:if test="following-sibling::tei:persName[@xml:lang = 'en']">
+                                            <br />
+                                        </xsl:if>
+                                    </xsl:for-each>
+                                </dd>  
+                                
+                            <dd>
+                                <xsl:for-each select="tei:persName[@xml:lang = 'grc']">
+                                Greek:<xsl:value-of select="normalize-space(text())"/>
+                                    <xsl:if test="following-sibling::tei:persName[@xml:lang = 'grc']">
+                                        <br />
                                     </xsl:if>
-                                </dd>    
-                            </xsl:for-each>
+                                
+                                </xsl:for-each>
+                            </dd>
+                            
                             
                             
                             <dt>Associated date(s):</dt>
