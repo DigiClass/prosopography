@@ -14,6 +14,7 @@
                     <h2>Table of Contents</h2>
                     <ul>
                         <xsl:for-each select="//tei:person">
+                                <xsl:sort select="tei:persName[1]"></xsl:sort>
                             <li>
                                 <xsl:element name="a">
                                     <xsl:attribute name="href">
@@ -45,6 +46,7 @@
             </html>
         </xsl:result-document>
         <xsl:for-each select="//tei:person">
+            <xsl:sort select="tei:persName[@xml:lang = 'en'][1]"></xsl:sort>
             <xsl:result-document method="html" href="html/{@xml:id}.html">
                 <html>
                     <head>
@@ -52,6 +54,7 @@
                             <xsl:value-of select="//tei:titleStmt/tei:title[1]"/>
                             <xsl:text>: </xsl:text>
                             <xsl:value-of select="tei:persName[@xml:lang = 'en'][1]"/>
+                            
                         </title>
                         <meta charset="utf-8"/>
                         <style>
@@ -140,15 +143,25 @@
                             
                             
                             <dt>Name(s):</dt>
-                            <xsl:for-each select="tei:persName">
+                            
                                 <dd>
-                                    <xsl:value-of select="normalize-space(text())"/>
-                                    <xsl:if test="following-sibling::tei:persName">
-                                        <xsl:text>; 
-                                        </xsl:text>
+                                    <xsl:for-each select="tei:persName[@xml:lang = 'en']">
+                                    English:<xsl:value-of select="normalize-space(text())"/>
+                                        <xsl:if test="following-sibling::tei:persName[@xml:lang = 'en']">
+                                            <br />
+                                        </xsl:if>
+                                    </xsl:for-each>
+                                </dd>  
+                                
+                            <dd>
+                                <xsl:for-each select="tei:persName[@xml:lang = 'grc']">
+                                Greek:<xsl:value-of select="normalize-space(text())"/>
+                                    <xsl:if test="following-sibling::tei:persName[@xml:lang = 'grc']">
+                                        <br />
                                     </xsl:if>
-                                </dd>    
-                            </xsl:for-each>
+                                </xsl:for-each>
+                            </dd>
+                            
                             
                             
                             <dt>Associated date(s):</dt>
