@@ -14,7 +14,7 @@
                     <h2>Table of Contents</h2>
                     <ul>
                         <xsl:for-each select="//tei:person">
-                                <xsl:sort select="tei:persName[@xml:lang = 'en'][1]"></xsl:sort>
+                                <xsl:sort select="tei:persName[1]"></xsl:sort>
                             <li>
                                 <xsl:element name="a">
                                     <xsl:attribute name="href">
