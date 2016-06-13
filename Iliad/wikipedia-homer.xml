@@ -2694,10 +2694,11 @@
                 
                 <person xml:id="Schedius">
                     <idno type="wikipedia">https://en.wikipedia.org/wiki/Schedius</idno>
-                    <idno type="smith">http://data.perseus.org/people/smith:schedius-1</idno>
+                    <idno type="smith">http://data.perseus.org/people/smith:schedius-2</idno>
                     <idno type="wikidata">https://www.wikidata.org/entity/Q1330712</idno>
                     <persName type="citable" xml:lang="en">Schedius</persName>
                     <persName xml:lang="grc">Σχεδίος</persName>
+                    <note>son of Perimedes, Achaean warrior, commander of Phoceans: in catalogue of ships (2.592); killed by Hector (15.607).</note>
                 </person>
                 
                 <person xml:id="Stentor">
@@ -8661,132 +8662,229 @@
 
 
 <person xml:id="Satnius">
-    <persName>Satnius</persName>
+    <persName type="citable" xml:lang="en">Satnius</persName>
+    <persName xml:lang="grc">Σάτνιος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Satnius" ref="snap:SonOf" passive="#Enops"><desc>son of Enops</desc></relation>
+    </listBibl>
 <note>son of Enops and a Naiad nymph, Trojan warrior: killed by Olean Ajax (14.517).</note>
 </person>
 
-<person xml:id="Scamandrius1">
-    <persName>Scamandrius</persName>
+<person xml:id="Scamandrius2">
+    <idno type="smith">http://data.perseus.org/people/smith:scamandrius-2</idno>
+    <persName type="citable" xml:lang="en">Scamandrius</persName>
+    <persName xml:lang="grc">Σκαμάνδριος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Scamandrius" ref="snap:SonOf" passive="#Strophius"><desc>son of Strophius</desc></relation>
+    </listBibl>
+    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>son of Strophius, Trojan warrior: killed by Menelaus (5.54).</note>
 </person>
 
-<person xml:id="Scamandrius2">
-    <persName>Scamandrius</persName>
-<note>see Astyanax.</note>
-</person>
-
-<person xml:id="Schedius1">
-    <persName>Schedius</persName>
-<note>son of Perimedes, Achaean warrior, commander of Phoceans: in catalogue of ships (2.592); killed by Hector (15.607).</note>
-</person>
 
 <person xml:id="Schedius2">
-    <persName>Schedius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Schedius</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:schedius-1</idno>
+    <persName type="citable" xml:lang="en">Schedius</persName>
+    <persName xml:lang="grc">Σχεδίος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Schedius" ref="snap:SonOf" passive="#Iphitus"><desc>son of Iphitus</desc></relation>
+    </listBibl>
 <note>son of Iphitus, Achaean warrior: killed by Hector (17.393).</note>
 </person>
 
 <person xml:id="Seasons" role="deity">
-    <persName>Seasons</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Horae</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:horae-1</idno>
+    <persName type="citable" xml:lang="en">Horae</persName>
+    <persName xml:lang="en">Seasons</persName>
+    <persName xml:lang="grc">Ὧραι</persName>
 <note>goddesses who look after the gates of Olympus: (5.855); (8.459); unyoke Hera's horses (8.505).</note>
 </person>
 
 <person xml:id="Selagus">
-    <persName>Selagus</persName>
+    <persName type="citable" xml:lang="en">Selagus</persName>
+    <persName xml:lang="grc">Σέλαγος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Selagus" ref="snap:FatherOf" passive="#Amphius"><desc>father of Amphius</desc></relation>
+    </listBibl>
 <note>father of Amphius (Trojan warrior).</note>
 </person>
 
 <person xml:id="Selepius">
-    <persName>Selepius</persName>
+    <persName type="citable" xml:lang="en">Selepius</persName>
+    <persName xml:lang="grc"></persName>
+    <occupation>King</occupation>
 <note>King of Lyrnessus, father of Euneus, grandfather of Mynes and Epistrophus.</note>
 </person>
 
 <person xml:id="Selli" role="priests - group">
-    <persName>Selli</persName>
+    <persName type="citable" xml:lang="en">Selli</persName>
+    <persName xml:lang="grc">Σελλοὶ</persName>
 <note>priests of Zeus at Dodona (16.279).</note>
 </person>
 
 <person xml:id="Semele">
-    <persName>Semele</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Semele</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:semele-1</idno>
+    <persName type="citable" xml:lang="en">Semele</persName>
+    <persName xml:lang="grc">Σεμέλη</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Semele" ref="snap:MotherOf" passive="#Dionysus"><desc>mother of Dionysus</desc></relation>
+        <relation active="#Semele" ref="snap:IntimateRelationship" passive="#Zeus"><desc>a woman loved by Zeus</desc></relation>
+    </listBibl>
 <note>a woman loved by Zeus, mother of Dionysus (14.386).</note>
 </person>
 
 <person xml:id="Simoeis" role="deity">
-    <persName>Simoeis</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Simoeis</idno>
+    <persName type="citable" xml:lang="en">Simoeis</persName>
+    <persName xml:lang="grc">Σιμόεις</persName>
 <note>river near Troy: provides ambrosia for Hera's horses (5.889); stirred up by Poseidon and Apollo to destroy the wall (12.22); Ares moves along there encouraging Trojans (20.64); Scamander appeals to him for help against Achilles (21.371).</note>
 </person>
 
 <person xml:id="Simoeisius">
-    <persName>Simoeisius</persName>
+    <persName type="citable" xml:lang="en">Simoeisius</persName>
+    <persName xml:lang="grc">Σιμοείσιος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Simoeisius" ref="snap:SonOf" passive="#Anthemion"><desc>son of Anthemion</desc></relation>
+    </listBibl>
 <note>son of Anthemion, Trojan warrior: killed by Telamonian Ajax (4.549 ff).</note>
 </person>
 
 <person xml:id="Sisyphus">
-    <persName>Sisyphus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Sisyphus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:sisyphus-1</idno>
+    <persName type="citable" xml:lang="en">Sisyphus</persName>
+    <persName xml:lang="grc">Σίσυφος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Sisyphus" ref="snap:SonOf" passive="#Aeolus"><desc>son of Aeolus</desc></relation>
+        <relation active="#Sisyphus" ref="snap:FatherOf" passive="#Glaucus"><desc>father of Glaucus</desc></relation>
+    </listBibl>
 <note>son of Aeolus, father Glaucus: lived in Ephyra (6.191).</note>
 </person>
 
 <person xml:id="Sleep" role="deity">
-    <persName>Sleep</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Hypnos</idno>
+    <persName type="citable" xml:lang="en">Hypnos</persName>
+    <persName xml:lang="en">Sleep</persName>
+    <persName xml:lang="grc">Ὕπνος</persName>
 <note>god, brother of death: Hera visits him on Lemnos, offers him a bride, he agrees to put Zeus to sleep (14.277 ff); goes to Ida, sits in a tree as a bird (14.335 ff); returns to the army to tell Poseidon Zeus is sleeping (14.419); deals with Sarpedon's body (16.794).</note>
 </person>
 
 <person xml:id="Socus">
-    <persName>Socus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Socus</idno>
+    <persName type="citable" xml:lang="en">Socus</persName>
+    <persName xml:lang="grc">Σῶκος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Socus" ref="snap:SonOf" passive="#Hippasus"><desc>son of Hippasus</desc></relation>
+    </listBibl>
 <note>son of Hippasus, Trojan warrior: challenges Odysseus, fights him, is killed (11.486).</note>
 </person>
 
-<person xml:id="Solymi">
-    <persName>Solymi</persName>
+<person xml:id="Solymi" role="group">
+    <persName type="citable" xml:lang="en">Solymi</persName>
+    <persName xml:lang="grc">Σόλυμοι</persName>
 <note>tribe in Lycia: attacked by Bellerophon (6.237).</note>
 </person>
 
 <person xml:id="SouthWind" role="deity">
-    <persName>South Wind</persName><persName>Notus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Anemoi</idno>
+    <persName type="citable" xml:lang="en">SouthWind</persName>
+    <persName xml:lang="en">Notus</persName>
+    <persName xml:lang="grc">Νότος</persName>
 <note>(2.470); (3.9).</note>
 </person>
 
 <person xml:id="Speio" role="deity">
-    <persName>Speio</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:speio-1</idno>
+    <persName type="citable" xml:lang="en">Speio</persName>
+    <persName xml:lang="grc">Σπειώ</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.49).</note>
 </person>
 
 <person xml:id="Spercheus" role="deity">
-    <persName>Spercheus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Spercheios</idno>
+    <persName type="citable" xml:lang="en">Spercheus</persName>
+    <persName type="citable" xml:lang="en">Spercheios</persName>
+    <persName xml:lang="grc">Σπερχειός</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Spercheus" ref="snap:FatherOf" passive="#Menesthius"><desc>father of Menesthius</desc></relation>
+    </listBibl>
 <note>river, father of Menesthius, after copulating with Polydora (16.206); Achilles prays to the river (23.170).</note>
 </person>
 
 <person xml:id="Sphelus">
-    <persName>Sphelus</persName>
+    <persName type="citable" xml:lang="en">Sphelus</persName>
+    <persName xml:lang="grc">Σφῆλος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Spercheus" ref="snap:FatherOf" passive="#Iasus"><desc>father of Iasus</desc></relation>
+    </listBibl>
 <note>son of Bucolus, father of Iasus.</note>
 </person>
 
 
 <person xml:id="Sthenelaus">
-    <persName>Sthenelaus</persName>
+    <persName type="citable" xml:lang="en">Sthenelaus</persName>
+    <persName xml:lang="grc">Σθενέλαος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Sthenelaus" ref="snap:SonOf" passive="#Ithaemenes"><desc>son of Ithaemenes</desc></relation>
+    </listBibl>
 <note>son of Ithaemenes, Trojan warrior: killed by Patroclus (16.682).</note>
 </person>
 
 
-
 <person xml:id="Sthenelus2">
-    <persName>Sthenelus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Sthenelus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:Sthenelus-3</idno>
+    <persName type="citable" xml:lang="en">Sthenelus</persName>
+    <persName xml:lang="grc">Σθένελος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Sthenelus" ref="snap:SonOf" passive="#Perseus"><desc>son of Perseus</desc></relation>
+        <relation active="#Sthenelus" ref="snap:FatherOf" passive="#Eurystheus"><desc>father of Eurystheus</desc></relation>
+    </listBibl>
 <note>son of Perseus, father of Eurystheus (19.152).</note>
 </person>
 
 <person xml:id="Stichius">
-    <persName>Stichius</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:stichius-1</idno>
+    <persName type="citable" xml:lang="en">Stichius</persName>
+    <persName xml:lang="grc">Στιχίος</persName>
 <note>Achaean warrior: carries off Amphimachus (13.241); fighting against Hector (13.824); killed by Hector (15.389).</note>
 </person>
 
 <person xml:id="Strophius">
-    <persName>Strophius</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Strophius</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:strophius-1</idno>
+    <persName type="citable" xml:lang="en">Strophius</persName>
+    <persName xml:lang="grc">Στρόφιος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Strophius" ref="snap:FatherOf" passive="#Scamandrius"><desc>father of Scamandrius</desc></relation>
+    </listBibl>
 <note>father of Scamandrius (a Trojan warrior).</note>
 </person>
+                
+                
+                
 
 <person xml:id="Talaemenes">
     <persName>Talaemenes</persName>
