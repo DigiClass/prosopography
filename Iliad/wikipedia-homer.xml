@@ -2689,6 +2689,7 @@
                     <affiliation ref="http://pleiades.stoa.org/places/1001889">Thrace</affiliation>
                     <persName type="citable" xml:lang="en">Rhesus</persName>
                     <persName xml:lang="grc">Ῥῆσος</persName>
+                    <note>King of a Thracian contingent, Trojan allies: quality of his horses and armour, position in the camp (10.522); sleeping in the middle of his troops (10.567); killed by Diomedes (10.592).</note>
                 </person>
                 
                 <person xml:id="Schedius">
@@ -8584,46 +8585,79 @@
 <note>Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
 
+
+
+
 <person xml:id="Rhadamanthus">
-    <persName>Rhadamanthus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Rhadamanthus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:rhadamanthus-1</idno>
+    <persName type="citable" xml:lang="en">Rhadamanthus</persName>
+    <persName type="citable" xml:lang="en">Rhadamanthys</persName>
+    <persName xml:lang="grc">Ῥαδάμανθυς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Rhadamanthus" ref="snap:SonOf" passive="#Zeus"><desc>son of Zeus</desc></relation>
+    </listBibl>
 <note>son of Zeus (14.384).</note>
 </person>
 
 <person xml:id="Rhea" role="deity">
-    <persName>Rhea</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Rhea_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:rhea-1</idno>
+    <persName type="citable" xml:lang="en">Rhea</persName>
+    <persName xml:lang="grc">Ῥέα</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Rhea" ref="snap:WifeOf" passive="#Cronos"><desc>wife of Cronos</desc></relation>
+    </listBibl>
 <note>goddess, wife of Cronos: gave Hera to Oceanus and Tethys (14.243); her three sons with Cronos (15.224).</note>
 </person>
 
 <person xml:id="Rhene">
-    <persName>Rhene</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Rhene_(mythology)</idno>
+    <persName type="citable" xml:lang="en">Rhene</persName>
+    <persName xml:lang="grc">Ῥήνη</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Rhene" ref="snap:MotherOf" passive="#Medon"><desc>mother of Medon</desc></relation>
+    </listBibl>
 <note>mother of Medon (illegitimate son of Oileus).</note>
 </person>
 
-<person xml:id="Rhesus1">
-    <persName>Rhesus</persName>
-<note>King of a Thracian contingent, Trojan allies: quality of his horses and armour, position in the camp (10.522); sleeping in the middle of his troops (10.567); killed by Diomedes (10.592).</note>
-</person>
 
 <person xml:id="Rhesus2" role="deity">
-    <persName>Rhesus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Rhesus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:rhesus-1</idno>
+    <persName type="citable" xml:lang="en">Rhesus</persName>
+    <persName xml:lang="grc">Ῥῆσος</persName>
 <note>river flowing from Mount Ida to the sea: stirred into action by Poseidon and Apollo (12.20).</note>
 </person>
 
 <person xml:id="Rhigmus">
-    <persName>Rhigmus</persName>
+    <persName type="citable" xml:lang="en">Rhigmus</persName>
+    <persName xml:lang="grc">Ῥίγμος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Rhigmus" ref="snap:SonOf" passive="#Peires"><desc>son of Peires</desc></relation>
+    </listBibl>
 <note>son of Peires, Trojan warrior: killed by Achilles (20.582).</note>
 </person>
 
 <person xml:id="Rhodius" role="deity">
-    <persName>Rhodius</persName>
+    <persName type="citable" xml:lang="en">Rhodius</persName>
+    <persName xml:lang="grc"></persName>
 <note>river from Mount Ida to the sea: stirred up by Poseidon and Apollo to destroy the wall (12.21).</note>
 </person>
 
 <person xml:id="Rumour">
-    <persName>Rumour</persName>
+    <persName type="citable" xml:lang="en">Rumour</persName>
+    <persName xml:lang="grc"></persName>
 <note>messenger from Zeus (2.109).</note>
 </person>
+
+
+
 
 
 <person xml:id="Satnius">
