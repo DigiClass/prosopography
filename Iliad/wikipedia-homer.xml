@@ -4975,7 +4975,8 @@
 
 <person xml:id="Decon">
     <persName type="citable" xml:lang="en">Decon</persName>
-    <persName xml:lang="grc"/>
+    <persName type="citable" xml:lang="en">Deicoon</persName>
+    <persName xml:lang="grc">Δηϊκόων</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
@@ -8015,74 +8016,157 @@
 
 
 <person xml:id="Peisander1">
-    <persName>Peisander</persName>
+    <idno type="wikipedia">https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CE%AF%CF%83%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%28%CE%BC%CF%85%CE%B8%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%29</idno>
+    <!-- only in greek -->
+    <idno type="smith">http://data.perseus.org/people/smith:peisander-2</idno>
+    <persName type="citable" xml:lang="en">Peisander</persName>
+    <persName xml:lang="en">Peisandros</persName>
+    <persName xml:lang="grc">Πείσανδρος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Peisander" ref="snap:SonOf" passive="#Antimachus"><desc>son of Antimachus</desc></relation>
+    </listBibl>
 <note>son of Antimachus, Trojan warrior: killed by Agamemnon (11.135 ff).</note>
 </person>
 
 <person xml:id="Peisander2">
-    <persName>Peisander</persName>
+    <idno type="wikipedia">https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CE%AF%CF%83%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%28%CE%BC%CF%85%CE%B8%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%29</idno>
+    <!-- only in greek -->
+    <persName type="citable" xml:lang="en">Peisander</persName>
+    <persName xml:lang="en">Peisandros</persName>
+    <persName xml:lang="grc">Πείσανδρος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warior: killed by Menelaus (13.715 ff).</note>
 </person>
 
 <person xml:id="Peisander3">
-    <persName>Peisander</persName>
+    <idno type="wikipedia">https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CE%AF%CF%83%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%28%CE%BC%CF%85%CE%B8%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%29</idno>
+    <!-- only in greek -->
+    <idno type="smith">http://data.perseus.org/people/smith:peisander-1</idno>
+    <persName type="citable" xml:lang="en">Peisander</persName>
+    <persName xml:lang="en">Peisandros</persName>
+    <persName xml:lang="grc">Πείσανδρος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Peisander" ref="snap:SonOf" passive="#Maemalus"><desc>son of Maemalus</desc></relation>
+    </listBibl>
 <note>son of Maemalus, Achaean warrior, one of the commanders of the Myrmidons (16.230).</note>
 </person>
 
 
 <person xml:id="Pelegon1">
-    <persName>Pelegon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Pelagon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:otus-1</idno>
+    <persName type="citable" xml:lang="en">Pelagon</persName>
+    <persName xml:lang="en">Pelegon</persName>
+    <persName xml:lang="grc">Πελάγων</persName>
 <note>one of the Achaean warrior leaders serving under Nestor: receives his orders (4.346).</note>
 </person>
 
 <person xml:id="Pelegon2">
-    <persName>Pelegon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Pelagon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:otus-1</idno>
+    <persName type="citable" xml:lang="en">Pelagon</persName>
+    <persName xml:lang="en">Pelegon</persName>
+    <persName xml:lang="grc">Πελάγων</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior, attendant on Sarpedon: removes the spear from Sarpedon's thigh (5.800)</note>
 </person>
 
 <person xml:id="Peleus">
-    <persName>PELEUS</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Peleus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:peleus-1</idno>
+    <persName type="citable" xml:lang="en">Peleus</persName>
+    <persName xml:lang="grc">Πηλεύς</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Peleus" ref="snap:FatherOf" passive="#Achilles"><desc>father of Achilles</desc></relation>
+    </listBibl>
 <note>father of Achilles: Nestor invokes his name to shame Achaeans (7.146); Odyssues reminds Achilles of his instructions (9.311); special instructions to Phoenix (9.548); receives Phoenix into his house (9.600); sacrificing in his house (11.889); gave instructions to Achilles going off to war (11.903); Achilles indicates he's still alive (16.17); took in Epeigeus as a suppliant (16.670); received armour from the gods, gave it to Achilles (17.252); given horses by the gods (17.549); very old or perhaps dead (19.407); welcomed Patroclus into his home (23.107); his good and bad fortune (24.559).</note>
 </person>
 
 <person xml:id="Pelias">
-    <persName>Pelias</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Pelias</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:pelias-1</idno>
+    <persName type="citable" xml:lang="en">Pelias</persName>
+    <persName xml:lang="grc">Πελίας</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Pelias" ref="snap:FatherOf" passive="#Alcestis"><desc>father of Alcestis</desc></relation>
+    </listBibl>
 <note>father of Alcestis (mother of Eumeleus). (2.788).</note>
 </person>
 
 <person xml:id="Pelops">
-    <persName>Pelops</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Pelops</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:pelops-1</idno>
+    <persName type="citable" xml:lang="en">Pelops</persName>
+    <persName xml:lang="grc">Πέλοψ</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Pelops" ref="snap:FatherOf" passive="#Atreus"><desc>father of Atreus</desc></relation>
+        <relation active="#Pelops" ref="snap:GrandfatherOf" passive="#Agamemnon"><desc>grandfather of Agamemnon</desc></relation>
+        <relation active="#Pelops" ref="snap:GrandfatherOf" passive="#Menelaus"><desc>grandfather of Menelaus</desc></relation>
+    </listBibl>
 <note>father of Atreus, grandfather of Agamemnon and Menelaus: receives royal staff from Hermes, passes it on to his son Atreus (2.121).</note>
 </person>
 
 <person xml:id="Peneleus">
-    <persName>Peneleus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Peneleos</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:peneleos-1</idno>
+    <persName type="citable" xml:lang="en">Peneleos</persName>
+    <persName xml:lang="en">Peneleus</persName>
+    <persName xml:lang="grc">Πηνελέως</persName>
+    <persName xml:lang="grc">Πηνέλεος</persName>
 <note>leader of the Boeotians (part of Achaean forces), in catalogue of ships (2.570); encouraged by Poseidon in the form of Calchas (13.105); kills Ilioneus (14.569); kills Lyco (16.391); wounded by Polydamas (17.728).</note>
 </person>
 
-<person xml:id="Peraebians">
-    <persName>Peraebians</persName>
+<person xml:id="Peraebians" role="group">
+    <persName type="citable" xml:lang="en">Peraebians</persName>
+    <persName xml:lang="grc">Περραιβοὶ</persName>
 <note>inhabitants of a region in north-west Greece: in catalogue of ships (2.823).</note>
 </person>
 
 <person xml:id="Pergasus">
-    <persName>Pergasus</persName>
+    <persName type="citable" xml:lang="en">Pergasus</persName>
+    <persName xml:lang="grc"></persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Pergasus" ref="snap:FatherOf" passive="#Decon"><desc>father of Deicoon/Decon</desc></relation>
+    </listBibl>
 <note>father of Deicon (Trojan warrior).</note>
 </person>
 
 <person xml:id="Periboea">
-    <persName>Periboea</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Periboea</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:periboea-3</idno>
+    <persName type="citable" xml:lang="en">Periboea</persName>
+    <persName xml:lang="grc">Περίβοια</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Periboea" ref="snap:DaughterOf" passive="#Acessamenus"><desc>daughter of Acessamenus</desc></relation>
+        <relation active="#Periboea" ref="snap:MotherOf" passive="#Asteropaeus"><desc>mother of Asteropaeus</desc></relation>
+        <relation active="#Periboea" ref="snap:IntimateRelationship" passive="#Axius"><desc>had sex with the river Axius</desc></relation>
+    </listBibl>
 <note>daughter of Acessamenus, mother of Asteropaeus: had sex with the river Axius (21.170).</note>
 </person>
 
 <person xml:id="Perieres">
-    <persName>Perieres</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:perieres-3</idno>
+    <persName type="citable" xml:lang="en">Perieres</persName>
+    <persName xml:lang="grc">Περιήρης</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Perieres" ref="snap:FatherOf" passive="#Borus"><desc>father of Borus</desc></relation>
+    </listBibl>
 <note>father of Borus.</note>
 </person>
+
+
+
+
 
 
 <person xml:id="Perimus">
