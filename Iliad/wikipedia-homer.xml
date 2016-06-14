@@ -2784,6 +2784,7 @@
                         <bibl/>
                         <relation active="#Thestor" ref="FatherOf" passive="#Calchas"><desc>father of Thersites</desc></relation>
                     </listBibl>
+                    <note>father of the prophet Calchas (1.74).</note>
                 </person>
                 
                 <person xml:id="Thoas">
@@ -2792,6 +2793,7 @@
                     <idno type="wikidata">https://www.wikidata.org/entity/Q1367871</idno>
                     <persName type="citable" xml:lang="en">Thoas</persName>
                     <persName xml:lang="grc">Θόας</persName>
+                    <note>son of Andraemon, leader of Aetolians (part of Achaean army): in catalogue of ships (2.714); kills Peirous ; volunteers to fight Hector (7.201); encouraged by Poseidon in form of Calchas (13.105); Poseidon takes on his form (13.262); sees restored Hector, proposes the best men remain in battle and the rest go back to the ships (15.336); helps fetch gifts for Achilles (19.296).</note>
                 </person>
                 
                 <person xml:id="Thoon">
@@ -4578,6 +4580,7 @@
     <idno type="wikidata">https://www.wikidata.org/entity/Q1108464</idno>
     <persName type="citable" xml:lang="en">Cicones</persName>
     <persName xml:lang="grc">Κίκονες</persName>
+    <affiliation ref="http://pleiades.stoa.org/places/1001889">Thrace</affiliation>
 <note>Trojan allies from Thrace: in Trojan display of forces (2.928).</note>
 </person>
 
@@ -5900,6 +5903,8 @@
     <persName xml:lang="en">Fear</persName>
     <persName type="citable" xml:lang="en">Deimos</persName>
     <persName xml:lang="grc">Δεῖμος</persName>
+    <note>son of Ares, divine presence active in battle: accompanies Ares and Athena into battle (4.513); depicted on Agamemnon's shield (11.38); (13.362); told to get Ares' horses ready (15.143).</note>
+    <!-- ? -->
 <note>goddess: accompanies Ares and Athena into battle (4.513); on the aegis (5.845).</note>
 </person>
 
@@ -8887,266 +8892,455 @@
                 
 
 <person xml:id="Talaemenes">
-    <persName>Talaemenes</persName>
+    <persName type="citable" xml:lang="en">Talaemenes</persName>
+    <persName xml:lang="grc"></persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Talaemenes" ref="snap:FatherOf" passive="#Mesthles"><desc>father of Mesthles</desc></relation>
+        <relation active="#Talaemenes" ref="snap:FatherOf" passive="#Antiphus"><desc>father of Antiphus</desc></relation>
+    </listBibl>
 <note>father of Mesthles and Antiphus (allies of the Trojans).</note>
 </person>
 
 <person xml:id="Talaus">
-    <persName>Talaus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Talaus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:talaus-1</idno>
+    <persName type="citable" xml:lang="en">Talaus</persName>
+    <persName xml:lang="grc">Ταλαός</persName>
+    <occupation>King</occupation>
+    <affiliation>Argos</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Talaus" ref="snap:FatherOf" passive="#Mecisteus"><desc>father of Mecisteus</desc></relation>
+        <relation active="#Talaus" ref="snap:GrandfatherOf" passive="#Euryalus"><desc>grandfather of Euryalus</desc></relation>
+    </listBibl>
 <note>father of Mecisteus and grandfather of Euryalus.</note>
 </person>
 
 
 <person xml:id="Tecton">
-    <persName>Tecton</persName>
+    <persName type="citable" xml:lang="en">Tecton</persName>
+    <persName xml:lang="grc">Τέκτων</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Tecton" ref="snap:FatherOf" passive="#Phereclus"><desc>father of Phereclus</desc></relation>
+        <relation active="#Tecton" ref="snap:SonOf" passive="#Harmon"><desc>son of Harmon</desc></relation>
+    </listBibl>
 <note>son of Harmon, father of Phereclus (Trojan warrior).</note>
 </person>
 
 <person xml:id="Telamon">
-    <persName>Telamon</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Telamon</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:telamon-2</idno>
+    <persName type="citable" xml:lang="en">Telamon</persName>
+    <persName xml:lang="grc">Τελαμών</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Telamon" ref="snap:FatherOf" passive="#Ajax1"><desc>father of Ajax</desc></relation>
+        <relation active="#Telamon" ref="snap:FatherOf" passive="#Teucer"><desc>father of Teucer</desc></relation>
+    </listBibl>
 <note>father of the Greater Ajax and Teucer, both important Achaean warriors: father who cared for Teucer (8.331).</note>
 </person>
 
-
-
-<person xml:id="Terror">
-    <persName>Terror</persName>
-<note>son of Ares, divine presence active in battle: accompanies Ares and Athena into battle (4.513); depicted on Agamemnon's shield (11.38); (13.362); told to get Ares' horses ready (15.143).</note>
-</person>
-
 <person xml:id="Tethys">
-    <persName>Tethys</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Tethys_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:tethys-1</idno>
+    <persName type="citable" xml:lang="en">Tethys</persName>
+    <persName xml:lang="grc">Τηθύς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Tethys" ref="snap:WifeOf" passive="#Oceanus"><desc>wife of Oceanus</desc></relation>
+    </listBibl>
 <note>wife of Oceanus: raised Hera (14.242, 357).</note>
 </person>
 
 
 <person xml:id="Teutamus">
-    <persName>Teutamus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:teutamias-1</idno>
+    <persName type="citable" xml:lang="en">Teutamus</persName>
+    <persName xml:lang="en">Teutamias</persName>
+    <persName xml:lang="grc"></persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Teutamus" ref="snap:FatherOf" passive="#Lethus"><desc>father of Lethus</desc></relation>
+    </listBibl>
 <note>father of Lethus, grandfather of Hippothous and Pylaeus (Trojan warriors).</note>
 </person>
 
 <person xml:id="Teuthranus">
-    <persName>Teuthranus</persName>
+    <persName type="citable" xml:lang="en">Teuthranus</persName>
+    <persName xml:lang="grc"></persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Teuthranus" ref="snap:FatherOf" passive="#Axylus"><desc>father of Axylus</desc></relation>
+    </listBibl>
 <note>father of Axylus.</note>
 </person>
 
 <person xml:id="Teuthras">
-    <persName>Teuthras</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:teuthras-2</idno>
+    <persName type="citable" xml:lang="en">Teuthras</persName>
+    <persName xml:lang="grc">Τεύθρας</persName>
 <note>Achaean warrior: killed by Hector (5.811).</note>
 </person>
 
 <person xml:id="Teuthredon">
-    <persName>Teuthredon</persName>
+    <persName type="citable" xml:lang="en">Teuthredon</persName>
+    <persName xml:lang="grc"></persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Teuthredon" ref="snap:FatherOf" passive="#Prothous"><desc>father of Prothous</desc></relation>
+    </listBibl>
 <note>father of Prothous (Achaean warrior).</note>
 </person>
 
-<person xml:id="Thaleia" role="deity">
-    <persName>Thaleia</persName>
-<note>a Nereid (daughter of Nereus): laments with her sisters (18.48).</note>
-</person>
 
 <person xml:id="Thalpius">
-    <persName>Thalpius</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:thalpius-1</idno>
+    <persName type="citable" xml:lang="en">Thalpius</persName>
+    <persName xml:lang="grc">Θάλπιος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Thalpius" ref="snap:SonOf" passive="#Eurytus"><desc>son of Eurytus</desc></relation>
+    </listBibl>
 <note>son of Eurytus, descendant of Actor, a leader of Epeians, part of the Achaean forces: in catalogue of ships (2.697).</note>
 </person>
 
 <person xml:id="Thalysius">
-    <persName>Thalysius</persName>
+    <persName type="citable" xml:lang="en">Thalysius</persName>
+    <persName xml:lang="grc">Θαλύσιος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Thalysius" ref="snap:FatherOf" passive="#Echepolus"><desc>father of Echepolus</desc></relation>
+    </listBibl>
 <note>father of Echepolus (Trojan warrior).</note>
 </person>
 
 <person xml:id="Thamyris">
-    <persName>Thamyris</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Thamyris</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:thamyris-1</idno>
+    <persName type="citable" xml:lang="en">Thamyris</persName>
+    <persName xml:lang="grc">Θάμυρις</persName>
+    <affiliation ref="http://pleiades.stoa.org/places/1001889">Thrace</affiliation>
 <note>singer from Thrace: punishment by the Muses (2.671).</note>
 </person>
 
 
 <person xml:id="Thebaios">
-    <persName>Thebaios</persName>
+    <persName type="citable" xml:lang="en">Thebaios</persName>
+    <persName xml:lang="grc"></persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Thebaios" ref="snap:FatherOf" passive="#Eniopeus"><desc>father of Eniopeus</desc></relation>
+    </listBibl>
 <note>father of Eniopeus (Trojan warrior).</note>
 </person>
 
 <person xml:id="Themis" role="deity">
-    <persName>Themis</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Themis</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:themis-1</idno>
+    <persName type="citable" xml:lang="en">Themis</persName>
+    <persName xml:lang="grc">Θέμις</persName>
 <note>goddess: hands Hera her cup, talks to her (15.106); asked by Zeus to call gods to assembly (20.6).</note>
 </person>
 
 <person xml:id="Thersilochus">
-    <persName>Thersilochus</persName>
+    <persName type="citable" xml:lang="en">Thersilochus</persName>
+    <persName xml:lang="grc">Θερσίλοχος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior from Paeonia: encouraged by Hector (17.280); killed by Achilles (21.249).</note>
 </person>
 
 
 <person xml:id="Theseus">
-    <persName>Theseus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Theseus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:theseus-1</idno>
+    <persName type="citable" xml:lang="en">Theseus</persName>
+    <persName xml:lang="grc">Θησεύς</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Theseus" ref="snap:SonOf" passive="#Aegeus"><desc>son of Aegeus</desc></relation>
+    </listBibl>
 <note>son of Aegeus, mentioned by Nestor as an old comrade (1.294).</note>
 </person>
 
 <person xml:id="Thessalus">
-    <persName>Thessalus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Thessalus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:thessalus-3</idno>
+    <persName type="citable" xml:lang="en">Thessalus</persName>
+    <persName xml:lang="grc">Θεσσαλός</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Thessalus" ref="snap:SonOf" passive="#Heracles"><desc>son of Heracles</desc></relation>
+        <relation active="#Thessalus" ref="snap:FatherOf" passive="#Pheidippus"><desc>father of Pheidippus</desc></relation>
+        <relation active="#Thessalus" ref="snap:FatherOf" passive="#Antiphus"><desc>father of Antiphus</desc></relation>
+    </listBibl>
 <note>father of Pheidippus and Antiphus (leaders of troops from Aegean Islands).</note>
 </person>
 
-<person xml:id="Thestor1">
-    <persName>Thestor</persName>
-<note>father of the prophet Calchas (1.74).</note>
-</person>
 
 <person xml:id="Thestor2">
-    <persName>Thestor</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Thestor_(mythology)</idno>
+    <persName type="citable" xml:lang="en">Thestor</persName>
+    <persName xml:lang="grc">Θέστωρ</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Thestor" ref="snap:FatherOf" passive="#Alcmaon"><desc>father of Alcmaon</desc></relation>
+    </listBibl>
 <note>father of the Achaean warrior Alcmaon.</note>
 </person>
 
 <person xml:id="Thestor3">
-    <persName>Thestor</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Thestor_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:thestor-2</idno>
+    <persName type="citable" xml:lang="en">Thestor</persName>
+    <persName xml:lang="grc">Θέστωρ</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Thestor" ref="snap:SonOf" passive="#Enops"><desc>son of Enops</desc></relation>
+    </listBibl>
 <note>son of Enops, Trojan warrior: killed by Patroclus (16.467).</note>
 </person>
 
-
-<person xml:id="Thoas1">
-    <persName>Thoas</persName>
-<note>son of Andraemon, leader of Aetolians (part of Achaean army): in catalogue of ships (2.714); kills Peirous ; volunteers to fight Hector (7.201); encouraged by Poseidon in form of Calchas (13.105); Poseidon takes on his form (13.262); sees restored Hector, proposes the best men remain in battle and the rest go back to the ships (15.336); helps fetch gifts for Achilles (19.296).</note>
-</person>
-
 <person xml:id="Thoas2">
-    <persName>Thoas</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:thoas-2</idno>
+    <persName type="citable" xml:lang="en">Thoas</persName>
+    <persName xml:lang="grc">Θόας</persName>
+    <occupation>King</occupation>
+    <affiliation ref="http://pleiades.stoa.org/places/550693">Lemnos</affiliation>
 <note>King of Lemnos: (14.276); received gift of a fine silver bowl (23.919).</note>
 </person>
 
 <person xml:id="Thoas3">
-    <persName>Thoas</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:thoas-6</idno>
+    <persName type="citable" xml:lang="en">Thoas</persName>
+    <persName xml:lang="grc">Θόας</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Menelaus (16.365).</note>
 </person>
 
-<person xml:id="Tho" role="deity">
-    <persName>Tho</persName>
+    <person xml:id="Thoe " role="deity">
+        <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+        <persName type="citable" xml:lang="en">Thoe</persName>
+        <persName xml:lang="grc">Θόη</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.49).</note>
 </person>
 
 <person xml:id="Thon1">
-    <persName>Thon</persName>
+    <persName type="citable" xml:lang="en">Thon</persName>
+    <persName xml:lang="grc">Θῶν</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Thon" ref="snap:SonOf" passive="#Phaenops"><desc>son of Phaenops</desc></relation>
+    </listBibl>
 <note>son of Phaenops, Trojan warrior: killed by Diomedes (5.174).</note>
 </person>
 
 <person xml:id="Thon2">
-    <persName>Thon</persName>
+    <persName type="citable" xml:lang="en">Thon</persName>
+    <persName xml:lang="grc">Θῶν</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (11.481).</note>
 </person>
 
 <person xml:id="Thon3">
-    <persName>Thon</persName>
+    <persName type="citable" xml:lang="en">Thon</persName>
+    <persName xml:lang="grc">Θῶν</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: comes up with Asius to assault the wall (12.146); killed by Antilochus (13.652).</note>
 </person>
 
 <person xml:id="Thotes">
-    <persName>Thotes</persName>
+    <persName type="citable" xml:lang="en">Thotes</persName>
+    <persName xml:lang="grc"></persName>
 <note>Achaean herald: asked by Menestheus to get help from Ajaxes, does so (12.371).</note>
 </person>
 
 <person xml:id="Thracians">
-    <persName>Thracians</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Thracians</idno>
+    <persName type="citable" xml:lang="en">Thracians</persName>
+    <persName xml:lang="grc">Θρᾷκες</persName>
+    <affiliation ref="http://pleiades.stoa.org/places/1001889">Thrace</affiliation>
 <note>inhabitants of Thrace, allies of the Trojans: in Trojan display of forces (2.925); new arrivals in the camp (10.521).</note>
 </person>
 
 <person xml:id="Thrasius">
-    <persName>Thrasius</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:thrasius-2</idno>
+    <persName type="citable" xml:lang="en">Strophius</persName>
+    <persName xml:lang="grc">Στρόφιος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior from Paeonia: killed by Achilles (21.250).</note>
 </person>
 
 <person xml:id="Thrasymelus">
-    <persName>Thrasymelus</persName>
+    <persName type="citable" xml:lang="en">Thrasymelus</persName>
+    <persName xml:lang="grc">Θρασύμηλος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior, companion of Sarpedon: killed by Patroclus (16.542).</note>
 </person>
 
 <person xml:id="Thyestes">
-    <persName>Thyestes</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Thyestes</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:thyestes-1</idno>
+    <persName type="citable" xml:lang="en">Thyestes</persName>
+    <persName xml:lang="grc">Θυέστης</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Thyestes" ref="snap:BrotherOf" passive="#Atreus"><desc>brother of Atreus</desc></relation>
+        <relation active="#Thyestes" ref="snap:UncleOf" passive="#Agamemnon"><desc>uncle of Agamemnon</desc></relation>
+        <relation active="#Thyestes" ref="snap:UncleOf" passive="#Menelaus"><desc>uncle of Menelaus</desc></relation>
+    </listBibl>
 <note>brother of Atreus, thus uncle of Agamemnon and Menelaus, not a character in the Iliad: receives royal staff from Atreus, passes it on to Agamemnon (2.123).</note>
 </person>
 
 <person xml:id="Thymbraeus">
-    <persName>Thymbraeus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:thymbraeus-2</idno>
+    <persName type="citable" xml:lang="en">Thymbraeus</persName>
+    <persName xml:lang="grc">Θυμβραῖος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Diomedes (11.364).</note>
 </person>
 
 
 <person xml:id="Titans" role="deity group">
-    <persName>Titans</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Titan_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:titan-1</idno>
+    <persName type="citable" xml:lang="en">Titans</persName>
+    <persName xml:lang="grc">Τιτᾶνες</persName>
 <note>gods imprisoned by Zeus in Tartarus (14.331).</note>
 </person>
 
 <person xml:id="Tithonus">
-    <persName>Tithonus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Tithonus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:tithonus-1</idno>
+    <persName type="citable" xml:lang="en">Tithonus</persName>
+    <persName xml:lang="grc">Τιθωνός</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Tithonus" ref="snap:IntimateRelationship" passive="#Dawn"><desc>lover of Dawn</desc></relation>
+        <relation active="#Tithonus" ref="snap:SonOf" passive="#Laomedon"><desc>son of Laomedon</desc></relation>
+    </listBibl>
 <note>lover of Dawn (11.1); son of Laomedon (20.283).</note>
 </person>
 
 
 <person xml:id="Tlepolemus2">
-    <persName>Tlepolemus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:tlepolemus-2</idno>
+    <persName type="citable" xml:lang="en">Tlepolemus</persName>
+    <persName xml:lang="grc">Τληπόλεμος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Tlepolemus" ref="snap:SonOf" passive="#Damastor"><desc>son of Damastor</desc></relation>
+    </listBibl>
 <note>son of Damastor, Trojan warrior: killed by Patroclus (16.485).</note>
 </person>
 
 <person xml:id="Trechus">
-    <persName>Trechus</persName>
+    <persName type="citable" xml:lang="en">Trechus</persName>
+    <persName xml:lang="grc">Τρῆχος</persName>
 <note>Achaean warrior: killed by Hector (5.812).</note>
 </person>
 
 <person xml:id="Troezenus">
-    <persName>Troezenus</persName>
+    <persName type="citable" xml:lang="en">Troezenus</persName>
+    <persName xml:lang="grc">Τροίζηνος</persName>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Troezenus" ref="snap:FatherOf" passive="#Euphemus"><desc>father of Euphemus</desc></relation>
+    </listBibl>
 <note>father of Euphemus (Trojan ally), son of Ceos.</note>
 </person>
 
 <person xml:id="Troilus">
-    <persName>Troilus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Troilus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:troilus-1</idno>
+    <persName type="citable" xml:lang="en">Troilus</persName>
+    <persName xml:lang="grc">Τρωΐλος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Troilus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+    </listBibl>
 <note>son of Priam: mentioned by Priam (24.320).</note>
 </person>
 
 <person xml:id="Trojans">
-    <persName>TROJANS</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Trojan</idno>
+    <persName type="citable" xml:lang="en">Trojans</persName>
+    <persName xml:lang="grc">Τρῷες</persName>
 <note>inhabitants of Troy (thus separate from their allies): march out in formation (3.2); pray that the truce will hold (3.333, 355); their hatred for Paris (3.510); sense the gods will break the truce (4.98); move to battle in a confusion of languages (4.506); rallied by Ares (5.549); go out to collect their dead (7.490); move out against Achaeans (8.63); given renewed force by Zeus (8.391); prepare a feast and sacrifice in the plain (8.639); Dolon reveals their arrangement in camp (10.499); pushed back to city by Agamemnon (11.173 ff); advanced against Odysseus (11.471); organize themselves to attack the wall (12.89); charge the Achaeans by the wall (12.110); attempts to undermine the wall (12.274); following Hector to attack the ships (13.42); advance against Achaeans inside the wall (13.160); charge Achaeans en masse (13.401); attack Achaeans in close formation (13.946); retreat from the ships (15.1); Zeus foretells the future of the war (15.74 ff); attack Achaeans (15.364); fight their way to the ships (15.453); attack the ships (15.693); driven back from the ships (16.346); response to Sarpedon's death (16.638); charge Ajax guarding the body of Patroclus (17.301); charge Achaeans again over body of Patroclus (17.339); encourage each other over Patroclus' body (17.526); terrifed by Achilles shout (18.275); hold assembly to decide what to do (18.299 ff); reject Polydamas' advice (18.388); escape Achilles into the city (21.729); reaction to sight of dead Hector (22.508); rush out to see Priam returning with Hector (24.873); collect wood for Hector's pyre, give him funeral rites (24.964).</note>
 </person>
 
 <person xml:id="Tros">
-    <persName>Tros</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:tros-2</idno>
+    <persName type="citable" xml:lang="en">Tros</persName>
+    <persName xml:lang="grc">Τρώς</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Tros" ref="snap:SonOf" passive="#Alastor"><desc>son of Alastor</desc></relation>
+    </listBibl>
 <note>son of Alastor, Trojan warrior: killed by Achilles (20.555).</note>
 </person>
 
 <person xml:id="Tros2">
-    <persName>Tros</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Tros_(mythology)</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:tros-1</idno>
+    <persName type="citable" xml:lang="en">Tros</persName>
+    <persName xml:lang="grc">Τρώς</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl></bibl>
+        <relation active="#Tros" ref="snap:SonOf" passive="#Erichthonius"><desc>son of Erichthonius</desc></relation>
+    </listBibl>
 <note>son of Erichthonius, father of Ilus, Assaracus, Ganymede, earlier King of Troy, ancestor of Priam, father of Ganymede: quality of his horses giiven as payment from Zeus for Ganymede (5.314); his story told by Aeneas (20.275).</note>
 </person>
 
     <person xml:id="Tychius">
-        <persName>Tychius</persName>
+        <idno type="smith">http://data.perseus.org/people/smith:tychius-1</idno>
+        <persName type="citable" xml:lang="en">Tychius</persName>
+        <persName xml:lang="grc">Τυχίος</persName>
         <note>maker of Ajax's shield (7.261).</note>
     </person>
     
     <person xml:id="Tydeus">
-        <persName>Tydeus</persName>
+        <idno type="wikipedia">https://en.wikipedia.org/wiki/Tydeus</idno>
+        <idno type="smith">http://data.perseus.org/people/smith:tydeus-1</idno>
+        <persName type="citable" xml:lang="en">Tydeus</persName>
+        <persName xml:lang="grc">Τυδεύς</persName>
+        <listBibl>
+            <bibl></bibl>
+            <relation active="#Tydeus" ref="snap:FatherOf" passive="#Diomedes"><desc>father of Diomedes</desc></relation>
+        </listBibl>
         <note>father of Diomedes: story of his achievements (4.436); achieves retold by Athena (5.913); killed at Thebes (6.282); Diomedes invokes him in prayer to Athena (10.339); Diomedes speaks of him (14.138 ff).</note>
     </person>
     
     <person xml:id="Typhoeus" role="monster">
-        <persName>Typhoeus</persName>
+        <idno type="wikipedia">https://en.wikipedia.org/wiki/Typhoeus</idno>
+        <idno type="smith">http://data.perseus.org/people/smith:strophius-1</idno>
+        <persName type="citable" xml:lang="en">Typhoeus</persName>
+        <persName xml:lang="en">Typhoeus</persName>
+        <persName xml:lang="en">Typhaon</persName>
+        <persName xml:lang="en">Typhos</persName>
+        <persName xml:lang="grc">Τυφῶν</persName>
+        <persName xml:lang="grc">Τυφωεύς</persName>
+        <persName xml:lang="grc">Τυφάων</persName>
+        <persName xml:lang="grc">Τυφώς</persName>
         <note>fabulous monster held captive underground by Zeus: Achaean army compared to T. (2.861).</note>
     </person>
+                
+                
     <person xml:id="Zephyrus" role="deity">
-        <persName>Zephyrus</persName><persName>West Wind</persName>
+        <idno type="wikipedia">https://en.wikipedia.org/wiki/Anemoi</idno>
+        <persName type="citable" xml:lang="en">Zephyrus</persName>
+        <persName xml:lang="en">West Wind</persName>
+        <persName xml:lang="grc">Ζέφυρος</persName>
     <note>the west wind: Achilles prays to it for help, Iris delivers his message, he complies (23.235 ff); (2.173); whips up the sea (9.5); conceived Achilles' horses with Podarge (16.182); Iris delivers a message to the winds at his home (23.241).</note>
 </person>
 
