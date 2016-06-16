@@ -3537,7 +3537,12 @@
     <persName type="citable" xml:lang="en">Amopaon</persName>
     <persName xml:lang="grc">Ἀμοπάων</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Amopaon" ref="snap:SonOf" passive="#Polyaimon"><desc>son of Polyaimon</desc></relation>
+    </listBibl>
 <note>son of Polyaimon, Trojan warrior: killed by Teucer (8.323)</note>
+    
 </person>
 
 <person xml:id="Amphiclus">
@@ -8519,221 +8524,393 @@
 
 
 
-<person xml:id="Podaleirus">
-    <persName>Podaleirus</persName>
+<person xml:id="Podaleirius">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Podalirius</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:podaleirius-1</idno>
+    <persName type="citable" xml:lang="en">Podaleirius</persName>
+    <persName xml:lang="en">Podalirius</persName>
+    <persName xml:lang="grc">Ποδαλείριος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Podaleirius" ref="snap:SonOf" passive="#Asclepius"><desc>son of Asclepius</desc></relation>
+        <relation active="#Podaleirius" ref="snap:BrotherOf" passive="#Machaon"><desc>brother of Machaon</desc></relation>
+    </listBibl>
 <note>son of Asclepius, brother of Machaon, leader of troops from parts of Thessaly (part of Achaean army): in catalogue of ships: (2.804).</note>
 </person>
 
-<person xml:id="Podarchus">
-    <persName>Podarchus</persName>
+<person xml:id="Podarches">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Podarces</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:podarces-2</idno>
+    <persName type="citable" xml:lang="en">Podarces</persName>
+    <persName xml:lang="grc">Ποδάρκης</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Podarches" ref="snap:SonOf" passive="#Iphicles"><desc>son of Iphicles</desc></relation>
+        <relation active="#Podarches" ref="snap:BrotherOf" passive="#Protesilaus"><desc>brother of Protesilaus</desc></relation>
+    </listBibl>
 <note>son of Iphicles, leader of Thessalians, brother of Protesilaus: in catalogue of ships (2.778); fighting against Hector by the ships (13.827).</note>
 </person>
 
-<person xml:id="Podarge">
-    <persName>Podarge</persName>
-<note>a harpy, mother of Achilles' horses (16.181; 19.481).</note>
+<person xml:id="Podarge" role="monster">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Podarge</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:harpyiae-1</idno>
+    <persName type="citable" xml:lang="en">Podarge</persName>
+    <persName xml:lang="grc">Ποδάργη</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Podarge" ref="snap:MotherOf" passive="#Balius"><desc>mother of Balius, Achilles' horse</desc></relation>
+        <relation active="#Podarge" ref="snap:MotherOf" passive="#Xanthus"><desc>mother of Xanthus, Achilles' horse</desc></relation>
+    </listBibl>
+<note>a Harpy, mother of Achilles' horses (16.181; 19.481).</note>
 </person>
 
 <person xml:id="Podargos" role="animal">
-    <persName>Podargos</persName>
+    <persName type="citable" xml:lang="en">Podargos</persName>
+    <persName xml:lang="en">Podargus</persName>
+    <persName xml:lang="grc">Πόδαργος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Podargos" ref="snap:Bond" passive="#Hector"><desc>one of Hector's horses</desc></relation>
+    </listBibl>
 <note>one of Hector's horses (8.213).</note>
 </person>
 
 <person xml:id="Podargus" role="animal">
-    <persName>Podargus</persName>
+    <persName type="citable" xml:lang="en">Podargus</persName>
+    <persName xml:lang="grc">Πόδαργος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Podargus" ref="snap:Bond" passive="#Menelaus"><desc>one of Menelaus's horses</desc></relation>
+    </listBibl>
 <note>one of Menelaus' horses (23.353).</note>
 </person>
 
 <person xml:id="Podes">
-    <persName>Podes</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Podes</idno>
+    <persName type="citable" xml:lang="en">Podes</persName>
+    <persName xml:lang="grc">Ποδής</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Podes" ref="snap:SonOf" passive="#Etion"><desc>son of Etion</desc></relation>
+    </listBibl>
 <note>son of Etion, Trojan warrior: killed by Menelaus (17.700).</note>
 </person>
 
 
 <person xml:id="Pollux">
-    <persName>Pollux</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Castor_and_Pollux</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:dioscuri-1</idno>
+    <persName type="citable" xml:lang="en">Pollux</persName>
+    <persName xml:lang="en">Polydeuces</persName>
+    <persName xml:lang="grc">Πολυδεύκης</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Pollux" ref="snap:BrotherOf" passive="#Helen"><desc>brother of Helen</desc></relation>
+    </listBibl>
 <note>brother of Helen: already dead at home (3.261).</note>
 </person>
 
 <person xml:id="Polyaimon">
-    <persName>Polyaimon</persName>
+    <persName type="citable" xml:lang="en">Polyaimon</persName>
+    <persName xml:lang="grc"></persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Polyaimon" ref="snap:FatherOf" passive="#Amopaon"><desc>father of Amopaon</desc></relation>
+    </listBibl>
 <note>father of Amopaon (Trojan warrior).</note>
 </person>
 
 <person xml:id="Polydora">
-    <persName>Polydora</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Polydora</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:polydora-5</idno>
+    <persName type="citable" xml:lang="en">Polydora</persName>
+    <persName xml:lang="grc">Πολυδώρη</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Polydora" ref="snap:DaughterOf" passive="#Peleus"><desc>daughter of Peleus</desc></relation>
+        <relation active="#Polydora" ref="snap:MotherOf" passive="#Menesthius"><desc>mother of Menesthius</desc></relation>
+    </listBibl>
 <note>daughter of Peleus: has sex with the river Sperchius, mother of Menesthius (16.207).</note>
 </person>
 
 <person xml:id="Polydorus1">
-    <persName>Polydorus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Polydorus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:polydorus-2</idno>
+    <persName type="citable" xml:lang="en">Polydorus</persName>
+    <persName xml:lang="grc">Πολύδωρος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Polydorus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
+        <relation active="#Polydorus" ref="snap:BrotherOf" passive="#Lycaon"><desc>brother of Lycaon</desc></relation>
+    </listBibl>
 <note>son of Priam and Laothoe, brother of Lycaon: Lycaon tells of his death at hands of Achilles (21.106).</note>
 </person>
 
 <person xml:id="Polydorus2">
-    <persName>Polydorus</persName>
+    <persName type="citable" xml:lang="en">Polydorus</persName>
+    <persName xml:lang="grc">Πολύδωρος</persName>
 <note>one of Nestor's old opponents, beaten by him in the spear throw (23.787).</note>
 </person>
 
 
-<person xml:id="Polydorus">
-    <persName>Polydorus</persName>
-    <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
-<note>son of Priam: killed by Achilles (20.488).</note>
-</person>
-
 <person xml:id="Polyidus">
-    <persName>Polyidus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:polyidus-2</idno>
+    <persName type="citable" xml:lang="en">Polyidus</persName>
+    <persName xml:lang="en">Polyeidus</persName>
+    <persName xml:lang="grc">Πολύειδος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Polyidus" ref="snap:SonOf" passive="#Eurydamas"><desc>son of Eurydamas</desc></relation>
+    </listBibl>
 <note>son of Eurydamas, Trojan warrior: killed by Diomedes (5.170).</note>
 </person>
 
 <person xml:id="Polymele">
-    <persName>Polymele</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Polymele</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:polymela-2</idno>
+    <persName type="citable" xml:lang="en">Polymele</persName>
+    <persName xml:lang="en">Polymela</persName>
+    <persName xml:lang="grc">Πολυμήλη</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Polymele" ref="snap:MotherOf" passive="#Eudorus"><desc>mother of Eudorus</desc></relation>
+    </listBibl>
 <note>mother of Eudorus (Achaean warrior): (16.214); sex with Hermes (16.215).</note>
 </person>
 
 <person xml:id="Polymelus">
-    <persName>Polymelus</persName>
+    <persName type="citable" xml:lang="en">Polymelus</persName>
+    <persName xml:lang="grc">Πολύμηλος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Polymelus" ref="snap:SonOf" passive="#Argeas"><desc>son of Argeas</desc></relation>
+    </listBibl>
 <note>son of Argeas, Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
 
 <person xml:id="Polyneices">
-    <persName>Polyneices</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Polynices</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:polyneices-1</idno>
+    <persName type="citable" xml:lang="en">Polyneices</persName>
+    <persName xml:lang="en">Polynices</persName>
+    <persName xml:lang="grc">Πολυνείκης</persName>
+    <affiliation ref="http://pleiades.stoa.org/places/541138">Thebes</affiliation>
 <note>leader of an expedition against Thebes: visit to Mycenae with Tydeus to raise troops (4.441).</note>
 </person>
 
 
 <person xml:id="Polyphetes">
-    <persName>Polyphetes</persName>
+    <persName type="citable" xml:lang="en">Polyphetes</persName>
+    <persName xml:lang="grc">Πολυφήτης</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: goes with Hector and others to the centre of the battle (13.937).</note>
 </person>
 
 <person xml:id="Polyphontes">
-    <persName>Polyphontes</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Polyphontes</idno>
+    <persName type="citable" xml:lang="en">Polyphontes</persName>
+    <persName xml:lang="grc">Πολυφόντης</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Polyphontes" ref="snap:SonOf" passive="#Autophonus"><desc>son of Autophonus</desc></relation>
+    </listBibl>
 <note>son of Autophonus: leader of Cadmeans in their ambush against Tydeus (4.462).</note>
 </person>
 
 <person xml:id="Polypoetes">
-    <persName>Polypoetes</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Polypoetes</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:polypoetes-2</idno>
+    <persName type="citable" xml:lang="en">Polypoetes</persName>
+    <persName xml:lang="grc">Πολυποίτης</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Polypoetes" ref="snap:SonOf" passive="#Peirithos"><desc>son of Peirithos</desc></relation>
+    </listBibl>
 <note>son of Peirithos and Hippodameia, leader of troops from parts of Thessaly (part of Achaean forces): in catalogue of ships (2.812); kills Astyalus (6.34); defends the Achaean wall (12.135); kills Damaeus, Pylon, Ormenus (12.189); enters the iron-throwing contest, wins first prize (23.1029).</note>
 </person>
 
 <person xml:id="Polyxenus">
-    <persName>Polyxenus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Polyxenus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:polyxenus-1</idno>
+    <persName type="citable" xml:lang="en">Polyxenus</persName>
+    <persName xml:lang="grc">Πολύξενος</persName>
+    <persName xml:lang="grc">Πολύξεινος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Polyxenus" ref="snap:SonOf" passive="#Agasthenes"><desc>son of Agasthenes</desc></relation>
+        <relation active="#Polyxenus" ref="snap:GrandsonOf" passive="#Augeas"><desc>son of Augeas</desc></relation>
+    </listBibl>
 <note>son of Agasthenes, grandson of Augeas, a leader of Epeians (part of Achaean army): in catalogue of ships (2.700).</note>
 </person>
 
 <person xml:id="Portheus">
-    <persName>Portheus</persName>
+    <persName type="citable" xml:lang="en">Portheus</persName>
+    <persName xml:lang="grc"></persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Portheus" ref="snap:GreatGrandfatherOf" passive="#Diomedes"><desc>great-grandfather of Diomedes</desc></relation>
+    </listBibl>
 <note>great-grandfather of Diomedes: his family (14.140).</note>
 </person>
 
-<person xml:id="Prayers">
-    <persName>Prayers</persName>
+<person xml:id="Prayers" role="deity group">
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Litae</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:litae-1</idno>
+    <persName type="citable" xml:lang="en">Litae</persName>
+    <persName xml:lang="en">Prayers</persName>
+    <persName xml:lang="grc">Λιταί</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Prayers" ref="snap:DaughterOf" passive="#Zeus"><desc>daughters of Zeus</desc></relation>
+    </listBibl>
 <note>daughters of Zeus: walk behind Folly (9.628).</note>
 </person>
 
 
 <person xml:id="Proetus">
-    <persName>Proetus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Proetus</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:proetus-1</idno>
+    <persName type="citable" xml:lang="en">Proetus</persName>
+    <persName xml:lang="grc">Προῖτος</persName>
+    <occupation>King</occupation>
+    <affiliation>Argos</affiliation>
 <note>ancient King of Argos: hostility to Bellerophon (6.196).</note>
 </person>
 
 <person xml:id="Pronous">
-    <persName>Pronous</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:pronous-2</idno>
+    <persName type="citable" xml:lang="en">Pronous</persName>
+    <persName xml:lang="grc">Πρόνοος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.464).</note>
 </person>
 
 
 <person xml:id="Prothonor">
-    <persName>Prothonor</persName>
+    <persName type="citable" xml:lang="en">Prothonor</persName>
+    <persName xml:lang="grc"></persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Prothonor" ref="snap:SonOf" passive="#Areilycus"><desc>son of Areilycus</desc></relation>
+    </listBibl>
 <note>son of Areilycus, one of the Boeotian leaders in the Achaean force: in the catalogue of ships (2.571); killed by Polydamas (14.525).</note>
 </person>
 
 <person xml:id="Prothon">
-    <persName>Prothon</persName>
+    <persName type="citable" xml:lang="en">Prothon</persName>
+    <persName xml:lang="grc"></persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (14.602).</note>
 </person>
 
 <person xml:id="Prothous">
-    <persName>Prothous</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Prothous</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:prothous-1</idno>
+    <persName type="citable" xml:lang="en">Prothous</persName>
+    <persName xml:lang="grc">Πρόθοος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Prothous" ref="snap:SonOf" passive="#Teuthredon"><desc>son of Teuthredon</desc></relation>
+    </listBibl>
 <note>son of Teuthredon, leader of the Magnetes (part of Achaean forces): in catalogue of ships (2.832).</note>
 </person>
 
 <person xml:id="Protiaon">
-    <persName>Protiaon</persName>
+    <persName type="citable" xml:lang="en">Protiaon</persName>
+    <persName xml:lang="grc">Προτιάων</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
+    <listBibl>
+        <bibl/>
+        <relation active="#Protiaon" ref="snap:FatherOf" passive="#Astynous"><desc>father of Astynous</desc></relation>
+    </listBibl>
 <note>father of Astynous (Trojan warrior).</note>
 </person>
 
 <person xml:id="Proto" role="deity">
-    <persName>Proto</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Proto</idno>
+    <idno type="smith">http://data.perseus.org/people/smith:pleiades-1</idno>
+    <persName type="citable" xml:lang="en">Proto</persName>
+    <persName xml:lang="grc">Πρωτώ</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.51).</note>
 </person>
 
 <person xml:id="Prytanis">
-    <persName>Prytanis</persName>
+    <persName type="citable" xml:lang="en">Prytanis</persName>
+    <persName xml:lang="grc">Πρύτανης</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Odysseus (5.785).</note>
 </person>
 
 <person xml:id="Ptolemaeus">
-    <persName>Ptolemaeus</persName>
+    <idno type="smith">http://data.perseus.org/people/smith:ptolemaeus-1</idno>
+    <persName type="citable" xml:lang="en">Ptolemaeus</persName>
+    <persName xml:lang="grc">Πτολεμαῖος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Ptolemaeus" ref="snap:FatherOf" passive="#Eurymedon"><desc>father of Eurymedon</desc></relation>
+    </listBibl>
 <note>father of Eurymedon (aide to Agamemnon) (4.265).</note>
 </person>
 
 
 <person xml:id="Pylaeus">
-    <persName>Pylaeus</persName>
+    <idno type="wikipedia">https://en.wikipedia.org/wiki/Pylaeus</idno>
+    <persName type="citable" xml:lang="en">Pylaeus</persName>
+    <persName xml:lang="grc">Πύλαιος</persName>
+    <listBibl>
+        <bibl/>
+        <relation active="#Pylaeus" ref="snap:SonOf" passive="#Lethus"><desc>son of Lethus</desc></relation>
+    </listBibl>
 <note>son of Lethus, leader of troops from regions near Troy (part of Trojan army): in Trojan display of forces (2.923).</note>
 </person>
 
 <person xml:id="Pylantes1">
-    <persName>Pylantes</persName>
+    <persName type="citable" xml:lang="en">Pylantes</persName>
+    <persName xml:lang="grc"></persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.554).</note>
 </person>
 
 <person xml:id="Pylantes2">
-    <persName>Pylantes</persName>
+    <persName type="citable" xml:lang="en">Pylantes</persName>
+    <persName xml:lang="grc"></persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.811).</note>
 </person>
 
-<person xml:id="Pylians">
-    <persName>Pylians</persName>
+<person xml:id="Pylians" role="group">
+    <persName type="citable" xml:lang="en">Pylians</persName>
+    <persName xml:lang="grc">Πύλιοι</persName>
 <note>residents of Pylos: fight with the Arcadians (7.156); Nestor tells story of their war with Eleans (11.759 ff); given power by Zeus (11.864).</note>
 </person>
 
 <person xml:id="Pylon">
-    <persName>Pylon</persName>
+    <persName type="citable" xml:lang="en">Pylon</persName>
+    <persName xml:lang="grc">Πύλων</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Polypoetes (12.194).</note>
 </person>
 
 
 <person xml:id="Pyrasus">
-    <persName>Pyrasus</persName>
+    <persName type="citable" xml:lang="en">Pyrasus</persName>
+    <persName xml:lang="grc">Πύρασος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.554).</note>
 </person>
 
 <person xml:id="Pyris">
-    <persName>Pyris</persName>
+    <persName type="citable" xml:lang="en">Pyris</persName>
+    <persName xml:lang="grc">Πύρις</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.486).</note>
 </person>
-
-
-
+                
 
 <person xml:id="Rhadamanthus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Rhadamanthus</idno>
