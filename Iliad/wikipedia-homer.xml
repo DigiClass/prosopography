@@ -7074,7 +7074,7 @@
 
 <person xml:id="Marpessa">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Marpessa</idno>
-    <idno type="wikidata">http:https://www.wikidata.org/wiki/Q932325</idno>
+    <idno type="wikidata">http:https://www.wikidata.org/entity/Q932325</idno>
     <idno type="smith">http://data.perseus.org/people/smith:marpessa-1</idno>
     <persName type="citable" xml:lang="en">Marpessa</persName>
     <persName xml:lang="grc">Μάρπησσα</persName>
@@ -7538,7 +7538,7 @@
 
 <person xml:id="Oceanus" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Oceanus</idno>
-    <idno type="wikidata">http:https://www.wikidata.org/wiki/Q161419</idno>
+    <idno type="wikidata">http:https://www.wikidata.org/entity/Q161419</idno>
      <idno type="VIAF">https://viaf.org/viaf/32796924</idno>
     <idno type="smith">http://data.perseus.org/people/smith:oceanus-1</idno>
     <persName type="citable" xml:lang="en">Oceanus</persName>
@@ -7870,6 +7870,7 @@
 
 <person xml:id="Paeon1" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Paean_(god)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1862189</idno>
     <idno type="smith">http://data.perseus.org/people/smith:paean-1</idno>
     <persName type="citable" xml:lang="en">Paean</persName>
     <persName xml:lang="en">Paeëon</persName>
@@ -7884,6 +7885,7 @@
 
 <person xml:id="Paeon2">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Paeon_(father_of_Agastrophus)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q7124087</idno>
     <persName type="citable" xml:lang="en">Paeon</persName>
     <persName xml:lang="en">Paion</persName>
     <persName xml:lang="grc">Παιών</persName>
@@ -7904,6 +7906,7 @@
 
 <person xml:id="Pammon">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pammon</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q3892897</idno>
     <persName type="citable" xml:lang="en">Pammon</persName>
     <persName xml:lang="grc">Πάμμων</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
@@ -7917,6 +7920,7 @@
 
 <person xml:id="Pandion">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pandion</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q231290</idno>
     <idno type="smith">http://data.perseus.org/people/smith:pandion-3</idno>
     <persName type="citable" xml:lang="en">Pandion</persName>
     <persName xml:lang="grc">Πανδίων</persName>
@@ -7933,6 +7937,7 @@
 
 <person xml:id="Panope" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Panopea</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1235584</idno>
     <idno type="smith">http://data.perseus.org/people/smith:panope-1</idno>
     <persName type="citable" xml:lang="en">Panopea</persName>
     <persName xml:lang="en">Panopaea</persName>
@@ -7955,6 +7960,7 @@
 
 <person xml:id="Paphlagonians" role="group">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Paphlagonia</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q622032</idno>
     <persName type="citable" xml:lang="en">Paphlagonians</persName>
     <persName xml:lang="grc">Παφλαγόνες</persName>
 <note>Trojan allies: in display of Trojan forces (2.933); take Harpalion away from battle (13.782).</note>
@@ -7963,6 +7969,7 @@
 
 <person xml:id="Pasithea">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pasithea</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1235379</idno>
     <idno type="smith">http://data.perseus.org/people/smith:pasithea-1</idno>
     <persName type="citable" xml:lang="en">Pasithea</persName>
     <persName xml:lang="en">Pasithee</persName>
@@ -7984,6 +7991,7 @@
 
 <person xml:id="Pedasus2" role="animal">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pedasus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1197983</idno>
     <persName type="citable" xml:lang="en">Pedasus</persName>
     <persName xml:lang="grc">Πήδασος</persName>
     <listBibl>
@@ -7995,7 +8003,7 @@
 
 <person xml:id="Peiraus">
     <persName type="citable" xml:lang="en">Peiraus</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <listBibl>
         <bibl/>
         <relation active="#Peiraus" ref="snap:FatherOf" passive="#Ptolemaeus"><desc>father of Ptolemaeus</desc></relation>
@@ -8005,7 +8013,7 @@
 
 <person xml:id="Peires">
     <persName type="citable" xml:lang="en">Peires</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
@@ -8016,6 +8024,7 @@
 
 <person xml:id="Peirithos">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pirithous</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q502156</idno>
     <idno type="smith">http://data.perseus.org/people/smith:otus-1</idno>
     <persName type="citable" xml:lang="en">Pirithous</persName>
     <persName xml:lang="en">Perithous</persName>
@@ -8032,6 +8041,7 @@
 
 <person xml:id="Peisander1">
     <idno type="wikipedia">https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CE%AF%CF%83%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%28%CE%BC%CF%85%CE%B8%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%29</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q11337320</idno>
     <!-- only in greek -->
     <idno type="smith">http://data.perseus.org/people/smith:peisander-2</idno>
     <persName type="citable" xml:lang="en">Peisander</persName>
@@ -8047,6 +8057,7 @@
 
 <person xml:id="Peisander2">
     <idno type="wikipedia">https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CE%AF%CF%83%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%28%CE%BC%CF%85%CE%B8%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%29</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q11337320</idno>
     <!-- only in greek -->
     <persName type="citable" xml:lang="en">Peisander</persName>
     <persName xml:lang="en">Peisandros</persName>
@@ -8057,6 +8068,7 @@
 
 <person xml:id="Peisander3">
     <idno type="wikipedia">https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CE%AF%CF%83%CE%B1%CE%BD%CE%B4%CF%81%CE%BF%CF%82_%28%CE%BC%CF%85%CE%B8%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1%29</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q11337320</idno>
     <!-- only in greek -->
     <idno type="smith">http://data.perseus.org/people/smith:peisander-1</idno>
     <persName type="citable" xml:lang="en">Peisander</persName>
@@ -8072,6 +8084,7 @@
 
 <person xml:id="Pelegon1">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pelagon</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q3898875</idno>
     <persName type="citable" xml:lang="en">Pelagon</persName>
     <persName xml:lang="en">Pelegon</persName>
     <persName xml:lang="grc">Πελάγων</persName>
@@ -8080,6 +8093,7 @@
 
 <person xml:id="Pelegon2">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pelagon</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q3898875</idno>
     <persName type="citable" xml:lang="en">Pelagon</persName>
     <persName xml:lang="en">Pelegon</persName>
     <persName xml:lang="grc">Πελάγων</persName>
@@ -8089,6 +8103,7 @@
 
 <person xml:id="Peleus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Peleus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q178641</idno>
     <idno type="smith">http://data.perseus.org/people/smith:peleus-1</idno>
     <persName type="citable" xml:lang="en">Peleus</persName>
     <persName xml:lang="grc">Πηλεύς</persName>
@@ -8101,6 +8116,7 @@
 
 <person xml:id="Pelias">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pelias</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q182439</idno>
     <idno type="smith">http://data.perseus.org/people/smith:pelias-1</idno>
     <persName type="citable" xml:lang="en">Pelias</persName>
     <persName xml:lang="grc">Πελίας</persName>
@@ -8113,6 +8129,7 @@
 
 <person xml:id="Pelops">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pelops</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q192485</idno>
     <idno type="smith">http://data.perseus.org/people/smith:pelops-1</idno>
     <persName type="citable" xml:lang="en">Pelops</persName>
     <persName xml:lang="grc">Πέλοψ</persName>
@@ -8127,6 +8144,7 @@
 
 <person xml:id="Peneleus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Peneleos</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q254381</idno>
     <idno type="smith">http://data.perseus.org/people/smith:peneleos-1</idno>
     <persName type="citable" xml:lang="en">Peneleos</persName>
     <persName xml:lang="en">Peneleus</persName>
@@ -8143,7 +8161,7 @@
 
 <person xml:id="Pergasus">
     <persName type="citable" xml:lang="en">Pergasus</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
@@ -8154,6 +8172,7 @@
 
 <person xml:id="Periboea">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Periboea</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q3411920</idno>
     <idno type="smith">http://data.perseus.org/people/smith:periboea-3</idno>
     <persName type="citable" xml:lang="en">Periboea</persName>
     <persName xml:lang="grc">Περίβοια</persName>
@@ -8191,6 +8210,7 @@
 
 <person xml:id="Periphas2">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Periphas</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q2397439</idno>
     <idno type="smith">http://data.perseus.org/people/smith:periphas-7</idno>
     <persName type="citable" xml:lang="en">Periphas</persName>
     <persName xml:lang="grc">Περίφας</persName>
@@ -8215,6 +8235,7 @@
 
 <person xml:id="Persephone" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Persephone</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q45967</idno>
     <idno type="smith">http://data.perseus.org/people/smith:persephone-1</idno>
     <persName type="citable" xml:lang="en">Persephone</persName>
     <persName xml:lang="grc">Περσεφόνη</persName>
@@ -8228,6 +8249,7 @@
 
 <person xml:id="Perseus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Perseus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q130832</idno>
     <idno type="smith">http://data.perseus.org/people/smith:perseus-1</idno>
     <persName type="citable" xml:lang="en">Perseus</persName>
     <persName xml:lang="grc">Περσεύς</persName>
@@ -8252,6 +8274,7 @@
 
 <person xml:id="Phaenops2">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phaenops</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q7180030</idno>
     <idno type="smith">http://data.perseus.org/people/smith:phaenops-1</idno>
     <persName type="citable" xml:lang="en">Phaenops</persName>
     <persName xml:lang="grc">Φαῖνοψ</persName>
@@ -8261,6 +8284,7 @@
 
 <person xml:id="Phaenops3">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phaenops</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q7180030</idno>
     <persName type="citable" xml:lang="en">Phaenops</persName>
     <persName xml:lang="grc">Φαῖνοψ</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
@@ -8289,7 +8313,7 @@
 
 <person xml:id="Phausius">
     <persName type="citable" xml:lang="en">Phausius</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
@@ -8319,6 +8343,7 @@
 
 <person xml:id="Pheidippus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phidippus_(mythology)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q2085442</idno>
     <idno type="smith">http://data.perseus.org/people/smith:pheidippus-1</idno>
     <persName type="citable" xml:lang="en">Pheidippus</persName>
     <persName xml:lang="en">Phidippus</persName>
@@ -8333,6 +8358,7 @@
 
 <person xml:id="Phereclus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phereclus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q2305461</idno>
     <idno type="smith">http://data.perseus.org/people/smith:phereclus-1</idno>
     <persName type="citable" xml:lang="en">Phereclus</persName>
     <persName xml:lang="grc">Φέρεκλος</persName>
@@ -8346,6 +8372,7 @@
 
 <person xml:id="Pheres">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pheres</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q731181</idno>
     <idno type="smith">http://data.perseus.org/people/smith:pheres-1</idno>
     <persName type="citable" xml:lang="en">Pheres</persName>
     <persName xml:lang="grc">Φέρης</persName>
@@ -8358,6 +8385,7 @@
 
 <person xml:id="Pherousa" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pherusa</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1232517</idno>
     <persName type="citable" xml:lang="en">Pherusa</persName>
     <persName xml:lang="grc">Φέρουσά</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.52).</note>
@@ -8376,13 +8404,14 @@
 
 <person xml:id="Phlegyans" role="group">
     <persName type="citable" xml:lang="en">Phlegyans</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
 <note>people fighting against Ephyreans (13.366).</note>
 </person>
 
 
 <person xml:id="Phoenix2">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phoenix_(son_of_Agenor)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1145956</idno>
     <idno type="smith">http://data.perseus.org/people/smith:phoenix-1</idno>
     <persName type="citable" xml:lang="en">Phoenix</persName>
     <persName xml:lang="grc">Φοῖνιξ</persName>
@@ -8391,6 +8420,7 @@
 
 <person xml:id="Phorbas1">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phorbas</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q18479157</idno>
     <idno type="smith">http://data.perseus.org/people/smith:phorbas-4</idno>
     <persName type="citable" xml:lang="en">Phorbas</persName>
     <persName xml:lang="grc">Φόρβας</persName>
@@ -8403,6 +8433,7 @@
 
 <person xml:id="Phorbas2">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phorbas</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q18479157</idno>
     <idno type="smith">http://data.perseus.org/people/smith:phorbas-6</idno>
     <persName type="citable" xml:lang="en">Phorbas</persName>
     <persName xml:lang="grc">Φόρβας</persName>
@@ -8428,6 +8459,7 @@
 
 <person xml:id="Phrontis">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phrontis</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1862400</idno>
     <idno type="smith">http://data.perseus.org/people/smith:phrontis-3</idno>
     <persName type="citable" xml:lang="en">Phrontis</persName>
     <persName xml:lang="grc">Φροντίς</persName>
@@ -8442,14 +8474,14 @@
 
 <person xml:id="Phylaces1">
     <persName type="citable" xml:lang="en">Phylaces</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Leitus (6.41).</note>
 </person>
 
 <person xml:id="Phylaces2">
     <persName type="citable" xml:lang="en">Phylaces</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <listBibl>
         <bibl/>
         <relation active="#Phylaces" ref="snap:FatherOf" passive="#Iphicles"><desc>father of Iphicles</desc></relation>
@@ -8459,6 +8491,7 @@
 
 <person xml:id="Phyleus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Phyleus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1779164</idno>
     <idno type="smith">http://data.perseus.org/people/smith:phyleus-1</idno>
     <persName type="citable" xml:lang="en">Phyleus</persName>
     <persName xml:lang="grc">Φυλεύς</persName>
@@ -8481,7 +8514,7 @@
 
 <person xml:id="Phylus">
     <persName type="citable" xml:lang="en">Phylus</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <listBibl>
         <bibl/>
         <relation active="#Phylus" ref="snap:FatherOf" passive="#Polymele"><desc>father of Polymele</desc></relation>
@@ -8499,6 +8532,7 @@
 
 <person xml:id="Pittheus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pittheus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q750580</idno>
     <idno type="smith">http://data.perseus.org/people/smith:pittheus-1</idno>
     <persName type="citable" xml:lang="en">Pittheus</persName>
     <persName xml:lang="grc">Πιτθεύς</persName>
@@ -8511,6 +8545,7 @@
 
 <person xml:id="Pleiades" role="deity group">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pleiades</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q13423</idno>
     <idno type="smith">http://data.perseus.org/people/smith:pleiades-1</idno>
     <persName type="citable" xml:lang="en">Pleiades</persName>
     <persName xml:lang="grc">Πλειάδες</persName>
@@ -8526,6 +8561,7 @@
 
 <person xml:id="Podaleirius">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Podalirius</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1071946</idno>
     <idno type="smith">http://data.perseus.org/people/smith:podaleirius-1</idno>
     <persName type="citable" xml:lang="en">Podaleirius</persName>
     <persName xml:lang="en">Podalirius</persName>
@@ -8540,6 +8576,7 @@
 
 <person xml:id="Podarches">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Podarces</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1206572</idno>
     <idno type="smith">http://data.perseus.org/people/smith:podarces-2</idno>
     <persName type="citable" xml:lang="en">Podarces</persName>
     <persName xml:lang="grc">Ποδάρκης</persName>
@@ -8553,6 +8590,7 @@
 
 <person xml:id="Podarge" role="monster">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Podarge</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q2723576</idno>
     <idno type="smith">http://data.perseus.org/people/smith:harpyiae-1</idno>
     <persName type="citable" xml:lang="en">Podarge</persName>
     <persName xml:lang="grc">Ποδάργη</persName>
@@ -8587,6 +8625,7 @@
 
 <person xml:id="Podes">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Podes</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q3559088</idno>
     <persName type="citable" xml:lang="en">Podes</persName>
     <persName xml:lang="grc">Ποδής</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
@@ -8600,6 +8639,7 @@
 
 <person xml:id="Pollux">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Castor_and_Pollux</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q190103</idno>
     <idno type="smith">http://data.perseus.org/people/smith:dioscuri-1</idno>
     <persName type="citable" xml:lang="en">Pollux</persName>
     <persName xml:lang="en">Polydeuces</persName>
@@ -8613,7 +8653,7 @@
 
 <person xml:id="Polyaimon">
     <persName type="citable" xml:lang="en">Polyaimon</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
         <bibl/>
@@ -8624,6 +8664,7 @@
 
 <person xml:id="Polydora">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polydora</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q11003014</idno>
     <idno type="smith">http://data.perseus.org/people/smith:polydora-5</idno>
     <persName type="citable" xml:lang="en">Polydora</persName>
     <persName xml:lang="grc">Πολυδώρη</persName>
@@ -8637,6 +8678,7 @@
 
 <person xml:id="Polydorus1">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polydorus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q947348</idno>
     <idno type="smith">http://data.perseus.org/people/smith:polydorus-2</idno>
     <persName type="citable" xml:lang="en">Polydorus</persName>
     <persName xml:lang="grc">Πολύδωρος</persName>
@@ -8671,6 +8713,7 @@
 
 <person xml:id="Polymele">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polymele</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q3395657</idno>
     <idno type="smith">http://data.perseus.org/people/smith:polymela-2</idno>
     <persName type="citable" xml:lang="en">Polymele</persName>
     <persName xml:lang="en">Polymela</persName>
@@ -8695,6 +8738,7 @@
 
 <person xml:id="Polyneices">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polynices</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q334817</idno>
     <idno type="smith">http://data.perseus.org/people/smith:polyneices-1</idno>
     <persName type="citable" xml:lang="en">Polyneices</persName>
     <persName xml:lang="en">Polynices</persName>
@@ -8713,6 +8757,7 @@
 
 <person xml:id="Polyphontes">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polyphontes</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q2993251</idno>
     <persName type="citable" xml:lang="en">Polyphontes</persName>
     <persName xml:lang="grc">Πολυφόντης</persName>
     <listBibl>
@@ -8724,6 +8769,7 @@
 
 <person xml:id="Polypoetes">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polypoetes</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1436842</idno>
     <idno type="smith">http://data.perseus.org/people/smith:polypoetes-2</idno>
     <persName type="citable" xml:lang="en">Polypoetes</persName>
     <persName xml:lang="grc">Πολυποίτης</persName>
@@ -8736,6 +8782,7 @@
 
 <person xml:id="Polyxenus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Polyxenus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q2446690</idno>
     <idno type="smith">http://data.perseus.org/people/smith:polyxenus-1</idno>
     <persName type="citable" xml:lang="en">Polyxenus</persName>
     <persName xml:lang="grc">Πολύξενος</persName>
@@ -8750,7 +8797,7 @@
 
 <person xml:id="Portheus">
     <persName type="citable" xml:lang="en">Portheus</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <listBibl>
         <bibl/>
         <relation active="#Portheus" ref="snap:GreatGrandfatherOf" passive="#Diomedes"><desc>great-grandfather of Diomedes</desc></relation>
@@ -8760,6 +8807,7 @@
 
 <person xml:id="Prayers" role="deity group">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Litae</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q2705874</idno>
     <idno type="smith">http://data.perseus.org/people/smith:litae-1</idno>
     <persName type="citable" xml:lang="en">Litae</persName>
     <persName xml:lang="en">Prayers</persName>
@@ -8774,6 +8822,7 @@
 
 <person xml:id="Proetus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Proetus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q644604</idno>
     <idno type="smith">http://data.perseus.org/people/smith:proetus-1</idno>
     <persName type="citable" xml:lang="en">Proetus</persName>
     <persName xml:lang="grc">Προῖτος</persName>
@@ -8793,7 +8842,7 @@
 
 <person xml:id="Prothonor">
     <persName type="citable" xml:lang="en">Prothonor</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <listBibl>
         <bibl/>
         <relation active="#Prothonor" ref="snap:SonOf" passive="#Areilycus"><desc>son of Areilycus</desc></relation>
@@ -8803,13 +8852,14 @@
 
 <person xml:id="Prothon">
     <persName type="citable" xml:lang="en">Prothon</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Teucer (14.602).</note>
 </person>
 
 <person xml:id="Prothous">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Prothous</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q7251809</idno>
     <idno type="smith">http://data.perseus.org/people/smith:prothous-1</idno>
     <persName type="citable" xml:lang="en">Prothous</persName>
     <persName xml:lang="grc">Πρόθοος</persName>
@@ -8833,6 +8883,7 @@
 
 <person xml:id="Proto" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Proto</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q398779</idno>
     <idno type="smith">http://data.perseus.org/people/smith:pleiades-1</idno>
     <persName type="citable" xml:lang="en">Proto</persName>
     <persName xml:lang="grc">Πρωτώ</persName>
@@ -8860,6 +8911,7 @@
 
 <person xml:id="Pylaeus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Pylaeus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q7263074</idno>
     <persName type="citable" xml:lang="en">Pylaeus</persName>
     <persName xml:lang="grc">Πύλαιος</persName>
     <listBibl>
@@ -8871,14 +8923,14 @@
 
 <person xml:id="Pylantes1">
     <persName type="citable" xml:lang="en">Pylantes</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Telamonian Ajax (11.554).</note>
 </person>
 
 <person xml:id="Pylantes2">
     <persName type="citable" xml:lang="en">Pylantes</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
 <note>Trojan warrior: killed by Patroclus (16.811).</note>
 </person>
@@ -8914,12 +8966,13 @@
 
 <person xml:id="Rhadamanthus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Rhadamanthus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q193609</idno>
     <idno type="smith">http://data.perseus.org/people/smith:rhadamanthus-1</idno>
     <persName type="citable" xml:lang="en">Rhadamanthus</persName>
     <persName type="citable" xml:lang="en">Rhadamanthys</persName>
     <persName xml:lang="grc">Ῥαδάμανθυς</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Rhadamanthus" ref="snap:SonOf" passive="#Zeus"><desc>son of Zeus</desc></relation>
     </listBibl>
 <note>son of Zeus (14.384).</note>
@@ -8927,11 +8980,12 @@
 
 <person xml:id="Rhea" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Rhea_(mythology)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q108419</idno>
     <idno type="smith">http://data.perseus.org/people/smith:rhea-1</idno>
     <persName type="citable" xml:lang="en">Rhea</persName>
     <persName xml:lang="grc">Ῥέα</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Rhea" ref="snap:WifeOf" passive="#Cronos"><desc>wife of Cronos</desc></relation>
     </listBibl>
 <note>goddess, wife of Cronos: gave Hera to Oceanus and Tethys (14.243); her three sons with Cronos (15.224).</note>
@@ -8939,10 +8993,11 @@
 
 <person xml:id="Rhene">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Rhene_(mythology)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q7320391</idno>
     <persName type="citable" xml:lang="en">Rhene</persName>
     <persName xml:lang="grc">Ῥήνη</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Rhene" ref="snap:MotherOf" passive="#Medon"><desc>mother of Medon</desc></relation>
     </listBibl>
 <note>mother of Medon (illegitimate son of Oileus).</note>
@@ -8951,6 +9006,7 @@
 
 <person xml:id="Rhesus2" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Rhesus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q239278</idno>
     <idno type="smith">http://data.perseus.org/people/smith:rhesus-1</idno>
     <persName type="citable" xml:lang="en">Rhesus</persName>
     <persName xml:lang="grc">Ῥῆσος</persName>
@@ -8962,7 +9018,7 @@
     <persName xml:lang="grc">Ῥίγμος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Rhigmus" ref="snap:SonOf" passive="#Peires"><desc>son of Peires</desc></relation>
     </listBibl>
 <note>son of Peires, Trojan warrior: killed by Achilles (20.582).</note>
@@ -8970,13 +9026,13 @@
 
 <person xml:id="Rhodius" role="deity">
     <persName type="citable" xml:lang="en">Rhodius</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
 <note>river from Mount Ida to the sea: stirred up by Poseidon and Apollo to destroy the wall (12.21).</note>
 </person>
 
 <person xml:id="Rumour">
     <persName type="citable" xml:lang="en">Rumour</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
 <note>messenger from Zeus (2.109).</note>
 </person>
 
@@ -8988,7 +9044,7 @@
     <persName type="citable" xml:lang="en">Satnius</persName>
     <persName xml:lang="grc">Σάτνιος</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Satnius" ref="snap:SonOf" passive="#Enops"><desc>son of Enops</desc></relation>
     </listBibl>
 <note>son of Enops and a Naiad nymph, Trojan warrior: killed by Olean Ajax (14.517).</note>
@@ -8999,7 +9055,7 @@
     <persName type="citable" xml:lang="en">Scamandrius</persName>
     <persName xml:lang="grc">Σκαμάνδριος</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Scamandrius" ref="snap:SonOf" passive="#Strophius"><desc>son of Strophius</desc></relation>
     </listBibl>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
@@ -9009,11 +9065,12 @@
 
 <person xml:id="Schedius2">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Schedius</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1330712</idno>
     <idno type="smith">http://data.perseus.org/people/smith:schedius-1</idno>
     <persName type="citable" xml:lang="en">Schedius</persName>
     <persName xml:lang="grc">Σχεδίος</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Schedius" ref="snap:SonOf" passive="#Iphitus"><desc>son of Iphitus</desc></relation>
     </listBibl>
 <note>son of Iphitus, Achaean warrior: killed by Hector (17.393).</note>
@@ -9021,6 +9078,7 @@
 
 <person xml:id="Seasons" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Horae</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q201411</idno>
     <idno type="smith">http://data.perseus.org/people/smith:horae-1</idno>
     <persName type="citable" xml:lang="en">Horae</persName>
     <persName xml:lang="en">Seasons</persName>
@@ -9033,7 +9091,7 @@
     <persName xml:lang="grc">Σέλαγος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Selagus" ref="snap:FatherOf" passive="#Amphius"><desc>father of Amphius</desc></relation>
     </listBibl>
 <note>father of Amphius (Trojan warrior).</note>
@@ -9041,7 +9099,7 @@
 
 <person xml:id="Selepius">
     <persName type="citable" xml:lang="en">Selepius</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <occupation>King</occupation>
 <note>King of Lyrnessus, father of Euneus, grandfather of Mynes and Epistrophus.</note>
 </person>
@@ -9054,11 +9112,12 @@
 
 <person xml:id="Semele">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Semele</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q776139</idno>
     <idno type="smith">http://data.perseus.org/people/smith:semele-1</idno>
     <persName type="citable" xml:lang="en">Semele</persName>
     <persName xml:lang="grc">Σεμέλη</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Semele" ref="snap:MotherOf" passive="#Dionysus"><desc>mother of Dionysus</desc></relation>
         <relation active="#Semele" ref="snap:IntimateRelationship" passive="#Zeus"><desc>a woman loved by Zeus</desc></relation>
     </listBibl>
@@ -9067,6 +9126,7 @@
 
 <person xml:id="Simoeis" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Simoeis</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q2479077</idno>
     <persName type="citable" xml:lang="en">Simoeis</persName>
     <persName xml:lang="grc">Σιμόεις</persName>
 <note>river near Troy: provides ambrosia for Hera's horses (5.889); stirred up by Poseidon and Apollo to destroy the wall (12.22); Ares moves along there encouraging Trojans (20.64); Scamander appeals to him for help against Achilles (21.371).</note>
@@ -9077,7 +9137,7 @@
     <persName xml:lang="grc">Σιμοείσιος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Simoeisius" ref="snap:SonOf" passive="#Anthemion"><desc>son of Anthemion</desc></relation>
     </listBibl>
 <note>son of Anthemion, Trojan warrior: killed by Telamonian Ajax (4.549 ff).</note>
@@ -9085,11 +9145,12 @@
 
 <person xml:id="Sisyphus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Sisyphus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q102561</idno>
     <idno type="smith">http://data.perseus.org/people/smith:sisyphus-1</idno>
     <persName type="citable" xml:lang="en">Sisyphus</persName>
     <persName xml:lang="grc">Σίσυφος</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Sisyphus" ref="snap:SonOf" passive="#Aeolus"><desc>son of Aeolus</desc></relation>
         <relation active="#Sisyphus" ref="snap:FatherOf" passive="#Glaucus"><desc>father of Glaucus</desc></relation>
     </listBibl>
@@ -9098,6 +9159,7 @@
 
 <person xml:id="Sleep" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Hypnos</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q189347</idno>
     <persName type="citable" xml:lang="en">Hypnos</persName>
     <persName xml:lang="en">Sleep</persName>
     <persName xml:lang="grc">Ὕπνος</persName>
@@ -9106,11 +9168,12 @@
 
 <person xml:id="Socus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Socus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q7553134</idno>
     <persName type="citable" xml:lang="en">Socus</persName>
     <persName xml:lang="grc">Σῶκος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Socus" ref="snap:SonOf" passive="#Hippasus"><desc>son of Hippasus</desc></relation>
     </listBibl>
 <note>son of Hippasus, Trojan warrior: challenges Odysseus, fights him, is killed (11.486).</note>
@@ -9124,6 +9187,7 @@
 
 <person xml:id="SouthWind" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Anemoi</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q476682</idno>
     <persName type="citable" xml:lang="en">SouthWind</persName>
     <persName xml:lang="en">Notus</persName>
     <persName xml:lang="grc">Νότος</persName>
@@ -9132,6 +9196,7 @@
 
 <person xml:id="Speio" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q54230</idno>
     <idno type="smith">http://data.perseus.org/people/smith:speio-1</idno>
     <persName type="citable" xml:lang="en">Speio</persName>
     <persName xml:lang="grc">Σπειώ</persName>
@@ -9140,11 +9205,12 @@
 
 <person xml:id="Spercheus" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Spercheios</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q426309</idno>
     <persName type="citable" xml:lang="en">Spercheus</persName>
     <persName type="citable" xml:lang="en">Spercheios</persName>
     <persName xml:lang="grc">Σπερχειός</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Spercheus" ref="snap:FatherOf" passive="#Menesthius"><desc>father of Menesthius</desc></relation>
     </listBibl>
 <note>river, father of Menesthius, after copulating with Polydora (16.206); Achilles prays to the river (23.170).</note>
@@ -9154,7 +9220,7 @@
     <persName type="citable" xml:lang="en">Sphelus</persName>
     <persName xml:lang="grc">Σφῆλος</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Spercheus" ref="snap:FatherOf" passive="#Iasus"><desc>father of Iasus</desc></relation>
     </listBibl>
 <note>son of Bucolus, father of Iasus.</note>
@@ -9166,7 +9232,7 @@
     <persName xml:lang="grc">Σθενέλαος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Sthenelaus" ref="snap:SonOf" passive="#Ithaemenes"><desc>son of Ithaemenes</desc></relation>
     </listBibl>
 <note>son of Ithaemenes, Trojan warrior: killed by Patroclus (16.682).</note>
@@ -9175,11 +9241,12 @@
 
 <person xml:id="Sthenelus2">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Sthenelus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1300254</idno>
     <idno type="smith">http://data.perseus.org/people/smith:Sthenelus-3</idno>
     <persName type="citable" xml:lang="en">Sthenelus</persName>
     <persName xml:lang="grc">Σθένελος</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Sthenelus" ref="snap:SonOf" passive="#Perseus"><desc>son of Perseus</desc></relation>
         <relation active="#Sthenelus" ref="snap:FatherOf" passive="#Eurystheus"><desc>father of Eurystheus</desc></relation>
     </listBibl>
@@ -9195,12 +9262,13 @@
 
 <person xml:id="Strophius">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Strophius</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1421896</idno>
     <idno type="smith">http://data.perseus.org/people/smith:strophius-1</idno>
     <persName type="citable" xml:lang="en">Strophius</persName>
     <persName xml:lang="grc">Στρόφιος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Strophius" ref="snap:FatherOf" passive="#Scamandrius"><desc>father of Scamandrius</desc></relation>
     </listBibl>
 <note>father of Scamandrius (a Trojan warrior).</note>
@@ -9211,9 +9279,9 @@
 
 <person xml:id="Talaemenes">
     <persName type="citable" xml:lang="en">Talaemenes</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Talaemenes" ref="snap:FatherOf" passive="#Mesthles"><desc>father of Mesthles</desc></relation>
         <relation active="#Talaemenes" ref="snap:FatherOf" passive="#Antiphus"><desc>father of Antiphus</desc></relation>
     </listBibl>
@@ -9222,13 +9290,14 @@
 
 <person xml:id="Talaus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Talaus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q668054</idno>
     <idno type="smith">http://data.perseus.org/people/smith:talaus-1</idno>
     <persName type="citable" xml:lang="en">Talaus</persName>
     <persName xml:lang="grc">Ταλαός</persName>
     <occupation>King</occupation>
     <affiliation>Argos</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Talaus" ref="snap:FatherOf" passive="#Mecisteus"><desc>father of Mecisteus</desc></relation>
         <relation active="#Talaus" ref="snap:GrandfatherOf" passive="#Euryalus"><desc>grandfather of Euryalus</desc></relation>
     </listBibl>
@@ -9241,7 +9310,7 @@
     <persName xml:lang="grc">Τέκτων</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Tecton" ref="snap:FatherOf" passive="#Phereclus"><desc>father of Phereclus</desc></relation>
         <relation active="#Tecton" ref="snap:SonOf" passive="#Harmon"><desc>son of Harmon</desc></relation>
     </listBibl>
@@ -9250,11 +9319,12 @@
 
 <person xml:id="Telamon">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Telamon</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q331327</idno>
     <idno type="smith">http://data.perseus.org/people/smith:telamon-2</idno>
     <persName type="citable" xml:lang="en">Telamon</persName>
     <persName xml:lang="grc">Τελαμών</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Telamon" ref="snap:FatherOf" passive="#Ajax1"><desc>father of Ajax</desc></relation>
         <relation active="#Telamon" ref="snap:FatherOf" passive="#Teucer"><desc>father of Teucer</desc></relation>
     </listBibl>
@@ -9263,11 +9333,12 @@
 
 <person xml:id="Tethys">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Tethys_(mythology)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q184216</idno>
     <idno type="smith">http://data.perseus.org/people/smith:tethys-1</idno>
     <persName type="citable" xml:lang="en">Tethys</persName>
     <persName xml:lang="grc">Τηθύς</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Tethys" ref="snap:WifeOf" passive="#Oceanus"><desc>wife of Oceanus</desc></relation>
     </listBibl>
 <note>wife of Oceanus: raised Hera (14.242, 357).</note>
@@ -9278,9 +9349,9 @@
     <idno type="smith">http://data.perseus.org/people/smith:teutamias-1</idno>
     <persName type="citable" xml:lang="en">Teutamus</persName>
     <persName xml:lang="en">Teutamias</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Teutamus" ref="snap:FatherOf" passive="#Lethus"><desc>father of Lethus</desc></relation>
     </listBibl>
 <note>father of Lethus, grandfather of Hippothous and Pylaeus (Trojan warriors).</note>
@@ -9288,9 +9359,9 @@
 
 <person xml:id="Teuthranus">
     <persName type="citable" xml:lang="en">Teuthranus</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Teuthranus" ref="snap:FatherOf" passive="#Axylus"><desc>father of Axylus</desc></relation>
     </listBibl>
 <note>father of Axylus.</note>
@@ -9305,9 +9376,9 @@
 
 <person xml:id="Teuthredon">
     <persName type="citable" xml:lang="en">Teuthredon</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Teuthredon" ref="snap:FatherOf" passive="#Prothous"><desc>father of Prothous</desc></relation>
     </listBibl>
 <note>father of Prothous (Achaean warrior).</note>
@@ -9319,7 +9390,7 @@
     <persName type="citable" xml:lang="en">Thalpius</persName>
     <persName xml:lang="grc">Θάλπιος</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Thalpius" ref="snap:SonOf" passive="#Eurytus"><desc>son of Eurytus</desc></relation>
     </listBibl>
 <note>son of Eurytus, descendant of Actor, a leader of Epeians, part of the Achaean forces: in catalogue of ships (2.697).</note>
@@ -9330,7 +9401,7 @@
     <persName xml:lang="grc">Θαλύσιος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Thalysius" ref="snap:FatherOf" passive="#Echepolus"><desc>father of Echepolus</desc></relation>
     </listBibl>
 <note>father of Echepolus (Trojan warrior).</note>
@@ -9338,6 +9409,7 @@
 
 <person xml:id="Thamyris">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thamyris</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q853014</idno>
     <idno type="smith">http://data.perseus.org/people/smith:thamyris-1</idno>
     <persName type="citable" xml:lang="en">Thamyris</persName>
     <persName xml:lang="grc">Θάμυρις</persName>
@@ -9348,10 +9420,10 @@
 
 <person xml:id="Thebaios">
     <persName type="citable" xml:lang="en">Thebaios</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Thebaios" ref="snap:FatherOf" passive="#Eniopeus"><desc>father of Eniopeus</desc></relation>
     </listBibl>
 <note>father of Eniopeus (Trojan warrior).</note>
@@ -9359,6 +9431,7 @@
 
 <person xml:id="Themis" role="deity">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Themis</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q159168</idno>
     <idno type="smith">http://data.perseus.org/people/smith:themis-1</idno>
     <persName type="citable" xml:lang="en">Themis</persName>
     <persName xml:lang="grc">Θέμις</persName>
@@ -9375,11 +9448,12 @@
 
 <person xml:id="Theseus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Theseus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q1320718</idno>
     <idno type="smith">http://data.perseus.org/people/smith:theseus-1</idno>
     <persName type="citable" xml:lang="en">Theseus</persName>
     <persName xml:lang="grc">Θησεύς</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Theseus" ref="snap:SonOf" passive="#Aegeus"><desc>son of Aegeus</desc></relation>
     </listBibl>
 <note>son of Aegeus, mentioned by Nestor as an old comrade (1.294).</note>
@@ -9387,11 +9461,12 @@
 
 <person xml:id="Thessalus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thessalus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q920254</idno>
     <idno type="smith">http://data.perseus.org/people/smith:thessalus-3</idno>
     <persName type="citable" xml:lang="en">Thessalus</persName>
     <persName xml:lang="grc">Θεσσαλός</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Thessalus" ref="snap:SonOf" passive="#Heracles"><desc>son of Heracles</desc></relation>
         <relation active="#Thessalus" ref="snap:FatherOf" passive="#Pheidippus"><desc>father of Pheidippus</desc></relation>
         <relation active="#Thessalus" ref="snap:FatherOf" passive="#Antiphus"><desc>father of Antiphus</desc></relation>
@@ -9402,10 +9477,11 @@
 
 <person xml:id="Thestor2">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thestor_(mythology)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q3523939</idno>
     <persName type="citable" xml:lang="en">Thestor</persName>
     <persName xml:lang="grc">Θέστωρ</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Thestor" ref="snap:FatherOf" passive="#Alcmaon"><desc>father of Alcmaon</desc></relation>
     </listBibl>
 <note>father of the Achaean warrior Alcmaon.</note>
@@ -9413,12 +9489,13 @@
 
 <person xml:id="Thestor3">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thestor_(mythology)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q3523939</idno>
     <idno type="smith">http://data.perseus.org/people/smith:thestor-2</idno>
     <persName type="citable" xml:lang="en">Thestor</persName>
     <persName xml:lang="grc">Θέστωρ</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Thestor" ref="snap:SonOf" passive="#Enops"><desc>son of Enops</desc></relation>
     </listBibl>
 <note>son of Enops, Trojan warrior: killed by Patroclus (16.467).</note>
@@ -9441,8 +9518,9 @@
 <note>Trojan warrior: killed by Menelaus (16.365).</note>
 </person>
 
-    <person xml:id="Thoe " role="deity">
+    <person xml:id="Thoe" role="deity">
         <idno type="wikipedia">https://en.wikipedia.org/wiki/Nereid</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q54230</idno>
         <persName type="citable" xml:lang="en">Thoe</persName>
         <persName xml:lang="grc">Θόη</persName>
 <note>a Nereid (daughter of Nereus): laments with her sisters (18.49).</note>
@@ -9453,7 +9531,7 @@
     <persName xml:lang="grc">Θῶν</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Thon" ref="snap:SonOf" passive="#Phaenops"><desc>son of Phaenops</desc></relation>
     </listBibl>
 <note>son of Phaenops, Trojan warrior: killed by Diomedes (5.174).</note>
@@ -9475,12 +9553,13 @@
 
 <person xml:id="Thotes">
     <persName type="citable" xml:lang="en">Thotes</persName>
-    <persName xml:lang="grc"></persName>
+    <persName xml:lang="grc"/>
 <note>Achaean herald: asked by Menestheus to get help from Ajaxes, does so (12.371).</note>
 </person>
 
 <person xml:id="Thracians">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thracians</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q144964</idno>
     <persName type="citable" xml:lang="en">Thracians</persName>
     <persName xml:lang="grc">Θρᾷκες</persName>
     <affiliation ref="http://pleiades.stoa.org/places/1001889">Thrace</affiliation>
@@ -9504,11 +9583,12 @@
 
 <person xml:id="Thyestes">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Thyestes</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q622504</idno>
     <idno type="smith">http://data.perseus.org/people/smith:thyestes-1</idno>
     <persName type="citable" xml:lang="en">Thyestes</persName>
     <persName xml:lang="grc">Θυέστης</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Thyestes" ref="snap:BrotherOf" passive="#Atreus"><desc>brother of Atreus</desc></relation>
         <relation active="#Thyestes" ref="snap:UncleOf" passive="#Agamemnon"><desc>uncle of Agamemnon</desc></relation>
         <relation active="#Thyestes" ref="snap:UncleOf" passive="#Menelaus"><desc>uncle of Menelaus</desc></relation>
@@ -9527,6 +9607,7 @@
 
 <person xml:id="Titans" role="deity group">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Titan_(mythology)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q45713</idno>
     <idno type="smith">http://data.perseus.org/people/smith:titan-1</idno>
     <persName type="citable" xml:lang="en">Titans</persName>
     <persName xml:lang="grc">Τιτᾶνες</persName>
@@ -9535,11 +9616,12 @@
 
 <person xml:id="Tithonus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Tithonus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q737306</idno>
     <idno type="smith">http://data.perseus.org/people/smith:tithonus-1</idno>
     <persName type="citable" xml:lang="en">Tithonus</persName>
     <persName xml:lang="grc">Τιθωνός</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Tithonus" ref="snap:IntimateRelationship" passive="#Dawn"><desc>lover of Dawn</desc></relation>
         <relation active="#Tithonus" ref="snap:SonOf" passive="#Laomedon"><desc>son of Laomedon</desc></relation>
     </listBibl>
@@ -9553,7 +9635,7 @@
     <persName xml:lang="grc">Τληπόλεμος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Tlepolemus" ref="snap:SonOf" passive="#Damastor"><desc>son of Damastor</desc></relation>
     </listBibl>
 <note>son of Damastor, Trojan warrior: killed by Patroclus (16.485).</note>
@@ -9569,7 +9651,7 @@
     <persName type="citable" xml:lang="en">Troezenus</persName>
     <persName xml:lang="grc">Τροίζηνος</persName>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Troezenus" ref="snap:FatherOf" passive="#Euphemus"><desc>father of Euphemus</desc></relation>
     </listBibl>
 <note>father of Euphemus (Trojan ally), son of Ceos.</note>
@@ -9577,12 +9659,13 @@
 
 <person xml:id="Troilus">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Troilus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q867342</idno>
     <idno type="smith">http://data.perseus.org/people/smith:troilus-1</idno>
     <persName type="citable" xml:lang="en">Troilus</persName>
     <persName xml:lang="grc">Τρωΐλος</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Troilus" ref="snap:SonOf" passive="#Priam"><desc>son of Priam</desc></relation>
     </listBibl>
 <note>son of Priam: mentioned by Priam (24.320).</note>
@@ -9590,6 +9673,7 @@
 
 <person xml:id="Trojans">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Trojan</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q225476</idno>
     <persName type="citable" xml:lang="en">Trojans</persName>
     <persName xml:lang="grc">Τρῷες</persName>
 <note>inhabitants of Troy (thus separate from their allies): march out in formation (3.2); pray that the truce will hold (3.333, 355); their hatred for Paris (3.510); sense the gods will break the truce (4.98); move to battle in a confusion of languages (4.506); rallied by Ares (5.549); go out to collect their dead (7.490); move out against Achaeans (8.63); given renewed force by Zeus (8.391); prepare a feast and sacrifice in the plain (8.639); Dolon reveals their arrangement in camp (10.499); pushed back to city by Agamemnon (11.173 ff); advanced against Odysseus (11.471); organize themselves to attack the wall (12.89); charge the Achaeans by the wall (12.110); attempts to undermine the wall (12.274); following Hector to attack the ships (13.42); advance against Achaeans inside the wall (13.160); charge Achaeans en masse (13.401); attack Achaeans in close formation (13.946); retreat from the ships (15.1); Zeus foretells the future of the war (15.74 ff); attack Achaeans (15.364); fight their way to the ships (15.453); attack the ships (15.693); driven back from the ships (16.346); response to Sarpedon's death (16.638); charge Ajax guarding the body of Patroclus (17.301); charge Achaeans again over body of Patroclus (17.339); encourage each other over Patroclus' body (17.526); terrifed by Achilles shout (18.275); hold assembly to decide what to do (18.299 ff); reject Polydamas' advice (18.388); escape Achilles into the city (21.729); reaction to sight of dead Hector (22.508); rush out to see Priam returning with Hector (24.873); collect wood for Hector's pyre, give him funeral rites (24.964).</note>
@@ -9601,7 +9685,7 @@
     <persName xml:lang="grc">Τρώς</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Tros" ref="snap:SonOf" passive="#Alastor"><desc>son of Alastor</desc></relation>
     </listBibl>
 <note>son of Alastor, Trojan warrior: killed by Achilles (20.555).</note>
@@ -9609,12 +9693,13 @@
 
 <person xml:id="Tros2">
     <idno type="wikipedia">https://en.wikipedia.org/wiki/Tros_(mythology)</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q599482</idno>
     <idno type="smith">http://data.perseus.org/people/smith:tros-1</idno>
     <persName type="citable" xml:lang="en">Tros</persName>
     <persName xml:lang="grc">Τρώς</persName>
     <affiliation ref="http://pleiades.stoa.org/places/550595">Troy</affiliation>
     <listBibl>
-        <bibl></bibl>
+        <bibl/>
         <relation active="#Tros" ref="snap:SonOf" passive="#Erichthonius"><desc>son of Erichthonius</desc></relation>
     </listBibl>
 <note>son of Erichthonius, father of Ilus, Assaracus, Ganymede, earlier King of Troy, ancestor of Priam, father of Ganymede: quality of his horses giiven as payment from Zeus for Ganymede (5.314); his story told by Aeneas (20.275).</note>
@@ -9629,11 +9714,12 @@
     
     <person xml:id="Tydeus">
         <idno type="wikipedia">https://en.wikipedia.org/wiki/Tydeus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q250506</idno>
         <idno type="smith">http://data.perseus.org/people/smith:tydeus-1</idno>
         <persName type="citable" xml:lang="en">Tydeus</persName>
         <persName xml:lang="grc">Τυδεύς</persName>
         <listBibl>
-            <bibl></bibl>
+            <bibl/>
             <relation active="#Tydeus" ref="snap:FatherOf" passive="#Diomedes"><desc>father of Diomedes</desc></relation>
         </listBibl>
         <note>father of Diomedes: story of his achievements (4.436); achieves retold by Athena (5.913); killed at Thebes (6.282); Diomedes invokes him in prayer to Athena (10.339); Diomedes speaks of him (14.138 ff).</note>
@@ -9641,6 +9727,7 @@
     
     <person xml:id="Typhoeus" role="monster">
         <idno type="wikipedia">https://en.wikipedia.org/wiki/Typhoeus</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q180237</idno>
         <idno type="smith">http://data.perseus.org/people/smith:strophius-1</idno>
         <persName type="citable" xml:lang="en">Typhoeus</persName>
         <persName xml:lang="en">Typhoeus</persName>
@@ -9656,6 +9743,7 @@
                 
     <person xml:id="Zephyrus" role="deity">
         <idno type="wikipedia">https://en.wikipedia.org/wiki/Anemoi</idno>
+                  <idno type="wikidata">http:https://www.wikidata.org/entity/Q476682</idno>
         <persName type="citable" xml:lang="en">Zephyrus</persName>
         <persName xml:lang="en">West Wind</persName>
         <persName xml:lang="grc">Ζέφυρος</persName>
