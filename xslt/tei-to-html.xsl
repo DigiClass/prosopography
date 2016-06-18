@@ -15,6 +15,7 @@
                     <ul>
                         <xsl:for-each select="//tei:person">
                                 <xsl:sort select="tei:persName[1]"></xsl:sort>
+                            <!-- to sort them also in the html folder -->
                             <li>
                                 <xsl:element name="a">
                                     <xsl:attribute name="href">
