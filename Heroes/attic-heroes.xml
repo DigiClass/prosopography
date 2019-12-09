@@ -12,7 +12,7 @@
          </publicationStmt>
          <sourceDesc>
             <p>Derived from: <bibl>
-                  <author>Emily Kearns</author>
+                  <author xml:id="ek">Emily Kearns</author>
                   <title level="m">The Heroes of Attica</title>
                   <date>1989</date>
                </bibl>
