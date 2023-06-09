@@ -4607,7 +4607,7 @@
                      <relation active="#hero290" ref="snap:WifeOf"><desc>wife of Boreas</desc></relation>
                      <relation active="#hero290" ref="snap:MotherOf" passive="#hero288"><desc>mother of Chione</desc></relation>
                   </listBibl>
-                  <idno type="wikipedia">http://en.wikipedia.org/wiki/Orithyia</idno>
+                  <idno type="wikipedia">https://en.wikipedia.org/wiki/Orithyia_of_Athens</idno>
                </person>
                
             </listPerson>
